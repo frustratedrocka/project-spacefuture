@@ -1,0 +1,26 @@
+{
+  "/": [
+    "Home Page",
+    "Rules",
+    "Characters"
+  ],
+  "/Rules": [
+    "0 Introduction",
+    "1 Core Rules",
+    "2 Character Creation",
+    "3 Skills, Approaches, & Stunts",
+    "3A Putting It All Together",
+    "4 Challenges, Conflicts, & Contests",
+    "5 Running The Game"
+  ],
+  "/Characters": [
+    "Blank",
+    "Pregen"
+  ],
+  "/Characters/Pregen": [
+    "Char Aznable",
+    "Kamille Bidan (Late)",
+    "Kamille Bidan (Start)",
+    "Quattro Bajeena"
+  ]
+}
