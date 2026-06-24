@@ -40,6 +40,14 @@ body {
 	background-color: hsl(285, 5%, 17%)
 }
 
+/*Logo Adjust*/
+	
+.site-logo {
+	height: 80px !important;
+	width: 210px !important;
+	object-fit: cover !important;
+	object-position: 50% 40% !important;
+}
 
 /*Image Adjustments*/
 
