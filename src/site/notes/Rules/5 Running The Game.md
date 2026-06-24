@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T03:19:42.896-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T17:30:24.307-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!
@@ -110,8 +110,8 @@ Running a role-playing game, in nearly any system that uses a GM at all, boils d
 2. What are you trying to accomplish?
 3. How do you try to accomplish it? 
 4. Resolution:
-	4A. Do mechanics take over to resolve uncertainty?
-	4B. What could explain this result? 
+	1. Do mechanics take over to resolve uncertainty?
+	2. What could explain this result? 
 5. What are the natural and/or dramatically appropriate consequences of what just happened?
 6. Integrate 5 into the fiction, then return to 1.
 
@@ -256,6 +256,48 @@ Besides preserving the fantasy of the player characters, finding other reasons w
 #TODO integrate into fiction state, integrated state becomes new step 1.
 
 Further reading: Hamlet's Hit Points by Robin Laws
+
+## Integration
+Now that you know what's changed at the end of the loop, it's time to put it all together and start the next cycle. It's important to re-center the narration on the key facts influencing the next decision, especially in complex or chaotic situations. If the change is subtle or the situation is relatively stable, it should be fairly easy for everyone to keep track of the scene state, so you don't need to belabor things that aren't obvious factors in the next decision. However, if there's a lot of moving parts in the scene, then it's best to quickly re-establish the current state of all those parts for any decision where they're relevant. 
+
+> [!callout|bg-red c-plain no-icon]+ EXAMPLE LOOP: NOMU RETURNS
+> 1. Nomu is sneaking up, knife in hand, on an unaware assassination target whose back is turned. The target is a skilled fighter, but off guard at the moment. 
+> 2. Nomu wants to kill the target.
+> 3. Nomu wants to kill the target by sneaking up from behind and taking them out before they realize anything's wrong.
+> 4. Resolve the action:
+> 	1. Do the mechanics take over? YES; there is significant uncertainty. Nomu rolls and fails.
+> 	2. What explains the result? The target detected Nomu - perhaps through the movement of the air as the blade struck, perhaps through the faintest sound of a footstep on the wrong part of the ground - and dodged at the last second.
+> 5. THEREFORE, the target is now aware of Nomu and actively fighting back. 
+> 
+> Now, integrate that new fact into the scene as a whole as the loop restarts with a new Step 1. It's a pretty simple setup, but the changed situation means there's a few pre-established facts that have now become relevant to the decision and need to be narrated back in:
+> 
+> 1. Nomu, your target is now aware of you and fighting back. He's a big guy and he knows how to handle himself; even unarmed, if he lands a hit on you or grabs you, it could be bad. What do you do?
+
+> [!callout|bg-red c-plain no-icon ]+ EXAMPLE: THE MUSEUM JOB
+> 1. The darkened museum looms over you as you stand before its staff entrance.
+> 2. You want to get into the building.
+> 3. You want to get in by picking the lock on the staff entrance door.
+> 4. Resolve the action:
+    1. Do mechanics take over? YES; there is significant uncertainty. Roll; SUCCEED.
+    2. What explains the result? You picked the lock without issue.
+> 5. THEREFORE: you are now inside the museum. THEREFORE: you are now faced with a maze of hallways and back doors leading to all kinds of offices, archives, and restoration facilities. BUT: you don't have a map of the staff areas, ALSO BUT, somewhere in the building there is at least one night guard on patrol.
+>    
+> All of the new information in step 5 could've already been in your prep, or could be improvised. Either way, it was never relevant before, so it's only now becoming part of the established fiction. So now, we integrate it into 1. Since the situation has changed a lot, we need to set it all up in enough detail to make the decision space clear:
+>    
+> 1. There's no sign of the night watchman, yet, as you find yourself in a narrow hallway that immediately hits a T-intersection. Both sides lead into maze-like corridors dotted with office doors, but based on what you learned when you were casing this place, the right passage probably includes a door somewhere that leads to the Kirchner and Mucha exhibits in the public gallery. You don't know where the left goes. There's no sign of the night guards yet. What do you do?
+
+> [!callout|bg-red c-plain no-icon ]+ EXAMPLE LOOP: IMPROVISED COMPLICATION
+> 1. Your cyberpunk criminal team is in a narrow, winding alley wiith a kidnapped exec slung over one of their heavy's shoulders, the team's currently-bleeding-out face over the other, and corpo security in hot pursuit.
+> 2. They want to escape security.
+> 3. They want to escape by running for their lives out of the alley and back to the van they parked nearby.
+> 4. Resolve the action:
+>     1. Do mechanics take over? YES; there is significant uncertainty. They roll as a group to outrun the security, and the result is "success, but with a complication" per the rules of their system.
+>     2. What explains the result? It's a complicated success, so they do reach the van, BUT the dice have decided that something must go wrong. THEREFORE, you invent a new fact about the scene to make things harder without negating the success: A corrupt traffic cop is out writing parking tickets to meet their quota, knowing they won't be properly challenged even if the ticket is bullshit. That cop slaps a ticket on the team's van at the precise moment they make it out of the alley.
+> 5. THEREFORE, the cop looks up, sees the team of heavily-armored and blood-soaked criminals charging right at them, and, in a panic, reaches for their radio - now, they're on the verge of becoming a real problem.
+>
+> Now, we integrate that into the total "what's going on" state as the loop kicks over back to 1 and re-set the scene with the new or updated positions of all the relevant decision factors:
+> 
+> 1. Your face is bleeding out, your heavy's got her hands full keeping the face and the target over both shoulders, there's a cop in front of your van about to call in backup, and heavily-armed corpo security is still hot on your heels, just a few seconds behind you. What do you do?
 
 # The Fader Board
 "Fader" is the proper name for the large slider knobs you see on a sound mixing board. Throughout a concert, a sound engineer constantly adjusts - "rides" - the faders to make sure the music as a whole sounds the way it should. Sometimes these adjustments are drastic, sometimes they're subtle. But together, they're the central control board for the entire experience of the show.
