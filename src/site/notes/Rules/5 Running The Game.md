@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T17:42:21.457-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T18:09:26.589-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!
@@ -148,7 +148,7 @@ Don't just dump a complex setup like "Lord Paxton is a vicious warlord who subju
 
 Critically: this situation *does not care how the players engage with it*. It doesn't assume they'll ask someone about Lord Paxton, expect them to take a stance on Lord Paxton, or demand they interfere to save the conscripted teen. But *if they do*, or if they do something else, you're already prepared for it, just by knowing "Lord Paxton is a vicious warlord who subjugated this region five years ago and brooks no dissent." By setting up facts this way, you have a baseline that you can use to respond to your players, no matter what they do or how they choose to handle the emerging situation.
 
-Further Reading: [The Lazy GM's Resource Document](https://slyflourish.com/lazy_gm_resource_document.html) by Mike Shea (especially) the section on Secrets & Clues - if you like it, buy his book, Return of the Lazy Dungeon Master.
+Further Reading: [The Lazy GM's Resource Document](https://slyflourish.com/lazy_gm_resource_document.html) by Mike Shea (especially the section on Secrets & Clues) - if you like it, buy his book, *Return of the Lazy Dungeon Master*.
 
 ### Flexible Truth
 
@@ -169,9 +169,10 @@ The map is not the territory, the prep is not the game, and your notes are not t
 
 You should respect your prep, but you don't need to be wedded to it: if a better idea comes as a bolt from the blue twenty minutes into your session, *and that idea is entirely consistent with the established fiction so far,* then, if it still passes the consistency test and holds up after careful consideration, go with the better idea. 
 
-If your game has a mechanic to allow players to inject details into the fiction that exist outside their character's actions, like Fate, Blades in the Dark, Fabula Ultima, the 2d20 system, and many others do, 
-
 Knowing when to commit to the bit and when to pivot is one of the harder parts of improvisational play. The more experience you get, the easier it will become to make the call. When in doubt, trust your gut.
+
+> [!note|s-t]+ Player Authorship Mechanics
+> If your game has a mechanic to allow players to inject details into the fiction that exist outside their character's actions, like Fate, Blades in the Dark, Fabula Ultima, the 2d20 system, and many others do, then respect those rules. The ones outlined in this game's [[Rules/1 Core Rules#Declaring a Story Detail\|1 Core Rules#Declaring a Story Detail]] option are about as permissive as I've seen in any game that still has a GM at all, but I don't know and can't account for every system on the market. Regardless, if the players are empowered to author parts of the world, then treat the things they author as established truth, just like you do for your own facts. 
 
 > [!callout|bg-red c-plain no-icon ]+ EXAMPLE: HOW TRUE IS TRUE?
 >The more established truth flows from a fact in your prep, the closer that fact itself comes to being fully established.
