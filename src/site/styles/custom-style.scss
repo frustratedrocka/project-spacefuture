@@ -1,4 +1,14 @@
 body {
+  h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1{
+		text-transform: uppercase;
+		letter-spacing: 0.5px
+	};
+h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
+		text-transform: uppercase;		
+		letter-spacing: 0.5px
+	};
+h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
+		text-transform: uppercase};
   "ITS@@ITS-Sizes": "sizing-readable",
   "ITS@@radius-s": 4,
   "ITS@@scrollbar-width": 4,
