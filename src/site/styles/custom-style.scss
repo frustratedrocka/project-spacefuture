@@ -8,5 +8,54 @@ h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
 		letter-spacing: 0.5px
 	};
 h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
-		text-transform: uppercase};
+		text-transform: uppercase
+	};
+}
+
+.nav-folder-title[data-path="Folder Name"] .nav-folder-title-content::before {
+	--folder-icon: "\icon-code-here";
+	--folder-font: "font icon pack name";
+	/*--folder-vertical-alignment: -2px; */ 
+	/* Optional, helps with aligning icons vertically */
+}
+.nav-folder-title[data-path="Folder Name"],
+.nav-folder-title[data-path="Folder Name"] + .nav-folder-children {
+	--folder-icon: "\icon-code-here";
+	--folder-font: "font icon pack name";
+	
+	/*HSL Values Only: ###, ##%, ##% */
+	--folder-accent-color: 216, 7%, 10%; 
+	--folder-accent-color-lite: 216, 7%, 30%;
+}
+
+/*----Folder Styling----*/
+.theme-light {
+    --folder-accent-color: 216, 0%, 0%; 
+    --folder-accent-color-lite: 220, 7%, 50%;
+}
+.theme-dark {
+	--folder-accent-color: 249, 62%, 75%;
+	--folder-accent-color-lite: 249, 62%, 75%;
+}
+.nav-folder-children,
+.nav-files-container > div > .nav-folder,
+.nav-folder-title {
+    --explorer-root-background: hsla(var(--folder-accent-color), 0.2);
+    --explorer-root-folder-color: hsl(var(--folder-accent-color-lite));
+    
+    --explorer-root-folder-background: hsl(var(--folder-accent-color));
+    --explorer-root-folder-open-background: hsl(var(--folder-accent-color));
+    --explorer-folder-open-background: hsla(var(--folder-accent-color), 0.4);
+    --nav-indentation-guide-color: hsl(var(--folder-accent-color-lite));
+	
+    --explorer-folder-icon-color: hsl(var(--folder-accent-color-lite));
+    --folder-icon-open-color: var(--explorer-folder-icon-color);
+    --folder-icon-color: var(--explorer-root-folder-color);
+    --file-icon-color: hsla(var(--folder-accent-color-lite), .35);
+}
+
+.nav-folder-title .nav-folder-title-content::before {
+	display: inline-block;
+    margin-right: 4px;
+    vertical-align: var(--folder-vertical-align);
 }
