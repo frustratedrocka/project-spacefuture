@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:10:00.029-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:21:57.079-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Taking Action
@@ -112,8 +112,6 @@ If your target is another character, their roll always counts as the [[Rules/1 C
 
 **EXAMPLES:**
 - Throwing sand in an opponent's eyes or setting something on fire
-{ #957b2b}
-
 - Learning the weakness of a monster through research or careful observation
 - Taking advantage of a character's infamously foul temper
 
@@ -204,7 +202,6 @@ You can invoke **ANY ASPECT** that's relevant and helpful to you, not just your 
 
 ### Declaring a Story Detail
 You can spend a fate point to **INTRODUCE NEW INFORMATION** about the world that works to your character's advantage. As long as it relates to an aspect in play, this detail can be nearly anything, but some common examples include:
-
 - Adding **IMPORTANT OR UNLIKELY** objects or details to the scene (e.g. "Actually, I've had a few sticks of dynamite on me this whole time" or "There's a very fast car parked nearby, and its owner conveniently left the doors unlocked and the keys inside.")
 - **FLASHING BACK** to declare that you already prepared for something in the past (e.g. "Good thing we bribed the night guard last week!")
 - Introducing **NEW MINOR NPCS** into the fiction (e.g. "there's a janitor with keycard access to the CEO's office and gambling debts we could leverage.")
