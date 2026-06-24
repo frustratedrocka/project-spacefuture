@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T18:32:49.115-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T18:49:51.589-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!
@@ -272,12 +272,12 @@ Now that you know what's changed at the end of the loop, it's time to put it all
 > 1. "Nomu, your target is now aware of you and fighting back. He's a big guy and he knows how to handle himself; even unarmed, if he lands a hit on you or grabs you, it could be bad. What do you do?"
 
 > [!callout|bg-red c-plain no-icon ]+ EXAMPLE: THE MUSEUM JOB
-> 1. The darkened museum looms over a thief as they stand before its staff entrance.
+> 1.  The darkened museum looms over a thief as they stand before its staff entrance.
 > 2. The thief wants to get into the building.
 > 3. They want to get in by picking the lock on the staff entrance door.
 > 4. Resolve the action:
->    1. Do mechanics take over? YES; there is significant uncertainty. The player rolls to pick the lock and succeeds..
->    2. What explains the result? You picked the lock without issue.
+> 	1. Do mechanics take over? YES; there is significant uncertainty. The player rolls to pick the lock and succeeds..
+> 	2. What explains the result? You picked the lock without issue.
 > 5. THEREFORE: you are now inside the museum. THEREFORE: you are now faced with a maze of hallways and back doors leading to all kinds of offices, archives, and restoration facilities. BUT: you don't have a map of the staff areas, ALSO BUT, somewhere in the building there is at least one night guard on patrol.
 >    
 > All of the new information in step 5 could've already been in your prep, or could be improvised. Either way, it was never relevant before, so it's only now becoming part of the established fiction. So now, we integrate it into 1. Since the situation has changed a lot, we need to set it all up in enough detail to make the decision space clear:
