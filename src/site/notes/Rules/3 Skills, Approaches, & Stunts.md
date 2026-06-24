@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T17:37:54.699-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T18:45:19.041-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -104,7 +104,7 @@ For their part, the GM should ask you for clarification if they're unsure - thei
 
 Stunts can give skills an automatic bonus under a particular, narrow circumstance, effectively giving your character special expertise in one particular thing. The circumstance must be **MORE SPECIFIC** than what the normal action allows, and can only apply to one particular action or pair of actions. If your stunt effectively replaces its associated action for the skill in most or all cases, it's too broad and needs adjustment.
 
-The usual numeric bonus is +1 hit to your total. For some stunts, it may be appropriate to add a second-tier bonus that instead gives a +2 if an even narrower condition is met. A +2 flat bonus in this dice system is extremely powerful, so a +2 stunt bonus **MUST** therefore be highly situational and come with a significant price
+The usual numeric bonus is +1 hit to your total. For some stunts, it may be appropriate to add a second-tier bonus that instead gives a +2 if an even narrower condition is met. A +2 flat bonus in this dice system is extremely powerful, so a +2 stunt bonus **MUST** therefore be highly situational and come with a significant price.
 
 >[!note|show-title]+ HANG ON, THE ACTUAL FATE BOOK SAYS +2 HERE!
 >I know, but the fudgectomy that's been performed to replace its dice system with the variable-size D10 pool has seriously compressed the numbers. A +2 flat bonus is notable but not necessarily game-breaking when opposition scales from 1 through 8; when that opposition loses almost half of its possible outcomes, the bonus has to shrink to match.
@@ -112,7 +112,7 @@ The usual numeric bonus is +1 hit to your total. For some stunts, it may be appr
 **EXAMPLES**
 - **ARCANE EXPERT** When you Know to create an advantage in a situation that specifically has to do with the supernatural or occult, gain an additional free invoke on up to one discovered aspect.
 - **CHILD OF THE COURT** +1 when you Sway to overcome obstacles when you're at an aristocratic function, such as a royal ball, +2 if you're related to the host and in their good graces for the moment.
-- **LEAD IN THE AIR** You really like emptying magazines. Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area. (Normally, you'd need to take a separate action to set up this kind of interference, but with the stunt, it's free.)
+- **LEAD IN THE AIR** You *really* like emptying magazines. Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area. (Normally, you'd need to take a separate action to set up this kind of interference, but with the stunt, it's free.)
 
 ### Creating a Rules Exception
 #TODO 
