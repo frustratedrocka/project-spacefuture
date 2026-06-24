@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:16:26.491-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T03:19:42.896-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!
@@ -27,7 +27,7 @@ Masterful (4) and Superhuman (5) results are designed to require the players to 
 Remember that costs can also apply to NPCs. The players should sometimes be the beneficiaries of an NPC's stroke of ill fortune, and even shape that fortune occasionally through clever narration and deep engagement with the fiction - see Alex's Defend action in [[Rules/3A Putting It All Together\|3A Putting It All Together]] for what this might look like. If a particular NPC rolling a catastrophic failure in the moment really bothers you, remember you have your own pool of fate points for a reason.
 
 ### How Minor Is Minor?
-Lorem Ipsum
+#TODO 
 
 ### Don't Default To Harm
 Because strain clears so quickly, harm isn't a good choice of cost unless the scene has other likely sources of more harm. If a character takes harm as a cost once and then is never at risk of harm again until the scene changes, then the cost wasn't a cost at all - and, if there's no other source of harm in the scene, then harm as a cost doesn't make much sense anyway. For example, consider two different high-stakes conversations. If a character's trying to impress a recruiter to get hired and infiltrate a megacorp, it's not clear how things could go wrong in a way that results in multiple instances of harm taken. On the other hand, if that same character is interrogating Hannibal Lecter, harm is absolutely on the table as he picks apart the interrogator's psyche piece by piece - so harm as the cost of an action, perhaps the character accidentally saying more than they should and giving Lecter an opening, makes sense, and the scene has levers that can build on that harm and make it a real consideration that the player has to adjust for.
@@ -201,7 +201,6 @@ Knowing when to commit to the bit and when to pivot is one of the harder parts o
 > 
 > These are all sweeping changes that touch a lot of your backend, so they should be thought through carefully, but they're within scope of what the GM can still alter freely while still maintaining total integrity of the established fiction.
 
-
 ## What Do You Want To Accomplish
 *"There is only one story in the world, and it is: somebody wants something badly and is having trouble getting it." -Guy Sclanders, How To Be A Great GM*
 
@@ -332,7 +331,7 @@ If you realize the situation you're setting up lacks enough prerequisites to be 
 
 Sometimes, the players will surprise you with creative solutions that bypass prerequisites you didn't expect to be bypassable. **ENCOURAGE THIS.** If they pull this off, then an easier task is their reward for engaging with the fiction deeply, treating it as true, and creatively using the tools you've given them - they've earned it. For me, these moments of unexpected player brilliance are the greatest joy I ever experience behind the GM screen, and a huge part of why I love running RPGs.
 
-> [!callout|bg-red c-plain no-icon ] SAMPLE GOLDEN PATHS
+> [!callout|bg-red c-plain no-icon ] EXAMPLE GOLDEN PATHS
 > 
 > **DUNGEON CRAWL** Reach the dungeon, locate treasure, secure treasure, make it back to town
 > 
