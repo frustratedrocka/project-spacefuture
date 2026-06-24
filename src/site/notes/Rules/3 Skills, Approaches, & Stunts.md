@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:11:10.779-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T17:37:54.699-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -15,23 +15,23 @@ Taking a new stunt **BEYOND YOUR STARTING AMOUNT** (three for your pilot, two fo
 # Skills
 There are 15 skills in this game, each of which is a verb that covers a broad range of actions your character might perform during the story. All of them can be used to overcome or create an advantage (see [[Rules/1 Core Rules#The Four Actions\|1 Core Rules#The Four Actions]]), but only some make sense to attack or defend with. The table below is a summary; for detailed explanations of what each skill does, click through their names or scroll further to [[Rules/3 Skills, Approaches, & Stunts#Skill Details\|#Skill Details]]. 
 
-|      SKILL       | OVERCOME | CREATE ADVANTAGE | ATTACK | DEFEND |
-| :--------------: | :------: | :--------------: | :----: | :----: |
-|   [[Rules/3 Skills, Approaches, & Stunts#Acquire\|#Acquire]]   |    X     |        X         |        |        |
-|    [[Rules/3 Skills, Approaches, & Stunts#Fight\|#Fight]]    |    X     |        X         |   X    |   X    |
-| [[Rules/3 Skills, Approaches, & Stunts# Interface\|# Interface]]  |    X     |        X         |   X    |   X    |
-|    [[Rules/3 Skills, Approaches, & Stunts#Know\|#Know]]     |    X     |        X         |        |        |
-|    [[Rules/3 Skills, Approaches, & Stunts# Lead\|# Lead]]    |    X     |        X         |        |        |
-|    [[Rules/3 Skills, Approaches, & Stunts# Move\|# Move]]    |    X     |        X         |        |   X    |
-|  [[Rules/3 Skills, Approaches, & Stunts# Network\|# Network]]   |    X     |        X         |   X    |   X    |
-|   [[Rules/3 Skills, Approaches, & Stunts# Notice\|# Notice]]   |    X     |        X         |        |   X    |
-|  [[Rules/3 Skills, Approaches, & Stunts# Operate\|# Operate]]   |    X     |        X         |   X    |   X    |
-| [[Rules/3 Skills, Approaches, & Stunts# Persevere\|# Persevere]]  |    X     |        X         |        |   X    |
-|   [[Rules/3 Skills, Approaches, & Stunts# Shoot\|# Shoot]]    |    X     |        X         |   X    |   X    |
-|    [[Rules/3 Skills, Approaches, & Stunts# Sway\|# Sway]]    |    X     |        X         |   X    |        |
-|    [[Rules/3 Skills, Approaches, & Stunts# Tend\|# Tend]]    |    X     |        X         |        |        |
-|   [[Rules/3 Skills, Approaches, & Stunts# Tinker\|# Tinker]]   |    X     |        X         |        |        |
-| [[Rules/3 Skills, Approaches, & Stunts# Understand\|# Understand]] |    X     |        X         |        |   X    |
+|            SKILL             | OVERCOME | CREATE ADVANTAGE | ATTACK | DEFEND |
+| :--------------------------: | :------: | :--------------: | :----: | :----: |
+|    [[Rules/3 Skills, Approaches, & Stunts#Acquire\|Acquire]]     |    X     |        X         |        |        |
+|      [[Rules/3 Skills, Approaches, & Stunts#Fight\|Fight]]       |    X     |        X         |   X    |   X    |
+|  [[Rules/3 Skills, Approaches, & Stunts# Interface\|Interface]]  |    X     |        X         |   X    |   X    |
+|       [[Rules/3 Skills, Approaches, & Stunts#Know\|Know]]        |    X     |        X         |        |        |
+|       [[Rules/3 Skills, Approaches, & Stunts# Lead\|Lead]]       |    X     |        X         |        |        |
+|       [[Rules/3 Skills, Approaches, & Stunts# Move\|Move]]       |    X     |        X         |        |   X    |
+|    [[Rules/3 Skills, Approaches, & Stunts# Network\|Network]]    |    X     |        X         |   X    |   X    |
+|     [[Rules/3 Skills, Approaches, & Stunts# Notice\|Notice]]     |    X     |        X         |        |   X    |
+|    [[Rules/3 Skills, Approaches, & Stunts# Operate\|Operate]]    |    X     |        X         |   X    |   X    |
+|  [[Rules/3 Skills, Approaches, & Stunts# Persevere\|Persevere]]  |    X     |        X         |        |   X    |
+|      [[Rules/3 Skills, Approaches, & Stunts# Shoot\|Shoot]]      |    X     |        X         |   X    |   X    |
+|       [[Rules/3 Skills, Approaches, & Stunts# Sway\|Sway]]       |    X     |        X         |   X    |        |
+|       [[Rules/3 Skills, Approaches, & Stunts# Tend\|Tend]]       |    X     |        X         |        |        |
+|     [[Rules/3 Skills, Approaches, & Stunts# Tinker\|Tinker]]     |    X     |        X         |        |        |
+| [[Rules/3 Skills, Approaches, & Stunts# Understand\|Understand]] |    X     |        X         |        |   X    |
 ## Untrained Action
 Your character having a skill ranked on their sheet at all means they're **AT LEAST ADEQUATE** at it - notable competence under pressure through training, inclination, or intuition, even if it's not their focus. But there may be situations where what you're trying to do falls under a skill that you have no rank in. In these cases, roll a number of dice equal to your **WEAKEST APPROACH** against the opposition. For example, if someone's not in especially good shape (no Move rank), they can still at least attempt to run for their life in an emergency.
 
@@ -115,7 +115,7 @@ The usual numeric bonus is +1 hit to your total. For some stunts, it may be appr
 - **LEAD IN THE AIR** You really like emptying magazines. Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area. (Normally, you'd need to take a separate action to set up this kind of interference, but with the stunt, it's free.)
 
 ### Creating a Rules Exception
-Lorem ipsum
+#TODO 
 
 **EXAMPLES**
 - **WHO NEEDS A TAILGUNNER** When you use ranged weaponry mounted or built in to a vehicle you're currently Operating, you may Operate instead of Shooting to attack.
