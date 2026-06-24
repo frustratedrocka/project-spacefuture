@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T17:30:24.307-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T17:42:21.457-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!
@@ -22,12 +22,9 @@ When improvising an opposition target, **DEFAULT TO ADEQUATE (1)** unless there'
 Masterful (4) and Superhuman (5) results are designed to require the players to use stunts, invokes, or both to achieve with anything close to reliability. The dice can still spike high on their own, but the players will need to position themselves well, set up leverage, and use resources before they can reasonably expect to hit those targets. That's why most of the things that Fate usually assigns +2 bonuses to have been cut down to +1, and it's why it's so important to strictly enforce the rule that +2 stunt conditions are highly specific and come at a price: a +2 bonus kicks you almost halfway up the entire adjective ladder.
 
 ## Calibrating Costs
-**COSTS ARE NOT PUNISHMENTS**. They are the fuel you use to keep the engine of your game running. Without them, failure can grind the game to a halt and leave your players standing around asking "sooo... now what?" Costs ensure that, even if failure is still *undesirable* for the players, it doesn't have to be *boring*.
+**COSTS ARE NOT PUNISHMENTS**. They are the fuel you use to keep the engine of your game running. Without them, failure can grind the game to a halt and leave your players standing around asking "sooo... now what?" Costs ensure that, even if failure is still *undesirable* for the players, it doesn't have to be *boring*. In the same vein, **COSTS DO NOT NEGATE** whatever the players were trying to do. Failure gets to negate things; costs only get to complicate them in some way and inject drama into the scene.
 
 Remember that costs can also apply to NPCs. The players should sometimes be the beneficiaries of an NPC's stroke of ill fortune, and even shape that fortune occasionally through clever narration and deep engagement with the fiction - see Alex's Defend action in [[Rules/3A Putting It All Together\|3A Putting It All Together]] for what this might look like. If a particular NPC rolling a catastrophic failure in the moment really bothers you, remember you have your own pool of fate points for a reason.
-
-### How Minor Is Minor?
-#TODO 
 
 ### Don't Default To Harm
 Because strain clears so quickly, harm isn't a good choice of cost unless the scene has other likely sources of more harm. If a character takes harm as a cost once and then is never at risk of harm again until the scene changes, then the cost wasn't a cost at all - and, if there's no other source of harm in the scene, then harm as a cost doesn't make much sense anyway. For example, consider two different high-stakes conversations. If a character's trying to impress a recruiter to get hired and infiltrate a megacorp, it's not clear how things could go wrong in a way that results in multiple instances of harm taken. On the other hand, if that same character is interrogating Hannibal Lecter, harm is absolutely on the table as he picks apart the interrogator's psyche piece by piece - so harm as the cost of an action, perhaps the character accidentally saying more than they should and giving Lecter an opening, makes sense, and the scene has levers that can build on that harm and make it a real consideration that the player has to adjust for.
