@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules"],"updated":"2026-06-23T23:06:13.961-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules"],"updated":"2026-06-23T23:14:20.932-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Wtf Am I Reading?!
@@ -34,3 +34,6 @@ If you play primarily or exclusively online, some things will get easier, but so
 At the time of this writing, this game has no dedicated virtual tabletop support - I'm not aware of any VTT implementation of Fate that allows for all the changes I've made to the system's basic chassis, and I'm too hopeless with javascript to develop one myself. If you're better at web dev than I am (meaning even remotely competent) and feel inclined to build such an implementation, contact me at #TODO (email goes here) so we can work something out.
 
 In the meantime, my recommended setup for online play is to use **GOOGLE SHEETS** with each player editing a different tab of the same file at once. There's a template available at #TODO (link goes here) that you can make an editable copy of in your own drive, or you can make one yourself based on the [[Admin/Templates/Character Sheet\|sample sheet]] included in this document. Make a new sheet tab for each PC, one more that the GM can use to see every PC's aspects in one place, and a final sheet you can fill with "virtual index cards" to track temporary aspects and free invokes as they enter and exit play.
+
+# Next
+[[Rules/1 Core Rules\|1 Core Rules]]

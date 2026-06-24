@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"updated":"2026-06-23T23:06:47.022-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"updated":"2026-06-23T23:15:37.367-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Teamwork
@@ -77,3 +77,7 @@ If your mech is ever taken out while you're in it, it is destroyed, and whoever 
 
 # Contests
 #TODO 
+
+# Navigation
+[[Rules/3A Putting It All Together\|3A Putting It All Together]]
+[[Rules/5 Running The Game\|5 Running The Game]]

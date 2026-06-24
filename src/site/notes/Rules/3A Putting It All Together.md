@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-a-putting-it-all-together/","tags":["rules"],"updated":"2026-06-23T23:06:42.934-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-a-putting-it-all-together/","tags":["rules"],"updated":"2026-06-23T23:15:13.657-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # SETUP
@@ -155,3 +155,6 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 **GM** He crashes to the ground. The whole room goes quiet as all the drunk and increasingly-drugged soldiers look at you and try to figure out what just happened.
 
 **ALEX** I back up, put my hands up like "I'm innocent, he just swung at me out of nowhere" and say "I think this gentleman might've had one too many!"
+
+# Next
+[[Rules/4 Challenges, Conflicts, & Contests\|4 Challenges, Conflicts, & Contests]]

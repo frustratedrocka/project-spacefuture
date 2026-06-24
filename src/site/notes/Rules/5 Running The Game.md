@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"updated":"2026-06-23T23:06:51.632-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"updated":"2026-06-23T23:15:52.227-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!
@@ -347,3 +347,5 @@ Sometimes, the players will surprise you with creative solutions that bypass pre
 ## Transparency
 #TODO How much do the players know about the situation and the factors influencing / effects of their decision? Maximum transparency: full explanation of everything going on and what will happen if you do X before you commit to X. Minimum transparency: Tomb of Horrors.
 
+# Navigation
+[[Rules/4 Challenges, Conflicts, & Contests\|4 Challenges, Conflicts, & Contests]]

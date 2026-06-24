@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"updated":"2026-06-23T23:06:39.181-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"updated":"2026-06-23T23:14:45.145-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -218,3 +218,6 @@ Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is 
 #TODO Craft
 ## Understand
 #TODO Empathy
+
+# Next
+[[Rules/3A Putting It All Together\|3A Putting It All Together]]
