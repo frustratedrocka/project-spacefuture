@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules"],"updated":"2026-06-23T23:22:04.930-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:10:00.029-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Taking Action
@@ -244,7 +244,7 @@ It’s okay to recognize a compel as off-the-mark and withdraw it. If the group 
 > 
 > Or, maybe the GM decides that this is a good opportunity for Manfred's past to make his life more complicated. As Manfred enters the bar and all eyes turn to him, the GM gives Manfred's player a fate point to **COMPEL** his *"Legendary War Hero"* aspect and declare that these patrons were Manfred's enemies during the war. Maybe they barely survived tangling with him themselves; maybe he killed some of their friends; maybe they only know him by his deadly reputation, but that reputation is enough for them to hate him. With that compel in play, Manfred has just walked into a room full of people with reason to want him dead, who outnumber him, who have been drinking, and who might see his appearance as a perfect chance for revenge falling right into their laps. Manfred's player can either accept that fate point along with the compel, or spend one of their own to **REFUSE** it and describe how Manfred avoids the trouble he's just walked into.
 
-## THE MOST IMPORTANT THING ON THIS PAGE
+## The Most Important Thing on This Page
 >[!aside|show-title] THE EDGE OF POSSIBILITY
 >Having an aspect can grant you permission to try something you normally couldn't, but can't guarantee success. Where there is uncertainty or resistance, the outcome is still up to the dice.
 
@@ -257,10 +257,7 @@ It’s okay to recognize a compel as off-the-mark and withdraw it. If the group 
 
 In the same vein, nobody should ever be saying "the building has the 'On Fire' situation aspect" - the GM just says "the building is on fire," and because **EVERYTHING IS AN ASPECT** the building being on fire is now a situation aspect that can be invoked or compelled like any other.
 
-# THE MECH LAYER
+# The Mech Layer
 Your mech is an **EXTENSION** of your character, not a replacement for it. This is not a game built around constant mech combat - you will fight often, but the on-foot action is just as, if not more, important. Therefore, your mech's aspects and stunts are **LAYERED ON TOP OF** those for your pilot - while they're in the cockpit, both sets apply.
 
 You should expect at least half of all sessions not to include you piloting your mech. Every time you get in the cockpit and sortie should feel like a meaningful event, one where lives are at stake and everything about the story can change in an instant without warning. See [[Rules/2 Character Creation#Mech Creation\|2 Character Creation#Mech Creation]] for special rules on building and using your mech.
-
-# NEXT STEP
-[[Rules/2 Character Creation\|2 Character Creation]]

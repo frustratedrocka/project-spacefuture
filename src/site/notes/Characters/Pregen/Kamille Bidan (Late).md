@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pregen/kamille-bidan-late/","updated":"2026-06-23T23:32:03.196-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/pregen/kamille-bidan-late/","noteIcon":"","updated":"2026-06-23T23:32:03.196-04:00","dg-note-properties":{}}
 ---
 
 > [!STATBLOCKS|columns full flex] CHARACTER SHEET

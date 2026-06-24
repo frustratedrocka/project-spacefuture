@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-a-putting-it-all-together/","tags":["rules"],"updated":"2026-06-23T23:15:13.657-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-a-putting-it-all-together/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:11:31.735-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # SETUP
@@ -79,7 +79,7 @@ Alex, Brigit, and Zach are spies inserted deep behind enemy lines, attending a p
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >Alex stealing a drink is a potentially ambiguous call - either he's Acquiring, since he's getting a physical resource from the environment, or Moving, like Zach did to spike the pitcher. The designer's view, and therefore that of this example, is that Acquire is the more appropriate skill here, but it's ultimately the GM's call which skill applies. Either way, since getting the drink is an overcome action, and overcome isn't actively defended against, the GM uses the same Great Notice rank he assigned the soldier group earlier as the passive opposition for this roll.
 
-**GM** Well, that sounds like you're trying to Acquire Carefully. Normally that'd be fine, but from what Brigit told you, you don't have much time, so this is gonna be tricky. You'll need to be Great.
+**GM** Well, that sounds like you're trying to Acquire Carefully. Normally that'd be easy, but from what Brigit told you, you don't have much time, so this is gonna be tricky. You'll need to be Great.
 
 **ALEX** I'm not Great here but I think can work with this. Again, I want to skip the drink and just go to the guy if there's no opening. *(Rolls 4 dice; he gets an 8 and a 9, 2 hits)* 2, anyone mind if I use one of those free invokes on the drugs?
 
@@ -133,7 +133,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **ALEX** Let's go with "*Bull Seeing Red."
 
-**GM** (*Writes and places a 2-box "Bull Seeing Red" aspect card for the success with style*) Love it! (*assigns Great rank to the NPC's Fight Forcefully, rolls 6 dice - one 1, one hit, one 10*) OK, that's 2 to defend against. 
+**GM** (*Writes and places a 2-box "Bull Seeing Red" aspect card for the success with style*) Love it! (*assigns Good rank to the NPC's Fight Forcefully, rolls 4 dice - one 1, one hit, one 10*) OK, that's 2 to defend against. 
 
 **BRIGIT** Toro, Toro!
 
@@ -155,6 +155,3 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 **GM** He crashes to the ground. The whole room goes quiet as all the drunk and increasingly-drugged soldiers look at you and try to figure out what just happened.
 
 **ALEX** I back up, put my hands up like "I'm innocent, he just swung at me out of nowhere" and say "I think this gentleman might've had one too many!"
-
-# Next
-[[Rules/4 Challenges, Conflicts, & Contests\|4 Challenges, Conflicts, & Contests]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules"],"updated":"2026-06-23T23:14:36.802-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:10:09.280-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Pilot Creation
@@ -204,6 +204,3 @@ Approaches don't have to follow the pyramid, but they do need to respect two lim
 Kamille Bidan, Zeta Gundam: [[Characters/Pregen/Kamille Bidan (Start)\|Kamille Bidan (Start)]], [[Characters/Pregen/Kamille Bidan (Late)\|Kamille Bidan (Late)]]
 
 Char Aznable, Zeta Gundam: [[Characters/Pregen/Quattro Bajeena\|Quattro Bajeena]], [[Characters/Pregen/Char Aznable\|Char Aznable]]
-
-# Next
-[[Rules/3 Skills, Approaches, & Stunts\|3 Skills, Approaches, & Stunts]]

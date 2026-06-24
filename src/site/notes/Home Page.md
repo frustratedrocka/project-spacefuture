@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"updated":"2026-06-24T00:29:04.249-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-06-24T00:29:04.249-04:00","dg-note-properties":{}}
 ---
 
 # PROJECT S.P.A.C.E.F.U.T.U.R.E

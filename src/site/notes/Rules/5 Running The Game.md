@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"updated":"2026-06-23T23:15:52.227-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:16:26.491-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!
@@ -10,7 +10,7 @@ If you're an inexperienced or first-time GM looking for advice on running RPGs i
 
 I'm not going to pretend GMing is trivially easy, or that it's right for everyone, but it doesn't have to be some scary arcane incomprehensible art passed down through secret rites and oral tradition either. I ran my first game after only having played a single session in my life, that used a completely different system than I ended up running, and basically fumbled my way through it and figured out what I was doing as I went along. And it was still a great time! Your players are right there in the trenches with you, and as long as there's mutual respect and compassion between everyone at your table, then even if you get every single rule wrong and have to pause every ten minutes to figure out what happens next, you'll be fine. Don't sweat it - your next session will be better. And so will the one after that, and the one after that. If this chapter helps one person to hit the ground running with more confidence and understanding of what the moment-to-moment craft of GMing actually involves, then it's done its job.
 
-If that sounds like something worth reading, then once you're finished the Running This Game section, move along to the header that I'm sure won't be controversial and couldn't possibly result in someone out there printing a copy of this just so they can physically throw it at me: [[Rules/5 Running The Game#You Are Not A Storyteller\|#You Are Not A Storyteller]].
+If that sounds like something worth reading, then once you're finished the Running This Game section, move along to [[Rules/5 Running The Game#You Are Not A Storyteller\|#You Are Not A Storyteller]].
 
 # Running This Game
 ## Setting Opposition
@@ -103,7 +103,7 @@ Your second duty as a GM is to **MANAGE ENERGY AND TONE** of the world and situa
 
 If you've ever run a game, in any system, you have already executed the loop and ridden faders. Nothing about either concept is revolutionary; this is fundamentally *descriptive*, not *prescriptive*. I'm breaking them out this way because I believe it's the clearest way to organize my advice on how to execute every step of the process, and because it fits the process that this game and the loop itself rely on. The loop is what you're doing; riding the faders is how you're doing it.
 
-# THE LOOP
+# The Loop
 Running a role-playing game, in nearly any system that uses a GM at all, boils down to iterating through this loop of questions:
 
 1. What's going on in the fiction right now?
@@ -202,7 +202,7 @@ Knowing when to commit to the bit and when to pivot is one of the harder parts o
 > These are all sweeping changes that touch a lot of your backend, so they should be thought through carefully, but they're within scope of what the GM can still alter freely while still maintaining total integrity of the established fiction.
 
 
-## What DO YOU WANT TO ACCOMPLISH
+## What Do You Want To Accomplish
 *"There is only one story in the world, and it is: somebody wants something badly and is having trouble getting it." -Guy Sclanders, How To Be A Great GM*
 
 This question is really about defining **WHAT SUCCESS MEANS** in context. When Allenby hits someone in the face, is she trying to provoke them? To knock them out? Specifically to break their nose and disfigure them? To snap them out of mind control? Something else? Every single one of those answers can have drastically different effects on the fiction, even if Allenby's actual behavior and action is identical across them all. The **GOAL** is what matters in this step, not the method.
@@ -217,7 +217,7 @@ If you need to sketch out an NPC in a hurry in the middle of the session, and ca
 
 If you want to further distinguish this NPC, go to [[Rules/5 Running The Game#Optional 3-Axis Acting\|#Optional 3-Axis Acting]].
 
-## How DO YOU TRY TO ACCOMPLISH IT
+## How Do You Try To Accomplish It
 Drill down. **SWEAT THE DETAILS**. What is the character actually, physically doing in this moment? We don't need Allenby to improvise a full paragraph every time she throws a punch, but we do need to know *that she is punching*, as opposed to kicking, or swinging a baseball bat, or a sword, or shooting a gun. And, **IF IT COULD MATTER**, we need to know *how* she's punching. Is she keeping her guard up and deploying tight, well-practiced jabs while leaving few openings for a counterattack? Is she throwing wild, untrained haymakers? Is she darting about and sneaking in pinpoint-accurate blows to joints, nerves, eyes, throats, and other weak points? Is she throwing caution to the wind and unleashing pure berserk aggression? Something else?
 
 The extent to which detail matters depends on the rules you're using and the nature of the action. If you're playing in a system that abstracts combat more than this game does, then you don't really need to know whether a player is slashing or stabbing; it's the same roll either way. In contrast, if you're exploring an ancient lich's tomb, with intricate deathtraps around every corner, the minutiae can be a matter of life or death - are you lightly tapping the ground ahead of you with that pole, putting your weight on it, or something else? Are you pushing or pulling on this wall section you believe contains a secret door? Are you touching that altar with your bare hands? Which eye, exactly, do you use to peek into that hole in the wall?
@@ -226,7 +226,7 @@ The extent to which detail matters depends on the rules you're using and the nat
 When prompting players for a decision, if you lay out multiple courses of action they could take, then wherever possible, add "or something else?" at the end, as seen above. This sounds small, but it's important. Offering the players a few options to choose from comes across as presenting a menu from which they may only choose something you've presented; adding "or something else?" leaves the door open for them to come up with something unexpected and preserves the intended effect - you're naming the most obvious (to you) actions available in this moment, not the *only* actions available.
 
 ## Resolution
-#TODO Bifurcated step
+This step is broken out into two questions, since if the mechanics don't intervene to impose a result, then there's no need to explain that result - the player's action either succeeds or fails precisely as they described it.
 
 ### Do Mechanics Take Over
 **MOST OF THE TIME**, the mechanics don't need to kick in for you to declare the result of an action. If there's no meaningful uncertainty or resistance in the fiction, then you shouldn't apply mechanics that inject that uncertainty or resistance artificially. 
@@ -258,7 +258,7 @@ Besides preserving the fantasy of the player characters, finding other reasons w
 
 Further reading: Hamlet's Hit Points by Robin Laws
 
-# THE FADER BOARD
+# The Fader Board
 "Fader" is the proper name for the large slider knobs you see on a sound mixing board. Throughout a concert, a sound engineer constantly adjusts - "rides" - the faders to make sure the music as a whole sounds the way it should. Sometimes these adjustments are drastic, sometimes they're subtle. But together, they're the central control board for the entire experience of the show.
 
 Every decision you make while running a game is, in some way, riding the faders - if you've ever run even a single session, then by definition, you already have experience with this. You've made judgement calls, decided how your NPCs act, described your world in your words. Different fader-riding choices are why first-time GM A's Lost Mine of Flapdoodle can feel completely different from first time GM B's Lost Mine of Flapdoodle, even though they're both using the same source material. This is where all the micro-decisions that collectively form "your style" live - it's the bucket containing all the things that make your game uniquely *yours*.
@@ -299,7 +299,7 @@ If you'd like, you can add an even-more-optional third axis: sophistication. Onc
 ## Pacing & Speed
 #TODO Pacing = information / detail density per loop iteration. Rapid pacing = high density, slow pacing = low density. Speed = real-time duration per loop iteration. Longer descriptions, "uuuuh sorry still figuring my turn out" = low speed.
 
-## stakes & Pressure
+## Stakes & Pressure
 *"When everyone's super, no one will be." - Syndrome, The Incredibles*
 
 #TODO Stakes = scene stakes and dramatic question, why are we spending table time on this instead of something else. Pressure = narrative weight riding on each decision. To increase pressure, slow down the loop and take the time to establish the consequences of the decision.
@@ -346,6 +346,3 @@ Sometimes, the players will surprise you with creative solutions that bypass pre
 
 ## Transparency
 #TODO How much do the players know about the situation and the factors influencing / effects of their decision? Maximum transparency: full explanation of everything going on and what will happen if you do X before you commit to X. Minimum transparency: Tomb of Horrors.
-
-# Navigation
-[[Rules/4 Challenges, Conflicts, & Contests\|4 Challenges, Conflicts, & Contests]]

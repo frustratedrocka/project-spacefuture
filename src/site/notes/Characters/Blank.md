@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/blank/","updated":"2026-06-23T23:35:35.825-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/blank/","noteIcon":"","updated":"2026-06-23T23:35:35.825-04:00","dg-note-properties":{}}
 ---
 
 > [!STATBLOCKS|columns flex] CHARACTER SHEET

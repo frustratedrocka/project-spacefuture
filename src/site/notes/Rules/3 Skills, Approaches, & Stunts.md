@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"updated":"2026-06-23T23:14:45.145-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:11:10.779-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -43,7 +43,7 @@ The skill list in this game, by design, does not cover every conceivable thing t
 > [!callout|bg-red c-plain no-icon ]+ EXAMPLE: OLD MECHDONALD HAD A FARM
 > The skill list has nothing that explicitly covers animal handling. Should your players somehow find themselves needing to win a horse race, cross the desert on the back of a particularly ornery group of camels, or calm down a panicking cow so it can be transported to safety in an empty compartment of their mech, either choose the closest thing available (Sway could work for all of these, possibly also Operate for the horse and camel scenarios) or give them a provisional 1 in the nonexistent skill for purposes of this roll. If these events recur, it's probably worth adding Handle or Tame as its own skill.
 
-# ApproachES
+# Approaches
 There are six approaches that describe how you perform your actions.
 
 - **QUICKLY** Whatever you're doing, you're doing it as fast as possible. Dodging an arrow; getting in the first punch; disarming a bomb as it ticks 3... 2... 1...
@@ -53,7 +53,7 @@ There are six approaches that describe how you perform your actions.
 - **SUBTLY** You're being sneaky or quiet, emphasizing misdirection, stealth, or deceit. Talking your way out of getting arrested; picking a pocket; feinting in a sword fight.
 - **CAREFULLY** You're paying close attention to detail and taking your time to do the job right. Lining up a long-range shot; attentively standing watch with your head on a swivel; disarming a bank's alarm system.
 
-## DESCRIPTORS, Not BUTTONS
+## Descriptors, Not Buttons
 >[!aside|show-title] GM GUIDANCE - APPROACH SORTING
 >Six adverbs cannot possibly cover the full scope of human behavior in a way that definitively places all possible actions into one and only one bucket. Edge cases and areas of overlap are an expected and unremarkable part of this game. When ambiguity arises, just use your best judgement, pick what seems most appropriate in the moment, and *keep the game moving.*
 
@@ -95,10 +95,10 @@ It's also important that you communicate *what you're actually trying to accompl
 For their part, the GM should ask you for clarification if they're unsure - their side of this is discussed in more depth in [[Rules/5 Running The Game#What DO YOU WANT TO ACCOMPLISH\|5 Running The Game#What DO YOU WANT TO ACCOMPLISH]] later on.
 
 # Stunts
-Lorem Ipsum
+#TODO 
 
 ## Building a Good Stunt
-Lorem Ipsum
+#TODO 
 
 ### Adding Bonuses
 
@@ -152,7 +152,7 @@ Acquire does not cover burglary, pickpocketing, or other, more physical ways of 
 ## Interface
 #TODO Hacking and electronic warfare
 
-## KNOW 
+## Know 
 >[!NOTE|show-title]+ An Odd Name Out
 >Of all the skills on this list, Know is probably the most linguistically awkward to pair with the full list of six approaches. It's possible - Know Forcefully conjures images of a frantic late night in a library, ripping heavy books off shelves until finally finding something relevant; Know Boldly might evoke forbidden knowledge; Know Subtly could mean trying to keep a poker face and not let on that you know something compromising, and so on - but it's admittedly a bit of a stretch. 
 >
@@ -179,6 +179,7 @@ Know factual information, either from memory or through deliberate study. How yo
 
 ## Network
 #TODO Contacts
+
 ## Notice
 #TODO Exactly what it says on the tin
 
@@ -214,10 +215,9 @@ Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is 
 
 ## Tend
 #TODO Doctor
+
 ## Tinker
 #TODO Craft
+
 ## Understand
 #TODO Empathy
-
-# Next
-[[Rules/3A Putting It All Together\|3A Putting It All Together]]

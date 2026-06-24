@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"updated":"2026-06-23T23:15:37.367-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:12:00.174-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Teamwork
@@ -24,9 +24,11 @@ When an attack is successful, the defender must absorb the blow and suffers harm
 If you can't or don't push through all the hits, you are **TAKEN OUT** - you're removed from the scene, and **THE ATTACKER DECIDES HOW IT PLAYS OUT.**
 
 ### Strain
-Lorem Ipsum
+#TODO 
+
 ### Consequences
-Lorem Ipsum
+#TODO 
+
 ### Recovery
 At the **END OF EACH SCENE**, every character clears their strain boxes. Consequences take more time and effort to clear. 
 
@@ -48,8 +50,6 @@ Extreme consequences exist outside of the normal consequence track, and though y
 
 ### Conceding
 So, how do you keep from suffering permanent trauma, dying, or worse? You can **INTERRUPT** any action in a conflict to **CONCEDE** as long as the dice haven't hit the table yet. Just give in. Tell everyone you're done, you can't keep going. You lose and exit the conflict, but **YOU GAIN A FATE POINT** plus an extra one for each consequence you took during that conflict. 
-
-
 
 ## Harm and Mechs
 ### Armor
@@ -77,7 +77,3 @@ If your mech is ever taken out while you're in it, it is destroyed, and whoever 
 
 # Contests
 #TODO 
-
-# Navigation
-[[Rules/3A Putting It All Together\|3A Putting It All Together]]
-[[Rules/5 Running The Game\|5 Running The Game]]
