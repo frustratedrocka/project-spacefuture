@@ -4,14 +4,19 @@
 body {
   h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1{
 		text-transform: uppercase;
-		letter-spacing: 0.5px
+		letter-spacing: 0.5px;
+	    color: hsl(345, 100%, 69%) !important;
 	};
 h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
 		text-transform: uppercase;		
-		letter-spacing: 0.5px
+		letter-spacing: 0.5px;
+		color: hsl(45, 100%, 70%) !important;
 	};
+h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
+		color: hsl(26, 97%, 65%) !important
 h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
-		text-transform: uppercase
+		text-transform: uppercase;
+	    color: hsl(345, 100%, 69%) !important;
 	};
 p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
 		font-size: 11pt;
@@ -23,7 +28,7 @@ p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
 
 
 /*Custom Colors*/
-canvas, .filetree-sidebar{
+canvas, .filetree-sidebar, .filetree-wrapper{
   background-color: hsl(252, 8%, 12%)
 }
 
