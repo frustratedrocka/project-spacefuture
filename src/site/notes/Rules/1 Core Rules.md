@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules"],"updated":"2026-06-23T23:06:21.277-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules"],"updated":"2026-06-23T23:22:04.930-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Taking Action
@@ -30,6 +30,7 @@ Some of these terms may not make sense to you yet; that's fine. Most of them wil
 | 3      | Great            | Challenging |
 | 4      | Masterful        | Extreme     |
 | ≥ 5    | Superhuman       | Insane      |
+
 **NEGATIVE HITS** Catastrophic failure
 **HITS BELOW OPPOSITION** Failure
 **TIE OPPOSITION** Tie
