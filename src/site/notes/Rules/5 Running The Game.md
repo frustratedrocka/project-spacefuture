@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T18:49:51.589-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T18:51:17.573-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!
@@ -291,11 +291,11 @@ Now that you know what's changed at the end of the loop, it's time to put it all
 > 4. Resolve the action:
 >     1. Do mechanics take over? YES; there is significant uncertainty. They roll as a group to outrun the security, and the result is "success, but with a complication" per the rules of their system.
 >     2. What explains the result? It's a complicated success, so they do reach the van, BUT the dice have decided that something must go wrong. THEREFORE, you invent a new fact about the scene to make things harder without negating the success: A corrupt traffic cop is out writing parking tickets to meet their quota, knowing they won't be properly challenged even if the ticket is bullshit. That cop slaps a ticket on the team's van at the precise moment they make it out of the alley.
-> 5. THEREFORE, the cop looks up, sees the team of heavily-armored and blood-soaked criminals charging right at them, and, in a panic, reaches for their radio - now, they're on the verge of becoming a real problem. THEREFORE, the team can't just immediately get in the van and drive off without in some way addressing the cop, which will take precious seconds, THEREFORE the face loses even more blood and gets closer to death (this may mean ticking a clock, marking negative health, a death saving throw, or some other system-appropriate mechanical adjustment).
+> 5. THEREFORE, the cop looks up, sees the team of heavily-armored and blood-soaked criminals charging right at them, and, in a panic, reaches for their radio - now, they're on the verge of becoming a real problem. THEREFORE, the team can't just immediately get in the van and drive off without in some way addressing the cop, which will take precious seconds, THEREFORE the face *might* (depending on how severe a consequence the rules demand) lose even more blood and gets closer to death (this may mean ticking a clock, marking negative health, a death saving throw, or some other system-appropriate mechanical adjustment).
 >
 > Now, we integrate that into the total "what's going on" state as the loop kicks over back to 1 and re-set the scene with the new or updated positions of all the relevant decision factors:
 > 
-> 1. "Your face is running out of blood, your heavy's got her hands full, there's a cop in front of your van about to call in backup, and security is still just a few seconds behind you. What do you do?"
+> 6. "Your face is running out of blood, your heavy's got her hands full, there's a cop in front of your van about to call in backup, and security is still just a few seconds behind you. What do you do?"
 
 # The Fader Board
 "Fader" is the proper name for the large slider knobs you see on a sound mixing board. Throughout a concert, a sound engineer constantly adjusts - "rides" - the faders to make sure the music as a whole sounds the way it should. Sometimes these adjustments are drastic, sometimes they're subtle. But together, they're the central control board for the entire experience of the show.
