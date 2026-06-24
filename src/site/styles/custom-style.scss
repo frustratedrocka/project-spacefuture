@@ -1,3 +1,4 @@
+/*Document Style*/
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 body {
@@ -15,9 +16,15 @@ h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
 p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
 		font-size: 11pt;
 		font-family: Montserrat
-	}
+	};
+background-color: hsl(285, 5%, 17%)
 }
 
+.filetree-sidebar {
+  background-color: hsl(252, 8%, 12%)
+}
+
+/*Folder Style (BROKEN)*/
 .nav-folder-title[data-path="Folder Name"] .nav-folder-title-content::before {
 	--folder-icon: "\icon-code-here";
 	--folder-font: "font icon pack name";
