@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-06-24T15:14:30.773-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-06-24T15:51:47.657-04:00","dg-note-properties":{}}
 ---
 
 Welcome to the Project.
-# Links & RESOURCES
+# Links & Resources
 *Under Construction*
 ## Next Session: N/A
 # Rules
