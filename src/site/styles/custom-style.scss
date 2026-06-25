@@ -1,27 +1,32 @@
 /*Document Style*/
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Russo+One&display=swap');
 
 body {
   h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1{
 		text-transform: uppercase;
 		letter-spacing: 0.5px;
 	    color: hsl(345, 100%, 69%) !important;
+	    font-family: "Russo One" !important;
 	};
 h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
 		text-transform: uppercase;		
 		letter-spacing: 0.5px;
 		color: hsl(45, 100%, 70%) !important;
+	    font-family: "Russo One" !important;
 	};
 h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
-		color: hsl(26, 97%, 65%) !important
+		color: hsl(26, 97%, 65%) !important;
+	    font-family: "Russo One" !important;
 	};
 h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
 		text-transform: uppercase;
 	    color: hsl(345, 100%, 69%) !important;
+	    font-family: "Russo One" !important;
 	};
 p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
 		font-size: 11pt;
-		font-family: Montserrat;
+		font-family: "Quantico" !important;
 		color: hsl(185, 19%, 86%) !important;
 	};
 }
@@ -45,7 +50,7 @@ body {
 /*Logo Adjust*/
 	
 .site-logo {
-	height: 80px !important;
+	height: 70px !important;
 	width: 210px !important;
 	object-fit: cover !important;
 	object-position: 50% 40% !important;
