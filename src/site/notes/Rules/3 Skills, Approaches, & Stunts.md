@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-24T23:20:32.359-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T15:32:03.455-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -92,7 +92,7 @@ Now, the GM *could* still have you get caught anyway, but however that plays out
 
 It's also important that you communicate *what you're actually trying to accomplish*, not just the physical action you're performing. This defines what success actually means, and it's not always obvious or self-explanatory. For example, "I'm intentionally singing terribly at the top of my lungs" is probably Sway Boldly no matter what, but could have multiple motives behind it, like creating a distraction, entertaining a small child, emptying a room, or getting people to pay you to stop. If your GM doesn't know what you really want, they can end up miscalibrating the opposition or narrating a result that's way off the mark from what you meant. 
 
-For their part, the GM should ask you for clarification if they're unsure - their side of this is discussed in more depth in [[Rules/5 Running The Game#What DO YOU WANT TO ACCOMPLISH\|5 Running The Game#What DO YOU WANT TO ACCOMPLISH]] later on.
+For their part, the GM should ask you for clarification if they're unsure - their side of this is discussed in more depth in [[Rules/5 Running The Game#What Do You Want To Accomplish\|5 Running The Game#What Do You Want To Accomplish]] later on.
 
 # Stunts
 #TODO 
@@ -174,6 +174,8 @@ Know factual information, either from memory or through deliberate study. How yo
 ## Lead
 #TODO Leading *groups*; individuals is Sway
 
+**TACTICAL GENIUS** You may spend a fate point, sacrifice your turn, and Lead Cleverly to overcome an opposition equal to the number of enemy characters in the current conflict. If you succeed, your opposition must declare their intended actions before your allies do. Your side may then declare your own actions in response before the round's actions start to resolve.
+
 ## Move
 #TODO Athletics
 
@@ -182,6 +184,15 @@ Know factual information, either from memory or through deliberate study. How yo
 
 ## Notice
 #TODO Exactly what it says on the tin
+
+**OVERCOME** #TODO 
+
+**CREATE AN ADVANTAGE** #TODO 
+
+**DEFEND** #TODO 
+
+### Sample Stunts
+**READ THE ENEMY** Once per session, you may delay your action declaration during a [[Rules/4 Challenges, Conflicts, & Contests#Conflicts\|conflict]]. If you do, your opposition must tell you what they're going to do this round. You may then declare your own action before the round's actions start to resolve.
 
 ## Operate
 Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is an extension of you, so you Move your mech just as you Move yourself). If the vehicle has built-in ranged weaponry of any kind (e.g. fighter jet, tank, cobbled-together post-apocalyptic flamethrower truck), using it is still Shooting.
