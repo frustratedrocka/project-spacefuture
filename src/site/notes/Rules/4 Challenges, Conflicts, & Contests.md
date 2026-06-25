@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:12:00.174-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-24T23:20:08.642-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Teamwork

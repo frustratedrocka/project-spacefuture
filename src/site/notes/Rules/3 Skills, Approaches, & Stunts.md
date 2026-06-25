@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T18:45:19.041-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-24T23:20:32.359-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 

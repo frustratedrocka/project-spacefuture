@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-a-putting-it-all-together/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:11:31.735-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-a-putting-it-all-together/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T23:20:23.336-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # SETUP

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules"],"noteIcon":"","updated":"2026-06-24T02:10:09.280-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-24T23:20:41.390-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Pilot Creation
