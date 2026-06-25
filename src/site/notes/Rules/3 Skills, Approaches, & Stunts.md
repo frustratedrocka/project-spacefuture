@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T15:32:03.455-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T18:15:26.453-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -149,8 +149,20 @@ Acquire does not cover burglary, pickpocketing, or other, more physical ways of 
 ## Fight
 #TODO Fight
 
+#TODO **OVERCOME**
+#TODO **CREATE AN ADVANTAGE**
+#TODO **ATTACK**
+#TODO **DEFEND**
+
+### Sample Stunts
+
 ## Interface
 #TODO Hacking and electronic warfare
+
+#TODO **OVERCOME**
+#TODO **CREATE AN ADVANTAGE**
+#TODO **ATTACK**
+#TODO **DEFEND**
 
 ## Know 
 >[!NOTE|show-title]+ An Odd Name Out
@@ -172,15 +184,34 @@ Know factual information, either from memory or through deliberate study. How yo
 **WHERE THE BODIES ARE BURIED** When you Know to create an advantage involving compromising information about a character's or group's past, gain an additional free invoke if you succeed (and if such information actually exists).
 
 ## Lead
-#TODO Leading *groups*; individuals is Sway
+Lead a group of people. Command troops in battle; rally a crowd; de-escalate an angry mob. 
+
+#TODO **OVERCOME**
+
+#TODO **CREATE AN ADVANTAGE**
+
+### Sample Stunts
+
+**GOOD PEP TALK** You may Lead instead of Tending when you attempt to heal a mental consequence.
+
+**RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke this aspect yourself if you take the +2.
 
 **TACTICAL GENIUS** You may spend a fate point, sacrifice your turn, and Lead Cleverly to overcome an opposition equal to the number of enemy characters in the current conflict. If you succeed, your opposition must declare their intended actions before your allies do. Your side may then declare your own actions in response before the round's actions start to resolve.
 
 ## Move
-#TODO Athletics
+#TODO Athleticism
+
+#TODO **OVERCOME**
+#TODO **CREATE AN ADVANTAGE**
+#TODO **DEFEND**
 
 ## Network
 #TODO Contacts
+
+#TODO **OVERCOME**
+#TODO **CREATE AN ADVANTAGE**
+#TODO **ATTACK**
+#TODO **DEFEND**
 
 ## Notice
 #TODO Exactly what it says on the tin
@@ -192,7 +223,7 @@ Know factual information, either from memory or through deliberate study. How yo
 **DEFEND** #TODO 
 
 ### Sample Stunts
-**READ THE ENEMY** Once per session, you may delay your action declaration during a [[Rules/4 Challenges, Conflicts, & Contests#Conflicts\|conflict]]. If you do, your opposition must tell you what they're going to do this round. You may then declare your own action before the round's actions start to resolve.
+**READ THE ENEMY** Once per session, you may delay your action declaration during a [[Rules/4 Challenges, Conflicts, & Contests#Conflicts\|conflict]]. If you do, you learn what your opponents intend to do this round. You may then declare your own action before the round's actions start to resolve.
 
 ## Operate
 Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is an extension of you, so you Move your mech just as you Move yourself). If the vehicle has built-in ranged weaponry of any kind (e.g. fighter jet, tank, cobbled-together post-apocalyptic flamethrower truck), using it is still Shooting.
@@ -218,17 +249,40 @@ Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is 
 ## Persevere
 #TODO Physique + will merge
 
+#TODO **OVERCOME**
+#TODO **CREATE AN ADVANTAGE**
+#TODO **DEFEND**
+
 ## Shoot
 #TODO Guns go pew pew
+
+#TODO **OVERCOME**
+#TODO **CREATE AN ADVANTAGE**
+#TODO **ATTACK**
+#TODO **DEFEND**
 
 ## Sway
 #TODO Convince, Deceive, Provoke all in one
 
+#TODO **OVERCOME**
+#TODO **CREATE AN ADVANTAGE**
+#TODO **ATTACK**
+
 ## Tend
 #TODO Doctor
+
+#TODO **OVERCOME**
+#TODO **CREATE AN ADVANTAGE**
 
 ## Tinker
 #TODO Craft
 
+#TODO **OVERCOME**
+#TODO **CREATE AN ADVANTAGE**
+
 ## Understand
 #TODO Empathy
+
+#TODO **OVERCOME**
+#TODO **CREATE AN ADVANTAGE**
+#TODO **DEFEND**
