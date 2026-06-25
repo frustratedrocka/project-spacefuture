@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T13:47:44.060-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T13:59:23.136-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Challenges
@@ -76,7 +76,7 @@ Between breakthroughs, a character may only use this option once.
 Extreme consequences exist outside of the normal consequence track, and though you may always choose to take one, you are never required to - even if your consequence track has filled, you may choose to be taken out rather than suffer an extreme consequence. These are huge, character-altering moments, and should therefore be rare. 
 
 ### Conceding
-You can **INTERRUPT** any action in a conflict to **CONCEDE**, as long as the dice haven't hit the table yet. You just give in. Tell everyone you're done, you can't keep going. You lose and exit the conflict, but **YOU GAIN A FATE POINT** plus an extra one for each consequence you took during that conflict. 
+You can **INTERRUPT** any action in a conflict to **CONCEDE**, as long as the dice haven't hit the table yet. You get to decide how you exit the conflict, but you may incur a cost of some kind, and can no longer work towards the objective or contribute to the scene. **YOU GAIN A FATE POINT**, plus 1 more for each consequence you took during that conflict. 
 
 ## Harm and Mechs
 ### Armor
@@ -100,9 +100,9 @@ A **DOOMED** mech (6 harm consequence) is moments from destruction - you can sti
 Unless there is a relevant aspect in play somewhere in your game that would prevent it (e.g. "critical supply shortage" at your hangar), Breakdown is cleared entirely at each breakthrough as your mech is repaired to full function. Such aspects are hugely impactful to the tone of a game, as well as to overall player agency; the GM should keep that in mind and have talked with the players about the kind of story they all want to tell before one is deployed.
 
 ### Losing Your Mech
-If you concede while your mech is Doomed, the mech is **DESTROYED** unless you or an ally in a position to intervene sacrifice a point of Refresh and describe how it survives the engagement through extreme luck or effort (as with buying stunts, you can never drop your refresh below 1). If your mech is destroyed, you acquire a new one at your next breakthrough, or earlier if the fiction offers an opportunity to do so (e.g. stealing one from an enemy base). Work with your GM to design a new mech that's appropriate for the state of the fiction and the resources available to your character. A replacement mech at breakthrough should never cost you resources outside the fiction layer; the game is premised on you being a mech pilot, and even though you spend a lot of time out of your mech, you should never be without access to one for an extended period.
+If you concede or take an [[Rules/4 Challenges, Conflicts, & Contests#Extreme Consequences\|extreme consequence]] while your mech is Doomed and you're inside it, the mech is **DESTROYED** unless you or an ally in a position to intervene sacrifice a point of Refresh and describe how it survives the engagement through extreme luck or effort (as with buying stunts, you can never drop your refresh below 1). If your mech is destroyed, you acquire a new one at your next breakthrough, or earlier if the fiction offers an opportunity to do so (e.g. stealing one from an enemy base). Work with your GM to design a new mech that's appropriate for the state of the fiction and the resources available to your character. A replacement mech at breakthrough should never cost you resources outside the fiction layer; the game is premised on you being a mech pilot, and even though you spend a lot of time out of your mech, you should never be without access to one for an extended period.
 
-If your mech is ever taken out while you're in it, it is destroyed, and whoever took you out gets to decide what happens to you as though you were taken out on foot. See [[Rules/2 Character Creation#Replacing Your Mech\|2 Character Creation#Replacing Your Mech]] for what to do if you survive.
+If your mech is ever taken out while you're in it, it is destroyed, and whoever took you out gets to decide what happens to you just like when you're taken out on foot. See [[Rules/2 Character Creation#Replacing Your Mech\|2 Character Creation#Replacing Your Mech]] for what to do if you survive.
 
 # Contests
 #TODO 
