@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiction/factions/","tags":["Tracker"],"noteIcon":"","updated":"2026-06-24T02:56:36.738-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/fiction/factions/","tags":["Tracker"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-24T23:24:04.910-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 Roles: Assault, Infiltrator, Vanguard, Psycho, Broker, Unknown
