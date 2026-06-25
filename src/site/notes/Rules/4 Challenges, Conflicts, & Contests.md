@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-24T23:20:08.642-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T08:50:27.355-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Teamwork
@@ -17,6 +17,20 @@ Timing matters when using some kinds of [[Rules/4 Challenges, Conflicts, & Conte
 - You can invoke an aspect on an ally's behalf to improve their roll at any time
 - You can help an ally *before* their turn comes around by creating an advantage or giving a +1 bonus as your action.
 - If they take their turn ahead of you, you can use up your turn (skipping it for that exchange) to give them a +1 teamwork bonus. 
+
+## Initiative
+This game uses a somewhat unusual initiative system. At the top of each round, the players and GM declare all of the PC and NPC actions up front. Then, they resolve in order based on the approach each character uses for their action. The order is the same as what's marked on the character sheet and in [[Rules/3 Skills, Approaches, & Stunts#Approaches\|3 Skills, Approaches, & Stunts#Approaches]]: Quickly, Boldly, Forcefully, Cleverly, Subtly, Carefully.
+
+### GM First
+The GM decides the actions for any NPCs in combat and writes them down on their initiative tracker in approach order. This should be quick - no more than a name or shorthand and 1-3 words of description (e.g. "Blademaster Charge + Draw Fire," "Ganger A+B Flank Detective," "Heavy Suppressive Fire").
+
+### Popcorn Declaration
+To speed up play while still allowing for teamwork, combination moves, and other tactical options, the players declare their actions in popcorn order. The first player to declare their action nominates the next player to declare, who then picks the next, and so on until all players have declared. 
+
+### Resolution
+Once everyone's actions are set, actions resolve in order of approach. Characters using the same approach compare their ranks in that approach; if those are tied, they compare their ranks in the skill they're using; if those are also tied, they each roll a single d10 and go in order from highest to lowest result.
+
+Sometimes, actions taken earlier in a round may invalidate actions that would have gone off later (e.g. a player planned to Shoot Carefully to snipe an enemy who was already taken out earlier in the round). If there is a reasonable way for such actions to be retargeted, the GM should allow the players to do so; otherwise, the action is lost. The retargeted action cannot change the character's approach - if it would, the action is also lost.
 
 ## Taking Harm
 When an attack is successful, the defender must absorb the blow and suffers harm equal to **THE NUMBER OF HITS** the attack exceeded the defense by. You can **PUSH THROUGH** hits by marking **STRAIN** boxes or suffering **CONSEQUENCES**. 
