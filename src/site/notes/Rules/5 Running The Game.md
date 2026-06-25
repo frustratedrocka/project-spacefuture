@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-24T23:19:53.821-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T00:19:43.941-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!
@@ -223,7 +223,7 @@ The extent to which detail matters depends on the rules you're using and the nat
 When prompting players for a decision, if you lay out multiple courses of action they could take, then wherever possible, add "or something else?" at the end, as seen above. This sounds small, but it's important. Offering the players a few options to choose from comes across as presenting a menu from which they may only choose something you've presented; adding "or something else?" leaves the door open for them to come up with something unexpected and preserves the intended effect - you're naming the most obvious (to you) actions available in this moment, not the *only* actions available.
 
 ## Resolution
-This step is broken out into two questions, since if the mechanics don't intervene to impose a result, then there's no need to explain that result - the player's action either succeeds or fails precisely as they described it.
+This step is broken out into two questions, since if the mechanics don't intervene to impose a result, then there's rarely any need to explain that result - the player's action either succeeds or fails precisely as they described it.
 
 ### Do Mechanics Take Over
 **MOST OF THE TIME**, the mechanics don't need to kick in for you to declare the result of an action. If there's no meaningful uncertainty or resistance in the fiction, then you shouldn't apply mechanics that inject that uncertainty or resistance artificially. 
@@ -248,12 +248,36 @@ As the GM, you should avoid narrating failure as a result of player character in
 Besides preserving the fantasy of the player characters, finding other reasons why they failed often results in new sources of tension or drama in the scene - this way, failure becomes a new problem to deal with on the next run through the loop, fuelling the fiction instead of closing it off.
 
 ## What Follows the Result
-*"If the words 'And Then' belong between \[your outline's] beats, you're fucked, you've got something pretty boring. What should happen between every beat is either the word 'Therefore' or 'But.'"* - Matt Stone & Trey Parker
+*"If the words 'And Then' belong between \[your outline's] beats, you're fucked, you've got something pretty boring. What should happen between every beat is either the word 'THEREFORE' or 'BUT.'"* - Matt Stone & Trey Parker
 
-#TODO Therefore / But 
-#TODO integrate into fiction state, integrated state becomes new step 1.
+Your player has acted, the dice have spoken, and you've figured out everything that's happened leading up to and during the action. Now what?
 
-Further reading: Hamlet's Hit Points by Robin Laws
+In this step, you figure out what effects emerge from the results of the player's action. These effects take two forms: **THEREFORE** or **BUT**.
+
+### Therefore, Butts
+The quote at the top of this section is fantastic advice for writers. The point is to ensure that there's always a clear flow of cause and effect through your story, giving it a propulsive momentum and sense of inevitability: This happens, THEREFORE our hero does something about it. BUT, something else gets in their way, THEREFORE the hero changes their plan to adjust for the new obstacle, THEREFORE they get what they wanted, BUT that angers someone else, THEREFORE the hero now has a new enemy. And so on. 
+
+This idea separates a story that makes sense and has a clear throughline pushing it forwards from a story that's more like a series of random events that happen to occur in sequence. There is, however, an obvious disconnect: this advice is meant for *storytellers*, and we're not storytellers, we're game masters. How are we supposed to use this advice without falling back on prepared plots?
+
+Simple: Figure out how every action leads to a THEREFORE or a BUT, and bring that THEREFORE or BUT in before you restart the loop. This way, the world always reacts to the players' actions. Sometimes it pushes back against them; sometimes, the players do unexpectedly and the world's opposition to them melts away like ice cream in front of a heat gun. This logic flow is how you keep things interesting. 
+
+Here are a few broad ways this can play out. This is not a complete list, but hopefully it's enough to help you start thinking about how this can come into play in your own games:
+>[!aside|s-t] FAILING FORWARD
+>All of the examples on this list are examples of "fail forward," even the last. "Fail forward" doesn't mean there's always a path open to your original goal; it means "failure *always changes something about the situation*." What you actually want to avoid is a failed roll that changes nothing and can just be retried again and again until it eventually succeeds - if you were going to let it succeed without complications no matter what, then there was never meaningful uncertainty and you shouldn't have wasted table time on it.
+
+- The player succeeded and accomplished what they set out to do, THEREFORE they've changed the situation, BUT that changed situation comes with its own built-in set of obstacles, THEREFORE there are new decisions to make.
+- The player succeeded, BUT something else went wrong in the process of accomplishing their goal, THEREFORE they now have a new problem. 
+- The player would have succeeded, BUT something went wrong and is standing between them and their objective, THEREFORE they now need to deal with whatever went wrong before they can achieve their original objective.
+- The player failed, BUT a new opportunity opens up, THEREFORE there's still a path forward, BUT it'll be more difficult in some way than their original idea.
+- The player failed, THEREFORE their original goal is completely cut off, THEREFORE they need to figure out something completely different.
+
+### "Dramatically Appropriate" Is Valid
+Not all complications or other effects of a result have to stem from something already in the scene. Often, the most interesting option available is inserting something new into the scene. This can be something from your prep that makes sense to bring in here, or an entry from a random table that turns out to be just now rounding a corner, or something you improvised on the spot because the dice said something had to go wrong.
+
+Sometimes, the effect of a result might not be felt immediately within the scene. It might make sense to progress something happening in the background, like ticking a clock to decrease the remaining time until reinforcements show up or #TODO
+
+### Fuzzy Logic
+The boundary between "What Explains The Result" and "What Follows The Result" is occasionally fuzzy. Sometimes - usually when  mechanics taking over results in a failure - the "BUT" is contained entirely within step 4B, and leads so directly to the "OK, now what?" question and integration that there's nothing left to add. This is fine; nobody's going to come take your GM privileges away from you for not dogmatically adhering to the precise structure one indie writer came up with to explain what most GMs are already doing. 
 
 ## Integration
 Now that you know what's changed at the end of the loop, it's time to put it all together and start the next cycle. It's important to re-center the narration on the key facts influencing the next decision, especially in complex or chaotic situations. If the change is subtle or the situation is relatively stable, it should be fairly easy for everyone to keep track of the scene state, so you don't need to belabor things that aren't obvious factors in the next decision. However, if there's a lot of moving parts in the scene, then it's best to quickly re-establish the current state of all those parts for any decision where they're relevant. 
@@ -264,38 +288,38 @@ Now that you know what's changed at the end of the loop, it's time to put it all
 > 3. Nomu wants to kill the target by sneaking up from behind and taking them out before they realize anything's wrong.
 > 4. Resolve the action:
 > 	4A. Do the mechanics take over? YES; there is significant uncertainty. Nomu rolls and fails.
-> 	4B. What explains the result? The target detected Nomu - perhaps through the movement of the air as the blade struck, perhaps through the faintest sound of a footstep on the wrong part of the ground - and dodged at the last second.
+> 	4B. What explains the result? Nomu would have succeeded, BUT the target detected him - perhaps through the movement of the air as the blade struck, perhaps through the faintest sound of a footstep on the wrong part of the ground - and dodged at the last second.
 > 5. THEREFORE, the target is now aware of Nomu and actively fighting back. 
 > 
 > Now, integrate that new fact into the scene as a whole as the loop restarts with a new Step 1. It's a pretty simple setup, but the changed situation means there's a few pre-established facts that have now become relevant to the decision and need to be narrated back in:
 > 
-> 1. "Nomu, your target is now aware of you and fighting back. He's a big guy and he knows how to handle himself; even unarmed, if he lands a hit on you or grabs you, it could be bad. What do you do?"
+> 6. "Nomu, your target is now aware of you and fighting back. He's a big guy and he knows how to handle himself; even unarmed, if he lands a hit on you or grabs you, it could be bad. What do you do?"
 
 > [!callout|bg-red c-plain no-icon ]+ EXAMPLE: THE MUSEUM JOB
-> 1.  The darkened museum looms over a thief as they stand before its staff entrance.
-> 2. The thief wants to get into the building.
-> 3. They want to get in by picking the lock on the staff entrance door.
-> 4. Resolve the action:
+> 7.  The darkened museum looms over a thief as they stand before its staff entrance.
+> 8. The thief wants to get into the building.
+> 9. They want to get in by picking the lock on the staff entrance door.
+> 10. Resolve the action:
 > 	4A. Do mechanics take over? YES; there is significant uncertainty. The player rolls to pick the lock and succeeds..
-> 	4B. What explains the result? You picked the lock without issue.
-> 5. THEREFORE: you are now inside the museum. THEREFORE: you are now faced with a maze of hallways and back doors leading to all kinds of offices, archives, and restoration facilities. BUT: you don't have a map of the staff areas, ALSO BUT, somewhere in the building there is at least one night guard on patrol.
+> 	4B. What explains the result? The thief picked the lock without issue.
+> 11. THEREFORE: you are now inside the museum. THEREFORE: you are now faced with a maze of hallways and back doors leading to all kinds of offices, archives, and restoration facilities. BUT: you don't have a map of the staff areas, ALSO BUT, somewhere in the building there is at least one night guard on patrol.
 >    
 > All of the new information in step 5 could've already been in your prep, or could be improvised. Either way, it was never relevant before, so it's only now becoming part of the established fiction. So now, we integrate it into 1. Since the situation has changed a lot, we need to set it all up in enough detail to make the decision space clear:
 >    
-> 1. "There's no sign of the night watchman, yet, as you find yourself in a narrow hallway that immediately hits a T-intersection. Both sides lead into maze-like corridors dotted with office doors, but based on what you learned when you were casing this place, the right passage probably includes a door somewhere that leads to the Kirchner and Mucha exhibits in the public gallery. You don't know where the left goes. There's no sign of the night guards yet. What do you do?"
+> 12. "There's no sign of the night watchman, yet, as you find yourself in a narrow hallway that immediately hits a T-intersection. Both sides lead into maze-like corridors dotted with office doors, but based on what you learned when you were casing this place, the right passage probably includes a door somewhere that leads to the Kirchner and Mucha exhibits in the public gallery. You don't know where the left goes. There's no sign of the night guards yet. What do you do?"
 
 > [!callout|bg-red c-plain no-icon ]+ EXAMPLE LOOP: IMPROVISED COMPLICATION
-> 1. A cyberpunk criminal team is in a narrow, winding alley wiith a kidnapped exec slung over one of their heavy's shoulders, the team's currently-bleeding-out face over the other, and corpo security in hot pursuit.
-> 2. The team wants to escape security.
-> 3. They want to escape by running for their lives out of the alley and back to the van they parked nearby.
-> 4. Resolve the action:
+> 13. A cyberpunk criminal team is in a narrow, winding alley wiith a kidnapped exec slung over one of their heavy's shoulders, the team's currently-bleeding-out face over the other, and corpo security in hot pursuit.
+> 14. The team wants to escape security.
+> 15. They want to escape by running for their lives out of the alley and back to the van they parked nearby.
+> 16. Resolve the action:
 >     4A. Do mechanics take over? YES; there is significant uncertainty. They roll as a group to outrun the security, and the result is "success, but with a complication" per the rules of their system.
 >     4B. What explains the result? It's a complicated success, so they do reach the van, BUT the dice have decided that something must go wrong. THEREFORE, you invent a new fact about the scene to make things harder without negating the success: A corrupt traffic cop is out writing parking tickets to meet their quota, knowing they won't be properly challenged even if the ticket is bullshit. That cop slaps a ticket on the team's van at the precise moment they make it out of the alley.
-> 5. THEREFORE, the cop looks up, sees the team of heavily-armored and blood-soaked criminals charging right at them, and, in a panic, reaches for their radio - now, they're on the verge of becoming a real problem. THEREFORE, the team can't just immediately get in the van and drive off without in some way addressing the cop, which will take precious seconds, THEREFORE the face *might* (depending on how severe a consequence the rules demand) lose even more blood and get closer to death (this may mean ticking a clock, marking negative health, a death saving throw, or some other system-appropriate mechanical adjustment).
+> 17. THEREFORE, the cop looks up, sees the team of heavily-armored and blood-soaked criminals charging right at them, and, in a panic, reaches for their radio - now, they're on the verge of becoming a real problem. THEREFORE, the team can't just immediately get in the van and drive off without in some way addressing the cop, which will take precious seconds, THEREFORE the face *might* (depending on how severe a consequence the rules demand) lose even more blood and get closer to death (this may mean ticking a clock, marking negative health, a death saving throw, or some other system-appropriate mechanical adjustment).
 >
 > Now, we integrate that into the total "what's going on" state as the loop kicks over back to 1 and re-set the scene with the new or updated positions of all the relevant decision factors:
 > 
-> 1. "Your face is running out of blood, your heavy's got her hands full, there's a cop in front of your van about to call in backup, and security is still just a few seconds behind you. What do you do?"
+> 18. "Your face is running out of blood, your heavy's got her hands full, there's a cop in front of your van about to call in backup, and security is still just a few seconds behind you. What do you do?"
 
 # The Fader Board
 "Fader" is the proper name for the large slider knobs you see on a sound mixing board. Throughout a concert, a sound engineer constantly adjusts - "rides" - the faders to make sure the music as a whole sounds the way it should. Sometimes these adjustments are drastic, sometimes they're subtle. But together, they're the central control board for the entire experience of the show.
@@ -322,6 +346,8 @@ Instances where something radically changes the tone of the entire narrative in 
 **MOOD** is how you want your players to feel *right now*. You'll modulate this more actively on a scene-by-scene basis. Most scenes will maintain a single dominant mood throughout (e.g. funny, relaxed, gloomy, intense, terrifying) with only minor adjustments, but mood can also shift drastically within a scene (e.g. surprise reinforcements instantly turn a battle from a grim last stand into a triumphant victory; a surprise reveal recontextualizes a lighthearted scene as something horrific). 
 
 **ATMOSPHERE** is related but distinct. It's the *external expression* of mood. This is where a lot of your moment-to-moment execution lives. It primarily derives from the wording and texture of your narration, but also includes things like character voices, music choice, handouts, and ambient lighting, if you're into that (personally, I enjoy doing voices and *need* music at the table to put myself in the right headspace and dedicate a lot of time and effort to picking out the perfect tracks, but for most people that's complete overkill - and I play primarily online anyway so lighting and handouts are a non-factor).
+
+I recommend Hamlet's Hit Points by Robin Laws as further reading. In it, Laws breaks down a selection of popular stories in depth to learn exactly how they modulate mood and atmosphere through the story by using sequences of "up beats" and "down beats," and explains how these techniques can still be applied at the game table where those beats are often up to the whims of the dice. 
 
 ### Optional: 3-Axis Acting
 I am not an acting coach or a director, so I'll parrot someone who is - once again, Taliesin Jaffe. Once you have an NPC's personality and immediate goals worked out (see [[Rules/5 Running The Game#The Seven Dwarfs Method\|#The Seven Dwarfs Method]] in a pinch), if you'd like to go the extra mile and inhabit the character as performance, the easiest way to distinguish them is by making two or three snap judgement calls, each of which can be High, Medium, or Low.
