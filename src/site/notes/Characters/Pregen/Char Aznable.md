@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pregen/char-aznable/","noteIcon":"","updated":"2026-06-23T23:31:47.281-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/pregen/char-aznable/","noteIcon":"","updated":"2026-06-23T23:31:47.000-04:00","dg-note-properties":{}}
 ---
 
 > [!STATBLOCKS|columns full flex] CHARACTER SHEET

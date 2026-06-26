@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pregen/quattro-bajeena/","noteIcon":"","updated":"2026-06-23T23:32:11.339-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/pregen/quattro-bajeena/","noteIcon":"","updated":"2026-06-23T23:32:11.000-04:00","dg-note-properties":{}}
 ---
 
 > [!STATBLOCKS|columns full flex] CHARACTER SHEET

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pregen/kamille-bidan-start/","noteIcon":"","updated":"2026-06-23T23:32:07.672-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/pregen/kamille-bidan-start/","noteIcon":"","updated":"2026-06-23T23:32:07.000-04:00","dg-note-properties":{}}
 ---
 
 > [!STATBLOCKS|columns full flex] CHARACTER SHEET
