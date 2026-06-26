@@ -27,8 +27,11 @@ h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
 p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
 		font-size: 11pt;
 		font-family: "Quantico" !important;
-		color: hsl(185, 19%, 86%) !important;
+		color: hsl(210, 3%, 89%) !important;
 	};
+}
+.filename, .foldername {
+  font-family:"Quantico" !important;
 }
 
 /*Alt Color Scheme*/
