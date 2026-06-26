@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules"],"noteIcon":"","updated":"2026-06-25T23:28:45.551-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T02:33:17.329-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # SETUP
@@ -156,5 +156,98 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **ALEX** I back up, put my hands up like "I'm innocent, he just swung at me out of nowhere" and say "I think this gentleman might've had one too many!"
 
-# Combat
-#TODO 
+# CONFLICT
+**GM** So. The bar's on fire in the rear view mirror, your asset is bleeding out in the back seat of your car, the streets are filled with panicking civilians trying to get clear, and you've got two cars in pursuit with their occupants shooting at you. What do you do?
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+>The two pursuing cars, and their occupants, count as a pair of [[Rules/6 Running The Game#Throwaway NPCs\|6 Running The Game#Throwaway NPCs]]. The GM has assigned them Good ranks in Operate and Shoot, which will double to form dice pools of 4 for most of their actions during this conflict. He's also given each car 3 strain boxes, since the vehicles themselves aren't trivial to take out and there's people in both, but they're still nowhere near tough enough to get consequence tracks. 
+>
+>The GM writes down the actions for the two pursuing cars. Pretty simple: One's going to keep firing (Shoot Forcefully), the other's going to try and run the players' car off the road (Operate Forcefully).
+
+**ALEX** I want to try and find an alley to lose them in - pull some kind of handbrake turn and drift in, make them at least slow down if they turn and follow.
+
+**GM** Ok, sounds like Operate Cleverly. *(The GM marks Alex in the "Cleverly" bracket; he'll be going after the pursuers).*
+
+**ALEX** Brigit, you're on. 
+
+**BRIGIT** I smash the back window and start laying down machine gun fire. 
+
+**GM** Ok, are you trying to take out one of the vehicles, one of the drivers or gunners, something else?
+
+**BRIGIT** I'm more interested in just laying down a hail of bullets and making it harder for them to get close.
+
+**GM** Got it, sounds like Shoot Forcefully?
+
+**BRIGIT** Yeah, that's what I was going for. Zach?
+
+**GM** *(Marks Brigit down as Forcefully for the round)* 
+
+**ZACH** Our asset is about to have more blood outside his body than in it and I would like him to *not*. Plugging up the wounds however I can before he dies on us. 
+
+**GM** Ok, Tend Quickly. *(marks Zach as Quickly)* That means you're up first, Opposition 4. 
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+>The asset is a major NPC - even though his stats aren't the most impressive, the GM anticipated things getting violent during session prep. He gave the NPC a consequence track so he'd be at least somewhat durable - but only 2 boxes of Strain and no Mild consequence, since he's not *that* important, and the GM wanted his survival to still be at serious risk in this scenario. 
+>
+>That durability turned out to be necessary - the asset has taken a Severe Consequence, "Bleeding Out." Because it's Severe, and the back of a speeding car during a firefight definitely count sub-par conditions for first aid, this will be  an overcome action against opposition 4.
+>
+>Fortunately for Zach, he's got a stunt designed for precisely this scenario: "FIELD MEDICINE: +1 when you Tend an ally during a conflict, +2 if you put yourself at risk in the process."
+
+**ZACH** 4?! Shit OK, Field Medicine do your thing, and I'll put myself at risk for the +2. I'm not going to be able to try and take any kind of cover while I'm working on this guy. *(Rolls 7 dice to Tend Quickly; 0 successes)* Shit! *"Deft Hands"* don't fail me now! *(spends his last fate point to reroll; gets the 2 hits he needs)* Ok, 2 hits, plus the stunt that ties it.
+
+**GM** Alright, the good news is you do it, the asset is stable! *(Renames the asset's "Bleeding Out" )*The bad news is, you're grazed by a bullet while you're working, take 2 harm.
+
+**ZACH** That's a problem for later, worth it. *(Marks 2 boxes of Strain)* Ok, who's next?
+
+**GM** Brigit, what's your Forcefully?
+
+**BRIGIT** 3!
+
+**GM** Awesome, then you're up next. Since you're basically creating an area hazard I'll say this is passive, just Opp 1. 
+
+**BRIGIT** Easy money. *(rolls 7 dice; gets 1)* ...Famous last words, never mind. Still tied, 1.
+
+**GM** OK, then that *"Hail of Lead"* is going to be a boost.
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+>The GM could write "Hail of Lead [B]" or something similar on an index card to mark this boost, but since speed of play is the priority right now and it's probably about to get used immediately, he leaves it up to everyone's memory instead.
+>
+>Since the two cars have the same Forcefully rank (nonexistent) and the same rank in the skills they're using (2), they could roll off - but since they're on the same side, they get to coordinate, and the GM gets to choose which one goes first. 
+
+**GM** First car up next, going to shoot right back at you. Alex, you're defending here to try and keep the car in one piece, what's that look like?
+
+**ALEX** I'm going to try and dodge in and out of traffic to make sure they can't get a clean shot. Human shields are fighting dirty but this is an emergency.
+
+**GM** Oof, good thing this country already hates you otherwise that might be rough on your reputations. Sounds like Operate Carefully?
+
+**ALEX** I was thinking Cleverly, since I'm trying to figure out the best way to block the bullet trajectory.
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+>The players are always allowed to negotiate choice of approach if they disagree with the GM's call. The GM has the final word, but should work with the player to get everyone on the same page.
+
+**GM** Makes sense to me, roll it. They've got... *(rolls 4 dice - 7, 8, 9, 10)* holy shit, 4 hits. I don't think they care much about civilians getting in the way.
+
+**ALEX** Ohhh boy. Well, we'll see. *(rolls 7 dice; gets a 10 and an 8)* 3 hits, and I'll take that boost to tie it up - Brigit, I think your suppressive fire is keeping them from pressing the openings they do get.
+
+**BRIGIT** AAAAAAAHAHAHA! EAT LEAD, FUCKERS!
+
+**GM** Next up, the other car's going to try and get up alongside you and run you off the road into a lamppost or wall or parked car or something. 
+
+**BRIGIT** Actually can I defend here? Bring the gun around and try to cut off the approach?
+
+**GM** Sure, that works! I think Shoot Forcefully again?
+
+**BRIGIT** Works for me.
+
+**GM** Alright, they get... (*rolls 4 dice; one hit, one 1*) 0, but whatever that asset knows, they *really* don't want you to find out, and that means they're taking the boost from the last tie - *"Desperate Measures"*. *(rerolls; one hit, one 10, one 1)* Better, 2 to you. 
+
+**BRIGIT** *(Rolls 7 dice; three hits, two 1s)* Damn, 1 again. Good thing I'm a *"Small Girl With A Big Gun"* *(spends a fate point)* Up to 2 and tied. 
+
+**GM** Ok, then that's another boost to them, but they don't get to try and sideswipe. you. Which is good, because Alex, you're already going to need to be Good for this maneuver.
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+>Alex is using Overcome here against the environment to try and thread a needle with the car, so it's a passive opposition target.
+
+**ALEX** Come on baby, hold together. *(Rolls 7 dice for his previously-agreed-on Operate Cleverly; gets 2 hits)* Tie, not great, not terrible. So I do pull that crazy handbrake turn and screech into the alley, but...
+
+**GM** But, you hear a *crunch* as both of your rear view mirrors go flying off, and you've got inches to spare on either side. But your pursuit definitely didn't see that coming, and you can hear the screech of tires as they try to pull around and follow. New round, let's see how well that goes for them...

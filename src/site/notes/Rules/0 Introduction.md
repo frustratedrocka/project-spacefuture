@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T23:14:51.563-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T01:16:12.820-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Wtf Am I Reading?!

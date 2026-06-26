@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/6-running-the-game/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T23:52:46.450-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/6-running-the-game/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T01:17:08.826-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!

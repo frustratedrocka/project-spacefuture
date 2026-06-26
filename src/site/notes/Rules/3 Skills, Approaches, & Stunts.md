@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T23:28:21.014-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T02:07:04.094-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -64,7 +64,7 @@ Remember that **MECHANICS FOLLOW THE FICTION**.  How you describe your character
 If you're ever in doubt, confused, or struggling to figure out which approach the action you have in mind might fall under, just remember this rule: **SAY WHAT YOU'RE DOING. THE GM WILL TELL YOU WHAT TO ROLL.** 
 
 ## Order of Operations
-You may notice that the above list is ordered strangely. That's because this doubles as the initiative order: whenever multiple characters act simultaneously, such as in a [[Rules/4 Challenges, Conflicts, & Contests\|4 Challenges, Conflicts, & Contests]], whoever's approaching the task Quickly goes first. Then anyone approaching Boldly, then Forcefully, and so on. If multiple characters are using the same approach, whoever has the higher value goes first; if that's tied, compare the value of the skills they're using; if that's also tied, roll off.
+You may notice that the above list is ordered strangely. That's because this doubles as the initiative order: whenever multiple characters act simultaneously, such as in a [[Rules/4 Challenges, Conflicts, & Contests\|4 Challenges, Conflicts, & Contests]], whoever's approaching the task Quickly goes first. Then anyone approaching Boldly, then Forcefully, and so on. If multiple characters are using the same approach, whoever has the higher value goes first; if that's tied, compare the value of the skills they're using. If that's also tied, roll off if the tied characters are opposed, or choose an order if they're allies.
 
 Defend actions occur simultaneously with and as a result of someone else attacking or creating an advantage, so they exist outside of the initiative order and use whatever approach makes sense based on your narration.
 
@@ -196,7 +196,7 @@ Lead a group of people. Command troops in battle; rally a crowd; de-escalate an 
 
 **RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke this aspect yourself if you take the +2.
 
-**TACTICAL GENIUS** You may spend a fate point, sacrifice your turn, and Lead Cleverly to overcome an opposition equal to the number of enemy characters in the current conflict. If you succeed, your opposition must declare their intended actions before your allies do. Your side may then declare your own actions in response before the round's actions start to resolve.
+**TACTICAL GENIUS** You may spend a fate point, sacrifice your turn, and Lead Cleverly to overcome an opposition equal to the number of enemy characters in the current conflict. If you succeed, your opposition must reveal their planned actions. Your side may then declare your own actions in response before the round's actions start to resolve.
 
 ## Move
 #TODO Athleticism
@@ -251,7 +251,7 @@ Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is 
 
 #TODO **OVERCOME**
 #TODO **CREATE AN ADVANTAGE**
-#TODO **DEFEND**
+**DEFEND** Shrug off or ignore damage through grit, determination, or sheer toughness.
 
 ## Shoot
 #TODO Guns go pew pew
