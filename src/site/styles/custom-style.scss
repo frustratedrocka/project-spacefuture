@@ -35,7 +35,7 @@ p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
   		text-transform:uppercase;
 		color: hsl(210, 3%, 89%) !important;
 	};
-.internal-link, .external-link, .filename, .toc-active{
+.internal-link:not(.is-unresolved), .external-link, .filename, .toc-active{
 		color: hsl(186, 71%, 69%) !important;
 	};
 }
