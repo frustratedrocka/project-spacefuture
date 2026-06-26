@@ -17,7 +17,7 @@
 | 2 | 2 | 2 | 2 |
 
 **BELIEFS** 
-**PARAGON** `=this.Paragon`
+**PARAGON** 
 
 
 ```base
