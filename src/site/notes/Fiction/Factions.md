@@ -27,7 +27,7 @@ filters:
     - Faction == "Faction 1"
 views:
   - type: table
-    name: NPC List
+    name: Known Members
     order:
       - file.name
       - Concept
@@ -63,7 +63,7 @@ filters:
     - Faction == "Faction 2"
 views:
   - type: table
-    name: Faction 2
+    name: Known Members
     order:
       - file.name
       - Concept
