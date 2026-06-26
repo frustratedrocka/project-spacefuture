@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T02:53:22.494-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T03:00:41.631-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # SETUP
 Alex, Brigit, and Zach are spies inserted deep behind enemy lines, attending a prearranged meet at a bar with an asset to receive critical intel. Unfortunately, when they reach the bar, they find a large group of off-duty enemy soldiers throwing a party to celebrate someone's promotion to NCO rank. They need to keep their heads down, get the intel, and get out with a minimum of trouble. That means they're mostly going to be doing things Subtly, though as you'll see, there's still room for plenty of other approaches.
 
-# The Scene
+# EXAMPLE Scene
 **ALEX** Well this isn't great. (*The other PCs murmur agreement*).
 
 **GM** No it isn't! What are you going to do about it?
@@ -156,7 +156,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **ALEX** I back up, put my hands up like "I'm innocent, he just swung at me out of nowhere" and say "I think this gentleman might've had one too many!"
 
-# CONFLICT
+# EXAMPLE CONFLICT
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >Several minutes after the above...
 
