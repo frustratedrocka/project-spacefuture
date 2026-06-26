@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/6-running-the-game/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T23:52:00.008-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/6-running-the-game/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T23:52:46.450-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!
@@ -262,7 +262,7 @@ This idea separates a story that makes sense and has a clear throughline pushing
 Simple: Figure out how every action leads to a THEREFORE or a BUT, and bring that THEREFORE or BUT in before you restart the loop. This way, the world always reacts to the players' actions. Sometimes it pushes back against them; sometimes, the players do unexpectedly and the world's opposition to them melts away like ice cream in front of a heat gun. This logic flow is how you keep things interesting. 
 
 Here are a few broad ways this can play out. This is not a complete list, but hopefully it's enough to help you start thinking about how this can come into play in your own games:
->[!aside|s-t] FAILING FORWARD
+>[!aside|s-t]+ FAILING FORWARD
 >All of the examples on this list are examples of "fail forward," even the last. "Fail forward" doesn't mean there's always a path open to your original goal; it means "failure *always changes something about the situation*." What you actually want to avoid is a failed roll that changes nothing and can just be retried again and again until it eventually succeeds - if you were going to let it succeed without complications no matter what, then there was never meaningful uncertainty and you shouldn't have wasted table time on it.
 
 - The player succeeded and accomplished what they set out to do, THEREFORE they've changed the situation, BUT that changed situation comes with its own built-in set of obstacles, THEREFORE there are new decisions to make.
