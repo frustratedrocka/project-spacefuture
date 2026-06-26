@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T02:52:17.147-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T02:53:22.494-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # SETUP
@@ -246,7 +246,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **BRIGIT** *(Rolls 7 dice; three hits, two 1s)* Damn, 1 again. Good thing I'm a *"Small Girl With A Big Gun"* *(spends a fate point)* Up to 2 and tied. 
 
-**GM** Ok, then that's another boost to them, but they don't get to try and sideswipe. you. *(Writes "Enemy Boost" on an index card, but doesn't name it yet)* Which is good, because Alex, you're already going to need to be Good for this maneuver.
+**GM** Ok, then that's another boost to them, but they don't get to try and sideswipe you. *(Writes "Enemy Boost" on an index card, but doesn't name it yet)* Which is good, because Alex, you're already going to need to be Good for this maneuver.
 
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >Alex is using Overcome here against the environment to try and thread a needle with the car, so it's a passive opposition target.
