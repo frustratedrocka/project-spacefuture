@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T01:16:19.758-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T03:39:33.713-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Taking Action
@@ -163,6 +163,11 @@ Because you roll to defend as a reaction, your opposition is almost always activ
 **TIE:** You grant your opponent a [[Aspects#Boosts\|boost]].
 **SUCCESS:** You avoid the attack or the attempt to gain an advantage on you.
 **SUCCESS WITH STYLE:** As normal, but you also gain a boost as you momentarily turn the tables.
+
+## Group Action
+When multiple characters act as a group, the character with the highest rank in the skill being used leads the action and determines the group's overall approach. All participants in the action contribute up to 2 dice to the leader's pool: 1 die if they have any rank in the skill being used, and / or 1 die if the approach being used matches the character's highest-ranked approach.
+
+Group actions cannot be used during [[Rules/4 Challenges, Conflicts, & Contests\|conflicts, contests, or challenges]]. 
 
 # Aspects & Fate Points
 >[!aside|s-t]+ ASPECTS AT THE TABLE
