@@ -16,7 +16,7 @@
 
 |           Character            |                 Concept                 | Relationship |              Loyalty               |
 | :----------------------------: | :-------------------------------------: | :----------: | :--------------------------------: |
-|    `h`[["Jerid Messa"\|"Jerid Messa"]]`/h`    |     `h`Desperate People-Pleaser`/h`     |     N/A      |    `h`Likes what power buys`/h`    |
+|    `h`[["Jerid Messa"\|"Jerid Messa"]]`/h`    |     `h`TEST People-Pleaser`/h`     |     N/A      |    `h`Likes what power buys`/h`    |
 |    `h`[["Yazan Gable"\|"Yazan Gable"]]`/h`    | `h`Sanctioned Battlefield Murderer`/h`  |     N/A      |    `h`Just happy to be here`/h`    |
 | `h`[["Paptimus Scirocco"\|"Paptimus Scirocco"]]`/h` |   `h`Power-Hungry Malignant Tumor`/h`   |     N/A      |       `h`Personal agenda`/h`       |
 |  `h`[["Mashymyre Cello"\|"Mashymyre Cello"]]`/h`  | `h`Decent Commander, Indecent Cause`/h` |     N/A      | `h`Personal Loyalty to Jamitov`/h` |
