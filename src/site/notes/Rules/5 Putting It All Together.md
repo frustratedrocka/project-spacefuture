@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T02:41:11.564-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T02:52:17.147-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # SETUP
@@ -157,7 +157,10 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 **ALEX** I back up, put my hands up like "I'm innocent, he just swung at me out of nowhere" and say "I think this gentleman might've had one too many!"
 
 # CONFLICT
-**GM** So. The bar's on fire in the rear view mirror, your asset is bleeding out in the back seat of your car, the streets are filled with panicking civilians trying to get clear, and you've got two cars in pursuit with their occupants shooting at you. What do you do?
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+>Several minutes after the above...
+
+**GM** The bar's on fire in the rear view mirror, your asset is bleeding out in the back seat of your car, the streets are filled with panicking civilians trying to get clear as you tear down the road, and you've got two cars in pursuit with their occupants shooting at you. What do you do?
 
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >The two pursuing cars, and their occupants, count as a pair of [[Rules/6 Running The Game#Throwaway NPCs\|6 Running The Game#Throwaway NPCs]]. The GM has assigned them Good ranks in Operate and Shoot, which will double to form dice pools of 4 for most of their actions during this conflict. He's also given each car 3 strain boxes, since the vehicles themselves aren't trivial to take out and there's people in both, but they're still nowhere near tough enough to get consequence tracks. 
@@ -182,7 +185,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **GM** *(Marks Brigit down as Forcefully for the round)* 
 
-**ZACH** Our asset is about to have more blood outside his body than in it and I would like him to *not*. Plugging up the wounds however I can before he dies on us. 
+**ZACH** Our asset's about to have more blood outside his body than in it and I would like him to *not*. Plugging up the wounds however I can before he dies on us. 
 
 **GM** Ok, Tend Quickly. *(marks Zach as Quickly)* That means you're up first, Opposition 4. 
 
@@ -191,7 +194,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 >
 >That durability turned out to be necessary - the asset has taken a Severe Consequence, "Bleeding Out." Because it's Severe, and the back of a speeding car during a firefight definitely count sub-par conditions for first aid, this will be  an overcome action against opposition 4.
 >
->Fortunately for Zach, he's got a stunt designed for precisely this scenario: "FIELD MEDICINE: +1 when you Tend an ally during a conflict, +2 if you put yourself at risk in the process."
+>Fortunately for the asset, Zach has a stunt designed for precisely this scenario: "FIELD MEDICINE: +1 when you Tend an ally during a conflict, +2 if you put yourself at risk in the process."
 
 **ZACH** 4?! Shit OK, Field Medicine do your thing, and I'll put myself at risk for the +2. I'm not going to be able to try and take any kind of cover while I'm working on this guy. *(Rolls 7 dice to Tend Quickly; 0 successes)* Shit! *"Deft Hands"* don't fail me now! *(spends his last fate point to reroll; gets the 2 hits he needs)* Ok, 2 hits, plus the stunt that ties it.
 
