@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-24T23:20:46.462-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T23:28:20.990-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Taking Action
@@ -76,7 +76,7 @@ A **SEVERE COST** is significant and can have a long-lasting impact - something 
 
 There are only two ways to trigger this: a catastrophic failure gives the GM the option to escalate to a severe cost, or the player can accept an offer from the GM to turn a failure into a success with a guaranteed severe cost.
 
-The GM can find more detailed guidance on how and when to apply different complications in [[Rules/5 Running The Game#Calibrating Costs\|5 Running The Game#Calibrating Costs]]. 
+The GM can find more detailed guidance on how and when to apply different complications in [[Rules/6 Running The Game#Calibrating Costs\|6 Running The Game#Calibrating Costs]]. 
 
 ## The Four Actions
 > [!aside|show-title] THE LIMITS OF ROLLING
@@ -214,7 +214,7 @@ The GM has **VETO POWER** over declared details, and should exercise it if any o
 - The detail would change the game in a way that's no longer consistent with the agreed-upon premise, tone, or content restrictions.
 - The rest of the table isn't on board with the idea
 
-For further GM guidance on this option, see [[Rules/5 Running The Game#\|5 Running The Game#]]
+For further GM guidance on this option, see [[Rules/6 Running The Game#\|6 Running The Game#]]
 
 ### Compelling an Aspect
 

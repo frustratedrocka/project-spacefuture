@@ -4,36 +4,36 @@
 
 Roles: Assault, Infiltrator, Vanguard, Psycho, Broker, Unknown
 Shakeup: At the end of each scenario, each faction's most insubordinate character 
-#### `redacted`
+#### `h`Rebels`/h`
 
 |    Character    | Concept | Relationship | Loyalty |
 | :-------------: | :-----: | :----------: | :-----: |
 | [[The Captain\|The Captain]] |   ???   |     ???      |   ???   |
 
 
-#### `redacted`
+#### `h`Oppressors`/h`
 
 |           Character            |                 Concept                 | Relationship |              Loyalty               |
 | :----------------------------: | :-------------------------------------: | :----------: | :--------------------------------: |
-|    `redacted`    |     `redacted`     |     N/A      |    `redacted`    |
-|    `redacted`    | `redacted`  |     N/A      |    `redacted`    |
-| `redacted` |   `redacted`   |     N/A      |       `redacted`       |
-|  `redacted`  | `redacted` |     N/A      | `redacted` |
+|    `h`[["Jerid Messa"\|"Jerid Messa"]]`/h`    |     `h`Desperate People-Pleaser`/h`     |     N/A      |    `h`Likes what power buys`/h`    |
+|    `h`[["Yazan Gable"\|"Yazan Gable"]]`/h`    | `h`Sanctioned Battlefield Murderer`/h`  |     N/A      |    `h`Just happy to be here`/h`    |
+| `h`[["Paptimus Scirocco"\|"Paptimus Scirocco"]]`/h` |   `h`Power-Hungry Malignant Tumor`/h`   |     N/A      |       `h`Personal agenda`/h`       |
+|  `h`[["Mashymyre Cello"\|"Mashymyre Cello"]]`/h`  | `h`Decent Commander, Indecent Cause`/h` |     N/A      | `h`Personal Loyalty to Jamitov`/h` |
 
-#### `redacted`
+#### `h`Insiders`/h`
 
 |          Character           |            Concept             |            Relationship            |           Loyalty            |
 | :--------------------------: | :----------------------------: | :--------------------------------: | :--------------------------: |
-| `redacted` | `redacted` | `redacted` | `redacted` |
+| `h`[["Melanie Carbine"\|"Melanie Carbine"]]`/h` | `h`Indispensible Profiteer`/h` | `h`Sympathetic But Compromised`/h` | `h`Whoever Loses, We Win`/h` |
 
 
-#### `redacted`
+#### `h`Survivors`/h`
 
 |        Character        |                Concept                | Relationship |      Loyalty       |
 | :---------------------: | :-----------------------------------: | :----------: | :----------------: |
-| `redacted` | `redacted` |     N/A      | `redacted` |
+| `h`[["Io Fleming"\|"Io Fleming"]]`/h` | `h`Vengeful, Vicious, Has A Point`/h` |     N/A      | `h`Goals align`/h` |
 
-#### `redacted`
+#### `h`Third Party`/h`
 
 |Character|Concept|Relationship|Loyalty|
 |---|---|---|---|

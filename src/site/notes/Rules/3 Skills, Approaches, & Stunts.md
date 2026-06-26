@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T18:15:26.000-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T23:28:21.014-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -92,7 +92,7 @@ Now, the GM *could* still have you get caught anyway, but however that plays out
 
 It's also important that you communicate *what you're actually trying to accomplish*, not just the physical action you're performing. This defines what success actually means, and it's not always obvious or self-explanatory. For example, "I'm intentionally singing terribly at the top of my lungs" is probably Sway Boldly no matter what, but could have multiple motives behind it, like creating a distraction, entertaining a small child, emptying a room, or getting people to pay you to stop. If your GM doesn't know what you really want, they can end up miscalibrating the opposition or narrating a result that's way off the mark from what you meant. 
 
-For their part, the GM should ask you for clarification if they're unsure - their side of this is discussed in more depth in [[Rules/5 Running The Game#What Do You Want To Accomplish\|5 Running The Game#What Do You Want To Accomplish]] later on.
+For their part, the GM should ask you for clarification if they're unsure - their side of this is discussed in more depth in [[Rules/6 Running The Game#What Do You Want To Accomplish\|6 Running The Game#What Do You Want To Accomplish]] later on.
 
 # Stunts
 #TODO 
