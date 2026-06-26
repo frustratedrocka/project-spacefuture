@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-24T23:20:55.382-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T23:14:51.563-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Wtf Am I Reading?!
@@ -35,5 +35,9 @@ At the time of this writing, this game has no dedicated virtual tabletop support
 
 In the meantime, my recommended setup for online play is to use **GOOGLE SHEETS** with each player editing a different tab of the same file at once. There's a template available at #TODO (link goes here) that you can make an editable copy of in your own drive, or you can make one yourself based on the [[Characters/Blank\|sample sheet]] included in this document. Make a new sheet tab for each PC, one more that the GM can use to see every PC's aspects in one place, and a final sheet you can fill with "virtual index cards" to track temporary aspects and free invokes as they enter and exit play.
 
-# Next
-[[Rules/1 Core Rules\|1 Core Rules]]
+# Legal
+This work is based on [Fate Core System](https://www.faterpg.com/) and Fate Accelerated Edition, products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
+
+This work is based on [Fate Condensed](https://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by PK Sullivan, Lara Turner, Fred Hicks, Richard Bellingham, Robert Hanz, and Sophie Lagacé, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license.](https://creativecommons.org/licenses/by/3.0/).
+
+The Powered by Fate logo is © Evil Hat Productions, LLC and is used with permission.
