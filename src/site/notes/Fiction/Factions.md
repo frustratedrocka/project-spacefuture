@@ -12,24 +12,30 @@
 
 
 
-# Vitals
-
 |        Fealty         |        Fellowship         |        Force         |        Fraternity         |
 | :-------------------: | :-----------------------: | :------------------: | :-----------------------: |
 | 2 | 2 | 2 | 2 |
+**BELIEFS** 
+**PARAGON** `=this.Paragon`
 
-## Beliefs
-- `= this.fctn_belief_1`
-- `= this.fctn_belief_2`
-- `= this.fctn_belief_3`
-- `= this.fctn_belief_4`
+```base
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Faction1
+    filters:
+      and:
+        - file.hasTag("npc", "faction_1")
+    order:
+      - file.name
+      - Concept
+      - Relationship
+      - Loyalty
+    markers: none
 
-## Roster
-Paragon: `=this.fctn_paragon`
+```
 
-|    Character    | Concept | Relationship | Loyalty |
-| :-------------: | :-----: | :----------: | :-----: |
-| [[The Captain\|The Captain]] |   ???   |     ???      |   ???   |
 
 
 
