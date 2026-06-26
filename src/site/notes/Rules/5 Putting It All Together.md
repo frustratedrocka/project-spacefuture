@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T02:33:17.329-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T02:41:11.564-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # SETUP
@@ -231,7 +231,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **BRIGIT** AAAAAAAHAHAHA! EAT LEAD, FUCKERS!
 
-**GM** Next up, the other car's going to try and get up alongside you and run you off the road into a lamppost or wall or parked car or something. 
+**GM** Next up, Alex, the other car's going to try and get up alongside you and run you off the road into a lamppost or wall or parked car or something. 
 
 **BRIGIT** Actually can I defend here? Bring the gun around and try to cut off the approach?
 
@@ -243,7 +243,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **BRIGIT** *(Rolls 7 dice; three hits, two 1s)* Damn, 1 again. Good thing I'm a *"Small Girl With A Big Gun"* *(spends a fate point)* Up to 2 and tied. 
 
-**GM** Ok, then that's another boost to them, but they don't get to try and sideswipe. you. Which is good, because Alex, you're already going to need to be Good for this maneuver.
+**GM** Ok, then that's another boost to them, but they don't get to try and sideswipe. you. *(Writes "Enemy Boost" on an index card, but doesn't name it yet)* Which is good, because Alex, you're already going to need to be Good for this maneuver.
 
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >Alex is using Overcome here against the environment to try and thread a needle with the car, so it's a passive opposition target.
