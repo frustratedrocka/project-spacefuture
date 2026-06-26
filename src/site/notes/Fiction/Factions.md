@@ -20,47 +20,21 @@
 **BELIEFS** 
 **PARAGON** 
 
-
 ```base
-formulas:
-  Untitled: ""
+filters:
+  and:
+    - file.hasTag("npc")
+    - Faction == "Faction 1"
 views:
   - type: table
-    name: All
-    filters:
-      and:
-        - file.tags.contains("npc")
-        - '!file.path.contains("Templates")'
-    order:
-      - file.name
-      - Faction
-  - type: table
-    name: Faction 1
-    filters:
-      and:
-        - file.hasTag("npc")
-        - Faction == "Faction 1"
+    name: NPC List
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
-    markers: none
-  - type: table
-    name: Faction 2
-    filters:
-      and:
-        - Faction == "Faction 2"
-        - file.hasTag("npc")
-    order:
-      - file.name
-      - Concept
-      - Relationship
-      - Loyalty
-    cardSize: 300
 
 ```
-
 
 
 
@@ -82,47 +56,21 @@ views:
 **BELIEFS** 
 **PARAGON** `REDACTED`
 
-
 ```base
-formulas:
-  Untitled: ""
+filters:
+  and:
+    - file.hasTag("npc")
+    - Faction == "Faction 2"
 views:
   - type: table
-    name: All
-    filters:
-      and:
-        - file.tags.contains("npc")
-        - '!file.path.contains("Templates")'
-    order:
-      - file.name
-      - Faction
-  - type: table
-    name: Faction 1
-    filters:
-      and:
-        - file.hasTag("npc")
-        - Faction == "Faction 1"
-    order:
-      - file.name
-      - Concept
-      - Relationship
-      - Loyalty
-    markers: none
-  - type: table
     name: Faction 2
-    filters:
-      and:
-        - Faction == "Faction 2"
-        - file.hasTag("npc")
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
-    cardSize: 300
 
 ```
-
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiction/np-cs/the-captain/","tags":["npc"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-06-26T17:40:27.198-04:00","dg-note-properties":{"tags":["npc"],"Faction":"Faction 1","Concept":"`REDACTED`","Relationship":"N/A","Loyalty":"`REDACTED`","Aspects":null,"Is_Pilot":false,"Mech":"`REDACTED`","Mech_Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/fiction/np-cs/the-captain/","tags":["npc"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-06-26T18:34:59.814-04:00","dg-note-properties":{"tags":["npc"],"Faction":"Faction 1","Concept":"Test NPC","Relationship":"N/A","Loyalty":"To Be Determined","Aspects":null,"Is_Pilot":false,"Mech":"`REDACTED`","Mech_Aspects":["`REDACTED`"]}}
 ---
 
 # Vitals
