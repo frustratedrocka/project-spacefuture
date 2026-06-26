@@ -26,7 +26,16 @@ formulas:
   Untitled: ""
 views:
   - type: table
-    name: Faction1
+    name: All
+    filters:
+      and:
+        - file.tags.contains("npc")
+        - '!file.path.contains("Templates")'
+    order:
+      - file.name
+      - Faction
+  - type: table
+    name: Faction 1
     filters:
       and:
         - file.hasTag("npc")
@@ -37,6 +46,18 @@ views:
       - Relationship
       - Loyalty
     markers: none
+  - type: table
+    name: Faction 2
+    filters:
+      and:
+        - Faction == "Faction 2"
+        - file.hasTag("npc")
+    order:
+      - file.name
+      - Concept
+      - Relationship
+      - Loyalty
+    cardSize: 300
 
 ```
 
@@ -53,24 +74,55 @@ views:
 
 
 
-Beliefs:
-- Big Issue 1
-- Big Issue 2
-- Big Issue 3
-- Big Issue 4
-Paragon: `REDACTED`
-Fealty:
-Fellowship:
-Force:
-Fraternity:
 
-|           Character            |                 Concept                 | Relationship |              Loyalty               |
-| :----------------------------: | :-------------------------------------: | :----------: | :--------------------------------: |
-|    `REDACTED`    |     `REDACTED`     |     N/A      |    `REDACTED`    |
-|    `REDACTED`    | `REDACTED`  |     N/A      |    `REDACTED`    |
-| `REDACTED` |   `REDACTED`   |     N/A      |       `REDACTED`       |
-|  `REDACTED`  | `REDACTED` |     N/A      | `REDACTED` |
-|      `REDACTED`      |  `REDACTED`  |     N/A      |      `REDACTED`      |
+|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
+| :------------: | :----------------: | :-----------: | :----------------: |
+| 2 | 2 | 2 | 2 |
+
+**BELIEFS** 
+**PARAGON** `REDACTED`
+
+
+```base
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - file.tags.contains("npc")
+        - '!file.path.contains("Templates")'
+    order:
+      - file.name
+      - Faction
+  - type: table
+    name: Faction 1
+    filters:
+      and:
+        - file.hasTag("npc")
+        - Faction == "Faction 1"
+    order:
+      - file.name
+      - Concept
+      - Relationship
+      - Loyalty
+    markers: none
+  - type: table
+    name: Faction 2
+    filters:
+      and:
+        - Faction == "Faction 2"
+        - file.hasTag("npc")
+    order:
+      - file.name
+      - Concept
+      - Relationship
+      - Loyalty
+    cardSize: 300
+
+```
+
 
 
 

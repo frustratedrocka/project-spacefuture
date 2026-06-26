@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiction/np-cs/the-captain/","tags":["npc"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-06-26T17:17:32.002-04:00","dg-note-properties":{"tags":["npc"],"Faction":"Faction 1","Concept":"`REDACTED`","Relationship":"N/A","Loyalty":"`REDACTED`","Aspects":null,"Is_Pilot":false,"Mech":"`REDACTED`","Mech_Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/fiction/np-cs/the-captain/","tags":["npc"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-06-26T17:40:27.198-04:00","dg-note-properties":{"tags":["npc"],"Faction":"Faction 1","Concept":"`REDACTED`","Relationship":"N/A","Loyalty":"`REDACTED`","Aspects":null,"Is_Pilot":false,"Mech":"`REDACTED`","Mech_Aspects":["`REDACTED`"]}}
 ---
 
 # Vitals
@@ -8,7 +8,7 @@
 > ![Kamille.jpg\|130](/img/user/Admin/Attachments/Kamille.jpg)
 >
 > 
-> - **STRAIN**`REDACTED`
+> - `REDACTED`
 
 **HIGH CONCEPT** 
 
