@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/6-running-the-game/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T23:28:18.651-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/6-running-the-game/","tags":["rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-25T23:52:00.008-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 Welcome to the GM guide, make yourself at home!
@@ -287,39 +287,39 @@ Now that you know what's changed at the end of the loop, it's time to put it all
 > 2. Nomu wants to kill the target.
 > 3. Nomu wants to kill the target by sneaking up from behind and taking them out before they realize anything's wrong.
 > 4. Resolve the action:
-> 	4A. Do the mechanics take over? YES; there is significant uncertainty. Nomu rolls and fails.
-> 	4B. What explains the result? Nomu would have succeeded, BUT the target detected him - perhaps through the movement of the air as the blade struck, perhaps through the faintest sound of a footstep on the wrong part of the ground - and dodged at the last second.
+>     1. Do the mechanics take over? YES; there is significant uncertainty. Nomu rolls and fails.
+>     2. What explains the result? Nomu would have succeeded, BUT the target detected him - perhaps through the movement of the air as the blade struck, perhaps through the faintest sound of a footstep on the wrong part of the ground - and dodged at the last second.
 > 5. THEREFORE, the target is now aware of Nomu and actively fighting back. 
 > 
 > Now, integrate that new fact into the scene as a whole as the loop restarts with a new Step 1. It's a pretty simple setup, but the changed situation means there's a few pre-established facts that have now become relevant to the decision and need to be narrated back in:
 > 
-> 6. "Nomu, your target is now aware of you and fighting back. He's a big guy and he knows how to handle himself; even unarmed, if he lands a hit on you or grabs you, it could be bad. What do you do?"
+> 1. "Nomu, your target is now aware of you and fighting back. He's a big guy and he knows how to handle himself; even unarmed, if he lands a hit on you or grabs you, it could be bad. What do you do?"
 
 > [!callout|bg-red c-plain no-icon ]+ EXAMPLE: THE MUSEUM JOB
-> 7.  The darkened museum looms over a thief as they stand before its staff entrance.
-> 8. The thief wants to get into the building.
-> 9. They want to get in by picking the lock on the staff entrance door.
-> 10. Resolve the action:
-> 	4A. Do mechanics take over? YES; there is significant uncertainty. The player rolls to pick the lock and succeeds..
-> 	4B. What explains the result? The thief picked the lock without issue.
-> 11. THEREFORE: you are now inside the museum. THEREFORE: you are now faced with a maze of hallways and back doors leading to all kinds of offices, archives, and restoration facilities. BUT: you don't have a map of the staff areas, ALSO BUT, somewhere in the building there is at least one night guard on patrol.
+> 1.  The darkened museum looms over a thief as they stand before its staff entrance.
+> 2. The thief wants to get into the building.
+> 3. They want to get in by picking the lock on the staff entrance door.
+> 4. Resolve the action:
+>     1. Do mechanics take over? YES; there is significant uncertainty. The player rolls to pick the lock and succeeds..
+>     2. What explains the result? The thief picked the lock without issue.
+> 5. THEREFORE: you are now inside the museum. THEREFORE: you are now faced with a maze of hallways and back doors leading to all kinds of offices, archives, and restoration facilities. BUT: you don't have a map of the staff areas, ALSO BUT, somewhere in the building there is at least one night guard on patrol.
 >    
 > All of the new information in step 5 could've already been in your prep, or could be improvised. Either way, it was never relevant before, so it's only now becoming part of the established fiction. So now, we integrate it into 1. Since the situation has changed a lot, we need to set it all up in enough detail to make the decision space clear:
 >    
-> 12. "There's no sign of the night watchman, yet, as you find yourself in a narrow hallway that immediately hits a T-intersection. Both sides lead into maze-like corridors dotted with office doors, but based on what you learned when you were casing this place, the right passage probably includes a door somewhere that leads to the Kirchner and Mucha exhibits in the public gallery. You don't know where the left goes. There's no sign of the night guards yet. What do you do?"
+> 1. "There's no sign of the night watchman, yet, as you find yourself in a narrow hallway that immediately hits a T-intersection. Both sides lead into maze-like corridors dotted with office doors, but based on what you learned when you were casing this place, the right passage probably includes a door somewhere that leads to the Kirchner and Mucha exhibits in the public gallery. You don't know where the left goes. There's no sign of the night guards yet. What do you do?"
 
 > [!callout|bg-red c-plain no-icon ]+ EXAMPLE LOOP: IMPROVISED COMPLICATION
-> 13. A cyberpunk criminal team is in a narrow, winding alley wiith a kidnapped exec slung over one of their heavy's shoulders, the team's currently-bleeding-out face over the other, and corpo security in hot pursuit.
-> 14. The team wants to escape security.
-> 15. They want to escape by running for their lives out of the alley and back to the van they parked nearby.
-> 16. Resolve the action:
->     4A. Do mechanics take over? YES; there is significant uncertainty. They roll as a group to outrun the security, and the result is "success, but with a complication" per the rules of their system.
->     4B. What explains the result? It's a complicated success, so they do reach the van, BUT the dice have decided that something must go wrong. THEREFORE, you invent a new fact about the scene to make things harder without negating the success: A corrupt traffic cop is out writing parking tickets to meet their quota, knowing they won't be properly challenged even if the ticket is bullshit. That cop slaps a ticket on the team's van at the precise moment they make it out of the alley.
-> 17. THEREFORE, the cop looks up, sees the team of heavily-armored and blood-soaked criminals charging right at them, and, in a panic, reaches for their radio - now, they're on the verge of becoming a real problem. THEREFORE, the team can't just immediately get in the van and drive off without in some way addressing the cop, which will take precious seconds, THEREFORE the face *might* (depending on how severe a consequence the rules demand) lose even more blood and get closer to death (this may mean ticking a clock, marking negative health, a death saving throw, or some other system-appropriate mechanical adjustment).
+> 1. A cyberpunk criminal team is in a narrow, winding alley wiith a kidnapped exec slung over one of their heavy's shoulders, the team's currently-bleeding-out face over the other, and corpo security in hot pursuit.
+> 2. The team wants to escape security.
+> 3. They want to escape by running for their lives out of the alley and back to the van they parked nearby.
+> 4. Resolve the action:
+>     1. Do mechanics take over? YES; there is significant uncertainty. They roll as a group to outrun the security, and the result is "success, but with a complication" per the rules of their system.
+>     2. What explains the result? It's a complicated success, so they do reach the van, BUT the dice have decided that something must go wrong. THEREFORE, you invent a new fact about the scene to make things harder without negating the success: A corrupt traffic cop is out writing parking tickets to meet their quota, knowing they won't be properly challenged even if the ticket is bullshit. That cop slaps a ticket on the team's van at the precise moment they make it out of the alley.
+> 5. THEREFORE, the cop looks up, sees the team of heavily-armored and blood-soaked criminals charging right at them, and, in a panic, reaches for their radio - now, they're on the verge of becoming a real problem. THEREFORE, the team can't just immediately get in the van and drive off without in some way addressing the cop, which will take precious seconds, THEREFORE the face *might* (depending on how severe a consequence the rules demand) lose even more blood and get closer to death (this may mean ticking a clock, marking negative health, a death saving throw, or some other system-appropriate mechanical adjustment).
 >
 > Now, we integrate that into the total "what's going on" state as the loop kicks over back to 1 and re-set the scene with the new or updated positions of all the relevant decision factors:
 > 
-> 18. "Your face is running out of blood, your heavy's got her hands full, there's a cop in front of your van about to call in backup, and security is still just a few seconds behind you. What do you do?"
+> 1. "Your face is running out of blood, your heavy's got her hands full, there's a cop in front of your van about to call in backup, and security is still just a few seconds behind you. What do you do?"
 
 # The Fader Board
 "Fader" is the proper name for the large slider knobs you see on a sound mixing board. Throughout a concert, a sound engineer constantly adjusts - "rides" - the faders to make sure the music as a whole sounds the way it should. Sometimes these adjustments are drastic, sometimes they're subtle. But together, they're the central control board for the entire experience of the show.
