@@ -12,8 +12,9 @@
 
 
 
-|        Fealty         |        Fellowship         |        Force         |        Fraternity         |
-| :-------------------: | :-----------------------: | :------------------: | :-----------------------: |
+
+|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
+| :------------: | :----------------: | :-----------: | :----------------: |
 | 2 | 2 | 2 | 2 |
 
 **BELIEFS** 
@@ -28,7 +29,8 @@ views:
     name: Faction1
     filters:
       and:
-        - file.hasTag("npc", "faction_1")
+        - file.hasTag("npc")
+        - Faction == "Faction 1"
     order:
       - file.name
       - Concept
