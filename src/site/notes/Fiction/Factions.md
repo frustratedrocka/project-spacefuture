@@ -15,8 +15,10 @@
 |        Fealty         |        Fellowship         |        Force         |        Fraternity         |
 | :-------------------: | :-----------------------: | :------------------: | :-----------------------: |
 | 2 | 2 | 2 | 2 |
+
 **BELIEFS** 
 **PARAGON** `=this.Paragon`
+
 
 ```base
 formulas:
