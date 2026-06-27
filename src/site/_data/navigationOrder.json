@@ -1,9 +1,9 @@
 {
   "/": [
     "Home Page",
+    "Faction Hub",
     "Rules Hub",
     "Database",
-    "Fiction",
     "Rules"
   ],
   "/Database": [
@@ -18,9 +18,6 @@
     "Test NPC",
     "Test Pilot",
     "Test Secret Pilot"
-  ],
-  "/Fiction": [
-    "Faction Intel"
   ],
   "/Rules": [
     "0 Introduction",
