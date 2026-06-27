@@ -57,7 +57,7 @@ views:
 | 2 | 2 | 2 | 2 |
 
 **BELIEFS** 
-**PARAGON** 
+**PARAGON** `REDACTED`
 
 ```base
 filters:
