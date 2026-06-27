@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T13:11:36.719-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T13:16:11.865-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # SETUP
@@ -245,6 +245,9 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 **GM** Alright, they get... (*rolls 4 dice; one hit, one 1*) 0, but whatever that asset knows, they *really* don't want you to find out, and that means they're taking the boost from the last tie - *"Desperate Measures"*. *(rerolls; one hit, one 10, one 1)* Better, 2 to you. 
 
 **BRIGIT** *(Rolls 7 dice; three hits, two 1s)* Damn, 1 again. Good thing I'm a *"Small Girl With A Big Gun"* *(spends a fate point)* Up to 2 and tied. 
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+> The GM writes this next boost down to keep it from getting lost in the shuffle at the start when the next round starts. You may need to do more aspect tracking than has occurred throughout this example, or you may do fine with less - do what works best for you and your table.
 
 **GM** Ok, then that's another boost to them, but they don't get to try and sideswipe you. *(Writes "Enemy Boost" on an index card, but doesn't name it yet)* Which is good, because Alex, you're already going to need to be Good for this maneuver.
 
