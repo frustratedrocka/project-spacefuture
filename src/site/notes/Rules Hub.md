@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-hub/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:47:08.487-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/rules-hub/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:52:25.623-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 # Rules By Chapter
@@ -20,8 +20,7 @@ views:
 ```base
 filters:
   and:
-    - file.tags.contains("rules")
-    - '!file.tags.containsAny("chapter", "srd")'
+    - file.tags.contains("category")
 views:
   - type: list
     name: Categories

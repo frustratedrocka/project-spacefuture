@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:31:01.754-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:49:12.495-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Pilot Creation
@@ -201,6 +201,4 @@ Approaches don't have to follow the pyramid, but they do need to respect two lim
 > But, if by some miracle you ever do max out, and the campaign still has enough unfinished business that you want to keep it going and advance even further: I strongly advise that you *never* relax or eliminate the pyramid or rank-limit restrictions on skills and approaches. Those exist to make sure that every character is always better at some things than other things, and always has some kind of interesting and meaningful decision to make about how they tackle problems. If skills and approaches are ever allowed to cluster heavily around the same number, those decisions evaporate, and every character starts to feel like the exact same jack-of-all-trades. If you've taken your sheets as far as they'll go and you find that you absolutely must remove some limits on advancement, then break the *ceiling*, not the shape - allow skills and approaches to go up to 6 (and come up with your own adjective for it!), let other characters and oppositions increase to match that new ceiling, and keep the pyramid and rank-limit rules exactly as they are.
 
 # Example Characters
-Kamille Bidan, Zeta Gundam: [[Database/Pregen/Old Format/Kamille Bidan (OLD Start)\|Kamille Bidan (OLD Start)]], [[Database/Pregen/Old Format/Kamille Bidan (OLD Late)\|Kamille Bidan (OLD Late)]]
-
-Char Aznable, Zeta Gundam: [[Database/Pregen/Old Format/Quattro Bajeena (OLD)\|Quattro Bajeena (OLD)]], [[Database/Pregen/Old Format/Char (OLD)\|Char (OLD)]]
+Kamille Bidan, Zeta Gundam, [[Database/Pregen/Kamille Bidan Start\|at the start of the show]] and [[Database/Pregen/Kamille Bidan End\|at the end of the show]].
