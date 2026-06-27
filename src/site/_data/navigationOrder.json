@@ -2,25 +2,40 @@
   "/": [
     "Home Page",
     "Rules",
-    "Characters"
+    "Admin",
+    "Database",
+    "Fiction"
   ],
   "/Rules": [
     "0 Introduction",
     "1 Core Rules",
     "2 Character Creation",
     "3 Skills, Approaches, & Stunts",
-    "3A Putting It All Together",
     "4 Challenges, Conflicts, & Contests",
-    "5 Running The Game"
+    "5 Putting It All Together",
+    "6 Running The Game",
+    "Factions (UNEDITED SRD)"
   ],
-  "/Characters": [
-    "Blank",
-    "Pregen"
+  "/Admin": [
+    "Templates"
   ],
-  "/Characters/Pregen": [
-    "Char Aznable",
-    "Kamille Bidan (Late)",
-    "Kamille Bidan (Start)",
-    "Quattro Bajeena"
+  "/Admin/Templates": [
+    "Mech"
+  ],
+  "/Database": [
+    "Pregen",
+    "NPCs"
+  ],
+  "/Database/Pregen": [
+    "Kamille Bidan Start",
+    "Kamille Bidan End"
+  ],
+  "/Database/NPCs": [
+    "Test NPC",
+    "Test Pilot",
+    "Test Secret Pilot"
+  ],
+  "/Fiction": [
+    "Faction Intel"
   ]
 }
