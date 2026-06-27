@@ -26,13 +26,16 @@ filters:
     - file.hasTag("npc")
     - Faction == "Faction 1"
 views:
-  - type: table
+  - type: cards
     name: Known Members
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
+    image: note.Portrait
+    imageAspectRatio: 1
+    cardSize: 160
 
 ```
 
