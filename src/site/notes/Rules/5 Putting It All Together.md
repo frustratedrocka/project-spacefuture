@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:31:16.788-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T13:11:36.719-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # SETUP
@@ -198,7 +198,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **ZACH** 4?! Shit OK, Field Medicine do your thing, and I'll put myself at risk for the +2. I'm not going to be able to try and take any kind of cover while I'm working on this guy. *(Rolls 7 dice to Tend Quickly; 0 successes)* Shit! *"Deft Hands"* don't fail me now! *(spends his last fate point to reroll; gets the 2 hits he needs)* Ok, 2 hits, plus the stunt that ties it.
 
-**GM** Alright, the good news is you do it, the asset is stable! *(Renames the asset's "Bleeding Out" )*The bad news is, you're grazed by a bullet while you're working, take 2 harm.
+**GM** Alright, the good news is you do it, the asset is stable! *(Renames the asset's "Bleeding Out" )* The bad news is, you're grazed by a bullet while you're working, take 2 harm.
 
 **ZACH** That's a problem for later, worth it. *(Marks 2 boxes of Strain)* Ok, who's next?
 
