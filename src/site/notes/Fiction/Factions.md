@@ -26,7 +26,7 @@ filters:
     - file.hasTag("npc")
     - Faction == "Faction 1"
 views:
-  - type: cards
+  - type: table
     name: Known Members
     order:
       - file.name
