@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/fiction/faction-intel/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T19:27:34.000-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/fiction/faction-intel/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T02:39:54.817-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 **SHAKEUP** At the end of each scenario, each faction's most insubordinate character rolls their highest approach and counts hits. 0 or less: Disciplined; forced to prove loyalty or leave the faction. 1-2 nothing happens. 3-4 influence the faction's direction or next move. 5+ oust a key member.
 
-#### 
+#### `REDACTED`
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -44,7 +44,7 @@ views:
 </div></div>
 
 
-#### 
+#### `REDACTED`
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -80,7 +80,7 @@ views:
 </div></div>
 
 
-#### 
+#### `REDACTED`
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -117,7 +117,7 @@ views:
 </div></div>
 
 
-#### 
+#### `REDACTED`
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -154,7 +154,7 @@ views:
 </div></div>
 
 
-#### 
+#### `REDACTED`
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
