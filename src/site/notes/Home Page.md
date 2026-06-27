@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-06-26T13:47:47.000-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-06-26T23:30:25.607-04:00","dg-note-properties":{}}
 ---
 
 # SESSION 0: AUGUST 18 2026
@@ -12,4 +12,4 @@ Welcome to the Project.
 ## The System Is At War
 What does that mean? Who's fighting? Over what? We don't know yet! Find out together at Session 0.
 ## Factions
-[[Fiction/Factions\|There are a lot.]]
+[[Fiction/Faction Intel\|There are a lot.]]
