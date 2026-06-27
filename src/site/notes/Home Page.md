@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-06-27T10:19:20.865-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-06-27T10:55:46.900-04:00","dg-note-properties":{}}
 ---
 
 # SESSION 0: AUGUST 18 2026
@@ -15,4 +15,4 @@ The rules for this specific game are still under construction. For anything not 
 ## The System Is At War
 What does that mean? Who's fighting? Over what? We don't know yet! Find out together at Session 0.
 ## Factions
-[[Fiction/Faction Intel\|There are a lot.]]
+[[Faction Hub\|There are a lot.]]
