@@ -1,13 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/fiction/np-cs/the-captain/","tags":["npc"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-06-26T20:05:41.861-04:00","dg-note-properties":{"tags":["npc"],"Faction":"Faction 1","Concept":"Test NPC","Relationship":"N/A","Loyalty":"To Be Determined","Aspects":["Test 1","Test 2","Test 3"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Skill","Skill","Skill"],"approach_1":["Q","B","F","Cl","S","Ca"],"Is_Pilot":false,"Mech":"","Mech_Aspects":[""]}}
+{"dg-publish":true,"permalink":"/fiction/np-cs/the-captain/","tags":["npc"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-06-26T20:20:06.658-04:00","dg-note-properties":{"tags":["npc"],"Faction":"Faction 1","Concept":"Test NPC","Relationship":"N/A","Loyalty":"To Be Determined","Aspects":["Test 1","Test 2","Test 3"],"Stunts":[""],"consequence_slots":3,"consequences_Mild":null,"consequence_Mod":null,"consequence_Severe":null,"Strain":4,"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Skill","Skill","Skill"],"approach_1":["Q","B","F","Cl","S","Ca"],"Is_Pilot":false,"Mech":"","Mech_Aspects":[""],"Mech_Armor":null,"Mech_Stunts":[null]}}
 ---
 
 # Vitals
 
-> [!checks|right no-t wtiny]
+> [!infobox|right wsmall]
 > ![Kamille.jpg\|130](/img/user/Admin/Attachments/Kamille.jpg)
+> 
+> |Faction|
+> | --- |
+> |Faction 1|
 >
-> - 
+>  
 
 **HIGH CONCEPT** 
 
