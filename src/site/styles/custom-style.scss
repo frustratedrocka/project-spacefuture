@@ -38,6 +38,12 @@ p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
 .internal-link:not(.is-unresolved), .external-link, .filename, .toc-active{
 		color: hsl(186, 71%, 69%) !important;
 	};
+	.obsidian-bases-single-view-name, .obsidian-base-table, .obsidian-base-table-wrapper, .obsidian-base-table.tbody, .obsidian-base-empty, .obsidian-bases-result-count, .obsidian-bases-toolbar, .obsidian-base-table td {
+  font-size:11pt !important;
+	};
+	body th {
+  		text-transform: uppercase;
+	};
 }
 .filename, .foldername {
   font-family:"Quantico" !important;
