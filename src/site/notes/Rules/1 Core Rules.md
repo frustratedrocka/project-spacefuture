@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:30:56.443-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T12:58:09.503-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Taking Action
@@ -106,7 +106,7 @@ The catch-all action. When there's something between you and a goal - difficulty
 
 Create an advantage covers a broad range, unified around using your skills to take advantage of the environment or situation you're in. Sometimes, that means actively changing your circumstances; other times, that could mean discovering new helpful information or taking advantage of something you've previously learned or observed. 
 
-When you roll to create an advantage, you must specify whether you're creating a new situation aspect or taking advantage of one that's already in place. If the former, are you attaching that situation aspect to a character or to the environment?
+When you roll to create an advantage, you're either creating a new situation aspect or taking advantage of an aspect that's already in place. If the former, specify whether you're attaching that situation aspect to a character or to the environment.
 
 If your target is another character, their roll always counts as the [[Rules/1 Core Rules#defend\|#defend]] action.
 
