@@ -41,9 +41,11 @@ p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
 	.obsidian-bases-single-view-name, .obsidian-base-table, .obsidian-base-table-wrapper, .obsidian-base-table.tbody, .obsidian-base-empty, .obsidian-bases-result-count, .obsidian-bases-toolbar, .obsidian-base-table td {
   font-size:11pt !important;
 	};
-	body th {
-  		text-transform: uppercase;
-	};
+	th {
+  		text-transform:uppercase;
+ 		background-color:hsl(270, 4%, 10%) !important;
+  		color:hsl(26, 97%, 65%) !important;
+}
 }
 .filename, .foldername {
   font-family:"Quantico" !important;
