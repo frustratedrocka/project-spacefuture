@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/fate-srd/fate-accelerated-unedited-srd/","tags":["SRD","rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:40:35.776-04:00","dg-note-properties":{"tags":["SRD","rules"]}}
+{"dg-publish":true,"permalink":"/rules/fate-srd/adversary-toolkit-unedited-srd/","tags":["rules","SRD"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:39:48.623-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
 ---
 
 # Fate Accelerated Edition
