@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T03:39:33.713-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:30:56.443-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Taking Action
@@ -117,7 +117,7 @@ If your target is another character, their roll always counts as the [[Rules/1 C
 
 **MAKING NEW ASPECTS**
 **FAILURE:** You either don't create the aspect, or you create it but whatever you end up doing works to someone else's advantage instead - they get the free invoke. 
-**TIE:** You get a [[Aspects#Boosts\|boost]] instead of the situation aspect you were going for. This might mean you have to rename the aspect to reflect its temporary nature (e.g. "Rough Terrain" becomes "Rocks on the Path")
+**TIE:** You get a [[Rules/Categories/Aspects#Boosts\|boost]] instead of the situation aspect you were going for. This might mean you have to rename the aspect to reflect its temporary nature (e.g. "Rough Terrain" becomes "Rocks on the Path")
 **SUCCESS:** You create a situation aspect with a free invoke.
 **SUCCESS WITH STYLE**: You create a situation aspect with two free invokes.
 
@@ -134,7 +134,7 @@ The most straightforward of the four actions. An attack isn't always physical; s
 Most of the time, your target will actively oppose your attack. Passive opposition means you've caught your target unaware or otherwise unable to make a full effort to resist you, or the NPC isn't important enough to bother with dice. Passive or not, the opposition always counts as a [[Rules/1 Core Rules#defend\|#defend]] action.
 
 **FAILURE:** You don't cause any harm to your target, and there may be an additional cost.
-**TIE:** You don't cause any harm, but you gain a [[Aspects#Boosts\|boost]].
+**TIE:** You don't cause any harm, but you gain a [[Rules/Categories/Aspects#Boosts\|boost]].
 **SUCCESS:** Inflict [[Rules/4 Challenges, Conflicts, & Contests#Taking Harm\|harm]] on your target equal to the number of hits above the opposition. The target must use **STRAIN** to push through the harm or take **CONSEQUENCES**; if that's not possible, your target is **TAKEN OUT** of the conflict.
 **SUCCESS WITH STYLE:** As normal success, but you may also reduce the value of your hit by one to gain a boost.
 
@@ -160,7 +160,7 @@ Whenever someone [[Rules/1 Core Rules#attack\|attacks]] you in a [[Rules/4 Chall
 Because you roll to defend as a reaction, your opposition is almost always active. If you're rolling a defend action against passive opposition, it's probably because the environment is hostile to you somehow (e.g. poison gas, a blazing fire, or a deliberately-placed trap), or the NPC isn't important enough to bother with dice.
 
 **FAILURE:** You suffer the consequences of whatever you were trying to prevent.
-**TIE:** You grant your opponent a [[Aspects#Boosts\|boost]].
+**TIE:** You grant your opponent a [[Rules/Categories/Aspects#Boosts\|boost]].
 **SUCCESS:** You avoid the attack or the attempt to gain an advantage on you.
 **SUCCESS WITH STYLE:** As normal, but you also gain a boost as you momentarily turn the tables.
 

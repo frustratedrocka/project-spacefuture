@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T03:00:41.631-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:31:16.788-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # SETUP

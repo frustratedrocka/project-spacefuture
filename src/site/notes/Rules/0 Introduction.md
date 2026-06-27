@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T01:16:12.820-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:30:48.502-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Wtf Am I Reading?!
