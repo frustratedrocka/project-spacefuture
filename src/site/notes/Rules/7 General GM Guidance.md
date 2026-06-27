@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T12:51:21.443-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T13:05:13.874-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -316,7 +316,7 @@ On the other hand, there's an argument to be made for players not seeing the clo
 
 #TODO sometimes advance per scene, sometimes advance with in-fiction time, sometimes advance only when there's a complication, sometimes when the players put in work to advance one, sometimes all, sometimes none
 
-It's important to remember that **CLOCKS GO BOTH WAYS** - they should be another element of player decision making, not just a ticking doom timer. Players should be able to push back against dangerous clocks when it makes sense in the fiction. Going back through some of our previous examples, making a brief alarm activation seem like a false positive during a heist to lower suspicion, clearing out a wave of enemies efficiently to buy themselves some breathing room while they wait for extraction, and placating the mob boss's temper before he has someone demonstrate what hedge trimmers do to the human body would both be excellent ways for a player to reduce a clock and gain back some time 
+It's important to remember that **CLOCKS GO BOTH WAYS** - they should be another element of player decision making, not just a ticking doom timer. Players should be able to push back against dangerous clocks when it makes sense in the fiction. Going back through some of our previous examples, methods for the players to shift the clocks in their favor might include making a brief alarm activation seem like a false positive to lower suspicion, clearing out a wave of enemies efficiently enough that it creates a window to patch themselves up, and placating the mob boss's temper before he has someone demonstrate what hedge trimmers do to the human body.
 
 In games that have mandatory complications on some rolls, like Blades in the Dark (which popularized clocks as a concept), clocks can serve as a hidden way for GMs to bleed off excess pressure. When the dice demand something go wrong, but the scene, session, or even the game as a whole would suffer from a complication happening *right now*, you can defer that complication by starting or ticking a clock. #TODO build up to pressure cascade later, clocks are discretionary and if you don't really want to you don't have to ever advance ones that aren't serving a purpose, also works if you just can't think of anything in the moment and need to kick the can down the road
 
