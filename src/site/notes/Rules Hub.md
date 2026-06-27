@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-hub/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:43:46.351-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/rules-hub/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:45:08.975-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 # Rules By Chapter
@@ -10,14 +10,12 @@ filters:
   and:
     - file.hasTag("chapter")
 views:
-  - type: table
-    name: All Rules Pages
+  - type: list
+    name: Rules ToC
     order:
       - file.name
-      - file.tags
 
 ```
-
 # Rules By Category
 ```base
 filters:
@@ -26,28 +24,25 @@ filters:
     - and:
         - '!file.hasTag("chapter", "SRD")'
 views:
-  - type: table
-    name: Table
+  - type: list
+    name: Categories
     order:
       - file.name
-      - file.embeds
     sort:
       - property: file.tags
         direction: ASC
 
 ```
-
 # Fate SRD
 ```base
 filters:
   and:
     - file.hasTag("SRD")
 views:
-  - type: table
-    name: Table
+  - type: list
+    name: SRD
     order:
       - file.name
-      - file.tags
     sort:
       - property: file.tags
         direction: ASC
