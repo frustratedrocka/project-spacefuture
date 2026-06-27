@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/np-cs/test-npc/","tags":["npc"],"noteIcon":"","updated":"2026-06-26T23:16:11.697-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"Test NPC","Portrait":"Kamille.jpg","portrait_Link":"![Kamille.jpg](/img/user/Admin/Attachments/Kamille.jpg)","Faction":"Faction 1","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"This Is A Test Concept","Relationship":"This Is A Test Relationship","Loyalty":"This Is A Test Loyalty","Aspects":["This Is A Test Aspect","This Is Also A Test Aspect","Yet Another Test Aspect"],"Stunts":[null],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Skill","Skill","Skill"],"approach_1":["Q","B","F","Cl","S","Ca"]}}
+{"dg-publish":true,"permalink":"/database/np-cs/test-npc/","tags":["npc"],"noteIcon":"","updated":"2026-06-27T01:09:44.701-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"Test NPC","Portrait":"GenericFeddie_SQ.png","portrait_Link":"![GenericFeddie_SQ.png](/img/user/Admin/Attachments/GenericFeddie_SQ.png)","Faction":"Faction 1","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"High Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[null],"Stunts":[null],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Understand","Persevere","Interface","Operate"],"approach_1":["Quickly","Boldly","Forcefully","Cleverly","Subtly","Carefully"]}}
 ---
 
-> [!infobox|right wsmall]
+> [!infobox|left wsmall]
 > # Test NPC
-> ![Admin/Attachments/Kamille.jpg\|Kamille.jpg](/img/user/Admin/Attachments/Kamille.jpg)
+> ![Admin/Attachments/GenericFeddie_SQ.png\|GenericFeddie_SQ.png](/img/user/Admin/Attachments/GenericFeddie_SQ.png)
 > 
 > |  |  |
 > |--|--|
@@ -19,15 +19,12 @@
 
 |ASPECTS|
 |--------------- | 
-| This Is A Test Concept |
-| This Is A Test Relationship |
-| This Is A Test Loyalty |
+|High Concept|
+|Relationship|
+|Loyalty|
 |`REDACTED`|
 |`REDACTED`|
 |`REDACTED`|
 
-# Stats & STUNTS
 `REDACTED`
-
----
 # Notes

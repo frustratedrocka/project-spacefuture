@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/np-cs/test-pilot/","tags":["npc"],"noteIcon":"","updated":"2026-06-27T00:01:26.672-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"Test Pilot","Portrait":"Kamille.jpg","portrait_Link":"![Kamille.jpg](/img/user/Admin/Attachments/Kamille.jpg)","Faction":"Faction 1","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"High Concept Aspect","Relationship":"Relationship Aspect","Loyalty":"Loyalty Aspect","Aspects":[null],"Stunts":[null],"MECH_Name":"Test Mech","MECH_Portrait":"MkII-Anime.jpg","MECH_portrait_Link":"![MkII-Anime.jpg](/img/user/Admin/Attachments/MkII-Anime.jpg)","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High Concept Aspect","MECH_Trouble":"Trouble Aspect","MECH_Relationship":"Relationship Aspect","MECH_Gear":["Primary Equipment","Secondary Equipment"],"MECH_Stunts":[null],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Skill","Skill","Skill"],"approach_1":["Q","B","F","Cl","S","Ca"]}}
+{"dg-publish":true,"permalink":"/database/np-cs/test-pilot/","tags":["npc"],"noteIcon":"","updated":"2026-06-27T01:10:13.080-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"Test NPC Pilot","Portrait":"GenericFeddie_SQ.png","portrait_Link":"![GenericFeddie_SQ.png](/img/user/Admin/Attachments/GenericFeddie_SQ.png)","Faction":"Faction 1","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"High Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[null],"Stunts":[null],"MECH_Name":"Test Mech","MECH_Portrait":"GM-II-AEUG_SQ.png","MECH_portrait_Link":"![GM-II-AEUG_SQ.png](/img/user/Admin/Attachments/GM-II-AEUG_SQ.png)","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High Concept","MECH_Trouble":"Trouble","MECH_Relationship":"Relationship","MECH_Gear":["Primary Equipment","Secondary Equipment"],"MECH_Stunts":[null],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Understand","Persevere","Interface"],"approach_1":["Quickly","Boldly","Forcefully","Cleverly","Subtly","Carefully"]}}
 ---
 
-> [!infobox|right wsmall]
-> # Test Pilot
-> ![Admin/Attachments/Kamille.jpg\|Kamille.jpg](/img/user/Admin/Attachments/Kamille.jpg)
+> [!infobox|left wsmall]
+> # Test NPC Pilot
+> ![Admin/Attachments/GenericFeddie_SQ.png\|GenericFeddie_SQ.png](/img/user/Admin/Attachments/GenericFeddie_SQ.png)
 > 
 > |  |  |
 > |--|--|
@@ -17,15 +17,13 @@
 > |4 Mod|Moderate|
 > |6 Svr|Severe|
 
-> [!infobox|left wsmall]
+> [!infobox|right wsmall]
 > # Test Mech
-> ![Admin/Attachments/MkII-Anime.jpg\|MkII-Anime.jpg](/img/user/Admin/Attachments/MkII-Anime.jpg)
+> ![Admin/Attachments/GM-II-AEUG_SQ.png\|GM-II-AEUG_SQ.png](/img/user/Admin/Attachments/GM-II-AEUG_SQ.png)
 > 
 > |  |  |
 > |--|--|
 > | **ARMOR**|`REDACTED`|
-> |**GEAR 1**|`REDACTED`|
-> |**GEAR 2**|`REDACTED`|
 > 
 > |HARM|BREAKDOWN|
 > |----|-----|
@@ -36,23 +34,28 @@
 
 |ASPECTS|
 |--------------- | 
-|High Concept Aspect|
-|Relationship Aspect|
-|Loyalty Aspect|
+|High Concept|
+|Relationship|
+|Loyalty|
 |`REDACTED`|
 |`REDACTED`|
 |`REDACTED`|
+
 
 |MECH ASPECTS|
 |---------|
-|High Concept Aspect|
-|Trouble Aspect|
-|Relationship Aspect|
+|High Concept|
+|Trouble|
+|Relationship|
+
+|GEAR ASPECTS|
+|--------|
+|Primary Equipment|
+|Secondary Equipment|
 
 >[!blank|static wfull]
 
-# Stats & STUNTS
 `REDACTED`
 
----
+>[!blank|static wfull]
 # Notes
