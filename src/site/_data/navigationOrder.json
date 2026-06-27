@@ -1,26 +1,10 @@
 {
   "/": [
     "Home Page",
-    "Rules",
-    "Admin",
+    "Rules Hub",
     "Database",
-    "Fiction"
-  ],
-  "/Rules": [
-    "0 Introduction",
-    "1 Core Rules",
-    "2 Character Creation",
-    "3 Skills, Approaches, & Stunts",
-    "4 Challenges, Conflicts, & Contests",
-    "5 Putting It All Together",
-    "6 Running The Game",
-    "Factions (UNEDITED SRD)"
-  ],
-  "/Admin": [
-    "Templates"
-  ],
-  "/Admin/Templates": [
-    "Mech"
+    "Fiction",
+    "Rules"
   ],
   "/Database": [
     "Pregen",
@@ -37,5 +21,27 @@
   ],
   "/Fiction": [
     "Faction Intel"
+  ],
+  "/Rules": [
+    "0 Introduction",
+    "1 Core Rules",
+    "2 Character Creation",
+    "3 Skills, Approaches, & Stunts",
+    "4 Challenges, Conflicts, & Contests",
+    "5 Putting It All Together",
+    "6 Running The Game",
+    "Categories",
+    "Fate SRD"
+  ],
+  "/Rules/Categories": [
+    "Aspects",
+    "Mech Rules"
+  ],
+  "/Rules/Fate SRD": [
+    "Adversary Toolkit (UNEDITED SRD)",
+    "Factions (UNEDITED SRD)",
+    "Fate Accelerated (UNEDITED SRD)",
+    "Fate Condensed (UNEDITED SRD)",
+    "Fate Core (UNEDITED SRD)"
   ]
 }
