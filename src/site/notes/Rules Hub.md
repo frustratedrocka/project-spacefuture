@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-hub/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:39:34.249-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/rules-hub/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:43:46.351-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 # Rules By Chapter
@@ -28,6 +28,12 @@ filters:
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - file.embeds
+    sort:
+      - property: file.tags
+        direction: ASC
 
 ```
 
@@ -39,5 +45,11 @@ filters:
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
 
 ```
