@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiction/np-cs/test-npc/","tags":["npc"],"noteIcon":"","updated":"2026-06-26T22:23:53.114-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"Test NPC","Portrait":"![Kamille.jpg](/img/user/Admin/Attachments/Kamille.jpg)","Faction":"Faction 1","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Armor":null,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"Concept":"","Relationship":"","Loyalty":"","Aspects":[""],"Stunts":[null],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Skill","Skill","Skill"],"approach_1":["Q","B","F","Cl","S","Ca"]}}
+{"dg-publish":true,"permalink":"/fiction/np-cs/test-npc/","tags":["npc"],"noteIcon":"","updated":"2026-06-26T22:33:35.935-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"Test NPC","Portrait":"![Kamille.jpg](/img/user/Admin/Attachments/Kamille.jpg)","Faction":"Faction 1","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":null,"Relationship":null,"Loyalty":null,"Aspects":[null],"Stunts":[null],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Skill","Skill","Skill"],"approach_1":["Q","B","F","Cl","S","Ca"]}}
 ---
 
 > [!infobox|right wsmall]
@@ -22,6 +22,8 @@
 |`=this.Concept`|
 |`=this.Relationship`|
 |`=this.Loyalty`|
+|`REDACTED`|
+|`REDACTED`|
 |`REDACTED`|
 
 # Stats & STUNTS

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiction/np-cs/test-pilot/","tags":["npc"],"noteIcon":"","updated":"2026-06-26T22:23:31.182-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"Test Pilot","Portrait":"![Kamille.jpg](/img/user/Admin/Attachments/Kamille.jpg)","Faction":"Factions","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"","Relationship":"","Loyalty":"","Aspects":[""],"Stunts":[null],"MECH_Name":"Test Mech","MECH_Portrait":"![MkII-Anime.jpg](/img/user/Admin/Attachments/MkII-Anime.jpg)","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"","MECH_Trouble":"","MECH_Relationship":"","MECH_Gear":["Primary Equipment","Secondary Equipment"],"MECH_Stunts":[null],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Skill","Skill","Skill"],"approach_1":["Q","B","F","Cl","S","Ca"]}}
+{"dg-publish":true,"permalink":"/fiction/np-cs/test-pilot/","tags":["npc"],"noteIcon":"","updated":"2026-06-26T22:34:20.369-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"Test Pilot","Portrait":"![Kamille.jpg](/img/user/Admin/Attachments/Kamille.jpg)","Faction":"Factions","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":null,"Relationship":null,"Loyalty":null,"Aspects":[null],"Stunts":[null],"MECH_Name":"Test Mech","MECH_Portrait":"![MkII-Anime.jpg](/img/user/Admin/Attachments/MkII-Anime.jpg)","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":null,"MECH_Trouble":null,"MECH_Relationship":null,"MECH_Gear":["Primary Equipment","Secondary Equipment"],"MECH_Stunts":[null],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Skill","Skill","Skill"],"approach_1":["Q","B","F","Cl","S","Ca"]}}
 ---
 
 > [!infobox|right wsmall]
@@ -39,6 +39,8 @@
 |`=this.Concept`|
 |`=this.Relationship`|
 |`=this.Loyalty`|
+|`REDACTED`|
+|`REDACTED`|
 |`REDACTED`|
 
 |MECH ASPECTS|
