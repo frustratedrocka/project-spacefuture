@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T02:07:04.094-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T05:37:11.670-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -223,6 +223,8 @@ Lead a group of people. Command troops in battle; rally a crowd; de-escalate an 
 **DEFEND** #TODO 
 
 ### Sample Stunts
+**ELEMENTARY** You can figure out most of what there is to know about someone at a glance. You may Notice instead of Knowing when you try to learn the background of a character you can observe.
+
 **READ THE ENEMY** Once per session, you may delay your action declaration during a [[Rules/4 Challenges, Conflicts, & Contests#Conflicts\|conflict]]. If you do, you learn what your opponents intend to do this round. You may then declare your own action before the round's actions start to resolve.
 
 ## Operate
