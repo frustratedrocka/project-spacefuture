@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/fiction/np-cs/the-captain/","tags":["npc"],"noteIcon":"","updated":"2026-06-26T20:43:24.929-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"The Captain","Faction":"[[Faction 1]]","Concept":"Test NPC","Relationship":"N/A","Loyalty":"To Be Determined","Aspects":["Test 1","Test 2","Test 3"],"Stunts":["TEST STUNT Lorem Ipsum Dolor Sit Amet","TEST STUNT 2 Lorem Ipsum Dolor Sit Amet"],"Consequences":[{"2":null},{"4":null},{"6":null}],"Strain":4,"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Skill","Skill","Skill"],"approach_1":["Q","B","F","Cl","S","Ca"],"Is_Pilot":false,"Mech":"","Mech_Aspects":[""],"Mech_Armor":null,"Mech_Stunts":[null]}}
+{"dg-publish":true,"permalink":"/fiction/np-cs/the-captain/","tags":["npc"],"noteIcon":"","updated":"2026-06-26T20:44:41.300-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"The Captain","Faction":"[[Faction 1]]","Concept":"Test NPC","Relationship":"N/A","Loyalty":"To Be Determined","Aspects":["Test 1","Test 2","Test 3"],"Stunts":["TEST STUNT Lorem Ipsum Dolor Sit Amet","TEST STUNT 2 Lorem Ipsum Dolor Sit Amet"],"Consequences":[{"2":null},{"4":null},{"6":null}],"Strain":4,"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Skill"],"approach_3":[null],"skill_2":["Skill","Skill"],"approach_2":[null],"skill_1":["Skill","Skill","Skill"],"approach_1":["Q","B","F","Cl","S","Ca"],"Is_Pilot":false,"Mech":"","Mech_Aspects":[""],"Mech_Armor":null,"Mech_Stunts":[null]}}
 ---
-
-# Vitals
 
 > [!infobox|right wsmall]
 > # The Captain
