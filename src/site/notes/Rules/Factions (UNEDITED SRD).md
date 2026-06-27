@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/factions-unedited-srd/","tags":["rules","SRD"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T10:57:00.427-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
+{"dg-publish":true,"permalink":"/rules/factions-unedited-srd/","tags":["rules","SRD"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T10:57:00.000-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
 ---
 
 Written by Mark Diaz Truman  Edited by John Adamus  Layout by Fred Hicks

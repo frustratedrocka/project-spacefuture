@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T01:16:33.000-04:00","dg-note-properties":{"tags":["rules"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T01:16:33.556-04:00","dg-note-properties":{"tags":["rules"]}}
 ---
 
 # Challenges
