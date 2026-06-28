@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T03:58:57.227-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T12:32:32.734-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -34,6 +34,8 @@ Running a role-playing game, in nearly any system that uses a GM at all, boils d
 6. Integrate 5 into the fiction, then return to 1.
 
 Let's break it down. 
+
+----
 
 ## What's Going On
 > [!quote] He-Man, Placeholder Quote
@@ -124,6 +126,28 @@ Knowing when to commit to the bit and when to pivot is one of the harder parts o
 > 
 > These are all sweeping changes that touch a lot of your backend, so they should be thought through carefully, but they're within scope of what the GM can still alter freely while still maintaining total integrity of the established fiction.
 
+### Problems, Opportunities, Steady States
+
+Now that we've established *how* to prepare, we can finally start to talk about *what* to prepare. Most decisions you'll be offering the players can be mapped to three categories: problems, opportunities, and steady states. 
+
+#TODO A problem can be an active threat or a passive obstacle. This is where the majority of moment-to-moment gameplay lives, especially with games that dedicate a lot of attention to combat (e.g "The marauder bellows as she readies her axe for another blow, but leaves herself open as she does - it's your turn, what do you do?") Some play cultures, most notably investigative games and dungeon crawls, put a premium on problem solving *by the players*, with the PCs acting as their direct proxies to interact with the fiction. Other games are more interested in the drama surrounding the problems than the problem itself., and in everyone at the table co-authoring a story about how their characters solved a problem. Both of these are valid, but in my experience most players prefer the former, and not just because 50 years of built-up tradition have cemented it as the default. f you're going to run a game that pushes a more removed authorial / directorial stance towards the player characters, make sure you're up front about it with your group. The latter playstyle tends to engender very strong feelings - some people adore it, others despise it, and it's important you find out where your players stand *before* you're a few sessions in and disagreement over whether the game is fun is causing your group to fracture.
+
+> [!callout]+ Brindle-Would you quit your bullshit
+> #TODO *Brindlewood Bay evangelists, this means you* - "roll to determine if you got the answer right" is *the* defining feature of your game, quit treating it like a dirty little secret you need to obfuscate to trick people into playing your game and then acting smug and superior about it when people complain about it removing the entire thing that makes playing a mystery game fun for them. Saying it's "a game about telling mystery stories" and refusing to elaborate is a bullshit dodge and you know it. I love Blades in the Dark for the way it skips over the tedious hours of contingency planning and goes straight into pure adrenaline-rush mayhem, but I freely acknowledge that for some people, the planning of the caper in detail to negate as much risk as possible is the fun part - so when I'm pitching the game, *I lead with "it's a heist game where you're not allowed to plan"* to let people make an informed call about whether they'd enjoy the experience or not. 
+> 
+> #TODO I freely acknowledge that I have a bias, operate from a fundamentally trad perspective, and have designed this game to *aggressively* enforce actor stance play - I don't care what's in the player's head and whether they're operating from "this is what my character would do," "this would make the story more interesting," or "this is what most efficiently gets us closer to the goal," I care  *very much* about making sure that whatever that thought process results in is filtered through "based on what is true in the fiction, this is what my character's trying to accomplish, this is how they're trying to do it" at the point of mechanical engagement. None of that changes the fact that if you feel you need to obfuscate the core design principles of your game in order to get anyone to try it, *it's because you have good reason to assume they'll hate it* - which is cause to be *more* upfront when seeking consent and buy-in, not less.
+
+#TODO Opportunity - needs active player pursuit. "There's gold in them hills, go get it." This often exists at the adventure level - "what are we going after this week." Players deciding to pursue an opportunity and dealing with problems that emerge between them and their goal is the core top-level loop of proactive play. In a sandbox, you provide a lot of adventure opportunities and give the players free choice; in a more linear campaign, you might provide only a few. #TODO moment-to-moment opportunity discussion
+
+#TODO Steady State - throw a rock into still water and watch the ripples; throw more rocks in different places and the ripples collide; throw really big rocks and the colliding ripples become waves. Unleashing your players on a steady state is similar. This is most immediately visible in social scenarios or faction conflicts, where the players enter an unstable equilibrium and become, essentially, self-propelled cue balls. 
+
+#TODO These options are deeply intertwined - within any steady state there are problems to be dealt with and opportunities to pursue; within any opportunity, there are problems that must be overcome and steady states that can be engaged and disrupted, within any problem, there are opportunities to apply leverage or find workarounds and steady states #FIX that are either causing, threatened by, or already being disrupted by the problem. Each one can exist at all levels of play, from moment-to-moment decision making through a single iteration of the loop to campaign-level situations and goals. 
+
+I'll talk more about how and why to chain problems, opportunities, and steady states together on the fly  in ways that create strong narrative momentum when we get to [[Rules/7 General GM Guidance#What Follows the Result\|#What Follows the Result]] and [[Rules/7 General GM Guidance#The Golden Path\|#The Golden Path]] later in this chapter.
+
+
+----
+
 ## What Do You Want To Accomplish
 > [!quote] Guy Sclanders, How To Be A Great GM
 > There is only one story in the world, and it is: somebody wants something badly and is having trouble getting it." 
@@ -138,7 +162,9 @@ The fiction is in constant motion, and so too are goals. Most of the time, what 
 ### The Seven Dwarfs Method
 If you need to sketch out an NPC in a hurry in the middle of the session, and can't figure out what this person wants in this moment, Taliesin Jaffe's "Seven Dwarfs Method" is a great jumpstart. Choose one of the seven dwarfs from Snow White - Bashful, Doc, Dopey, Grumpy, Happy, Sleepy, and Sneezy - as the defining adjective for the NPC. Each of these names stands alone and instantly evokes a single strong, defining trait that offers a clear cue for what the NPC might be pursuing right now. 
 
-If you want to further distinguish this NPC, go to [[Rules/7 General GM Guidance#Optional 3-Axis Acting\|#Optional 3-Axis Acting]].
+If you want to further distinguish this NPC through performance, go to [[Rules/7 General GM Guidance#Optional 3-Axis Acting\|#Optional 3-Axis Acting]].
+
+---
 
 ## How Do You Try To Accomplish It
 Drill down. **SWEAT THE DETAILS**. What is the character actually, physically doing in this moment? We don't need Allenby to improvise a full paragraph every time she throws a punch, but we do need to know *that she is punching*, as opposed to kicking, or swinging a baseball bat, or a sword, or shooting a gun. And, **IF IT COULD MATTER**, we need to know *how* she's punching. Is she keeping her guard up and deploying tight, well-practiced jabs while leaving few openings for a counterattack? Is she throwing wild, untrained haymakers? Is she darting about and sneaking in pinpoint-accurate blows to joints, nerves, eyes, throats, and other weak points? Is she throwing caution to the wind and unleashing pure berserk aggression? Something else?
@@ -147,6 +173,8 @@ The extent to which detail matters depends on the rules you're using and the nat
 
 ### "Or Something Else"
 When prompting players for a decision, if you lay out multiple courses of action they could take, then wherever possible, add "or something else?" at the end, as seen above. This sounds small, but it's important. Offering the players a few options to choose from comes across as presenting a menu from which they may only choose something you've presented; adding "or something else?" leaves the door open for them to come up with something unexpected and preserves the intended effect - you're naming the most obvious (to you) actions available in this moment, not the *only* actions available.
+
+----
 
 ## Resolution
 This step is broken out into two questions, since if the mechanics don't intervene to impose a result, then there's rarely any need to explain that result - the player's action either succeeds or fails precisely as they described it.
@@ -174,6 +202,8 @@ If the mechanics took over after the previous question, then you need to *explai
 As the GM, you should avoid narrating failure as a result of player character incompetence (though if a *player* chooses to lean into that for themselves, as with the Gimli example, let them). "You just screwed it up" often undermines the identity of the character and, therefore, part of the fun of playing them. Instead, it's best to figure out *why the window for whatever was being attempted closed.* Did something go wrong *around* the PC? Was it bad timing? Bad intel? Dumb luck? Something else? Or, if you're struggling to figure out something that fits, you can pass the narration back to the player and ask them to explain to the table what went wrong.
 
 Besides preserving the fantasy of the player characters, finding other reasons why they failed often results in new sources of tension or drama in the scene - this way, failure becomes a new problem to deal with on the next run through the loop, fuelling the fiction instead of closing it off.
+
+----
 
 ## What Follows the Result
 > [!quote] Trey Parker & Matt Stone
@@ -207,6 +237,8 @@ Sometimes, the effect of a result might not be felt immediately within the scene
 
 ### Fuzzy Logic
 The boundary between "What Explains The Result" and "What Follows The Result" is occasionally fuzzy. Sometimes - usually when  mechanics taking over results in a failure - the "BUT" is contained entirely within step 4B, and leads so directly to the "OK, now what?" question and integration that there's nothing left to add. This is fine; nobody's going to come take your GM privileges away from you for not dogmatically adhering to the precise structure one indie writer came up with to explain what most GMs are already doing. 
+
+----
 
 ## Integration
 Now that you know what's changed at the end of the loop, it's time to put it all together and start the next cycle. It's important to re-center the narration on the key facts influencing the next decision, especially in complex or chaotic situations. If the change is subtle or the situation is relatively stable, it should be fairly easy for everyone to keep track of the scene state, so you don't need to belabor things that aren't obvious factors in the next decision. However, if there's a lot of moving parts in the scene, then it's best to quickly re-establish the current state of all those parts for any decision where they're relevant. 
@@ -262,6 +294,8 @@ Faders I commonly reach for include, but are not limited to: tone, mood, atmosph
 
 All of the prior advice in this chapter has already been about how to do this within each step of the loop. What follows is valid no matter where in the loop you are, and can also apply across multiple steps and iterations. It's important to understand that none of these are completely independent variables - adjusting one of them inevitably has some kind of effect on most, if not all, of the others. This also is far from a complete list - again, these faders are just how *I* conceptualize what I'm doing when at the table. Yours might vary wildly.
 
+----
+
 ## Tone, Atmosphere, & Mood
 >[!quote] Brennan Lee Mulligan, NPC in a whimsical adventure who's about to be shoved headfirst through a spinning propeller, *Dimension 20 Cloudward Ho!*
 "Oh ho ho, on a pennyfarthing bicycle I ride through the sky - NO! WAIT! NOOO! Don't you think this is a sharp deviation from the tone?!"
@@ -278,6 +312,8 @@ Instances where something radically changes the tone of the entire narrative in 
 
 **ATMOSPHERE** is related but distinct. It's the *external expression* of mood. This is where a lot of your moment-to-moment execution lives. It primarily derives from the wording and texture of your narration, but also includes things like character voices, music choice, handouts, and ambient lighting, if you're into that (personally, I enjoy doing voices and *need* music at the table to put myself in the right headspace and dedicate a lot of time and effort to picking out the perfect tracks, but for most people that's complete overkill - and I play primarily online anyway so lighting and handouts are a non-factor).
 
+#TODO Modulation, Pacing, Story structur
+
 I recommend Hamlet's Hit Points by Robin Laws as further reading. In it, Laws breaks down a selection of popular stories in depth to learn exactly how they modulate mood and atmosphere through the story by using sequences of "up beats" and "down beats," and explains how these techniques can still be applied at the game table where those beats are often up to the whims of the dice. 
 
 ### Optional: 3-Axis Acting
@@ -289,20 +325,32 @@ Second, choose a pitch. Again, High, Medium, or Low. Combine this with posture a
 
 If you'd like, you can add an even-more-optional third axis: sophistication. Once again, High, Medium, Low. This primarily affects word choice, but that can have an enormous effect on how the character comes across. A rich, successful, and somewhat snobby lawyer might be High posture (arrogant and snooty), Medium pitch, High sophistication (well-educated); that lawyer's mob enforcer sibling might be High posture (Also arrogant, less snooty, more I-can-kick-your-ass), Medium voice, Low sophistication (speaks in street slang and didn't get the scholarship their sibling did). Combine these with all of the above, and your template choices jump from 63 to a whopping 189.
 
+----
+
+## Pacing & Speed
+#TODO Pacing = campaign level, adventure session level, scene level. Information / detail density per loop iteration. Rapid pacing = high density, slow pacing = low density. Speed = real-time duration per loop iteration. Longer descriptions, "uuuuh sorry still figuring my turn out" = low speed.
+
+### Story Structures
+#TODO This is also where the  story comes from. Put the pitchforks down, I know how I opened this chapter, and I'm not saying to script your campaign - the story is still something that emerges through play, not something you bring. But the central driver of any good story is conflict, and as the person at the table most responsible for generating that conflict, it's impossible not to have a finger on the scale in some way. Think of your campaign as a home cooked meal - you don't necessarily pick the recipe, but you *do* get to decide what's in the pantry to work with. Even if you run a purely reactive exploration-based campaign with no big active threat in the world, like many "old-school" sandbox games encourage, that's a decision you're making to center the story entirely on how the players go out into the world, see exotic places, meet interesting people, and probably rob them blind and/or kill them. 
+
+#TODO To the OSR community - people, please, I beg you, chill the fuck out you are calcifying good practice into dogma. Ravenloft came out in 1983. You can have a completely player-driven sandbox that still has a clear end goal, escalating conflict, prominent / dominant NPCs, high drama, and a satisfying climax. 
+
+#TODO I could write another several thousand words on the western Three-Act Structure framework, the eastern Ki-Sho-Ten-Ketsu cycle, the areas of overlap between them, and how you can use them in your prep, but that's a bit out of scope. Will write an appendix containing a breakdown of both concepts, especially the fractal nature of ki-sho-ten-ketsu and why it works so well with the loop and improvisational structures, through a deep dive into a master class in the concept, Kiki's Delivery Service.
+
+---
 ## Scope
 #TODO How closely are we zoomed in? GURPS 1-second combat rounds: extremely. BitD long term project roll: not very.
 
-## Pacing & Speed
-#TODO Pacing = information / detail density per loop iteration. Rapid pacing = high density, slow pacing = low density. Speed = real-time duration per loop iteration. Longer descriptions, "uuuuh sorry still figuring my turn out" = low speed.
+----
 
-## Stakes & Pressure
->[!quote] Syndrome, *The Incredibles*
->"When everyone's super, no one will be."
+## Pressure = Stakes × Complexity × Constraints
 
-#TODO Stakes = scene stakes and dramatic question, why are we spending table time on this instead of something else. Pressure = narrative weight riding on each decision. To increase pressure, slow down the loop and take the time to establish the consequences of the decision.
+#TODO Stakes = scene stakes and dramatic question, why are we spending table time on this instead of something else. 
 
 ### The Quiet Around The Thunderclap
-#TODO Breathing room and Ma (active stillness). Related concepts, but distinct. Contrast matters. Surround your big moments with small ones. Slow down before and after something important happens to give it weight. 
+#TODO Breathing room and Ma (active stillness). Related concepts, but distinct. Contrast matters. Surround your big moments with small ones. Slow the fuck down before and after something important happens to give it weight. 
+
+#TODO What the fuck I put this section here and within 24 hours a video conversation with Brennan and Matt drops where they talk about this same thing in context of encounter difficulty. Address that. 
 
 ### Progress Clocks
 I'm about to spend a lot of words explaining why numeric progress tracks are a good idea and how to use them. This may sound obvious; it isn't. Clocks are among your most powerful tools for managing pressure, especially in systems that *mandate* complications on certain rolls (as opposed to just suggesting them, like this game usually does).
@@ -322,11 +370,15 @@ On the other hand, there's an argument to be made for players not seeing the clo
 
 It's important to remember that **CLOCKS GO BOTH WAYS** - they should be another element of player decision making, not just a ticking doom timer. Players should be able to push back against dangerous clocks when it makes sense in the fiction. Going back through some of our previous examples, methods for the players to shift the clocks in their favor might include making a brief alarm activation seem like a false positive to lower suspicion, clearing out a wave of enemies efficiently enough that it creates a window to patch themselves up, and placating the mob boss's temper before he has someone demonstrate what hedge trimmers do to the human body.
 
+ #TODO Players should also be able to start clocks of their own to accomplish long-term or complex objectives. 
+
 ### Tick Tick Tick Tick Boom
 
 #TODO sometimes advance per scene, sometimes advance with in-fiction time, sometimes advance only when there's a complication, sometimes when the players put in work to advance one, sometimes all, sometimes none
 
-In games that have mandatory complications on some rolls, clocks can serve as a hidden way for GMs to bleed off excess pressure. When the dice demand something go wrong, but the scene, session, or even the game as a whole would suffer from a complication happening *right now*, you can defer that complication by starting or ticking a clock. #TODO build up to pressure cascade later, clocks are discretionary and if you don't really want to you don't have to ever advance ones that aren't serving a purpose, also works if you just can't think of anything in the moment and need to kick the can down the road
+In games that have mandatory complications on some rolls, clocks can serve as a hidden way for GMs to bleed off excess pressure. When the dice demand something go wrong, but the scene, session, or even the game as a whole would suffer from a complication happening *right now*, you can defer that complication by starting or ticking a clock. #TODO build up to pressure cascade later, clocks are discretionary and if you don't really want to you don't have to ever advance ones that aren't serving a purpose, also works if you just can't think of anything in the moment and need to kick the can down the road. But do this sparingly - if your players learn not to expect negative clocks to actually fill, they cease to be a meaningful complication and become "the GM is letting us off easy again." 
+
+----
 
 ## Difficulty
 #TODO multiple types of difficulty that have nothing to do with each other. Setting difficulty numbers and opposition targets is a system-dependent GM-facing math problem - how often should the players be succeeding or failing? Other type is fictional difficulty - what obstacles are standing between the players and their goals, and what is the absolute minimum "golden path" required for them to overcome those obstacles? Don't @ me osr people, this applies to you too, "get to dungeon, avoid traps and handle random encounters in dungeon, get filthy lucre, schlep it home" counts as golden path -typically a fairly difficult one.
@@ -342,7 +394,7 @@ It's important to think through whether something is truly a **REQUIRED PREREQUI
 
 If you realize the situation you're setting up lacks enough prerequisites to be interesting, you can adjust the unestablished facts to add more. Continuing the painting example, you could decide that instead of being on the wall in plain view and ripe for the plucking, the painting is currently in the museum's secure archives, and it's in some kind of crate nestled among many other crates and containers. Now, the prerequisites have expanded from "get into the museum, steal the painting, and get out" to "get into the museum, get into the archives, locate the painting inside the archives, get the painting, get out." Notably, the order of this is as flexible as the methods are: there are any number of ways the players could locate the painting in the archives, many of which could theoretically be completed well before actually entering the museum to perform the heist, or after entering the museum but before breaching the vault itself. You can also insert additional optional obstacles the same way - you'll get a sense for your preferred balance of how tough to make these obstacles and how many to use as you get more experience.
 
-Sometimes, the players will surprise you with creative solutions that bypass prerequisites you didn't expect to be bypassable. **ENCOURAGE THIS.** If they pull this off, then an easier task is their reward for engaging with the fiction deeply, treating it as true, and creatively using the tools you've given them - they've earned it. For me, these moments of unexpected player brilliance are the greatest joy I ever experience behind the GM screen, and a huge part of why I love running RPGs.
+Sometimes, the players will surprise you with creative solutions that bypass prerequisites you didn't expect to be bypassable. **ENCOURAGE THIS.** If they pull this off, then an easier task is their reward for engaging with the fiction deeply, treating it as true, and creatively using the tools you've given them - they've earned it. For me, these moments of unexpected player brilliance are the some of the greatest joys I ever experience behind the GM screen, and a huge part of why I love running RPGs.
 
 > [!callout|bg-red c-plain no-icon ] EXAMPLE GOLDEN PATHS
 > 
@@ -355,6 +407,8 @@ Sometimes, the players will surprise you with creative solutions that bypass pre
 > **VAMPIRE HUNT** Discover vampire presence, identify vampire vulnerability, exploit vampire vulnerability
 > 
 > As a thought exercise, try and imagine a few ways that each of these minimum prerequisites could come with its own built-in sub-steps. Then, figure out a few costs or complications you could bring in at each sub-step if and when the dice demand something go wrong. Any one of these scenarios could be executed over a single session or an entire campaign depending on how you flesh out each requirement (or leave them intentionally bare).
+
+----
 
 ## Transparency
 #TODO How much do the players know about the situation and the factors influencing / effects of their decision? Maximum transparency: full explanation of everything going on and what will happen if you do X before you commit to X. Minimum transparency: Tomb of Horrors.
