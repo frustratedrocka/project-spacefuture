@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T13:18:59.483-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T03:58:57.227-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -75,10 +75,12 @@ Further Reading: [The Lazy GM's Resource Document](https://slyflourish.com/lazy_
 
 ### Flexible Truth
 
+>[!quote] Arthur Wellesley, Duke of Wellington
+>"They made their campaigns as one might make a splendid piece of harness. It looks very well, and it answers very well, until it gets broken, and then you are done for. Now, I made my campaigns of ropes. If something went wrong, I simply tied a knot, and went on."
+
 >[!aside|s-t]+ BUT WHAT IF PREP *IS* TRUE?
 > Some play cultures take a harder line than I do and argue that, once you sit down to actually run your session, your prep should lock and be just as true as what has already been established in the fiction. This attitude is most prominent among tables that focus on mystery or challenge-based play, the argument (as I understand it) being that those scenarios require the mechanisms and details of a challenge to be fixed in order for player choices to have meaning and for the challenge to be fair. If you prefer this table culture, you may appreciate Sandra Snan's ideas around "[Blorb](https://idiomdrottning.org/blorb-principles)" prep.
 
-*"They made their campaigns as one might make a splendid piece of harness. It looks very well, and it answers very well, until it gets broken, and then you are done for. Now, I made my campaigns of ropes. If something went wrong, I simply tied a knot, and went on." - Arthur Wellesley, Duke of Wellington*
 
 **THE FICTION ESTABLISHED THROUGH PLAY IS TRUE**. 
 
@@ -123,7 +125,8 @@ Knowing when to commit to the bit and when to pivot is one of the harder parts o
 > These are all sweeping changes that touch a lot of your backend, so they should be thought through carefully, but they're within scope of what the GM can still alter freely while still maintaining total integrity of the established fiction.
 
 ## What Do You Want To Accomplish
-*"There is only one story in the world, and it is: somebody wants something badly and is having trouble getting it." -Guy Sclanders, How To Be A Great GM*
+> [!quote] Guy Sclanders, How To Be A Great GM
+> There is only one story in the world, and it is: somebody wants something badly and is having trouble getting it." 
 
 This question is really about defining **WHAT SUCCESS MEANS** in context. When Allenby hits someone in the face, is she trying to provoke them? To knock them out? Specifically to break their nose and disfigure them? To snap them out of mind control? Something else? Every single one of those answers can have drastically different effects on the fiction, even if Allenby's actual behavior and action is identical across them all. The **GOAL** is what matters in this step, not the method.
 
@@ -157,12 +160,14 @@ If there's no uncertainty for the mechanics to resolve, proceed to [[Rules/7 Gen
 
 ### What Explains The Result
 
+> [!quote] Sean Nittner
+> "There's particular GMing advice that we give, which is to be a fan of the players. When something goes wrong, it's not because you're incompetent, it's because something bad happened or you're trying to compensate for something."
+
+> [!quote] Gimli's player embraces a critically failed diplomacy check, DM Of The Rings
+> "TELL ME YOUR NAME, HORSEFUCKER!"
+
 >[!aside|s-t] WHEN A PC SHOULD SUCK
 > There are some notable exceptions to the guidance about not defaulting to incompetence to explain failure - primarily, genre space where PC incompetence is the point of the game. If the intended tone of your game is comedic and farcical, or otherwise operating with the shared understanding that characters getting in over their heads and screwing up royally is the primary appeal and driver of the drama, then by all means, go nuts and lean into that.
-
-*"There's particular GMing advice that we give, which is to be a fan of the players. When something goes wrong, it's not because you're incompetent, it's because something bad happened or you're trying to compensate for something." - Sean Nittner*
-
-*"TELL ME YOUR NAME, HORSEFUCKER!"* - Gimli's player embraces a critically failed diplomacy check, DM Of The Rings
 
 If the mechanics took over after the previous question, then you need to *explain* the result that those mechanics imposed. Since success is often self-explanatory once the player has established their goal and their method, this typically takes the form of "what went wrong or changed about the scenario that kept the PC from achieving their goal with the stated method?"
 
@@ -258,11 +263,12 @@ Faders I commonly reach for include, but are not limited to: tone, mood, atmosph
 All of the prior advice in this chapter has already been about how to do this within each step of the loop. What follows is valid no matter where in the loop you are, and can also apply across multiple steps and iterations. It's important to understand that none of these are completely independent variables - adjusting one of them inevitably has some kind of effect on most, if not all, of the others. This also is far from a complete list - again, these faders are just how *I* conceptualize what I'm doing when at the table. Yours might vary wildly.
 
 ## Tone, Atmosphere, & Mood
+>[!quote] Brennan Lee Mulligan, NPC in a whimsical adventure who's about to be shoved headfirst through a spinning propeller, *Dimension 20 Cloudward Ho!*
+"Oh ho ho, on a pennyfarthing bicycle I ride through the sky - NO! WAIT! NOOO! Don't you think this is a sharp deviation from the tone?!"
+
 > [!aside|s-t] DON'T PULL THE RUG
 > Your intended tone should be part of your pitch when you're starting up your new campaign and recruiting players. Make sure you've gotten your players to buy into the idea before you execute a drastic campaign-scale tone shift - expect them to react very negatively to having their trust broken otherwise, and rightly so, since what you're doing is no longer what they signed up for and invested time and energy in.
 
->[!quote] Brennan Lee Mulligan, NPC in a whimsical adventure who's about to be shoved headfirst through a spinning propeller, *Dimension 20 Cloudward Ho!*
-"Oh ho ho, on a pennyfarthing bicycle I ride through the sky - NO! WAIT! NOOO! Don't you think this is a sharp deviation from the tone?!"
 
 **TONE** is the thing you'll be adjusting the least often, but also the most important fader to keep in mind - it's a filter that will affect every subsequent decision you make. Tone exists at the highest level and defines the feel of your entire campaign. It can and should change over the course of your game, sometimes quite drastically, but it tends to change slowly, through a series of small adjustments over time. 
 
@@ -315,6 +321,8 @@ There's some debate over whether or not clocks should be player-facing; I take a
 On the other hand, there's an argument to be made for players not seeing the clock in cases where their decision gets **MORE INTERESTING** (not just harder) with incomplete information. This works well for cases where it's obvious that tension is building up and something dramatic is about to happen, but nobody knows what will set off the powder keg or how long before it blows. For example, a boss charging up a devastating attack, a mob boss running out of patience during a tense standoff, or a villain working slowly behind the scenes and advancing a plan that, when it fires, will completely upend the overall situation of your campaign.
 
 It's important to remember that **CLOCKS GO BOTH WAYS** - they should be another element of player decision making, not just a ticking doom timer. Players should be able to push back against dangerous clocks when it makes sense in the fiction. Going back through some of our previous examples, methods for the players to shift the clocks in their favor might include making a brief alarm activation seem like a false positive to lower suspicion, clearing out a wave of enemies efficiently enough that it creates a window to patch themselves up, and placating the mob boss's temper before he has someone demonstrate what hedge trimmers do to the human body.
+
+### Tick Tick Tick Tick Boom
 
 #TODO sometimes advance per scene, sometimes advance with in-fiction time, sometimes advance only when there's a complication, sometimes when the players put in work to advance one, sometimes all, sometimes none
 
