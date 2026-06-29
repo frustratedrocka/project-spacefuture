@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/appendix-shiny-and-chrome/","tags":["appendix"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T23:55:39.506-04:00","dg-note-properties":{"tags":["appendix"]}}
+{"dg-publish":true,"permalink":"/rules/appendix-shiny-and-chrome/","tags":["appendix"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T23:56:37.984-04:00","dg-note-properties":{"tags":["appendix"]}}
 ---
 
  *Mad Max: Fury Road* is remembered as one of the most unrelentingly intense action films ever made, a nonstop 2 hour thrill ride of wall-to-wall car stunts and explosions punctuated by occasional fistfights in the sand and dramatic screaming. 
@@ -11,7 +11,7 @@
  I want to point to three examples from across the movie that illustrate its pattern: the very beginning of the film, the sequence following the giant sandstorm, and the beginning of the final extended chase sequence.
 
 # Begin At The Beginning
- The first thing we see in Fury Road is Max, from the back, standing dead still as he stares out over the wasteland. We hear only his narration, voices in his head, and the desert wind. Then, the camera slowly tracks down, and we get our first glimpse of motion. A little lizard darts across the frame, from a rock, to Max's supplies, to near Max's boot. Max crushes it beneath his heel, barely shifting his stance to do it. A beat of stillness again. Then, he smoothly picks the lizard up to eat it - still a minimum of motion to do what he needs to. It's not until after this that the camera finally pulls in, holding on him as he eats - and then he hears the distant rev of an engine, and *immediately* rushes to grab his things, pack his car, and peels away. 
+ The first thing we see in Fury Road is Max, from the back, standing dead still as he stares out over the wasteland. We hear only his narration, voices in his head, and the desert wind. Then, the camera slowly tracks down, and we get our first glimpse of motion. A little lizard darts across the frame, from a rock, to Max's supplies, to near Max's boot. Max crushes it beneath his heel, barely shifting his stance to do it. A beat of stillness again. Then, he smoothly picks the lizard up to eat it - still a minimum of motion to do what he needs to. It's not until after this that the camera finally pulls in, holding on him as he eats - and then he hears the distant rev of an engine, and *immediately* rushes to grab his things, pack his car, and peel away. 
  
 We've just seen a full 40 seconds of quiet and almost no motion, a cut with another six seconds of very limited motion, then a sequence of eight cuts in 14 seconds, all pulled in tight to emphasize the details and heighten the sense of chaos, stripping away everything that is not a focused beat of hurried activity. 
  
@@ -25,7 +25,7 @@ Smash cut, insert of a child being run over by an oncoming convoy. Then back to 
 
 And *here* the music kicks in for the first time. Just three cello notes blaring out, uncomfortable silence between them, as Max is pulled into the distance towards whatever awaits him. 
 
-Everything I've just laid out pales in comparison to what's to come, but it's already firmly established a pattern: The film is constantly spiking up its intensity, then immediately rolling back to something quieter. This serves two purposes: it gives space and weight to what just happened, and it lowers the volume for whatever comes next. If it were one intense beat right after another, they'd blur together into one moment; by making sure to include a dip between them, it reads as two discrete intense events instead of one within the same time span - which, in the audience's brain, reads as more intense overall, since a greater quantity of intense things are happening. 
+Everything I've just laid out pales in comparison to what's to come, but it's already firmly established a pattern: The film is constantly spiking up its intensity, then immediately rolling back to something quieter. This serves two purposes: it gives space and weight to what just happened, and it lowers the volume before whatever comes next. If it were one intense beat right after another, they'd blur together into one moment; by making sure to include a dip between them, it reads as two discrete intense events instead of one within the same time span - which, in the audience's brain, reads as more intense overall, since a greater quantity of intense things are happening. 
 
 If we were to map out the intensity of this scene, it would look something like this:
 
