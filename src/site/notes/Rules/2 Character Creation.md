@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-29T03:05:14.079-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-29T03:05:19.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Pilot Creation
@@ -185,6 +185,7 @@ When improving a skill rank, you must maintain a "column" structure. Each step m
 |  X  |   X   |     |     |  X  |    X    |  X  |
 |  X  |   X   |  X  |     |  X  |    X    |     |
 |  X  |   X   |  X  |     |  X  |    X    |  X  |
+
 
 Approaches don't have to follow the pyramid, but they do need to respect two limits: 
 1. Except for Adequate (1), no more than two approaches may ever be at the same rank. So a spread of 2 2 3 3 4 4 is fine, but the only legal choice for the next approach increase is to increase one of the Masterful (4) approaches to Superhuman (5) for a spread of 2 2 3 3 4 5. 

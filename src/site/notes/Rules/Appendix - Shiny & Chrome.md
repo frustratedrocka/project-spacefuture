@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/appendix-shiny-and-chrome/","tags":["appendix"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T23:56:37.984-04:00","dg-note-properties":{"tags":["appendix"]}}
+{"dg-publish":true,"permalink":"/rules/appendix-shiny-and-chrome/","tags":["appendix"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T23:56:37.000-04:00","dg-note-properties":{"tags":["appendix"]}}
 ---
 
  *Mad Max: Fury Road* is remembered as one of the most unrelentingly intense action films ever made, a nonstop 2 hour thrill ride of wall-to-wall car stunts and explosions punctuated by occasional fistfights in the sand and dramatic screaming. 
