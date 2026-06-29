@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T21:50:18.851-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T23:19:31.325-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -222,7 +222,7 @@ The quote at the top of this section is fantastic advice for writers. The point 
 
 This idea separates a story that makes sense and has a clear throughline pushing it forwards from a story that's more like a series of random events that happen to occur in sequence. There is, however, an obvious disconnect: this advice is meant for *storytellers*, and we're not storytellers, we're game masters. How are we supposed to use this advice without falling back on prepared plots?
 
-Simple: Figure out how every action leads to a THEREFORE or a BUT, and bring that THEREFORE or BUT in before you restart the loop. This way, the world always reacts to the players' actions. Sometimes it pushes back against them; sometimes, the players do unexpectedly and the world's opposition to them melts away like ice cream in front of a heat gun. This logic flow is how you keep things interesting. 
+Simple: Figure out how every action leads to a THEREFORE or a BUT, and bring that THEREFORE or BUT in before you restart the loop. This way, the world always reacts to the players' actions. Sometimes it pushes back against them; sometimes, the players do unexpectedly well and the world's opposition to them melts away like ice cream in front of a heat gun. This logic flow is how you keep things interesting. 
 
 Here are a few broad ways this can play out. This is not a complete list, but hopefully it's enough to help you start thinking about how this can come into play in your own games:
 >[!aside|s-t]+ FAILING FORWARD
@@ -249,8 +249,8 @@ Now that you know what's changed at the end of the loop, it's time to put it all
 
 > [!callout|bg-red c-plain no-icon]+ EXAMPLE LOOP: NOMU RETURNS
 > 1. Nomu is close to their assassination target, whose back is turned. The target is a skilled fighter, but off guard at the moment. 
-> 2. Nomu wants to kill the target.
-> 3. Nomu wants to kill the target by sneaking up from behind and taking them out before they realize anything's wrong.
+> 2. Nomu wants to kill the target...
+> 3. ...by sneaking up from behind and taking them out before they realize anything's wrong.
 > 4. Resolve the action:
 >     1. Do the mechanics take over? YES; there is significant uncertainty. Nomu rolls and fails.
 >     2. What explains the result? Nomu would have succeeded, BUT the target detected him - perhaps through the movement of the air as the blade struck, perhaps through the faintest sound of a footstep on the wrong part of the ground - and dodged at the last second.
@@ -262,8 +262,8 @@ Now that you know what's changed at the end of the loop, it's time to put it all
 
 > [!callout|bg-red c-plain no-icon ]+ EXAMPLE: THE MUSEUM JOB
 > 1.  The darkened museum looms over a thief as they stand before its staff entrance.
-> 2. The thief wants to get into the building.
-> 3. They want to get in by picking the lock on the staff entrance door.
+> 2. The thief wants to get into the building...
+> 3. ...by picking the lock on the staff entrance door.
 > 4. Resolve the action:
 >     1. Do mechanics take over? YES; there is significant uncertainty. The player rolls to pick the lock and succeeds..
 >     2. What explains the result? The thief picked the lock without issue.
@@ -275,8 +275,8 @@ Now that you know what's changed at the end of the loop, it's time to put it all
 
 > [!callout|bg-red c-plain no-icon ]+ EXAMPLE LOOP: IMPROVISED COMPLICATION
 > 1. A cyberpunk criminal team is in a narrow, winding alley wiith a kidnapped exec slung over one of their heavy's shoulders, the team's currently-bleeding-out face over the other, and corpo security in hot pursuit.
-> 2. The team wants to escape security.
-> 3. They want to escape by running for their lives out of the alley and back to the van they parked nearby.
+> 2. The team wants to escape security...
+> 3. ...by running for their lives out of the alley and back to the van they parked nearby.
 > 4. Resolve the action:
 >     1. Do mechanics take over? YES; there is significant uncertainty. They roll as a group to outrun the security, and the result is "success, but with a complication" per the rules of their system.
 >     2. What explains the result? It's a complicated success, so they do reach the van, BUT the dice have decided that something must go wrong. THEREFORE, you invent a new fact about the scene to make things harder without negating the success: A corrupt traffic cop is out writing parking tickets to meet their quota, knowing they won't be properly challenged even if the ticket is bullshit. That cop slaps a ticket on the team's van at the precise moment they make it out of the alley.
@@ -318,7 +318,7 @@ Instances where something radically changes the tone of the entire narrative in 
 
 #TODO Modulation, Pacing, Story structure
 
-I recommend Hamlet's Hit Points by Robin Laws as further reading. In it, Laws breaks down a selection of popular stories in depth to learn exactly how they modulate mood and atmosphere through the story by using sequences of "up beats" and "down beats," and explains how these techniques can still be applied at the game table where those beats are often up to the whims of the dice. 
+I recommend Hamlet's Hit Points by Robin Laws as further reading. In it, Laws breaks down a selection of popular films in depth to learn how they modulate mood and atmosphere using sequences of "up beats" and "down beats," and explains how these techniques can be applied at the game table. The advice he gives works well, even when those beats are often up to the whims of the dice. 
 
 ### Optional: 3-Axis Acting
 I am not an acting coach or a director, so I'll parrot someone who is - once again, Taliesin Jaffe. Once you have an NPC's personality and immediate goals worked out (see [[Rules/7 General GM Guidance#The Seven Dwarfs Method\|#The Seven Dwarfs Method]] in a pinch), if you'd like to go the extra mile and inhabit the character as performance, the easiest way to distinguish them is by making two or three snap judgement calls, each of which can be High, Medium, or Low.
@@ -378,7 +378,7 @@ Blades In The Dark, which popularized the concept of clocks, suggests using cloc
 >[!aside|s-t]+ CLOCKS IN THIS GAME
 >I recommend defaulting to an 8-clock and incrementing the clock by however many hits above or below the opposition the character rolled. Ties are an exception - if the player was *specifically trying to increment a clock* or doing something that would obviously move a clock one way or the other even on a partial success, tick the clock by 1 in the appropriate direction and come up with some other kind of minor cost.
 
-These rules work well in Blades, which features multiple degrees of complication severity and success baked into its ruleset (and can have any severity of consequence appear even on a complicated success in the right conditions), but if your game is closer to a binary pass/fail system, or uses a different method of handling complications, you'll need to adjust them to find an implementation that works for your table. 
+These rules work well in Blades, which features multiple degrees of complication severity and success baked into its ruleset (and can have any severity of consequence appear even on a complicated success in the right conditions). If your game is closer to a binary pass/fail system, or uses a different method of handling complications, you'll need to adjust them to find an implementation that works for your table. 
 
 There's some debate over whether or not clocks should be player-facing; I take a very strong stance of "it depends." Players seeing the clock is great for tension - it becomes a **SWORD OF DAMOCLES** hanging overhead, where they can see the rope holding it in place wearing away and getting closer and closer to snapping. Or, if the players actually want to fill the clock, it becomes a clear **PROGRESS MARKER** that lets them know exactly how close they are to their goal. This works well in situations that have obvious known time limits, stealth operations where the players' actions bring them closer and closer to detection, battles where the players are trying to escape before enemy reinforcements arrive (or hold out long enough for reinforcements of their own to turn the tide), scenarios where there's more options available than time available to complete them in and prioritization is required, and so on. 
 
