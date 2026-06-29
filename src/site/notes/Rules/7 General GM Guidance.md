@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T13:15:02.724-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T20:52:36.146-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -128,23 +128,24 @@ Knowing when to commit to the bit and when to pivot is one of the harder parts o
 
 ### Problems, Opportunities, Steady States
 
-Now that we've established *how* to prepare, we can finally start to talk about *what* to prepare. Most decisions you'll be offering the players can be mapped across three categories: problems, opportunities, and steady states. 
+Now that we've established *how* to prepare, we can start to talk about *what* to prepare. Most situations the players will find their characters in can be mapped across three broad categories: problems, opportunities, and steady states. 
 
-#TODO A problem can be an active threat or a passive obstacle. This is where the majority of moment-to-moment gameplay lives, especially with games that dedicate a lot of attention to combat (e.g "The marauder bellows as she readies her axe for another blow, but leaves herself open as she does - it's your turn, what do you do?") Some play cultures, most notably investigative games and dungeon crawls, put a premium on problem solving *by the players*, with the PCs acting as their direct proxies to interact with the fiction. Other games are more interested in the drama surrounding the problems than the problem itself., and in everyone at the table co-authoring a story about how their characters solved a problem. Both of these are valid, but in my experience most players prefer the former, and not just because 50 years of built-up tradition have cemented it as the default. f you're going to run a game that pushes a more removed authorial / directorial stance towards the player characters, make sure you're up front about it with your group. The latter playstyle tends to engender very strong feelings - some people adore it, others despise it, and it's important you find out where your players stand *before* you're a few sessions in and disagreement over whether the game is fun is causing your group to fracture.
+A problem can be an active threat or a passive obstacle. This is where the majority of moment-to-moment gameplay lives, especially with games that dedicate a lot of attention to combat (e.g "The marauder bellows as she readies her axe for another blow, but leaves herself open as she does - it's your turn, what do you do?") But it's also a fantastic source of scenario hooks - someone, somewhere, has a complex problem that needs solving, and the players might choose to make it their problem, or it might *make itself* their problem. 
 
-> [!callout]+ Brindle-Would you quit your bullshit
-> #TODO I can't stress this enough, it's absolutely critical to get everyone on the same page about how the game expects them to think about their characters and their engagement with the fiction. *Brindlewood Bay evangelists, this means you* - "roll to determine if you got the answer right" is *the* defining feature of your game, quit treating it like a dirty little secret you need to obfuscate to trick people into playing your game and then acting smug and superior about it when people complain about it removing the entire thing that makes playing a mystery game fun for them. Saying it's "a game about telling mystery stories" and refusing to elaborate is a bullshit dodge and you know it. I love Blades in the Dark for the way it skips over the tedious hours of contingency planning and goes straight into pure adrenaline-rush mayhem, but I freely acknowledge that for some people, the planning of the caper in detail to negate as much risk as possible is the fun part - so when I'm pitching the game, *I lead with "it's a heist game where you're not allowed to plan"* to let people make an informed call about whether they'd enjoy the experience or not. 
+> [!callout]+ Brindle-Would you please quit your bullshit
+> Some play cultures, most notably investigative games and dungeon crawls, put a premium on problem solving *by the players*, with the PCs acting as their direct proxies to interact with the fiction. Other games are more interested in the drama surrounding the problems than the problem itself, and in everyone at the table co-authoring a story about how their characters solved a problem. Both of these are valid, but in my experience most players prefer the former, and not just because 50 years of built-up tradition have cemented it as the default. If you're going to run a game that pushes a more removed authorial / directorial stance towards the player characters, *make sure you're up front about it with your group*. The latter playstyle tends to engender very strong feelings - some people adore it, others despise it, and it's important you find out where your players stand *before* you're a few sessions in and disagreement over whether the game is fun is causing your group to fracture. If you're pitching a system that strips out what many players consider a key part of a genre's appeal - like Blades In The Dark using flashbacks to skip over extensive planning for every possible contingency and cut straight to the adrenaline-rush mayhem, or Brindlewood Bay leaving whether or not the players correctly solved the mystery completely up to a die roll #CUT instead of letting the players' decisions and deductions actually matter, *lead with that.*
 > 
-> #TODO I freely acknowledge that I have a bias, operate from a fundamentally trad perspective, and have designed this game to *aggressively* enforce actor stance play. I don't care what's in the player's head and whether they're operating from "this is what my character would do," "this would make the story more interesting," or "this is what most efficiently gets us closer to the goal." I care *very much* about making sure that whatever decision that thought process outputs is filtered through "based on what is true in the fiction, this is what my character's trying to accomplish, this is how they're trying to do it" at the point of mechanical engagement. None of that changes the fact that if you feel you need to obfuscate the core design principles of your game in order to get anyone to try it, *it's because you have good reason to assume they'll hate it* - which is cause to be *more* upfront when seeking consent and buy-in, not less.
+> I admit that I have a bias here. I tend to operate from a fundamentally traditional perspective on line between the GM and the other players, and have designed this game to *aggressively* enforce actor stance play outside of the bounded authorial intrusions that fate points allow. I don't care what's in the player's head and whether they're basing their decisions on "this is what my character would do," "this would make the story more interesting," or "this is what most efficiently gets us closer to the goal." I care *very much* about making sure that the resulting decision gets filtered through "based on what is true in the fiction, this is what my character's trying to accomplish, this is how they're trying to do it" at the point of mechanical engagement. 
 
-#TODO Opportunity - needs active player pursuit. "There's gold in them hills, go get it." This often exists at the adventure level - "what are we going after this week." Players deciding to pursue an opportunity and dealing with problems that emerge between them and their goal is the core top-level loop of proactive play. In a sandbox, you provide a lot of adventure opportunities and give the players free choice; in a more linear campaign, you might provide only a few. #TODO moment-to-moment opportunity discussion
+
+#TODO Opportunity - needs active player pursuit. "There's gold in them hills, go get it." This often exists at the adventure level - "what are we going after this week." Players deciding to pursue an opportunity and dealing with problems that emerge between them and their goal is one of the primary top-level loops of proactive play. In a sandbox, you provide a lot of adventure opportunities and give the players free choice; in a more linear campaign, you might provide only a few. #TODO moment-to-moment opportunity discussion
 
 #TODO Steady State - throw a rock into still water and watch the ripples; throw more rocks in different places and the ripples collide; throw really big rocks and the colliding ripples become waves. Unleashing your players on a steady state is similar. This is most immediately visible in social scenarios or faction conflicts, where the players enter an unstable equilibrium and become, essentially, self-propelled cue balls. 
 
 #TODO These options are deeply intertwined - within any steady state there are problems to be dealt with and opportunities to pursue; within any opportunity, there are problems that must be overcome and steady states that can be engaged and disrupted, within any problem, there are opportunities to apply leverage or find workarounds and steady states #FIX that are either causing, threatened by, or already being disrupted by the problem. Each one can exist at all levels of play, from moment-to-moment decision making through a single iteration of the loop to campaign-level situations and goals.
 
 > [!callout|bg-red c-plain no-icon ]+ EXAMPLE: THE MASQUERADE
-> #TODO Example of how a masquerade ball is both a steady state 
+> #TODO Example of how a masquerade ball is at once a steady state, opportunity, and problem, with multiple nested states and problems inside it. 
 
 I'll talk more about how and why to chain problems, opportunities, and steady states together on the fly  in ways that create strong narrative momentum when we get to [[Rules/7 General GM Guidance#What Follows the Result\|#What Follows the Result]] and [[Rules/7 General GM Guidance#The Golden Path\|#The Golden Path]] later in this chapter.
 
@@ -330,7 +331,7 @@ If you'd like, you can add an even-more-optional third axis: sophistication. Onc
 
 ----
 
-## Pacing & Speed
+## Pacing, Speed, & Dynamic Range
 #TODO Pacing = campaign level, adventure session level, scene level. Information / detail density per loop iteration. Rapid pacing = high density, slow pacing = low density. Speed = real-time duration per loop iteration. Longer descriptions, "uuuuh sorry still figuring my turn out" = low speed.
 
 ### Story Structures
@@ -339,6 +340,25 @@ If you'd like, you can add an even-more-optional third axis: sophistication. Onc
 #TODO To the OSR community - people, please, I beg you, chill the fuck out you are calcifying good practice into dogma. Ravenloft came out in 1983. You can have a completely player-driven sandbox that still has a clear end goal, escalating conflict, prominent / dominant NPCs, high drama, and a satisfying climax. 
 
 #TODO I could write another several thousand words on the western Three-Act Structure framework, the eastern Ki-Sho-Ten-Ketsu cycle, the areas of overlap between them, and how you can use them in your prep, but that's a bit out of scope. Will write an appendix containing a breakdown of both concepts, especially the fractal nature of ki-sho-ten-ketsu and why it works so well with the loop and improvisational structures, through a deep dive into a master class in the concept, Kiki's Delivery Service.
+
+### Dynamic Range & Transients: The Quiet Around The Thunderclap
+Let's return to the fader board analogy for a moment, since audio engineering terms are once again relevant to how you run your game. **DYNAMIC RANGE** is the difference between the largest and smallest amounts of a thing. In music, that means the difference between the loudest and quietest parts of a song. Ever since the mid-'90s, music nerds have been complaining about a phenomenon called the "Loudness War," referring to the way most popular music has gotten louder and louder over the years at the expense of dynamic range. The idea is that, since louder song feels more exciting and energetic, you can make the song feel better to listen to by making a greater percentage of it loud.
+
+Why not just make everything louder or turn the volume up on the listener's speakers? Simple: within a production environment, there is an upper limit to the volume of a sound. Past that limit, bad things happen to the audio - it breaks up and distorts in a way that's almost universally considered unpleasant. And at the listener's end, even powerful speakers have their own maximums. So instead, the solution is to reduce the dynamic range of the music. Lower the volume of the loudest spikes so you're no longer hitting the maximums, then increase the volume of everything else until you get back to the limit. 
+
+In other words, you don't just make something louder. You make it *flatter*. Your spikes are less spiky, and they stand out less. And when you take this too far, the music loses any sense of variety and contrast and just dissolves into a wall of noise. Because as it turns out, the quiet parts are *really important*. They're what let the loud parts *feel* loud. 
+
+The same concept applies at your table. If everything is at full intensity all the time, then it stops feeling intense - your players adjust to that as the baseline,, and the lack of variety generates fatigue, not excitement. When everything is intense, nothing *feels* intense. You need those quiet parts in your game, to contrast with the moments of high tension, adrenaline, chaos, hilarity, or whatever other feeling you want to create when it's at full blast. 
+
+I go into this in much more depth in [[Rules/Appendix - Shiny & Chrome\|Appendix - Shiny & Chrome]], but it's worth studying *Mad Max: Fury Road* as an absolute masterclass in the manipulation of dynamic range across every creative discipline. The film doesn't read as intense because it's actually nonstop intensity. It reads as intense because it is constantly spiking the intensity up, then immediately pulling it back down again to reset the audience before the next spike. That pullback is absolutely critical to the film's success - it's what lets each intense moment stand out as a *discrete event*. The *feeling* of constant intensity comes from the way it places a lot of those discrete events in rapid succession. If it were actually maximum volume all the time, the film would have been an incomprehensible mess where nothing stuck out because every intense moment blurred together with the other intense moments that came before and after. The thing that makes it one of the greatest action films ever made is its *restraint.*
+
+#TODO Breathing room and Ma (active stillness). Related concepts, but distinct. Contrast matters. Surround your big moments with small ones. Slow the fuck down before and after something important happens to give it weight. 
+
+#TODO What the fuck I put this section here and within 24 hours a video conversation with Brennan and Matt drops where they talk about this same thing in context of encounter difficulty. Address that. 
+
+I have been running games for fifteen years at the time of writing this. I can clearly remember every instance during that time where I've decided "Do I really want to turn things *all* the way up *right now*?... yes, yes I do."
+
+It has happened exactly *once.*
 
 ---
 ## Scope
@@ -349,11 +369,6 @@ If you'd like, you can add an even-more-optional third axis: sophistication. Onc
 ## Pressure = Stakes × Complexity × Constraints
 
 #TODO Stakes = scene stakes and dramatic question, why are we spending table time on this instead of something else. 
-
-### The Quiet Around The Thunderclap
-#TODO Breathing room and Ma (active stillness). Related concepts, but distinct. Contrast matters. Surround your big moments with small ones. Slow the fuck down before and after something important happens to give it weight. 
-
-#TODO What the fuck I put this section here and within 24 hours a video conversation with Brennan and Matt drops where they talk about this same thing in context of encounter difficulty. Address that. 
 
 ### Progress Clocks
 I'm about to spend a lot of words explaining why numeric progress tracks are a good idea and how to use them. This may sound obvious; it isn't. Clocks are among your most powerful tools for managing pressure, especially in systems that *mandate* complications on certain rolls (as opposed to just suggesting them, like this game usually does).
