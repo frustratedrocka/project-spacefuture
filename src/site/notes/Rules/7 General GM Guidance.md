@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T21:47:56.929-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T21:50:18.851-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -332,10 +332,12 @@ If you'd like, you can add an even-more-optional third axis: sophistication. Onc
 ----
 
 ## Pacing, Speed, & Dynamic Range
-#TODO Pacing = campaign level, adventure session level, scene level. Information / detail density per loop iteration. Rapid pacing = high density, slow pacing = low density. Speed = real-time duration per loop iteration. Longer descriptions, "uuuuh sorry still figuring my turn out" = low speed.
+#TODO Pacing = campaign level, adventure session level, scene level. Information / detail density per loop iteration. Rapid pacing = low density, slow pacing = high density. Speed = real-time duration per loop iteration. Longer descriptions, "uuuuh sorry still figuring my turn out" = low speed. Shorter descriptions, talking fast, *attentive players* = higher speed.
 
 ### Story Structures
 #TODO This is also where the  story comes from. Put the pitchforks down, I know how I opened this chapter, and I'm not saying to script your campaign - the story is still something that emerges through play, not something you bring. But the central driver of any good story is conflict, and as the person at the table most responsible for generating that conflict, it's impossible not to have a finger on the scale in some way. Think of your campaign as a  home cooked stew - you don't necessarily pick the recipe, you don't necessarily even *have* a recipe beyond "pick ingredients, add and remove from the pot as needed, and manage stove heat," but you *do* get to decide what's in the pantry to work with. Even if you run a purely reactive exploration-based campaign with no big active threat in the world, like many "old-school" sandbox games encourage, that's a decision you're making to center the story entirely on how the players go out into the world, see exotic places, meet interesting people, and probably rob them blind and/or kill them. 
+
+#TODO As with Therefore/But, we can *adapt* storytelling techniques for use in our games. 
 
 #TODO To the OSR community - people, please, I beg you, chill the fuck out you are calcifying good practice into dogma. Ravenloft came out in 1983. You can have a completely player-driven sandbox that still has a clear end goal, escalating conflict, prominent / dominant NPCs, high drama, and a satisfying climax. 
 
