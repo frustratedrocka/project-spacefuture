@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T20:52:36.146-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T21:47:56.929-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -341,7 +341,7 @@ If you'd like, you can add an even-more-optional third axis: sophistication. Onc
 
 #TODO I could write another several thousand words on the western Three-Act Structure framework, the eastern Ki-Sho-Ten-Ketsu cycle, the areas of overlap between them, and how you can use them in your prep, but that's a bit out of scope. Will write an appendix containing a breakdown of both concepts, especially the fractal nature of ki-sho-ten-ketsu and why it works so well with the loop and improvisational structures, through a deep dive into a master class in the concept, Kiki's Delivery Service.
 
-### Dynamic Range & Transients: The Quiet Around The Thunderclap
+### Dynamic Range: The Quiet Around The Thunderclap
 Let's return to the fader board analogy for a moment, since audio engineering terms are once again relevant to how you run your game. **DYNAMIC RANGE** is the difference between the largest and smallest amounts of a thing. In music, that means the difference between the loudest and quietest parts of a song. Ever since the mid-'90s, music nerds have been complaining about a phenomenon called the "Loudness War," referring to the way most popular music has gotten louder and louder over the years at the expense of dynamic range. The idea is that, since louder song feels more exciting and energetic, you can make the song feel better to listen to by making a greater percentage of it loud.
 
 Why not just make everything louder or turn the volume up on the listener's speakers? Simple: within a production environment, there is an upper limit to the volume of a sound. Past that limit, bad things happen to the audio - it breaks up and distorts in a way that's almost universally considered unpleasant. And at the listener's end, even powerful speakers have their own maximums. So instead, the solution is to reduce the dynamic range of the music. Lower the volume of the loudest spikes so you're no longer hitting the maximums, then increase the volume of everything else until you get back to the limit. 
@@ -360,15 +360,11 @@ I have been running games for fifteen years at the time of writing this. I can c
 
 It has happened exactly *once.*
 
----
-## Scope
-#TODO How closely are we zoomed in? GURPS 1-second combat rounds: extremely. BitD long term project roll: not very.
-
 ----
 
 ## Pressure = Stakes × Complexity × Constraints
 
-#TODO Stakes = scene stakes and dramatic question, why are we spending table time on this instead of something else. 
+#TODO Stakes = scene stakes and dramatic question, why are we spending table time on this instead of something else. Complexity = number of moving parts in and surrounding the scene. Constraints = limits on *effective* player actions *(there are always less of these than anyone thinks)*.
 
 ### Progress Clocks
 I'm about to spend a lot of words explaining why numeric progress tracks are a good idea and how to use them. This may sound obvious; it isn't. Clocks are among your most powerful tools for managing pressure, especially in systems that *mandate* complications on certain rolls (as opposed to just suggesting them, like this game usually does).
