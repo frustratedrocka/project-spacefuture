@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/fate-srd/fate-core-unedited-srd/","tags":["rules","SRD"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:40:42.000-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
+{"dg-publish":true,"permalink":"/rules/fate-srd/fate-core-unedited-srd/","tags":["rules","SRD"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:40:42.679-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
 ---
 
 # Fate Core System

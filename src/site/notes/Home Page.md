@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-06-27T10:55:46.000-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-07-02T19:40:12.973-04:00","dg-note-properties":{}}
 ---
 
 # SESSION 0: AUGUST 18 2026
@@ -13,6 +13,8 @@ The rules for this specific game are still under construction. For anything not 
 
 # Fiction Primer
 ## The System Is At War
-What does that mean? Who's fighting? Over what? We don't know yet! Find out together at Session 0.
+What does that mean? Who's fighting? Over what? We don't know yet! Let's find out together at Session 0. Whatever it is, one thing is certain:
+## You Are The Resistance
+
 ## Factions
-[[Faction Hub\|There are a lot.]]
+[[Faction Hub\|There will be a lot.]]

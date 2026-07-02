@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/appendix-shiny-and-chrome/","tags":["appendix"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T23:56:37.000-04:00","dg-note-properties":{"tags":["appendix"]}}
+{"dg-publish":true,"permalink":"/rules/appendix-shiny-and-chrome/","tags":["appendix"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-28T23:56:37.984-04:00","dg-note-properties":{"tags":["appendix"]}}
 ---
 
  *Mad Max: Fury Road* is remembered as one of the most unrelentingly intense action films ever made, a nonstop 2 hour thrill ride of wall-to-wall car stunts and explosions punctuated by occasional fistfights in the sand and dramatic screaming. 
@@ -29,7 +29,7 @@ Everything I've just laid out pales in comparison to what's to come, but it's al
 
 If we were to map out the intensity of this scene, it would look something like this:
 
-![Pasted image 20260628214439.png](/img/user/Pasted%20image%2020260628214439.png)
+![Pasted image 20260628214439.png](/img/user/Admin/Attachments/Pasted%20image%2020260628214439.png)
 Which, you may notice, bears a strong resemblance to the peaks and valleys of an audio waveform. 
 
 #TODO Post-storm sequence, Max bursts out of the still sand like an erupting volcano, track through the Furiosa fistfight up to the long silence following the three gunshots into the sand.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/fate-srd/fate-condensed-unedited-srd/","tags":["SRD","rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:40:23.000-04:00","dg-note-properties":{"tags":["SRD","rules"]}}
+{"dg-publish":true,"permalink":"/rules/fate-srd/fate-condensed-unedited-srd/","tags":["SRD","rules"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:40:23.769-04:00","dg-note-properties":{"tags":["SRD","rules"]}}
 ---
 
 # Fate Condensed

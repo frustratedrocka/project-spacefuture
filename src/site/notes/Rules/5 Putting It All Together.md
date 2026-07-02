@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T13:16:11.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-02T19:37:56.013-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # SETUP
@@ -192,11 +192,11 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >The asset is a major NPC - even though his stats aren't the most impressive, the GM anticipated things getting violent during session prep. He gave the NPC a consequence track so he'd be at least somewhat durable - but only 2 boxes of Strain and no Mild consequence, since he's not *that* important, and the GM wanted his survival to still be at serious risk in this scenario. 
 >
->That durability turned out to be necessary - the asset has taken a Severe Consequence, "Bleeding Out." Because it's Severe, and the back of a speeding car during a firefight definitely count sub-par conditions for first aid, this will be  an overcome action against opposition 4.
+>That durability turned out to be necessary - the asset has taken a Severe Consequence, "Bleeding Out." Because it's Severe, and the back of a speeding car during a firefight definitely counts as sub-par conditions for first aid, this will be  an overcome action against opposition 4.
 >
 >Fortunately for the asset, Zach has a stunt designed for precisely this scenario: "FIELD MEDICINE: +1 when you Tend an ally during a conflict, +2 if you put yourself at risk in the process."
 
-**ZACH** 4?! Shit OK, Field Medicine do your thing, and I'll put myself at risk for the +2. I'm not going to be able to try and take any kind of cover while I'm working on this guy. *(Rolls 7 dice to Tend Quickly; 0 successes)* Shit! *"Deft Hands"* don't fail me now! *(spends his last fate point to reroll; gets the 2 hits he needs)* Ok, 2 hits, plus the stunt that ties it.
+**ZACH** 4?! Shit OK, Field Medicine do your thing, and I'll put myself at risk for the +2. I'm not going to be able to try and take any kind of cover while I'm working on this guy. *(Rolls 7 dice to Tend Quickly; 0 successes)* Shit! *"Deft Hands"* don't fail me now! *(spends his last fate point to reroll; gets the 2 hits he needs)* Ok, 2 hits, plus the stunt that ties it at 4.
 
 **GM** Alright, the good news is you do it, the asset is stable! *(Renames the asset's "Bleeding Out" )* The bad news is, you're grazed by a bullet while you're working, take 2 harm.
 
@@ -230,7 +230,8 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **GM** Makes sense to me, roll it. They've got... *(rolls 4 dice - 7, 8, 9, 10)* holy shit, 4 hits. I don't think they care much about civilians getting in the way.
 
-**ALEX** Ohhh boy. Well, we'll see. *(rolls 7 dice; gets a 10 and an 8)* 3 hits, and I'll take that boost to tie it up - Brigit, I think your suppressive fire is keeping them from pressing the openings they do get.
+**ALEX** Ohhh boy. Well, we'll see. *(rolls 5
+dice; gets a 10 and an 8)* 3 hits, and I'll take that boost to tie it up - Brigit, I think your suppressive fire is keeping them from pressing the openings they do get.
 
 **BRIGIT** AAAAAAAHAHAHA! EAT LEAD, FUCKERS!
 
@@ -256,4 +257,67 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **ALEX** Come on baby, hold together. *(Rolls 7 dice for his previously-agreed-on Operate Cleverly; gets 2 hits)* Tie, not great, not terrible. So I do pull that crazy handbrake turn and screech into the alley, but...
 
-**GM** But, you hear a *crunch* as both of your rear view mirrors go flying off, and you've got inches to spare on either side. But your pursuit definitely didn't see that coming, and you can hear the screech of tires as they try to pull around and follow. New round, let's see how well that goes for them...
+**GM** But, you hear a *crunch* as both of your rear view mirrors go flying off, and you've got inches to spare on either side. But your pursuit definitely didn't see that coming, and you can hear the screech of tires as they try to pull around and follow. New round, let's see how well that goes for them.
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+> The GM quickly jots down the enemy actions for the next round: "Car 1 cut off," as it tries to Operate Cleverly to recall where the alley gets out and beat Alex there, and "Car 2 follow," which is self-explanatory, and which he decides needs to be Carefully because of how narrow the alley is. 
+> 
+> Which, he realizes, also means this is a good time to compel "Narrow Alley." Alex is driving, so the GM assumes this will affect him most. 
+
+**GM** *(passes Alex a fate point)* As you all figure out what you want to do this round, Alex, you should be aware that the alley doesn't seem like it's going to get any wider, and there's enough things jutting out into it that one wrong move could get you wedged in and stuck. This is going to be some *very* tricky driving, especially at any kind of speed. 
+
+**ALEX** (*Takes the fate point*) Was afraid of that. Alright, slow and steady then, let's 
+
+**GM** Ok, Operate Carefully it is! (*marks Alex down as Quickly*)
+
+**ALEX** Brigit?
+
+**BRIGIT** I'm keeping my gun aimed out the back and ready to unleash if either of the cars try to follow us in. This time, I *am* trying to do damage. Zach?
+
+**ZACH** Asset's stable, so I'm going to try and figure out where this comes out. Is there a map in the glove compartment?
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+> Declaring story details only costs a fate point if the detail is *important or unlikely*. This game is set in a time before smartphones and commonplace GPS devices, so a paper map in the glove compartment would be expected. Therefore, the GM should just say yes here without needing a fate point spent to do it.
+
+**GM** Yup. Normally, vehicle routes fall under Operate, but since you're working from a map I'll let you Know here instead if you want - that counts as studying a document.
+
+**ZACH** *Thank you*, my Operate is crap.
+
+**ALEX** What, you mean you don't just keep me around for my charming personality? 
+
+**GM** What exactly are you hoping to do with that knowledge?
+
+**ZACH** I want to figure out the best way to get from this alley's exit to somewhere more isolated where we can disappear.
+
+**GM** Cool, Know Cleverly then. (*writes Zach down under Cleverly, next to Car 1*).
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+>Brigit's Shoot Forcefully action currently has no target, but since she said she was waiting to riddle the first thing to come into the alley after the PCs with bullets, she's able to hold it until one does appear (if one does).
+
+**GM** Brigit, you're Shooting Forcefully but there's currently nothing to shoot at, we'll come back to you if you get a target. Zach, what's your Cleverly again?
+
+**ZACH** Good.
+
+**GM** And your Know?
+
+**ZACH** Also Good.
+
+**GM** Great, rolling off then, 1d10.
+
+**ZACH** Oh boy, tell me they didn't have the same idea I did. (*rolls*) 6.
+
+**GM** (*rolls*) And 2, you're up first. How well can you read that map in the car in a bumpy narrow alley at night? You'll need to be Good.
+
+**ZACH** Well when you put it that way... (*rolls 4 dice - 8, 10, 1*) I AM good, actually. 
+
+**GM** Alright! You've got a boost. 
+
+**ZACH** Call it "*Escape Route.*"
+
+**GM** (*writes "Escape Route [B]" on a card, draws a box, and puts it on the table*) Done. Which brings us to the first car, doing... you're not sure what, actually, but whatever it is Alex needs to defend with Operate. 
+
+**ALEX** Same as my main action, Carefully to avoid getting stuck?
+
+**GM** Yeah let's go with that. (*rolls, gets 0 hits, pulls the "Enemy Boost [B]" card off the table*) And they'll be using that unnamed boost from last round to reroll this - this is their *"Home Turf"*, they know the city..  (*rerolls - 8, 10, 10*) Oh my god, they REALLY know the city. Alex, you're going to need to be Superhuman to tie whatever they're doing.
+
+**ALEX** Well, fuck. Good thing I'm an *"Expert Wheelman"*. (*Rolls 6 dice; 8 and a 10*) Crap. Ok, one point for *Expert Wheelman* to thread this needle, and one more for...
