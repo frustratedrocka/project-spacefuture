@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-29T03:56:30.537-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-08T08:53:59.094-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
  
- This is going to seem like a lot.
-
- Don't be intimidated. I'm mostly just taking time to break down and draw attention to things that you're either already doing automatically or that will become automatic very quickly once you get some practice. 
+ This may seem like a lot, but don't be intimidated. I'm mostly just taking time to break down and draw attention to things that you're either already doing automatically or that will become automatic very quickly once you get some practice. 
 
 I'm not going to pretend GMing is trivially easy, or that it's right for everyone, but it doesn't have to be some scary arcane incomprehensible art passed down through secret rites and oral tradition either. I ran my first game after only having played a single session in my life, that used a completely different system than I ended up running, and basically fumbled my way through it and figured out what I was doing as I went along. And it was still a great time! Your players are right there in the trenches with you, and as long as there's mutual respect and compassion between everyone at your table, then even if you get every single rule wrong and have to pause every ten minutes to figure out what happens next, you'll be fine. Don't sweat it - your next session will be better. And so will the one after that, and the one after that. If this chapter helps one person to hit the ground running with more confidence and understanding of what the moment-to-moment craft of GMing actually involves, then it's done its job.
 

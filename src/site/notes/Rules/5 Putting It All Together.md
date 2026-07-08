@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-02T19:37:56.013-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-08T09:42:14.384-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # SETUP
@@ -230,8 +230,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **GM** Makes sense to me, roll it. They've got... *(rolls 4 dice - 7, 8, 9, 10)* holy shit, 4 hits. I don't think they care much about civilians getting in the way.
 
-**ALEX** Ohhh boy. Well, we'll see. *(rolls 5
-dice; gets a 10 and an 8)* 3 hits, and I'll take that boost to tie it up - Brigit, I think your suppressive fire is keeping them from pressing the openings they do get.
+**ALEX** Ohhh boy. Well, we'll see. *(rolls 5 dice; gets a 10 and an 8)* 3 hits, and I'll take that boost to tie it up - Brigit, I think your suppressive fire is keeping them from pressing the openings they do get.
 
 **BRIGIT** AAAAAAAHAHAHA! EAT LEAD, FUCKERS!
 
@@ -266,18 +265,22 @@ dice; gets a 10 and an 8)* 3 hits, and I'll take that boost to tie it up - Brigi
 
 **GM** *(passes Alex a fate point)* As you all figure out what you want to do this round, Alex, you should be aware that the alley doesn't seem like it's going to get any wider, and there's enough things jutting out into it that one wrong move could get you wedged in and stuck. This is going to be some *very* tricky driving, especially at any kind of speed. 
 
-**ALEX** (*Takes the fate point*) Was afraid of that. Alright, slow and steady then, let's 
+**ALEX** (*Takes the fate point*) Was afraid of that. Alright, slow and steady then, let's focus on getting out of here in one piece. 
 
-**GM** Ok, Operate Carefully it is! (*marks Alex down as Quickly*)
+**GM** Ok, Operate Carefully it is! (*marks Alex down as Carefully*)
 
 **ALEX** Brigit?
 
-**BRIGIT** I'm keeping my gun aimed out the back and ready to unleash if either of the cars try to follow us in. This time, I *am* trying to do damage. Zach?
+**BRIGIT** I'm keeping my gun aimed out the back and ready to unleash if either of the cars try to follow us in. 
+
+**GM** Sounds like Forcefully again?
+
+**BRIGIT** Yeah,, and this time, I *am* trying to do damage. Zach?
 
 **ZACH** Asset's stable, so I'm going to try and figure out where this comes out. Is there a map in the glove compartment?
 
 >[!callout|no-t no-i c-plain bg-yellow collapse]
-> Declaring story details only costs a fate point if the detail is *important or unlikely*. This game is set in a time before smartphones and commonplace GPS devices, so a paper map in the glove compartment would be expected. Therefore, the GM should just say yes here without needing a fate point spent to do it.
+> Declaring story details only costs a fate point if the detail is *important or unlikely*. This game is set in a time before smartphones and commonplace GPS devices, so a paper map in the glove compartment would be expected. Therefore, the GM should (and does)  just say yes here without needing a fate point spent to do it.
 
 **GM** Yup. Normally, vehicle routes fall under Operate, but since you're working from a map I'll let you Know here instead if you want - that counts as studying a document.
 
@@ -320,4 +323,24 @@ dice; gets a 10 and an 8)* 3 hits, and I'll take that boost to tie it up - Brigi
 
 **GM** Yeah let's go with that. (*rolls, gets 0 hits, pulls the "Enemy Boost [B]" card off the table*) And they'll be using that unnamed boost from last round to reroll this - this is their *"Home Turf"*, they know the city..  (*rerolls - 8, 10, 10*) Oh my god, they REALLY know the city. Alex, you're going to need to be Superhuman to tie whatever they're doing.
 
-**ALEX** Well, fuck. Good thing I'm an *"Expert Wheelman"*. (*Rolls 6 dice; 8 and a 10*) Crap. Ok, one point for *Expert Wheelman* to thread this needle, and one more for...
+**ALEX** Well, fuck. Good thing I'm an *"Expert Wheelman"*. (*Rolls 6 dice; an 8 and a 10*) Great, but not great enough. Ok, one point for *Expert Wheelman* to thread this needle, and one more for... Zach, you've got a map, and aren't you already good at dealing with shady places from your cat burglar days?
+
+**ZACH** *"I Know Back-Alleys Backwards,"* yeah. What are you thinking?
+
+**ALEX** I'm thinking since you're navigating, I'll spend a second point to invoke your aspect as well. *(spends 2 fate points, bringing his total roll to 5, tying the roll)*
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+>Alex's choice to spend two fate points on this roll is allowed, since he's not invoking the same aspect twice. He's able to invoke Zach's aspect here without it counting as a Hostile Invocation since they're on the same side, share the same goal, and Zach's already been established as helping with the escape.
+
+**GM** Works for me, I was wondering when you were going to give up some of your point hoard. That'll be a boost to the enemy then, instead of a full situation aspect. *(Puts the "Enemy Boost [B]" card back on the table)*. OK, last but not least, the second car is going to try and pull into the alley behind you and pin you in. Brigit, that means you've got a target, go ahead and roll that Shoot Forcefully from earlier now. *(rolls Operate Carefully for the defense, 4 dice - one 9, one 10, one 1)* Wow, they're rolling hot tonight. Four for the defense.
+
+**BRIGIT** Alright, come on, one clean success tonight... *(rolls 7 dice; two 10s.)* YES! Masterful, and I think since I'm shooting out the back of the car and there's nowhere for me to dodge, I'm exposed to danger. That means my "Reckless Abandon" stunt kicks on and takes it up to Superhuman, so Success With Style!
+
+**GM** OK! Three hits takes them out, what happens to them?
+
+**BRIGIT** I take out the tires as they're entering the alley so that instead of turning all the way in and following us, the car flips and wedges itself in the entrance. So now they're stuck, and nobody else can get in behind them.
+
+**GM** Fantastic! Alright, so, as we start the next round...
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+>And the chase continues from here.
