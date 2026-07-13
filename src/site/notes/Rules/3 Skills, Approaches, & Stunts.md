@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:31:06.466-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-12T21:25:50.766-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -114,16 +114,25 @@ The usual numeric bonus is +1 hit to your total. For some stunts, it may be appr
 - **CHILD OF THE COURT** +1 when you Sway to overcome obstacles when you're at an aristocratic function, such as a royal ball, +2 if you're related to the host and in their good graces for the moment.
 - **LEAD IN THE AIR** You *really* like emptying magazines. Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area. (Normally, you'd need to take a separate action to set up this kind of interference, but with the stunt, it's free.)
 
-### Creating a Rules Exception
-#TODO 
+### Changing The Rules
+The second type of stunt changes the rules of the game. This is a broad category that includes, but is not limited to, the following:
+
+- Swapping which skills cover a certain situation. For instance, a researcher might use Academics to perform a ritual, while anyone else would use Lore.
+- Using an action with a skill that isn’t normally used with it. For instance, allowing a character to use Stealth to backstab an opponent from the shadows (which would typically be a use of Fight).
+- Giving a character a different kind of bonus to skills that’s roughly equivalent to a +1. For instance, when a skilled orator creates an advantage with Rapport, it gets an extra free invoke.
+- Allowing a character to declare a minor fact is always true. For instance, a survivalist always has survival items like matches on their person, even under unlikely circumstances. This type of stunt establishes that you do not need to [[Rules/1 Core Rules#Declaring a Story Detail\| invoke for story details]] for the given fact.
+- Allowing a character to make a specific rules exception. For instance, a character might have two more stress boxes or another mild consequence slot.
+
+Write this type of stunt as follows:
+
+Because I *[describe how you are amazing or have a cool bit of gear]*, I can *[describe your amazing feat]*, but only *[describe a circumstance or limitation]*.
+
+Example Rule-Changing Stunt: Because I *"don’t believe in magic"*, I can *ignore the effects of a supernatural ability*, but only *once per game session*.
 
 **EXAMPLES**
 - **WHO NEEDS A TAILGUNNER** When you use ranged weaponry mounted or built in to a vehicle you're currently Operating, you may Operate instead of Shooting to attack.
 - #TODO Example 2
 - #TODO Example 3
-
-### New Skill Actions
-Lorem ipsum
 
 # Skill Details
 The action examples and stunts listed below are **SAMPLES**, not limitations. You can and should come up with creative uses of these skills outside of what's listed here. As long as you respect the broad distinctions between skills, the field of possibilities is wide open to you. The GM has final word on which skill and approach an action uses based on how you've described it (e.g. it doesn't matter how wide your Network is; if you're trying to get distant contacts to give you money, you're Acquiring it - though you can certainly Network to create an advantage by identifying an easy way to Acquire what you need). 
@@ -244,7 +253,7 @@ Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is 
 ### Sample Stunts
 **DAMN THE TORPEDOES** +1 when you Operate Boldly to direct your vehicle into oncoming fire; +2 if you have passengers.
 
-**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may use Operate in place of Move while piloting your mech. 
+**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech. 
 
 **PEDAL TO THE METAL** You can coax more speed out of your vehicle than seems possible. Whenever you're engaged in any contest where vehicle speed is the primary factor (e.g, a chase, a race, a deadline), and your Operate roll ties the opposition, it's considered a success.
 
