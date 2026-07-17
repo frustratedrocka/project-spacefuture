@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/np-cs/test-npc/","tags":["npc"],"noteIcon":"","updated":"2026-07-14T01:29:11.223-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"Test NPC","Portrait":"GenericFeddie_SQ.png","portrait_Link":"![GenericFeddie_SQ.png](/img/user/Admin/Attachments/GenericFeddie_SQ.png)","Faction":"Faction 1","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"High Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[[null]],"Stunts":[null],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Quickly"],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Boldly","Forcefully"],"skill_1":["Understand","Persevere","Interface",[null]],"approach_1":["Cleverly","Subtly","Carefully"]}}
+{"dg-publish":true,"permalink":"/database/np-cs/test-npc/","tags":["npc"],"noteIcon":"","updated":"2026-07-16T22:41:03.637-04:00","dg-note-properties":{"tags":["npc"],"NPC_Name":"Test NPC","Portrait":"GenericFeddie_SQ.png","portrait_Link":"![GenericFeddie_SQ.png](/img/user/Admin/Attachments/GenericFeddie_SQ.png)","Faction":"Faction 1","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"High Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[[null]],"Stunts":[null],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Quickly"],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Boldly","Forcefully"],"skill_1":["Understand","Persevere","Interface",[null]],"approach_1":["Cleverly","Subtly","Carefully"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -26,24 +26,7 @@
 |`REDACTED`|
 |`REDACTED`|
 
-`r`
-
-### SKILLS & APPROACHES
-|                    |                    |                    |                    |       |                |                       |                        |                       |
-| :----------------: | :----------------: | :----------------: | :----------------: | ----: | :------------- | :-------------------: | :--------------------: | --------------------- |
-|  |  |  |  | **5** | **Superhuman** |  |                        |                       |
-|  |  |  |  | **4** | **Masterful**  |  |   |                       |
-|  |  |  | Skill | **3** | **Great**      | Quickly | `=this.approach_3[1]`  |                       |
-|  |  | Skill | Skill | **2** | **Good**       | Boldly | Forcefully  |                       |
-|  | Interface | Persevere | Understand | **1** | **Adequate**   | Cleverly | Subtly  | Carefully |
-
->[!blank|static wfull]
-
-| Stunts |
-| ------ |
-| \-     |
-
-{ .block-language-dataview}
+`REDACTED`
 
 >[!blank|static wfull]
 >
