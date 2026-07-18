@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T12:58:09.503-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-17T20:50:42.597-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Taking Action
@@ -219,7 +219,7 @@ The GM has **VETO POWER** over declared details, and should exercise it if any o
 - The detail would change the game in a way that's no longer consistent with the agreed-upon premise, tone, or content restrictions.
 - The rest of the table isn't on board with the idea
 
-For further GM guidance on this option, see [[Rules/6 Running The Game#\|6 Running The Game#]]
+For further GM guidance on this option, see [[Rules/6 Running The Game#Story Details\|6 Running The Game#Story Details]].
 
 ### Compelling an Aspect
 
