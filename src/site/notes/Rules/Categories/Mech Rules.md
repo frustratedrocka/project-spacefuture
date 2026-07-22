@@ -30,7 +30,7 @@ Your mech uses the same skills and approaches as everything else you do, but it 
 When creating your **MECH ASPECTS**, you'll start with a high concept and a trouble, just like your pilot. For your third mech aspect, describe your **RELATIONSHIP** to your mech. Is it your loyal companion? An extension of your body? A replaceable tool like any other? An armored coffin? All of the above, or something else entirely? Think about how you feel about this machine and what makes it *yours* - or what it means to you if it's *not* yours. This Relationship aspect is the only one that may be freely rewritten at a [[Rules/Categories/Mech Rules#Milestone\|#Milestone]]; your mech's high concept and trouble both require a [[Rules/Categories/Mech Rules#Breakthrough\|#Breakthrough]] to rewrite.
 
 ### Gear Aspects
->[!aside|s-t] EQUIPMENT PACKAGES
+>[!aside|s-t]+ EQUIPMENT PACKAGES
 >Your session 0 should include discussion of the desired power level of the mechs in your game. Even within the source material, there can be a vast capability gulf between mechs in the same story - some mechs just pack a shield and a sniper rifle, while others have missile pods bolted to every available flat surface and a set of triple remote-controlled flying dual-gatling drones that are also shields. 
 >
 > Neither of those are problematic equipment aspects by themselves, but they cannot coexist as PC mech loadouts at the same time without causing serious problems for everyone at the table. Make sure you all agree on the scope of options that a single gear aspect should be able to open for PC mechs, and try to keep your gear consistent with that baseline. 

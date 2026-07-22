@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-29T03:05:19.213-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-22T02:43:34.976-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Pilot Creation
@@ -7,7 +7,7 @@
 
 It's important that you finish character creation with the answer to a simple question: **WHY IS YOUR CHARACTER IN THE STORY?** What goals are they pursuing that drive the action forwards? What circumstances are pushing them to take on ever-greater levels of risk to get what they want? Characters who don't want to engage with the interesting parts of the fiction and would insist on just staying home where it's safe and comfortable are an important part of the world, but they don't make for good protagonists (Bilbo Baggins may complain through most of his journey, but he *does* voluntarily go on the journey, and deep down, he wouldn't have it any other way). Actively steering your character into exciting circumstances is a key part of your side of the social contract. 
 
-You can print out a copy of the [[Character Creation Worksheet\|Character Creation Worksheet]] to help you through this process, or just use the back of your [[Admin/Templates/Character Sheet\|Character Sheet]] or a blank piece of paper. This will mostly help with the Phase Trio: three aspects that sum up your backstory and jumpstart your relationships with the other PCs.
+You can print out a copy of the [[Rules/Character Creation Worksheet\|Character Creation Worksheet]] to help you through this process, or just use the back of your [[Admin/Templates/Character Sheet\|Character Sheet]] or a blank piece of paper. This will mostly help with the Phase Trio: three aspects that sum up your backstory and jumpstart your relationships with the other PCs.
 
 Don't stress too much about getting your stats, aspects, and stunts perfect at character creation - **YOU CAN ALWAYS CHANGE THEM LATER**. 
 
@@ -98,7 +98,7 @@ Your mech uses the same skills and approaches as everything else you do, but it 
 When creating your **MECH ASPECTS**, you'll start with a high concept and a trouble, just like your pilot. For your third mech aspect, describe your **RELATIONSHIP** to your mech. Is it your loyal companion? An extension of your body? A replaceable tool like any other? An armored coffin? All of the above, or something else entirely? Think about how you feel about this machine and what makes it *yours* - or what it means to you if it's *not* yours. This Relationship aspect is the only one that may be freely rewritten at a [[Rules/2 Character Creation#Milestone\|#Milestone]]; your mech's high concept and trouble both require a [[Rules/2 Character Creation#Breakthrough\|#Breakthrough]] to rewrite.
 
 ### Gear Aspects
->[!aside|s-t] EQUIPMENT PACKAGES
+>[!aside|s-t]+ EQUIPMENT PACKAGES
 >Your session 0 should include discussion of the desired power level of the mechs in your game. Even within the source material, there can be a vast capability gulf between mechs in the same story - some mechs just pack a shield and a sniper rifle, while others have missile pods bolted to every available flat surface and a set of triple remote-controlled flying dual-gatling drones that are also shields. 
 >
 > Neither of those are problematic equipment aspects by themselves, but they cannot coexist as PC mech loadouts at the same time without causing serious problems for everyone at the table. Make sure you all agree on the scope of options that a single gear aspect should be able to open for PC mechs, and try to keep your gear consistent with that baseline. 
