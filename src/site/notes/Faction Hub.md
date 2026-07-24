@@ -36,6 +36,7 @@ views:
     image: note.Portrait
     imageAspectRatio: 0.65
     cardSize: 200
+    indentProperties: false
 
 ```
 
@@ -80,6 +81,7 @@ views:
     image: note.Portrait
     imageAspectRatio: 0.7
     cardSize: 240
+    indentProperties: false
 
 ```
 
@@ -110,7 +112,7 @@ filters:
     - file.hasTag("npc")
     - Faction == "Faction 3"
 views:
-  - type: table
+  - type: list
     name: Known Members
     order:
       - file.name
@@ -147,7 +149,7 @@ filters:
     - file.hasTag("npc")
     - Faction == "Faction 4"
 views:
-  - type: table
+  - type: list
     name: Known Members
     order:
       - file.name
@@ -184,13 +186,14 @@ filters:
     - file.hasTag("npc")
     - Faction == "Faction X"
 views:
-  - type: table
+  - type: list
     name: Known Members
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
+    indentProperties: true
 
 ```
 
