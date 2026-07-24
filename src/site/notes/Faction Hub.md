@@ -26,7 +26,7 @@ filters:
     - file.hasTag("npc")
     - Faction == "Faction 1"
 views:
-  - type: table
+  - type: list
     name: Known Members
     order:
       - file.name
@@ -66,13 +66,20 @@ filters:
     - file.hasTag("npc")
     - Faction == "Faction 2"
 views:
-  - type: table
+  - type: list
     name: Known Members
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
+    columnSize:
+      note.Concept: 212
+    separator: " - "
+    markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.7
+    cardSize: 240
 
 ```
 
@@ -205,7 +212,7 @@ views:
 | :------------: | :----------------: | :-----------: | :----------------: |
 | 2 | 2 | 2 | 2 |
 
-**BELIEFS** 
+
 
 
 ```base
@@ -214,7 +221,7 @@ filters:
     - file.hasTag("npc")
     - Faction == "Independent"
 views:
-  - type: table
+  - type: list
     name: Unaligned NPCs
     order:
       - file.name

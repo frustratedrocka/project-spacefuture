@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-12T21:25:50.766-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-22T14:44:41.935-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -23,7 +23,7 @@ There are 15 skills in this game, each of which is a verb that covers a broad ra
 |       [[Rules/3 Skills, Approaches, & Stunts#Know\|Know]]        |    X     |        X         |        |        |
 |       [[Rules/3 Skills, Approaches, & Stunts# Lead\|Lead]]       |    X     |        X         |        |        |
 |       [[Rules/3 Skills, Approaches, & Stunts# Move\|Move]]       |    X     |        X         |        |   X    |
-|    [[Rules/3 Skills, Approaches, & Stunts# Network\|Network]]    |    X     |        X         |   X    |   X    |
+|    [[Rules/3 Skills, Approaches, & Stunts# Network\|Network]]    |    X     |        X         |        |        |
 |     [[Rules/3 Skills, Approaches, & Stunts# Notice\|Notice]]     |    X     |        X         |        |   X    |
 |    [[Rules/3 Skills, Approaches, & Stunts# Operate\|Operate]]    |    X     |        X         |   X    |   X    |
 |  [[Rules/3 Skills, Approaches, & Stunts# Persevere\|Persevere]]  |    X     |        X         |        |   X    |
@@ -106,6 +106,8 @@ Stunts can give skills an automatic bonus under a particular, narrow circumstanc
 
 The usual numeric bonus is +1 hit to your total. For some stunts, it may be appropriate to add a second-tier bonus that instead gives a +2 if an even narrower condition is met. A +2 flat bonus in this dice system is extremely powerful, so a +2 stunt bonus **MUST** therefore be highly situational and come with a significant price.
 
+Alternately, these stunts can give bonuses roughly equivalent to a +1 on the roll. This usually means a free invoke, but a
+
 >[!note|show-title]+ HANG ON, THE ACTUAL FATE BOOK SAYS +2 HERE!
 >I know, but the fudgectomy that's been performed to replace its dice system with the variable-size D10 pool has seriously compressed the numbers. A +2 flat bonus is notable but not necessarily game-breaking when opposition scales from 1 through 8; when that opposition loses almost half of its possible outcomes, the bonus has to shrink to match.
 
@@ -118,10 +120,9 @@ The usual numeric bonus is +1 hit to your total. For some stunts, it may be appr
 The second type of stunt changes the rules of the game. This is a broad category that includes, but is not limited to, the following:
 
 - Swapping which skills cover a certain situation. For instance, a researcher might use Academics to perform a ritual, while anyone else would use Lore.
-- Using an action with a skill that isn’t normally used with it. For instance, allowing a character to use Stealth to backstab an opponent from the shadows (which would typically be a use of Fight).
-- Giving a character a different kind of bonus to skills that’s roughly equivalent to a +1. For instance, when a skilled orator creates an advantage with Rapport, it gets an extra free invoke.
+- Using an action with a skill that isn’t normally used with it. For instance, allowing a character to Move Subtly to backstab an opponent from the shadows (which would typically be covered by Fight Subtly).
 - Allowing a character to declare a minor fact is always true. For instance, a survivalist always has survival items like matches on their person, even under unlikely circumstances. This type of stunt establishes that you do not need to [[Rules/1 Core Rules#Declaring a Story Detail\| invoke for story details]] for the given fact.
-- Allowing a character to make a specific rules exception. For instance, a character might have two more stress boxes or another mild consequence slot.
+- Allowing a character to make a specific rules exception. For instance, a character might have two more strain boxes or another mild consequence slot.
 
 Write this type of stunt as follows:
 
@@ -131,7 +132,7 @@ Example Rule-Changing Stunt: Because I *"don’t believe in magic"*, I can *i
 
 **EXAMPLES**
 - **WHO NEEDS A TAILGUNNER** When you use ranged weaponry mounted or built in to a vehicle you're currently Operating, you may Operate instead of Shooting to attack.
-- #TODO Example 2
+- **BUILT DIFFERENT** Once per session, you may refuse a compel, block a hostile invocation, or otherwise ignore the negative effects of your consequences without spending a fate point to do so.
 - #TODO Example 3
 
 # Skill Details
@@ -219,8 +220,6 @@ Lead a group of people. Command troops in battle; rally a crowd; de-escalate an 
 
 #TODO **OVERCOME**
 #TODO **CREATE AN ADVANTAGE**
-#TODO **ATTACK**
-#TODO **DEFEND**
 
 ## Notice
 #TODO Exactly what it says on the tin
