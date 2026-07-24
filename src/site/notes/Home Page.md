@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-07-16T22:40:37.033-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-07-23T23:33:33.621-04:00","dg-note-properties":{}}
 ---
 
 # SESSION 0: AUGUST 18 2026
 Welcome to the Project, pilots.
 # Links & Resources
-[Character Sheets](https://docs.google.com/spreadsheets/d/1nS0O-OQPRjZr4710HZ3C8_dl09mVKeGYiZmgYJa_2lw/edit?usp=sharing)
+[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)
 ## Rules
 See the [[Rules Hub\|Rules Hub]] or use the file navigator to the left.
 
