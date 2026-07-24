@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-23T23:35:28.920-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-23T23:37:45.073-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 
 
-#### `REDACTED`
+#### [[Database/Factions/Rebels\|Rebels]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
