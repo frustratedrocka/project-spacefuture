@@ -56,7 +56,7 @@ views:
 
 |     Fealty     |     Fellowship     |     Force     |     Fraternity     |
 | :------------: | :----------------: | :-----------: | :----------------: |
-| 2 | 2 | 2 | 2 |
+| 4 | 2 | 8 | 6 |
 
 **BELIEFS** The Object of Power Is Power,We Are The Line Between The System And Starvation
 **PARAGON** [[Database/NPCs/The Man Upstairs\|The Man Upstairs]]
