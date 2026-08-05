@@ -139,7 +139,7 @@ views:
 | :------------: | :----------------: | :-----------: | :----------------: |
 | 2 | 8 | 6 | 4 |
 
-**BELIEFS** Take Back What's Ours
+**BELIEFS** Take Back What's Ours,Loyalty Among Thieves
 **PARAGON** [[The Pirate King\|The Pirate King]]
 ```base
 filters:
@@ -213,7 +213,7 @@ Hive Remnants
 | :------------: | :----------------: | :-----------: | :----------------: |
 | 8 | 6 | 4 | 2 |
 
-**BELIEFS** The Queen's Word Is Law,Their Gift Is Our Destiny
+**BELIEFS** The Queen's Word Is Law,Their Gift Is Our Destiny,Never Turn A Blind Eye
 **PARAGON** [[The Queen\|The Queen]]
 ```base
 filters:
@@ -236,7 +236,7 @@ Hive Cultists
 
 They decide they want in on [[Database/The Hive Mind\|The Hive Mind]] even though it has been cut off, which leads down a path of kidnapping, experimentation, and cannibalism. This leads to something like a mixture of the hivemind and Superkuru coming into being, it's all the worst aspects of the concept of a Hivemind the OG avoided. 
 
-Don't like [[Mindful Eyes\|Mindful Eyes]] - think they could do better if only they were given a chance.
+Don't like [[Mindful Eyes\|Mindful Eyes]] - think they could do better if only they were given a chance. If they find a member, *take them*. 
 
 </div></div>
 
