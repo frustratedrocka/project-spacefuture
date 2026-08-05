@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-07-24T00:29:05.824-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-08-04T20:28:48.387-04:00","dg-note-properties":{}}
 ---
 
-# SESSION 0: AUGUST 18 2026
+# SESSION 0: SEPTEMBER 1 2026
 Welcome to the Project, pilots.
 # Links & Resources
 [Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)
@@ -12,9 +12,9 @@ See the [[Rules Hub\|Rules Hub]] or use the file navigator to the left.
 The rules for this specific game are still under construction. For anything not yet present (i.e. marked with a #TODO tag), please check the SRDs (included). Start with [[Rules/Fate SRD/Fate Condensed (UNEDITED SRD)\|Fate Condensed (UNEDITED SRD)]], if that doesn't have what you're looking for try [[Rules/Fate SRD/Fate Core (UNEDITED SRD)\|Fate Core (UNEDITED SRD)]], if you're still stuck check [[Rules/Fate SRD/Fate Accelerated (UNEDITED SRD)\|Fate Accelerated (UNEDITED SRD)]], and if none of those have what you need, then ask the GM to hurry up and write the rules already please and thank you.
 
 # Fiction Primer
-It is the year 1XX of the [[Emergence Era\|Emergence Era]], and...
+It is the year 93 of the [[Emergent Century\|Emergent Century]], and...
 ## The System Is At War
-What does that mean? Who's fighting? Over what? We don't know yet! Let's find out together at Session 0. Whatever it is, one thing is certain:
+Eleven years ago, [[Database/History/The Ground War\|The Ground War]] ended with the formation of [[Database/Factions/Apsis\|Apsis]] as an ostensibly-neutral 
 ## You Are The Resistance
 The question is not whether you should be fighting. The question is what you're willing to let the war cost, and how much you'll compromise to keep up the good fight.
 ## Factions

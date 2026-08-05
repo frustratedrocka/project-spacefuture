@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-23T23:37:45.073-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T20:29:16.962-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 
@@ -45,7 +45,7 @@ views:
 </div></div>
 
 
-#### `REDACTED`
+#### [[Database/Factions/Apsis\|Apsis]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
