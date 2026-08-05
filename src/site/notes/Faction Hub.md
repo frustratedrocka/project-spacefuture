@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T20:29:16.962-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T21:37:08.986-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 
@@ -90,10 +90,10 @@ views:
 </div></div>
 
 
-#### `REDACTED`
+#### [[Database/Factions/Jovians\|Jovians]]
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/jovians/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -101,18 +101,17 @@ views:
 
 |     Fealty     |     Fellowship     |     Force     |     Fraternity     |
 | :------------: | :----------------: | :-----------: | :----------------: |
-| 2 | 2 | 2 | 2 |
+| 4 | 2 | 6 | 8 |
 
-**BELIEFS** 
-**PARAGON** `=this.Paragon`
-
+**BELIEFS** Obedience Through Power
+**PARAGON** [[Database/NPCs/The CEO\|The CEO]]
 ```base
 filters:
   and:
     - file.hasTag("npc")
-    - Faction == "Faction 3"
+    - Faction == "Jovians"
 views:
-  - type: list
+  - type: table
     name: Known Members
     order:
       - file.name
@@ -127,10 +126,10 @@ views:
 </div></div>
 
 
-#### `REDACTED`
+#### [[Space Pirates\|Space Pirates]]
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/space-pirates/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -138,18 +137,17 @@ views:
 
 |     Fealty     |     Fellowship     |     Force     |     Fraternity     |
 | :------------: | :----------------: | :-----------: | :----------------: |
-| 2 | 2 | 2 | 2 |
+| 2 | 8 | 6 | 4 |
 
-**BELIEFS** 
-**PARAGON** `=this.Paragon`
-
+**BELIEFS** Take Back What's Ours
+**PARAGON** [[The Pirate King\|The Pirate King]]
 ```base
 filters:
   and:
     - file.hasTag("npc")
-    - Faction == "Faction 4"
+    - Faction == "Pirates"
 views:
-  - type: list
+  - type: table
     name: Known Members
     order:
       - file.name
@@ -160,14 +158,15 @@ views:
 ```
 
 
+Refugees, displaced people, exiles with chips on their shoulder
 
 </div></div>
 
 
-#### `REDACTED`
+#### [[Mindful Eyes\|Mindful Eyes]]
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/mindful-eyes/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -175,29 +174,69 @@ views:
 
 |     Fealty     |     Fellowship     |     Force     |     Fraternity     |
 | :------------: | :----------------: | :-----------: | :----------------: |
-| 2 | 2 | 2 | 2 |
+| 6 | 8 | 2 | 4 |
 
-**BELIEFS** 
-**PARAGON** `=this.Paragon`
-
+**BELIEFS** Don't Let Your Gift Be Abused
+**PARAGON** [[The Mother And The Father\|The Mother And The Father]]
 ```base
 filters:
   and:
     - file.hasTag("npc")
-    - Faction == "Faction X"
+    - Faction == "Mindful Eyes"
 views:
-  - type: list
+  - type: table
     name: Known Members
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
-    indentProperties: true
 
 ```
 
 
+Hive Remnants
+
+</div></div>
+
+
+#### [[Hive Cult\|Hive Cult]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/hive-cult/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
+| :------------: | :----------------: | :-----------: | :----------------: |
+| 8 | 6 | 4 | 2 |
+
+**BELIEFS** The Queen's Word Is Law,Their Gift Is Our Destiny
+**PARAGON** [[The Queen\|The Queen]]
+```base
+filters:
+  and:
+    - file.hasTag("npc")
+    - Faction == "Hive Cult"
+views:
+  - type: table
+    name: Known Members
+    order:
+      - file.name
+      - Concept
+      - Relationship
+      - Loyalty
+
+```
+
+
+Hive Cultists
+
+They decide they want in on [[Database/The Hive Mind\|The Hive Mind]] even though it has been cut off, which leads down a path of kidnapping, experimentation, and cannibalism. This leads to something like a mixture of the hivemind and Superkuru coming into being, it's all the worst aspects of the concept of a Hivemind the OG avoided. 
+
+Don't like [[Mindful Eyes\|Mindful Eyes]] - think they could do better if only they were given a chance.
 
 </div></div>
 
