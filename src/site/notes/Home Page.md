@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-08-04T20:28:48.387-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-08-04T20:39:21.011-04:00","dg-note-properties":{}}
 ---
 
 # SESSION 0: SEPTEMBER 1 2026
@@ -14,8 +14,13 @@ The rules for this specific game are still under construction. For anything not 
 # Fiction Primer
 It is the year 93 of the [[Emergent Century\|Emergent Century]], and...
 ## The System Is At War
-Eleven years ago, [[Database/History/The Ground War\|The Ground War]] ended with the formation of [[Database/Factions/Apsis\|Apsis]] as an ostensibly-neutral 
+Eleven years ago, [[Database/History/The Ground War\|The Ground War]] ended with the formation of [[Database/Factions/Apsis\|Apsis]] as an ostensibly-neutral mediating body to prevent humanity's death by self-inflicted starvation. 
+
+Today, Apsis is anything *but* neutral, blatantly favoring [[Jupiter\|Jupiter]] and punishing dissent with more and more draconian cuts to food distribution. 
+
 ## You Are The Resistance
+The [[Database/Factions/Rebels\|Rebels]] are a motely assortment of defectors, pirates, deniable government support, 
+
 The question is not whether you should be fighting. The question is what you're willing to let the war cost, and how much you'll compromise to keep up the good fight.
 ## Factions
 [[Faction Hub\|There will be a lot]]. I have a rough idea of the shape the faction conflict might take, but I don't intend to force the issue, so their working titles are all redacted for now.
