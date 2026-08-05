@@ -103,7 +103,7 @@ views:
 | :------------: | :----------------: | :-----------: | :----------------: |
 | 4 | 2 | 6 | 8 |
 
-**BELIEFS** Obedience Through Power
+**BELIEFS** Obedience Through Power,Trust The (Long) Process
 **PARAGON** [[Database/NPCs/The CEO\|The CEO]]
 ```base
 filters:
