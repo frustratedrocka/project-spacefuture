@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/fate-srd/factions-unedited-srd/","tags":["rules","SRD"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-26T10:57:00.000-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
+{"dg-publish":true,"permalink":"/rules/fate-srd/factions-unedited-srd/","tags":["rules","SRD"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T21:02:11.895-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
 ---
 
 Written by Mark Diaz Truman  Edited by John Adamus  Layout by Fred Hicks
@@ -10,17 +10,17 @@ The following is an official Fate Core rules supplement, created for Declan Feen
 
 After your group has decided your setting's Big Issues (Fate Core, p. 22), each player names a Faction, a collection of individuals within the community who have a perspective on the issues the community faces. These Factions might be formal organizations, like a professional guild or a political party, but they often have more porous boundaries that allow community members to move in and out of the Faction as the characters" beliefs change. Many Factions have unofficial structures and names, like "**the jocks**" or "**the nobility**," and some Factions may be a subset of a larger group like "**poor dockworkers**" or "**devout Hindus**".
 
-Regardless of formal structure, each Faction is unified by Beliefs, attitudes about the Big Issues that draw like-minded people together. There may be other require.ments, such as a certain amount of wealth or a particular job, that the characters have to meet to be considered a part of the Faction, but holding acting in accordance with the Faction's Beliefs is central to membership. These Beliefs are not necessarily mutually exclusive, and a character may belong to more than one Faction in the set.ting. The players" characters will be strongly associated with the Factions they create, although they need not agree with all of the Faction's Beliefs.
+Regardless of formal structure, each Faction is unified by Beliefs, attitudes about the Big Issues that draw like-minded people together. There may be other require.ments, such as a certain amount of wealth or a particular job, that the characters have to meet to be considered a part of the Faction, but holding acting in accordance with the Faction's Beliefs is central to membership. These Beliefs are not necessarily mutually exclusive, and a character may belong to more than one Faction in the setting. The players" characters will be strongly associated with the Factions they create, although they need not agree with all of the Faction's Beliefs.
 
 > Octavio is playing in a pulp Los Angeles in 1946 that follows the adventures of secret heroes fighting Nazis post-World War II. The group has already decided on one current issue ("The War is Over!") and one impending issue ("The Rise of the Thule Society"). Octavio's planning on making a character who fought in Europe, so he creates the Faction **Returning Soldiers**.
 
 ### ARE BELIEFS ASPECTS?
 
-Yes, albeit limited Aspects. Since not every member of a Faction is faithful to the dogma of the organization, Beliefs are more limited than other Aspects. Members of the Faction can be compelled to follow Beliefs, but they can deny the compel without spending a fate point. At the same time, Beliefs can only be invoked on Factional Skill rolls, and cannot be invoked when individ ual characters take action.
+Yes, albeit limited Aspects. Since not every member of a Faction is faithful to the dogma of the organization, Beliefs are more limited than other Aspects. Members of the Faction can be compelled to follow Beliefs, but they can deny the compel without spending a fate point. At the same time, Beliefs can only be invoked on Factional Skill rolls, and cannot be invoked when individual characters take action.
 
 ## FACTION PARAGONS
 
-Once Factions are created, each player identifies a Paragon for the Faction, an NPC exemplar of the Faction's Beliefs and traditions."The GM can stat up each Paragon if needed, but the players have the first say in defining the Paragon's look, outlook, and temperament.
+Once Factions are created, each player identifies a Paragon for the Faction, an NPC exe plar of the Faction's Beliefs and traditions."The GM can stat up each Paragon if needed, but the players have the first say in defining the Paragon's look, outlook, and temperament.
 
 Paragons come in all shapes and sizes, but they generally are important political and cultural figures to their Faction. It's pretty rare to find a Paragon who doesn"t care about the Faction or the issues in the setting. Paragons wield an enormous amount of informal authority within the Faction, and they use that authority when it suits their interests.
 

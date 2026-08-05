@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-creation/game-creation-worksheet/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T20:58:51.543-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/game-creation/game-creation-worksheet/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T20:59:25.387-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 # game Name
@@ -13,7 +13,7 @@
 - [[Cult of the Hive\|Cult of the Hive]] - cannibalism, prions, other fun stuff
 - Old war gone cold - [[Mars\|Mars]] vs. [[Jupiter\|Jupiter]] - [[The Belt\|The Belt]] as proxies
 # Faces & Places
-## The Rebellion
+## [[Database/Factions/Rebels\|Rebels]]
 - We ARE struggling together - fraying coalition
 - Tight resources, distant command
 - Righteous cause, what will you compromise for it?
