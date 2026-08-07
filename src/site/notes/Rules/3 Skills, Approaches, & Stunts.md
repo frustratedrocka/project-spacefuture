@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-22T14:44:41.935-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-07T16:11:08.056-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -104,9 +104,9 @@ For their part, the GM should ask you for clarification if they're unsure - thei
 
 Stunts can give skills an automatic bonus under a particular, narrow circumstance, effectively giving your character special expertise in one particular thing. The circumstance must be **MORE SPECIFIC** than what the normal action allows, and can only apply to one particular action or pair of actions. If your stunt effectively replaces its associated action for the skill in most or all cases, it's too broad and needs adjustment.
 
-The usual numeric bonus is +1 hit to your total. For some stunts, it may be appropriate to add a second-tier bonus that instead gives a +2 if an even narrower condition is met. A +2 flat bonus in this dice system is extremely powerful, so a +2 stunt bonus **MUST** therefore be highly situational and come with a significant price.
+The usual numeric bonus is +1 hit to your total. For some stunts, it may be appropriate to add a second-tier bonus that instead gives a +2 if an even narrower condition is met. A +2 flat bonus in this dice system is extremely powerful, so a +2 stunt bonus **MUST** therefore be highly situational and significantly raise the stakes.
 
-Alternately, these stunts can give bonuses roughly equivalent to a +1 on the roll. This usually means a free invoke, but a
+Alternately, these stunts can give bonuses roughly equivalent to a +1 on the roll. This usually means a free invoke, but a #TODO
 
 >[!note|show-title]+ HANG ON, THE ACTUAL FATE BOOK SAYS +2 HERE!
 >I know, but the fudgectomy that's been performed to replace its dice system with the variable-size D10 pool has seriously compressed the numbers. A +2 flat bonus is notable but not necessarily game-breaking when opposition scales from 1 through 8; when that opposition loses almost half of its possible outcomes, the bonus has to shrink to match.
