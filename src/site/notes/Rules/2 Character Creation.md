@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-22T02:43:34.976-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-07T15:02:20.082-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Pilot Creation
@@ -156,10 +156,9 @@ During a milestone, you can do **ONE** of the following:
 - Rewrite any one of your aspects, except your high concept.
 
 ## Breakthrough
-Breakthroughs are more significant, letting your character actually **GROW IN POWER**. A breakthrough lets you do **ALL** of the following:
 
->[!aside] 
->You'll notice Approaches are harder to alter and increase than skills. Approaches represent something fundamental about how your character engages with the world; skills are more flexible because they model narrower capabilities.
+Breakthroughs occur at the **END OF A SCENARIO**. They are more significant than milestones, letting your character actually **GROW IN POWER**. A breakthrough lets you do **ALL** of the following:
+
 - Choose one thing from the milestone list.
 - Rewrite your character's high concept, if you care to.
 - If you have any moderate or severe [[Rules/4 Challenges, Conflicts, & Contests#Consequences\|consequences]] not yet in recovery, you can begin the recovery process and rename them. Any that were in recovery may now be cleared.
@@ -170,6 +169,9 @@ Breakthroughs are more significant, letting your character actually **GROW IN PO
 	- Add a new skill to your sheet at Adequate (1) rating.
 	- Unlock one box of armor for your mech.
 - Replace your mech completely.
+
+>[!aside] 
+>You'll notice Approaches are harder to alter and increase than skills. Approaches represent something fundamental about how your character engages with the world; skills are more flexible because they model narrower capabilities.
 
 If the GM feels a major plot development has concluded and it's time for the characters to power up, they may also offer one or both of the following:
 

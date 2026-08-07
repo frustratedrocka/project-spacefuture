@@ -7,11 +7,11 @@
 - #MAYBE Solar System / Gas Giant Mining / Asteroid Belt?
 # Issues
 ## Current
-- You are [[Database/Factions/Rebels\|Rebels]] hijacking food shipments and distributing them to colonies in [[The Belt\|The Belt]] that [[Database/Factions/Apsis\|Apsis]] has cut off so they don't starve
+- You are [[Database/Factions/Rebels\|Rebels]] hijacking food shipments and distributing them to colonies in [[Database/Places/The Belt\|The Belt]] that [[Database/Factions/Apsis\|Apsis]] has cut off so they don't starve
 - Hang Together Or Hang Separately - rebellion is a fragile coalition with internal disagreements and external backers to keep happy
 ## Impending
 - [[Cult of the Hive\|Cult of the Hive]] - cannibalism, prions, other fun stuff
-- Old war gone cold - [[Mars\|Mars]] vs. [[Jupiter\|Jupiter]] - [[The Belt\|The Belt]] as proxies
+- Old war gone cold - [[Database/Places/Mars\|Mars]] vs. [[Database/Places/Jupiter\|Jupiter]] - [[Database/Places/The Belt\|The Belt]] as proxies
 # Faces & Places
 ## [[Database/Factions/Rebels\|Rebels]]
 - We ARE struggling together - fraying coalition

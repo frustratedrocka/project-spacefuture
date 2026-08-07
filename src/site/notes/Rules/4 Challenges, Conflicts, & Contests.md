@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-17T20:47:33.036-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-07T16:01:30.187-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Challenges
@@ -46,17 +46,17 @@ When surprise is relevant (e.g. a successful ambush), surprised conflict partici
 ## Taking Harm
 When an attack is successful, the defender must absorb the blow and suffers harm equal to **THE NUMBER OF HITS** the attack exceeded the defense by. You can **PUSH THROUGH** hits by marking **STRAIN** boxes or **SUFFER CONSEQUENCES**. 
 
-If you can't or don't push through all the harm, you are **TAKEN OUT** - you're removed from the scene, and **THE ATTACKER DECIDES HOW IT PLAYS OUT.**
+When you take harm, **YOU GET TO DECIDE** which resources you use to push through it and, based on that, how the harm actually affects you. If you can't or don't push through all the harm, you are **TAKEN OUT** - you're removed from the scene, and **THE ATTACKER DECIDES HOW IT PLAYS OUT.**
 
 ### Strain
 You can push through harm by marking strain. Each box of strain absorbs 1 harm, and you can use as many or as few boxes as you like. Any harm not absorbed by strain must either incur a consequence or cause you to be taken out.
 
-Each skill rank in Persevere unlocks one box of strain, up to an extra 4 boxes at Masterful (4).
+Your character starts with 4 boxes of strain available. Each skill rank in Persevere unlocks one additional box of strain, up to an extra 4 boxes at Masterful (4).
 
 ### Consequences
 If you're unable or unwilling to push through harm with strain, you suffer a consequence instead. This is a temporary aspect reflecting the nature of the harm (e.g. *"Busted Lip,"* *"Fractured Leg,"* *"Unnerved And Unbalanced,"* *"Humiliating Freak Out"*).
 
-Each consequence on your sheet has a number associated with it: Mild 2, Moderate 4, Severe 6. These numbers represent the maximum amount of harm that each consequence can contain. If you take more harm than a single consequence can contain, you'll need to allocate the rest elsewhere, either to Strain or to another consequence.
+Each consequence on your sheet has a number associated with it: Mild 2, Moderate 4, Severe 6. These numbers represent the maximum amount of harm that each consequence can contain. If you take more harm than a single consequence can contain, you'll need to allocate the rest elsewhere, either to Strain or to another consequence. 
 
 For example, if you take 5 harm from a single attack, you may allocate it to:
 - A severe consequence
@@ -76,6 +76,8 @@ If you succeed on this roll, rewrite the consequence to indicate that it is heal
 - Moderate consequences last longer, taking a full session to clear (meaning they clear at the end of the session *after* they are treated).
 - Severe consequences only clear when you reach a [[Rules/2 Character Creation#Breakthrough\|2 Character Creation#Breakthrough]].
 
+If you have not yet successfully renamed a consequence by the time you reach a Breakthrough, then you get to do so automatically as part of that Breakthrough. The renamed consequence will then persist for the entire next scenario and clear at the next Breakthrough as normal.
+
 ### Extreme Consequences
 Extreme consequences are a fourth severity of consequence that permanently, irrevocably change a character. Taking an extreme consequence reduces harm by 8. When taken, you must **REPLACE** one of your character's existing aspects (other than their high concept, which is off-limits) with an aspect that represents the profound change to the character resulting from the harm they've taken.
 
@@ -94,10 +96,10 @@ Armor is similar to strain in play, but differs in two ways. First, where strain
 
 To repair your armor when you're not in position where it makes sense, you must Tinker as an overcome action with opposition equal to the amount of armor boxes you're trying to repair (maximum 5). This represents your best effort with the resources available to you; regardless of the result, you cannot attempt this again until your mech takes additional harm or you gain access to resources that can help you.
 
-The other difference is how you upgrade your armor. Where strain is innate to your pilot and scales with their Persevere skill, armor is a mechanical quality of your mech, not you as a person. Armor can be increased during a [[Rules/2 Character Creation#Breakthrough\|2 Character Creation#Breakthrough]] instead of taking a skill increase. If you ever get a new mech, those upgrades do not carry over. You and your GM may decide together that it's fictionally appropriate for the new mech to already have better-than-standard armor when you get it (e.g. it's a fresh-from-the-factory prototype custom-built to your specifications), but that is not an assumed default.
+The other difference is how you upgrade your armor. Where strain is innate to your pilot and scales with their Persevere skill, armor is a mechanical quality of your mech, not you as a person. Instead of taking a skill increase during a [[Rules/2 Character Creation#Breakthrough\|2 Character Creation#Breakthrough]], you may add 2 armor boxes to your mech (to a maximum of 8). If you ever get a new mech, those upgrades do not carry over. You and your GM may decide together that it's fictionally appropriate for the new mech to already have better-than-standard armor when you get it (e.g. it's a fresh-from-the-factory prototype custom-built to your specifications), but that is not an assumed default.
 
 ### Breakdown
-Breakdown works a little differently than consequences. Instead of the wide-open field of situation aspects you can create when your pilot suffers harm, Breakdown pre-defines the way that damage to your mech escalates throughout a fight. This is meant to take some of the pressure off everyone at the table to quickly figure out wording in the heat of a battle, automatically create relevant and usable aspects, and tune those aspects to continuously ratchet up the tension of the scene. 
+Breakdown works a little differently than consequences. Instead of the wide-open field of situation aspects you can create when your pilot suffers harm, breakdown pre-defines the way that damage to your mech escalates throughout a fight. This is meant to take some of the pressure off everyone at the table to quickly figure out wording in the heat of a battle, automatically create relevant and usable aspects, and tune those aspects to continuously ratchet up the tension of the scene. 
 
 A **DENTED** mech (2 harm consequence) has taken damage that isn't immediately harmful, but creates a weak point that can be exploited later. Maybe an important structural piece is cracked, or an armor plate is blown off to expose a vulnerable area.
 
@@ -108,6 +110,8 @@ A **DISABLED** mech (4 harm consequence) has lost a critical function - perhaps 
 A **DOOMED** mech (6 harm consequence) is moments from destruction - you can still try to fight, but you're likely to need a new mech afterwards. Perhaps oxygen is leaking, the power plant is overloading, or you've lost all mobility and are a sitting duck. 
 
 Unless there is a relevant aspect in play somewhere in your game that would prevent it (e.g. "critical supply shortage" at your hangar), Breakdown is cleared entirely at each breakthrough as your mech is repaired to full function. Such aspects are hugely impactful to the tone of a game, as well as to overall player agency; the GM should keep that in mind and have talked with the players about the kind of story they all want to tell before one is deployed.
+
+As with normal consequences, breakdown slots can be filled in any order as long as all harm taken is ultimately allocated and pushed through.
 
 ### Losing Your Mech
 If you concede or take an [[Rules/4 Challenges, Conflicts, & Contests#Extreme Consequences\|extreme consequence]] while your mech is Doomed and you're inside it, the mech is **DESTROYED** unless you or an ally in a position to intervene sacrifice a point of Refresh and describe how it survives the engagement through extreme luck or effort (as with buying stunts, you can never drop your refresh below 1). If your mech is destroyed, you acquire a new one at your next breakthrough, or earlier if the fiction offers an opportunity to do so (e.g. stealing one from an enemy base). Work with your GM to design a new mech that's appropriate for the state of the fiction and the resources available to your character. A replacement mech at breakthrough should never cost you resources outside the fiction layer; the game is premised on you being a mech pilot, and even though you spend a lot of time out of your mech, you should never be without access to one for an extended period.
