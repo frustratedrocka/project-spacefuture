@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-08T09:42:14.384-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/5-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-07T18:03:20.140-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # SETUP
@@ -332,13 +332,13 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >Alex's choice to spend two fate points on this roll is allowed, since he's not invoking the same aspect twice. He's able to invoke Zach's aspect here without it counting as a Hostile Invocation since they're on the same side, share the same goal, and Zach's already been established as helping with the escape.
 
-**GM** Works for me, I was wondering when you were going to give up some of your point hoard. That'll be a boost to the enemy then, instead of a full situation aspect. *(Puts the "Enemy Boost [B]" card back on the table)*. OK, last but not least, the second car is going to try and pull into the alley behind you and pin you in. Brigit, that means you've got a target, go ahead and roll that Shoot Forcefully from earlier now. *(rolls Operate Carefully for the defense, 4 dice - one 9, one 10, one 1)* Wow, they're rolling hot tonight. Four for the defense.
+**GM** Works for me, I was wondering when you were going to give up some of your point hoard. That'll be a boost to the enemy then, instead of a full situation aspect. *(Puts the "Enemy Boost [B]" card back on the table)*. OK, last but not least, the second car is going to try and pull into the alley behind you and pin you in. Brigit, that means you've got a target, go ahead and roll that Shoot Forcefully from earlier now. *(rolls Operate Carefully for the defense, 4 dice - one 9, one 10, one 1)* Wow, they're rolling hot tonight. Two for the defense.
 
 **BRIGIT** Alright, come on, one clean success tonight... *(rolls 7 dice; two 10s.)* YES! Masterful, and I think since I'm shooting out the back of the car and there's nowhere for me to dodge, I'm exposed to danger. That means my "Reckless Abandon" stunt kicks on and takes it up to Superhuman, so Success With Style!
 
 **GM** OK! Three hits takes them out, what happens to them?
 
-**BRIGIT** I take out the tires as they're entering the alley so that instead of turning all the way in and following us, the car flips and wedges itself in the entrance. So now they're stuck, and nobody else can get in behind them.
+**BRIGIT** I take out the tires right as they're angling into the alley, so instead of turning all the way in and following us, the car flips and wedges itself in the entrance. So now they're stuck, and nobody else can get in behind them.
 
 **GM** Fantastic! Alright, so, as we start the next round...
 

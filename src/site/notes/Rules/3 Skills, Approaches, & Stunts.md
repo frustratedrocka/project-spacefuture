@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-07T16:16:27.732-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-07T21:26:12.842-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -152,7 +152,7 @@ Acquire does not cover burglary, pickpocketing, or other, more physical ways of 
 ### Sample Stunts
 **BATTLEFIELD SCROUNGER** +1 when you Acquire objects from your surroundings while in danger, +2 if you've taken a consequence this scene.
 
-**MONEY TALKS** When in a situation where displays of wealth might aid your cause, you can use Acquire in place of Sway.
+**MONEY TALKS** When in a situation where displays of wealth might aid your cause, you can Acquire instead of Swaying.
 
 **SAVVY INVESTOR** When you Acquire to create an advantage involving a return on an investment made in a previous session, you get an additional free invoke (In other words, you can't retroactively declare that you did this; it has to actually have been set up in play). 
 
@@ -178,7 +178,7 @@ Acquire does not cover burglary, pickpocketing, or other, more physical ways of 
 >[!NOTE|show-title]+ An Odd Name Out
 >Of all the skills on this list, Know is probably the most linguistically awkward to pair with the full list of six approaches. It's possible - Know Forcefully conjures images of a frantic late night in a library, ripping heavy books off shelves until finally finding something relevant; Know Boldly might evoke forbidden knowledge; Know Subtly could mean trying to keep a poker face and not let on that you know something compromising, and so on - but it's admittedly a bit of a stretch. 
 >
->The decision ultimately came down to this: within the context of the stories this game expects to tell and the rest of the skill list, separate skills for "remember a fact" and "discover a fact" would have made both of them too niche to justify taking either. "Know" seemed like the best verb left that fit everything the skill needed to cover. You may, if you like, replace "Know" on your sheet with "Recall" or "Study" if you feel it's appropriate for your character; it will still cover the fictional territory outlined here.
+>The decision ultimately came down to this: within the context of the stories this game expects to generate and the rest of the skill list, separate skills for "remember a fact" and "discover a fact" would have made both of them too niche to justify taking either. "Know" seemed like the best verb left that fit everything the skill needed to cover. You may, if you like, replace "Know" on your sheet with "Recall" or "Study" if you feel it's appropriate for your character; it will still cover the fictional territory outlined here.
 
 Know factual information, either from memory or through deliberate study. How you know what you know is up to you; your rank could represent anything from street smarts earned through brutal experience to a comprehensive ivory tower education.
 

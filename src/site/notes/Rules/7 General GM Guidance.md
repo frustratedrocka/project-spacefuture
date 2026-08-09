@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-07-23T19:42:45.003-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-08T00:41:30.991-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.

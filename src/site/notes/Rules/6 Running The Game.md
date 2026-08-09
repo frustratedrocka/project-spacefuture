@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/6-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T13:02:15.051-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/6-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-08T03:37:22.088-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Most of this game's rules apply to everyone, but if you're the GM, there's a few additional ones you need to know about that cover your additional responsibilities.
@@ -60,7 +60,7 @@ Threats can have whatever combination of aspects, skills, approaches, stunts, st
 ## Advancing The PCs
 Unlike some games that use experience points or other systems to track the player's progress, power increases in Fate are *entirely* at the GM's discretion. That means it's your responsibility to make sure they happen often enough to satisfy the players, but not so often that the characters get too powerful too fast. 
 
-The [[Rules/2 Character Creation#Advancement\|2 Character Creation#Advancement]] rules say that approaches and refresh only go up "If the GM feels a major plot development has concluded and it's time for the characters to power up:" I can be more direct here: you should feel a "major plot development" has concluded roughly **EVERY THREE SCENARIOS**. This is partly about keeping your player characters on a steady power curve, partly about giving the players that sweet sweet dopamine hit of seeing their numbers go up, and partly a matter of narrative pacing - frankly, if you're regularly going more than three scenarios without *something* major changing in the fiction, either directly because of something the PCs have done or because the world is pushing back against them, then you should probably step on the gas.
+The [[Rules/2 Character Creation#Advancement\|2 Character Creation#Advancement]] rules say that approaches and refresh only go up "If the GM feels a major story development has concluded and it's time for the characters to power up." I can be more direct here: you should feel a "major story development" has concluded roughly **EVERY THREE SCENARIOS**. This is partly about keeping your player characters on a steady power curve, partly about giving the players that sweet sweet dopamine hit of seeing their numbers go up, and partly a matter of narrative pacing - frankly, if you're regularly going more than three scenarios without *something* major changing in the fiction, either directly because of something the PCs have done or because the world is pushing back against them, then you should probably step on the gas.
 
 ## Story Details
 The [[Rules/1 Core Rules#Declaring a Story Detail\|1 Core Rules#Declaring a Story Detail]] section of Core Rules outlines the guidance for when to allow the use of that option and when to veto it. Below, you'll find a more detailed extended example that didn't fit into what was supposed to be the go-to mid-session lookup document.
