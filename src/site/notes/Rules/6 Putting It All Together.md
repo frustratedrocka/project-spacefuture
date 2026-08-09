@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/6-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-09T18:26:08.020-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/6-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-09T18:36:05.937-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # SETUP
@@ -317,10 +317,10 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **ZACH** Call it "*Escape Route.*"
 
->[!callout|no-t no-i c-plain bg-yellow collapse]
->What happens next has the GM err on the side of transparency and let Alex actively defend against something he might logically assume is happening, but his character can't actually know for certain. If the GM wanted to keep the pursuing car's action hidden, he could have used Alex's Operate rank as a passive opposition target instead. In a real game session, that probably would have been the better move. But, this is legal, and the author felt that the teaching example would benefit from having more - and more complex - rules interactions displayed, so here we are. 
-
 **GM** (*writes "Escape Route [B]" on a card, draws a box, and puts it on the table*) Done. Which brings us to the first car, trying to cut you off at the exit to this alley. Alex, how are you defending?
+
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+>The GM here errs on the side of transparency and lets Alex actively defend against something he might logically assume is happening, but his character can't actually know for certain. If the GM wanted to keep the pursuing car's action hidden, he could have used Alex's Operate rank as a passive opposition target instead. In a real game session, that probably would have been the better move. But, this is legal, and the designer felt that the teaching example would benefit from having more - and more complex - rules interactions displayed, so here we are. 
 
 **ALEX** Same as my main action, Operate Carefully to keep moving and avoid getting stuck?
 
