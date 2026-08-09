@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/6-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-09T18:04:29.658-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/6-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-09T18:26:08.020-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # SETUP
@@ -223,14 +223,14 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **GM** Oof, good thing this country already hates you otherwise that might be rough on your reputations. Sounds like Operate Carefully?
 
-**ALEX** I was thinking Cleverly, since I'm trying to figure out the best way to block the bullet trajectory.
+**ALEX** I was thinking Cleverly again, since I'm trying to figure out the best way to block the bullet trajectory with traffic.
 
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >The players are always allowed to negotiate choice of approach if they disagree with the GM's call. The GM has the final word, but should work with the player to get everyone on the same page.
 
 **GM** Makes sense to me, roll it. They've got... *(rolls 4 dice - 7, 8, 9, 10)* holy shit, 4 hits. I don't think they care much about civilians getting in the way.
 
-**ALEX** Ohhh boy. Well, we'll see. *(rolls 5 dice; gets a 10 and an 8)* 3 hits, and I'll take that boost to tie it up - Brigit, I think your suppressive fire is keeping them from pressing the openings they do get.
+**ALEX** Ohhh boy. Well, we'll see. *(rolls 6 dice; gets a 10 and an 8)* 3 hits, and I'll take that boost to tie it up - Brigit, I think your suppressive fire is keeping them from pressing the openings they do get.
 
 **BRIGIT** AAAAAAAHAHAHA! EAT LEAD, FUCKERS!
 
@@ -254,7 +254,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >Alex is using Overcome here against the environment to try and thread a needle with the car, so it's a passive opposition target.
 
-**ALEX** Come on baby, hold together. *(Rolls 7 dice for his previously-agreed-on Operate Cleverly; gets 2 hits)* Tie, not great, not terrible. So I do pull that crazy handbrake turn and screech into the alley, but...
+**ALEX** Come on baby, hold together. *(Rolls 6 dice for his previously-agreed-on Operate Cleverly; gets 2 hits)* Tie, not great, not terrible. So I do pull that crazy handbrake turn and screech into the alley, but...
 
 **GM** But, you hear a *crunch* as both of your rear view mirrors go flying off, and you've got inches to spare on either side. But your pursuit definitely didn't see that coming, and you can hear the screech of tires as they try to pull around and follow. New round, let's see how well that goes for them.
 
@@ -263,7 +263,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 > 
 > Which, he realizes, also means this is a good time to compel "Narrow Alley." Alex is driving, so the GM assumes this will affect him most. 
 
-**GM** *(passes Alex a fate point)* As you all figure out what you want to do this round, Alex, you should be aware that the alley doesn't seem like it's going to get any wider, and there's enough things jutting out into it that one wrong move could get you wedged in and stuck. This is going to be some *very* tricky driving, especially at any kind of speed. 
+**GM** *(passes Alex a fate point)* As you all figure out what you want to do this round, Alex, you should be aware that the alley doesn't seem like it's going to get any wider, and there's enough things jutting out into it that one wrong move could get you wedged in and stuck. This is going to be some *very* tricky driving, and doing it at any kind of speed is going to be almost impossible. 
 
 **ALEX** (*Takes the fate point*) Was afraid of that. Alright, slow and steady then, let's focus on getting out of here in one piece. 
 
@@ -280,7 +280,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 **ZACH** Asset's stable, so I'm going to try and figure out where this comes out. Is there a map in the glove compartment?
 
 >[!callout|no-t no-i c-plain bg-yellow collapse]
-> Declaring story details only costs a fate point if the detail is *important or unlikely*. This game is set in a time before smartphones and commonplace GPS devices, so a paper map in the glove compartment would be expected. Therefore, the GM should (and does)  just say yes here without needing a fate point spent to do it.
+> Declaring story details only costs a fate point if the detail is *important or unlikely*. This game is set in a time before smartphones and commonplace GPS devices, so a paper map in the glove compartment would be an expected and ordinary truth about the scene. Therefore, the GM should (and does)  just say yes here without needing a fate point spent to do it.
 
 **GM** Yup. Normally, vehicle routes fall under Operate, but since you're working from a map I'll let you Know here instead if you want - that counts as studying a document.
 
@@ -317,11 +317,14 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **ZACH** Call it "*Escape Route.*"
 
-**GM** (*writes "Escape Route [B]" on a card, draws a box, and puts it on the table*) Done. Which brings us to the first car, doing... you're not sure what, actually, but whatever it is Alex needs to defend with Operate. 
+>[!callout|no-t no-i c-plain bg-yellow collapse]
+>What happens next has the GM err on the side of transparency and let Alex actively defend against something he might logically assume is happening, but his character can't actually know for certain. If the GM wanted to keep the pursuing car's action hidden, he could have used Alex's Operate rank as a passive opposition target instead. In a real game session, that probably would have been the better move. But, this is legal, and the author felt that the teaching example would benefit from having more - and more complex - rules interactions displayed, so here we are. 
 
-**ALEX** Same as my main action, Carefully to avoid getting stuck?
+**GM** (*writes "Escape Route [B]" on a card, draws a box, and puts it on the table*) Done. Which brings us to the first car, trying to cut you off at the exit to this alley. Alex, how are you defending?
 
-**GM** Yeah let's go with that. (*rolls, gets 0 hits, pulls the "Enemy Boost [B]" card off the table*) And they'll be using that unnamed boost from last round to reroll this - this is their *"Home Turf"*, they know the city..  (*rerolls - 8, 10, 10*) Oh my god, they REALLY know the city. Alex, you're going to need to be Superhuman to tie whatever they're doing.
+**ALEX** Same as my main action, Operate Carefully to keep moving and avoid getting stuck?
+
+**GM** Yeah let's go with that. (*rolls, gets 0 hits, pulls the "Enemy Boost [B]" card off the table*) And they'll be using that unnamed boost from last round to reroll this - this is their *"Home Turf"*, they know the city..  (*rerolls - 8, 10, 10*) Oh my god, they REALLY know the city. Alex, you're going to need Superhuman to tie.
 
 **ALEX** Well, fuck. Good thing I'm an *"Expert Wheelman"*. (*Rolls 6 dice; an 8 and a 10*) Great, but not great enough. Ok, one point for *Expert Wheelman* to thread this needle, and one more for... Zach, you've got a map, and aren't you already good at dealing with shady places from your cat burglar days?
 
