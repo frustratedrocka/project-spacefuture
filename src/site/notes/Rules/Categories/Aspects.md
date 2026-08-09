@@ -59,7 +59,7 @@ The GM has **VETO POWER** over declared details, and should exercise it if any o
 - The detail would change the game in a way that's no longer consistent with the agreed-upon premise, tone, or content restrictions.
 - The rest of the table isn't on board with the idea
 
-For further GM guidance on this option, see [[Rules/6 Running The Game#Story Details\|6 Running The Game#Story Details]].
+For further GM guidance on this option, see [[Rules/5 Running The Game#Story Details\|5 Running The Game#Story Details]].
 
 ### Compelling an Aspect
 
