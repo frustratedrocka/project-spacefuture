@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T21:06:49.984-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Faction 2","Beliefs":["The Object of Power Is Power","We Are The Line Between The System And Starvation"],"Paragon":"[[The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-09T23:56:17.937-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Faction 2","Beliefs":["The Object of Power Is Power","We Are The Line Between The System And Starvation"],"Paragon":"[[The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 

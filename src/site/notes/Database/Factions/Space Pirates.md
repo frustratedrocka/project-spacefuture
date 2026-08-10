@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T21:48:56.535-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":"Survivors"}}
+{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-09T23:59:58.928-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Space Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":"Survivors"}}
 ---
 
 
@@ -8,20 +8,21 @@
 | 2 | 8 | 6 | 4 |
 
 **BELIEFS** Take Back What's Ours,Loyalty Among Thieves
-**PARAGON** [[The Pirate King\|The Pirate King]]
+**PARAGON** [[Database/Factions/The Pirate King\|The Pirate King]]
 ```base
 filters:
   and:
     - file.hasTag("npc")
-    - Faction == "Pirates"
+    - Faction == "Space Pirates"
 views:
-  - type: table
+  - type: list
     name: Known Members
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
+    separator: " - "
 
 ```
 { #FactionTable}

@@ -23,8 +23,9 @@
 ```base
 filters:
   and:
-    - file.hasTag("npc")
     - Faction == "Rebels"
+    - or:
+        - file.hasTag("PC", "npc")
 views:
   - type: list
     name: Known Members
@@ -111,13 +112,16 @@ filters:
     - file.hasTag("npc")
     - Faction == "Jovians"
 views:
-  - type: table
+  - type: list
     name: Known Members
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
+    markers: none
+    indentProperties: false
+    separator: " - "
 
 ```
 
@@ -140,20 +144,21 @@ views:
 | 2 | 8 | 6 | 4 |
 
 **BELIEFS** Take Back What's Ours,Loyalty Among Thieves
-**PARAGON** [[The Pirate King\|The Pirate King]]
+**PARAGON** [[Database/Factions/The Pirate King\|The Pirate King]]
 ```base
 filters:
   and:
     - file.hasTag("npc")
-    - Faction == "Pirates"
+    - Faction == "Space Pirates"
 views:
-  - type: table
+  - type: list
     name: Known Members
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
+    separator: " - "
 
 ```
 
@@ -177,20 +182,22 @@ Refugees, displaced people, exiles with chips on their shoulder
 | 6 | 8 | 2 | 4 |
 
 **BELIEFS** Don't Let Your Gift Be Abused
-**PARAGON** [[The Mother And The Father\|The Mother And The Father]]
+**PARAGON** [[Database/Factions/The Mother And The Father\|The Mother And The Father]]
 ```base
 filters:
   and:
     - file.hasTag("npc")
     - Faction == "Mindful Eyes"
 views:
-  - type: table
+  - type: list
     name: Known Members
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
+    separator: " - "
+    markers: none
 
 ```
 
@@ -214,20 +221,22 @@ Hive Remnants
 | 8 | 6 | 4 | 2 |
 
 **BELIEFS** The Queen's Word Is Law,Their Gift Is Our Destiny,Never Turn A Blind Eye
-**PARAGON** [[The Queen\|The Queen]]
+**PARAGON** [[Database/Factions/The Queen\|The Queen]]
 ```base
 filters:
   and:
     - file.hasTag("npc")
     - Faction == "Hive Cult"
 views:
-  - type: table
+  - type: list
     name: Known Members
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
+    separator: " - "
+    markers: none
 
 ```
 

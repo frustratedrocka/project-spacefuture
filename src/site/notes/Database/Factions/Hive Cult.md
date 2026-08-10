@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T21:45:19.166-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Hive Cult","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"aliases":null}}
+{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-09T23:57:31.195-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Hive Cult","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"aliases":null}}
 ---
 
 
@@ -8,20 +8,22 @@
 | 8 | 6 | 4 | 2 |
 
 **BELIEFS** The Queen's Word Is Law,Their Gift Is Our Destiny,Never Turn A Blind Eye
-**PARAGON** [[The Queen\|The Queen]]
+**PARAGON** [[Database/Factions/The Queen\|The Queen]]
 ```base
 filters:
   and:
     - file.hasTag("npc")
     - Faction == "Hive Cult"
 views:
-  - type: table
+  - type: list
     name: Known Members
     order:
       - file.name
       - Concept
       - Relationship
       - Loyalty
+    separator: " - "
+    markers: none
 
 ```
 { #FactionTable}
