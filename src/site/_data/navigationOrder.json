@@ -3,21 +3,66 @@
     "Home Page",
     "Faction Hub",
     "Rules Hub",
+    "Emergent Century",
+    "Player Characters",
     "Database",
+    "Game Creation",
     "Rules"
   ],
+  "/Player Characters": [
+    "Pregen"
+  ],
+  "/Player Characters/Pregen": [
+    "Kamille Bidan End",
+    "Kamille Bidan Start"
+  ],
   "/Database": [
-    "Pregen",
-    "NPCs"
+    "Factions",
+    "History",
+    "People",
+    "Places",
+    "Things"
   ],
-  "/Database/Pregen": [
-    "Kamille Bidan Start",
-    "Kamille Bidan End"
+  "/Database/Factions": [
+    "Apsis",
+    "Hive Cult",
+    "Independent",
+    "Jovian Consortium",
+    "Mindful Eyes",
+    "Rebels",
+    "Space Pirates"
   ],
-  "/Database/NPCs": [
+  "/Database/History": [
+    "The Current Conflict",
+    "The Ground War"
+  ],
+  "/Database/People": [
+    "Test",
+    "The CEO",
+    "The Man Upstairs",
+    "The Mother And The Father",
+    "The Pirate King",
+    "The Queen"
+  ],
+  "/Database/People/Test": [
     "Test NPC",
     "Test Pilot",
     "Test Secret Pilot"
+  ],
+  "/Database/Places": [
+    "Jupiter Sphere",
+    "Earth",
+    "Mars"
+  ],
+  "/Database/Places/Jupiter Sphere": [
+    "Jupiter"
+  ],
+  "/Database/Things": [
+    "Ark Stations"
+  ],
+  "/Game Creation": [
+    "Game Creation Worksheet",
+    "The Hive Mind"
   ],
   "/Rules": [
     "0 Introduction",
@@ -25,11 +70,12 @@
     "2 Character Creation",
     "3 Skills, Approaches, & Stunts",
     "4 Challenges, Conflicts, & Contests",
-    "5 Putting It All Together",
-    "6 Running The Game",
     "7 General GM Guidance",
     "Categories",
-    "Fate SRD"
+    "Fate SRD",
+    "5 Running The Game",
+    "6 Putting It All Together",
+    "Appendix - Shiny & Chrome"
   ],
   "/Rules/Categories": [
     "Aspects",
