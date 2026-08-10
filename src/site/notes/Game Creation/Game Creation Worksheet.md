@@ -11,7 +11,7 @@
 - Hang Together Or Hang Separately - rebellion is a fragile coalition with internal disagreements and external backers to keep happy
 ## Impending
 - [[Cult of the Hive\|Cult of the Hive]] - cannibalism, prions, other fun stuff
-- Old war gone cold - [[Database/Places/Mars\|Mars]] vs. [[Database/Places/Jupiter\|Jupiter]] - [[Database/Places/The Belt\|The Belt]] as proxies
+- Old war gone cold - [[Database/Places/Mars\|Mars]] vs. [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] - [[Database/Places/The Belt\|The Belt]] as proxies
 # Faces & Places
 ## [[Database/Factions/Rebels\|Rebels]]
 - We ARE struggling together - fraying coalition

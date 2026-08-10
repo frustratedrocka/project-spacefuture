@@ -10,13 +10,13 @@ Breadbasket
 2. Someone does not like that the hive mind has emerged
 3. [[Database/Places/Luna\|Luna]] gets thrown at [[Database/Places/Earth\|Earth]] in an attempt to deal with the hive 
 4. This results in catastrophic solar-system-wide food shortages
-5. [[Database/Places/Mars\|Mars]], [[Database/Places/Jupiter\|Jupiter]], [[Database/Places/The Belt\|The Belt]] all have a lot of weapons and not a lot of food, so use weapons to get food 
+5. [[Database/Places/Mars\|Mars]], [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], [[Database/Places/The Belt\|The Belt]] all have a lot of weapons and not a lot of food, so use weapons to get food 
 	1. Fighting on earth makes the problem even worse
 	2. [[Database/Factions/Space Pirates\|Space Pirates]] are a thing
 6. Results: Any place that grows food is extremely valuable. Politicking based off who can supply food - mafia protection racket thing: "We do dangerous work, but we do get rations and we're not hassled too much, so we put up with it"
 7. After the drop, it becomes a war between Mars and Jupiter pretty much immediately, and the hive is kind of forgotten about - lucky for the hive
 	1. [[Database/Places/Mars\|Mars]] has more food due to physical proximity to Earth and soil extraction capability
-	2. [[Database/Places/Jupiter\|Jupiter]] has less food - still enough to support itself and make deals, but barely - but controls energy supply 
+	2. [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] has less food - still enough to support itself and make deals, but barely - but controls energy supply 
 	3. [[Database/Factions/Apsis\|Apsis]] - supremacy, control
 		1. Emerges as part of the peace process as a "neutral" arbiter and food distributor, proceeds to absolutely not be neutral 
 		2. Is the source of the immediate current problem 

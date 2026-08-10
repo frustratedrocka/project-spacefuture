@@ -8,7 +8,7 @@
 > 
 > |  |  |
 > |--|--|
-> |**FACTION**| [[Database/Factions/Jovians\|Jovians]]|
+> |**FACTION**| [[Jovians\|Jovians]]|
 > | **STRAIN**| `REDACTED` |
 >  
 > |HARM|CONSEQUENCE|

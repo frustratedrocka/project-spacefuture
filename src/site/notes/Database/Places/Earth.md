@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T21:55:37.512-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T10:29:02.548-04:00","dg-note-properties":{"tags":["location"]}}
 ---
 
 Earth is effectively gone - was the breadbasket, now effectively a non-player in solar politics after [[Database/History/The Ground War\|The Ground War]]. 

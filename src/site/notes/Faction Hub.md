@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T21:37:08.986-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T10:29:38.261-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 
@@ -20,7 +20,7 @@
 **BELIEFS** 
 **PARAGON** `=this.Paragon`
 
-Formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to make an example of multiple dissenting colonies - [[New Cairo\|New Cairo]], [[New Brisbane\|New Brisbane]], [[New Mumbai\|New Mumbai]] - by cutting their food allotments below starvation levels. 
+Formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to make an example of multiple dissenting colonies - [[Database/Places/Colonies/Cairo\|Cairo]], [[Database/Places/Colonies/Brisbane\|Brisbane]], [[Database/Places/Colonies/Mumbai\|Mumbai]] - by cutting their food allotments below starvation levels. 
 
 ```base
 filters:
@@ -93,10 +93,10 @@ views:
 </div></div>
 
 
-#### [[Database/Factions/Jovians\|Jovians]]
+#### [[Database/Factions/Jovian Consortium\|Jovian Consortium]]
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/jovians/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/jovian-consortium/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -109,7 +109,7 @@ views:
 **BELIEFS** Obedience Through Power,Trust The (Long) Process
 **PARAGON** [[Database/People/The CEO\|The CEO]]
 
-The corporate council that forms the effective governing body of the [[Database/Places/Jupiter\|Jupiter]] sphere. Whether they hold the leash of [[Database/Factions/Apsis\|Apsis]] or the other way around is becoming a murkier question every day.
+The corporate council that forms the effective governing body of the [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] sphere. Whether they hold the leash of [[Database/Factions/Apsis\|Apsis]] or the other way around is becoming a murkier question every day.
 
 ```base
 filters:
@@ -131,6 +131,22 @@ views:
 ```
 
 
+```base
+filters:
+  and:
+    - Faction == ""
+	- file.hasTag("")
+views:
+  - type: list
+    name: 
+    order:
+      - file.name
+    image: note.Portrait
+    imageAspectRatio: 0.65
+    cardSize: 200
+    indentProperties: false
+
+```
 
 </div></div>
 
