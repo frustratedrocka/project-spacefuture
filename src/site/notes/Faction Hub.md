@@ -173,7 +173,7 @@ views:
       - file.name
     indentProperties: false
     imageAspectRatio: 0.5
-    image: note.MECH_Portrait
+    image: MECH_Portrait
     imageFit: cover
 
 ```
