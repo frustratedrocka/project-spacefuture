@@ -2,8 +2,8 @@
   "/": [
     "Home Page",
     "Faction Hub",
+    "Mech Catalog",
     "Rules Hub",
-    "Emergent Century",
     "Player Characters",
     "Database",
     "Game Creation",
@@ -21,7 +21,8 @@
     "History",
     "People",
     "Places",
-    "Things"
+    "Things",
+    "Mechs"
   ],
   "/Database/Factions": [
     "Apsis",
@@ -30,11 +31,13 @@
     "Jovian Consortium",
     "Mindful Eyes",
     "Rebels",
-    "Space Pirates"
+    "Space Pirates",
+    "Storm's Eye Heavy Industries"
   ],
   "/Database/History": [
     "The Current Conflict",
-    "The Ground War"
+    "The Ground War",
+    "Emergent Century"
   ],
   "/Database/People": [
     "Test",
@@ -52,13 +55,21 @@
   "/Database/Places": [
     "Jupiter Sphere",
     "Earth",
-    "Mars"
+    "Mars",
+    "Colonies"
   ],
   "/Database/Places/Jupiter Sphere": [
     "Jupiter"
   ],
+  "/Database/Places/Colonies": [
+    "Ceres"
+  ],
   "/Database/Things": [
     "Ark Stations"
+  ],
+  "/Database/Mechs": [
+    "SE-832 Akoni",
+    "SE-832-E Akoni Command Type"
   ],
   "/Game Creation": [
     "Game Creation Worksheet",
