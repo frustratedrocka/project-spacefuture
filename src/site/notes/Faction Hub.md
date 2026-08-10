@@ -25,8 +25,27 @@ Formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to 
 ```base
 filters:
   and:
+    - file.hasTag("PC")
+    - file.folder != "Admin/Templates"
+    - file.folder != "Player Characters/Pregen"
     - Faction == "Rebels"
-    - file.hasTag("npc", "PC")
+views:
+  - type: cards
+    name: Player Characters
+    order:
+      - file.name
+    image: note.Portrait
+    imageAspectRatio: 0.65
+    cardSize: 200
+    indentProperties: false
+
+```
+
+```base
+filters:
+  and:
+    - Faction == "Rebels"
+    - file.hasTag("npc")
 views:
   - type: list
     name: Known Members
@@ -35,11 +54,17 @@ views:
       - Concept
       - Relationship
       - Loyalty
-    image: note.Portrait
-    imageAspectRatio: 0.65
-    cardSize: 200
-    indentProperties: false
+    sort:
+      - property: Rank
+        direction: ASC
+    columnSize:
+      note.Concept: 212
+    separator: " - "
     markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.7
+    cardSize: 240
+    indentProperties: false
 
 ```
 
@@ -127,9 +152,17 @@ views:
       - Concept
       - Relationship
       - Loyalty
-    markers: none
-    indentProperties: false
+    sort:
+      - property: Rank
+        direction: ASC
+    columnSize:
+      note.Concept: 212
     separator: " - "
+    markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.7
+    cardSize: 240
+    indentProperties: false
 
 ```
 
@@ -195,7 +228,17 @@ views:
       - Concept
       - Relationship
       - Loyalty
+    sort:
+      - property: Rank
+        direction: ASC
+    columnSize:
+      note.Concept: 212
     separator: " - "
+    markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.7
+    cardSize: 240
+    indentProperties: false
 
 ```
 
@@ -236,8 +279,17 @@ views:
       - Concept
       - Relationship
       - Loyalty
+    sort:
+      - property: Rank
+        direction: ASC
+    columnSize:
+      note.Concept: 212
     separator: " - "
     markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.7
+    cardSize: 240
+    indentProperties: false
 
 ```
 
@@ -275,8 +327,17 @@ views:
       - Concept
       - Relationship
       - Loyalty
+    sort:
+      - property: Rank
+        direction: ASC
+    columnSize:
+      note.Concept: 212
     separator: " - "
     markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.7
+    cardSize: 240
+    indentProperties: false
 
 ```
 
@@ -316,7 +377,15 @@ views:
       - file.name
       - Concept
       - Relationship
-      - Agenda
+      - Loyalty
+    columnSize:
+      note.Concept: 212
+    separator: " - "
+    markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.7
+    cardSize: 240
+    indentProperties: false
 
 ```
 

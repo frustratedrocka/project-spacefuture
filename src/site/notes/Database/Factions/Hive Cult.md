@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T02:34:01.956-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Hive Cult","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[Database/People/The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"aliases":["Cult"]}}
+{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T12:16:19.871-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Hive Cult","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[Database/People/The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"aliases":["Cult"]}}
 ---
 
 
@@ -22,8 +22,17 @@ views:
       - Concept
       - Relationship
       - Loyalty
+    sort:
+      - property: Rank
+        direction: ASC
+    columnSize:
+      note.Concept: 212
     separator: " - "
     markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.7
+    cardSize: 240
+    indentProperties: false
 
 ```
 { #FactionTable}

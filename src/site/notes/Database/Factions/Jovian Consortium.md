@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T11:59:26.940-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T12:16:48.403-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
 ---
 
 
@@ -25,9 +25,17 @@ views:
       - Concept
       - Relationship
       - Loyalty
-    markers: none
-    indentProperties: false
+    sort:
+      - property: Rank
+        direction: ASC
+    columnSize:
+      note.Concept: 212
     separator: " - "
+    markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.7
+    cardSize: 240
+    indentProperties: false
 
 ```
 { #FactionTable}
