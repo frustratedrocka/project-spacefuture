@@ -161,20 +161,31 @@ views:
 ```base
 filters:
   and:
+    - file.hasTag("Mech")
+    - file.folder != "Admin/Templates"
     - User_Factions.contains("Apsis")
-    - file.tags.contains("Mech")
 properties:
-  file.name:
-    displayName: Mech
+  note.MECH_Concept:
+    displayName: Concept
+  note.MECH_Trouble:
+    displayName: Trouble
+  note.MECH_Stunts:
+    displayName: Stunts
+  note.Known_Users:
+    displayName: Known Pilots
+  note.User_Factions:
+    displayName: Associated Factions
 views:
   - type: cards
-    name: Mobile Suits
+    name: Mech Catalog
     order:
       - file.name
-    indentProperties: false
-    imageAspectRatio: 0.5
+      - Known_Users
+      - User_Factions
     image: MECH_Portrait
     imageFit: cover
+    cardSize: 200
+    imageAspectRatio: 0.65
 
 ```
 
