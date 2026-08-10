@@ -367,7 +367,7 @@ Refugees, displaced people, exiles with chips on their shoulder
 | :------------: | :----------------: | :-----------: | :----------------: |
 | 6 | 8 | 2 | 4 |
 
-**BELIEFS** Don't Let Your Gift Be Abused
+**BELIEFS** Don't Let Your Gift Be Abused,Survival Through Secrecy
 **PARAGON** [[Database/People/The Mother And The Father\|The Mother And The Father]]
 
 The semi-organized portion of what's left of [[Game Creation/The Hive Mind\|The Hive Mind]]. Not all survivors are aligned with the faction, but all are aware of it.
