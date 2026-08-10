@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T12:46:29.111-04:00","dg-note-properties":{"tags":["location"],"type":"Planet","faction_Control":"[[Database/Factions/Jovian Consortium]]","control":"Wholly Controlled","faction_Presence":null,"Portrait":"Jupiter_OPAL_2024.png","portrait_Link":"![[Admin/Attachments/Jupiter_OPAL_2024-1.png]]"}}
+{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T13:37:04.338-04:00","dg-note-properties":{"tags":["location"],"type":"Planet","faction_Control":"Jovian Consortium","control":"Wholly Controlled","faction_Presence":null,"Portrait":"Jupiter_OPAL_2024.png","portrait_Link":"![[Admin/Attachments/Jupiter_OPAL_2024-1.png]]"}}
 ---
 
 

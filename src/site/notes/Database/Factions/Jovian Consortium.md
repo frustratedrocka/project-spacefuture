@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T13:35:31.322-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T13:36:35.918-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
 ---
 
 
@@ -16,7 +16,7 @@ The corporate council that forms the effective governing body of the [[Database/
 filters:
   and:
     - file.tags.contains("npc")
-    - Faction == "[[Jovian Consortium]]"
+    - Faction == "Jovian Consortium"
 views:
   - type: list
     name: Known Members
@@ -39,7 +39,7 @@ views:
 ```base
 filters:
   and:
-    - faction_Control == "[[Jovian Consortium]]"
+    - faction_Control == "Jovian Consortium"
     - file.tags.contains("location")
 properties:
   file.name:
@@ -66,7 +66,7 @@ views:
 filters:
   and:
     - file.tags.contains("npc")
-    - faction == "[[Jovian Consortium]]"
+    - faction == "Jovian Consortium"
 views:
   - type: list
     name: Categories
