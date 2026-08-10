@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T16:30:14.623-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Faction 2","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T16:36:31.717-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Faction 2","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 
@@ -45,7 +45,7 @@ filters:
     - faction_Control == "Apsis"
     - file.tags.contains("location")
 properties:
-  file.name:
+  note.file.name:
     displayName: Location
   note.faction_Control:
     displayName: Leadership
@@ -68,31 +68,21 @@ views:
 ```base
 filters:
   and:
-    - file.hasTag("Mech")
-    - file.folder != "Admin/Templates"
     - User_Factions.contains("Apsis")
+    - file.tags.contains("Mech")
+    - file.folder != "Database/Mechs/Sample"
 properties:
-  note.MECH_Concept:
-    displayName: Concept
-  note.MECH_Trouble:
-    displayName: Trouble
-  note.MECH_Stunts:
-    displayName: Stunts
-  note.Known_Users:
-    displayName: Known Pilots
-  note.User_Factions:
-    displayName: Associated Factions
+  file.name:
+    displayName: Mech
 views:
   - type: cards
-    name: Mech Catalog
+    name: Mobile Suits
     order:
       - file.name
-      - Known_Users
-      - User_Factions
+    indentProperties: false
+    imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover
-    cardSize: 200
-    imageAspectRatio: 0.65
 
 ```
 

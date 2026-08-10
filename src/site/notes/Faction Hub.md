@@ -138,7 +138,7 @@ filters:
     - faction_Control == "Apsis"
     - file.tags.contains("location")
 properties:
-  file.name:
+  note.file.name:
     displayName: Location
   note.faction_Control:
     displayName: Leadership
@@ -161,31 +161,21 @@ views:
 ```base
 filters:
   and:
-    - file.hasTag("Mech")
-    - file.folder != "Admin/Templates"
     - User_Factions.contains("Apsis")
+    - file.tags.contains("Mech")
+    - file.folder != "Database/Mechs/Sample"
 properties:
-  note.MECH_Concept:
-    displayName: Concept
-  note.MECH_Trouble:
-    displayName: Trouble
-  note.MECH_Stunts:
-    displayName: Stunts
-  note.Known_Users:
-    displayName: Known Pilots
-  note.User_Factions:
-    displayName: Associated Factions
+  file.name:
+    displayName: Mech
 views:
   - type: cards
-    name: Mech Catalog
+    name: Mobile Suits
     order:
       - file.name
-      - Known_Users
-      - User_Factions
+    indentProperties: false
+    imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover
-    cardSize: 200
-    imageAspectRatio: 0.65
 
 ```
 
