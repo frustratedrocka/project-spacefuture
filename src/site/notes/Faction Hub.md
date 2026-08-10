@@ -68,6 +68,52 @@ views:
 ```
 
 
+```base
+filters:
+  and:
+    - faction_Control == "Rebels"
+    - file.tags.contains("location")
+properties:
+  file.name:
+    displayName: Location
+  note.faction_Control:
+    displayName: Leadership
+  note.faction_Presence:
+    displayName: Other Factions
+  note.control:
+    displayName: Status
+views:
+  - type: table
+    name: Associated Locations
+    order:
+      - file.name
+      - faction_Control
+      - control
+      - faction_Presence
+    indentProperties: false
+
+```
+
+```base
+filters:
+  and:
+    - User_Factions.contains("Rebels")
+    - file.tags.contains("Mech")
+    - file.folder != "Database/Mechs/Sample"
+properties:
+  file.name:
+    displayName: Mech
+views:
+  - type: cards
+    name: Mobile Suits
+    order:
+      - file.name
+    indentProperties: false
+    imageAspectRatio: 0.5
+    image: MECH_Portrait
+    imageFit: cover
+
+```
 
 </div></div>
 
@@ -234,6 +280,28 @@ views:
     indentProperties: false
 
 ```
+
+```base
+filters:
+  and:
+    - User_Factions.contains("Jovian Consortium")
+    - file.tags.contains("Mech")
+    - file.folder != "Database/Mechs/Sample"
+properties:
+  file.name:
+    displayName: Mech
+views:
+  - type: cards
+    name: Mobile Suits
+    order:
+      - file.name
+    indentProperties: false
+    imageAspectRatio: 0.5
+    image: MECH_Portrait
+    imageFit: cover
+
+```
+
 
 </div></div>
 

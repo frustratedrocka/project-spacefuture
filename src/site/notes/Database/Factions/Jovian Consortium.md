@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T16:10:26.157-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T16:51:01.762-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
 ---
 
 
@@ -59,5 +59,26 @@ views:
       - control
       - faction_Presence
     indentProperties: false
+
+```
+
+```base
+filters:
+  and:
+    - User_Factions.contains("Jovian Consortium")
+    - file.tags.contains("Mech")
+    - file.folder != "Database/Mechs/Sample"
+properties:
+  file.name:
+    displayName: Mech
+views:
+  - type: cards
+    name: Mobile Suits
+    order:
+      - file.name
+    indentProperties: false
+    imageAspectRatio: 0.5
+    image: MECH_Portrait
+    imageFit: cover
 
 ```
