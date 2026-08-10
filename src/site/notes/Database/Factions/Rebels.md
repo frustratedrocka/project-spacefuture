@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T13:28:25.068-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":["Rebels"]}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T13:29:49.576-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":["Rebels"]}}
 ---
 
 
@@ -46,8 +46,13 @@ views:
     sort:
       - property: Rank
         direction: ASC
+    columnSize:
+      note.Concept: 212
     separator: " - "
     markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.7
+    cardSize: 240
     indentProperties: false
 
 ```

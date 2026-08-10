@@ -53,7 +53,6 @@ views:
     image: note.Portrait
     imageAspectRatio: 0.65
     cardSize: 200
-    indentProperties: false
 
 ```
 
@@ -175,9 +174,6 @@ views:
       note.Concept: 212
     separator: " - "
     markers: none
-    image: note.Portrait
-    imageAspectRatio: 0.7
-    cardSize: 240
     indentProperties: false
 
 ```
@@ -210,6 +206,21 @@ views:
     imageAspectRatio: 0.65
     cardSize: 200
     indentProperties: false
+
+```
+
+```base
+filters:
+  and:
+    - file.tags.contains("location")
+views:
+  - type: list
+    name: Categories
+    order:
+      - file.name
+    sort:
+      - property: file.tags
+        direction: ASC
 
 ```
 
