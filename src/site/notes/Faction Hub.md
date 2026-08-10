@@ -1,24 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T13:26:21.667-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T16:47:36.284-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 
-
-#### TEST
-
-```base
-filter:
-  - file.has
-filters:
-  and:
-    - file.hasTag("chapter")
-views:
-  - type: list
-    name: Rules ToC
-    order:
-      - file.name
-
-```
 
 #### [[Database/Factions/Rebels\|Rebels]]
 
