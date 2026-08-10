@@ -20,12 +20,13 @@
 **BELIEFS** 
 **PARAGON** `=this.Paragon`
 
+Formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to make an example of multiple dissenting colonies - [[New Cairo\|New Cairo]], [[New Brisbane\|New Brisbane]], [[New Mumbai\|New Mumbai]] - by cutting their food allotments below starvation levels. 
+
 ```base
 filters:
   and:
     - Faction == "Rebels"
-    - or:
-        - file.hasTag("PC", "npc")
+    - file.hasTag("npc")
 views:
   - type: list
     name: Known Members
@@ -38,6 +39,7 @@ views:
     imageAspectRatio: 0.65
     cardSize: 200
     indentProperties: false
+    markers: none
 
 ```
 
@@ -59,14 +61,14 @@ views:
 | :------------: | :----------------: | :-----------: | :----------------: |
 | 4 | 2 | 8 | 6 |
 
-**BELIEFS** The Object of Power Is Power,We Are The Line Between The System And Starvation
+**BELIEFS** We Are The Line Between The System And Starvation,Our Ends Justify Any Means
 **PARAGON** [[Database/NPCs/The Man Upstairs\|The Man Upstairs]]
 
 ```base
 filters:
   and:
     - file.hasTag("npc")
-    - Faction == "Faction 2"
+    - Faction == "Apsis"
 views:
   - type: list
     name: Known Members
@@ -106,6 +108,9 @@ views:
 
 **BELIEFS** Obedience Through Power,Trust The (Long) Process
 **PARAGON** [[Database/NPCs/The CEO\|The CEO]]
+
+The corporate council that forms the effective governing body of [[Database/Places/Jupiter\|Jupiter]]. Whether they hold the leash of [[Database/Factions/Apsis\|Apsis]] or the other way around is becoming a murkier question every day.
+
 ```base
 filters:
   and:
@@ -144,7 +149,7 @@ views:
 | 2 | 8 | 6 | 4 |
 
 **BELIEFS** Take Back What's Ours,Loyalty Among Thieves
-**PARAGON** [[Database/Factions/The Pirate King\|The Pirate King]]
+**PARAGON** [[Database/NPCs/The Pirate King\|The Pirate King]]
 ```base
 filters:
   and:
@@ -182,7 +187,10 @@ Refugees, displaced people, exiles with chips on their shoulder
 | 6 | 8 | 2 | 4 |
 
 **BELIEFS** Don't Let Your Gift Be Abused
-**PARAGON** [[Database/Factions/The Mother And The Father\|The Mother And The Father]]
+**PARAGON** [[Database/NPCs/The Mother And The Father\|The Mother And The Father]]
+
+The semi-organized portion of what's left of [[Game Creation/The Hive Mind\|The Hive Mind]]. Not all survivors are aligned with the faction, but all are aware of it.
+
 ```base
 filters:
   and:
@@ -202,7 +210,7 @@ views:
 ```
 
 
-Hive Remnants
+
 
 </div></div>
 
@@ -221,7 +229,7 @@ Hive Remnants
 | 8 | 6 | 4 | 2 |
 
 **BELIEFS** The Queen's Word Is Law,Their Gift Is Our Destiny,Never Turn A Blind Eye
-**PARAGON** [[Database/Factions/The Queen\|The Queen]]
+**PARAGON** [[Database/NPCs/The Queen\|The Queen]]
 ```base
 filters:
   and:
@@ -253,7 +261,7 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 #### [[Database/Factions/Independent\|Independent]]
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/independent/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T12:55:06.738-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T02:29:28.770-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Wtf Am I Reading?!
@@ -22,7 +22,7 @@ There will be more terms you'll need to know as you work your way through the ru
 ## Physical Supplies
 This game is fairly light on physical supplies to bring to the table, but it does still require some. Every player will need between six and ten **10-SIDED DICE**, which are widely available in sets of 10 at friendly local game stores around the world. If you can't find a local business to support (or your local game store isn't actually very friendly; that unfortunately does happen from time to time), you can also look online at any of the fine creators making an incredible variety of beautiful and artistic sets. And if you *somehow* can't find any you like at an acceptable price point, then I guess there's also Amazon as a last resort.
 
-You'll also need **CHARACTER SHEETS** to record the information about your character and update it with temporary as the game goes on. You can do this with **PENCILS AND PAPER**, in which case you'll need to print a blank copy of the  [[Admin/Templates/Character Sheet\|Character Sheet]] to write on, or digitally via a laptop or tablet - see the instructions for digital setup below for that version. I do *not* recommend using your phone as a character sheet viewer at the game table.
+You'll also need **CHARACTER SHEETS** to record the information about your character and update it with temporary as the game goes on. You can do this with **PENCILS AND PAPER**, in which case you'll need to print a blank copy of the  [[Admin/Templates/DONOTUSE_OLD_Character Sheet\|DONOTUSE_OLD_Character Sheet]] to write on, or digitally via a laptop or tablet - see the instructions for digital setup below for that version. I do *not* recommend using your phone as a character sheet viewer at the game table.
 
 You'll need **INDEX CARDS OR SCRAP PAPER** to track aspects and, occasionally, sketch out zones. We'll talk more about aspects in [[Rules/1 Core Rules\|1 Core Rules]] and Zones in [[Rules/4 Challenges, Conflicts, & Contests\|4 Challenges, Conflicts, & Contests]].
 

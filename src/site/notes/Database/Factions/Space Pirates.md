@@ -8,7 +8,7 @@
 | 2 | 8 | 6 | 4 |
 
 **BELIEFS** Take Back What's Ours,Loyalty Among Thieves
-**PARAGON** [[Database/Factions/The Pirate King\|The Pirate King]]
+**PARAGON** [[Database/NPCs/The Pirate King\|The Pirate King]]
 ```base
 filters:
   and:

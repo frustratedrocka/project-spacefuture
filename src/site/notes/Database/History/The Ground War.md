@@ -8,7 +8,7 @@ Breadbasket
 
 1. [[Game Creation/The Hive Mind\|The Hive Mind]] emerges
 2. Someone does not like that the hive mind has emerged
-3. [[Luna\|Luna]] gets thrown at [[Database/Places/Earth\|Earth]] in an attempt to deal with the hive 
+3. [[Database/Places/Luna\|Luna]] gets thrown at [[Database/Places/Earth\|Earth]] in an attempt to deal with the hive 
 4. This results in catastrophic solar-system-wide food shortages
 5. [[Database/Places/Mars\|Mars]], [[Database/Places/Jupiter\|Jupiter]], [[Database/Places/The Belt\|The Belt]] all have a lot of weapons and not a lot of food, so use weapons to get food 
 	1. Fighting on earth makes the problem even worse

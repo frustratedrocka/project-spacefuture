@@ -8,7 +8,7 @@
 | 8 | 6 | 4 | 2 |
 
 **BELIEFS** The Queen's Word Is Law,Their Gift Is Our Destiny,Never Turn A Blind Eye
-**PARAGON** [[Database/Factions/The Queen\|The Queen]]
+**PARAGON** [[Database/NPCs/The Queen\|The Queen]]
 ```base
 filters:
   and:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-09T01:44:12.143-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T02:29:28.800-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Pilot Creation
@@ -7,7 +7,7 @@
 
 It's important that you finish character creation with the answer to a simple question: **WHY IS YOUR CHARACTER IN THE STORY?** What goals are they pursuing that drive the action forwards? What circumstances are pushing them to take on ever-greater levels of risk to get what they want? Characters who don't want to engage with the interesting parts of the fiction and would insist on just staying home where it's safe and comfortable are an important part of the world, but they don't make for good protagonists (Bilbo Baggins may complain through most of his journey, but he *does* voluntarily go on the adventure, and deep down, he wouldn't have it any other way). Actively steering your character into exciting circumstances is a key part of your side of the social contract. 
 
-You can print out a copy of the [[Rules/Character Creation Worksheet\|Character Creation Worksheet]] to help you through this process, or just use the back of your [[Admin/Templates/Character Sheet\|Character Sheet]] or a blank piece of paper. This will mostly help with the Phase Trio: three aspects that sum up your backstory and jumpstart your relationships with the other PCs.
+You can print out a copy of the [[Rules/Character Creation Worksheet\|Character Creation Worksheet]] to help you through this process, or just use the back of your [[Admin/Templates/DONOTUSE_OLD_Character Sheet\|DONOTUSE_OLD_Character Sheet]] or a blank piece of paper. This will mostly help with the Phase Trio: three aspects that sum up your backstory and jumpstart your relationships with the other PCs.
 
 Don't stress too much about getting your stats, aspects, and stunts perfect at character creation - **YOU CAN ALWAYS CHANGE THEM LATER**. 
 

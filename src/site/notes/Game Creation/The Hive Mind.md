@@ -14,4 +14,4 @@ Was stronger during [[Database/History/The Ground War\|The Ground War]], now mor
 
 [[Database/Hivetech\|Hivetech]] attempts may have been part of what led to things getting out of hand.
 
-[[Luna\|Luna]] getting slammed into [[Database/Places/Earth\|Earth]] *did* successfully (possibly temporarily?) cut off means of hive transmission
+[[Database/Places/Luna\|Luna]] getting slammed into [[Database/Places/Earth\|Earth]] *did* successfully (possibly temporarily?) cut off means of hive transmission
