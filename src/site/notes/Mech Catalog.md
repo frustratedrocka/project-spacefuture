@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-10T12:33:52.981-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-10T13:57:11.871-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 ```base
@@ -7,6 +7,7 @@ filters:
   and:
     - file.hasTag("Mech")
     - file.folder != "Admin/Templates"
+    - file.folder != "Database/Mechs/Sample"
 properties:
   note.MECH_Concept:
     displayName: Concept
