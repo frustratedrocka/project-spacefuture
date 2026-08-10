@@ -132,6 +132,52 @@ views:
 ```
 
 
+```base
+filters:
+  and:
+    - faction_Control == "Apsis"
+    - file.tags.contains("location")
+properties:
+  file.name:
+    displayName: Location
+  note.faction_Control:
+    displayName: Leadership
+  note.faction_Presence:
+    displayName: Other Factions
+  note.control:
+    displayName: Status
+views:
+  - type: table
+    name: Associated Locations
+    order:
+      - file.name
+      - faction_Control
+      - control
+      - faction_Presence
+    indentProperties: false
+
+```
+
+```base
+filters:
+  and:
+    - User_Factions.contains("Apsis")
+    - file.tags.contains("Mech")
+properties:
+  file.name:
+    displayName: Mech
+views:
+  - type: cards
+    name: Mobile Suits
+    order:
+      - file.name
+    indentProperties: false
+    imageAspectRatio: 0.5
+    image: note.MECH_Portrait
+
+```
+
+
 
 </div></div>
 
@@ -200,22 +246,6 @@ views:
       - control
       - faction_Presence
     indentProperties: false
-
-```
-
-```base
-filters:
-  and:
-    - file.tags.contains("npc")
-    - faction == "Jovian Consortium"
-views:
-  - type: list
-    name: Categories
-    order:
-      - file.name
-    sort:
-      - property: file.tags
-        direction: ASC
 
 ```
 

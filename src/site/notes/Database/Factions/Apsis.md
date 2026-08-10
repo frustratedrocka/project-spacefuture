@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T11:39:17.820-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Faction 2","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T16:17:22.610-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Faction 2","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 
@@ -37,4 +37,50 @@ views:
 
 ```
 { #FactionTable}
+
+
+```base
+filters:
+  and:
+    - faction_Control == "Apsis"
+    - file.tags.contains("location")
+properties:
+  file.name:
+    displayName: Location
+  note.faction_Control:
+    displayName: Leadership
+  note.faction_Presence:
+    displayName: Other Factions
+  note.control:
+    displayName: Status
+views:
+  - type: table
+    name: Associated Locations
+    order:
+      - file.name
+      - faction_Control
+      - control
+      - faction_Presence
+    indentProperties: false
+
+```
+
+```base
+filters:
+  and:
+    - User_Factions.contains("Apsis")
+    - file.tags.contains("Mech")
+properties:
+  file.name:
+    displayName: Mech
+views:
+  - type: cards
+    name: Mobile Suits
+    order:
+      - file.name
+    indentProperties: false
+    imageAspectRatio: 0.5
+    image: note.MECH_Portrait
+
+```
 
