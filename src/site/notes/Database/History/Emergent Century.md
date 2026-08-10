@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T11:34:19.859-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T17:29:16.515-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
@@ -18,3 +18,9 @@
 
 >[!TIMELINE|t-r color-red] EC 0077 - MOONDROP
 > Someone (nobody knows who) drops [[Database/Places/Luna\|Luna]] onto [[Database/Places/Earth\|Earth]], presumably intending to prevent any further spread of the Hive. 
+
+>[!TIMELINE|t-l color-red] EC 0081 - THE CERES ACCORDS
+>The war *officially* ends in a truce and an armistice rather than a surrender. Unofficially, it's a stalemate that favors the [[Database/Factions/Jovian Consortium\|Jovian Consortium]]. [[Database/Factions/Apsis\|Apsis]] is established on [[Database/Places/Colonies/Ceres\|Ceres]] as an ostensibly-neutral body under the oversight of stellar shipping magnate [[Database/People/The Man Upstairs\|The Man Upstairs]].
+
+>[!TIMELINE|color-white] SOMETHING LIKE PEACE
+
