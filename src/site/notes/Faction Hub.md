@@ -77,6 +77,9 @@ views:
       - Concept
       - Relationship
       - Loyalty
+    sort:
+      - property: Rank
+        direction: ASC
     columnSize:
       note.Concept: 212
     separator: " - "
@@ -115,7 +118,7 @@ The corporate council that forms the effective governing body of the [[Database/
 filters:
   and:
     - file.hasTag("npc")
-    - Faction == "Jovians"
+    - Faction == "Jovian Consortium"
 views:
   - type: list
     name: Known Members
@@ -134,13 +137,26 @@ views:
 ```base
 filters:
   and:
-    - Faction == ""
-	- file.hasTag("")
+    - faction_Control == "Jovian Consortium"
+    - file.hasTag("location")
+properties:
+  file.name:
+    displayName: Location
+  note.faction_Control:
+    displayName: Leadership
+  note.faction_Presence:
+    displayName: Other Factions
+  note.control:
+    displayName: Status
 views:
-  - type: list
-    name: 
+  - type: table
+    name: Associated Locations
     order:
       - file.name
+      - faction_Control
+      - control
+      - faction_Presence
+    sort: []
     image: note.Portrait
     imageAspectRatio: 0.65
     cardSize: 200
