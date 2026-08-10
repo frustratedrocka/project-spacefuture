@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-10T13:57:11.871-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-10T14:55:01.163-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 ```base
@@ -27,5 +27,7 @@ views:
       - Known_Users
       - User_Factions
     image: note.MECH_Portrait
+    cardSize: 200
+    imageAspectRatio: 0.65
 
 ```
