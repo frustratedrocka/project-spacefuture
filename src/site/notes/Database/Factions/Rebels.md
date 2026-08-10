@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T00:18:24.774-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":["Faction 1"]}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T10:10:50.607-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":["Rebels"]}}
 ---
 
 
@@ -16,7 +16,7 @@ Formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to 
 filters:
   and:
     - Faction == "Rebels"
-    - file.hasTag("npc")
+    - file.hasTag("npc", "PC")
 views:
   - type: list
     name: Known Members

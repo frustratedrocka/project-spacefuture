@@ -8,7 +8,7 @@
 | 4 | 2 | 8 | 6 |
 
 **BELIEFS** We Are The Line Between The System And Starvation,Our Ends Justify Any Means
-**PARAGON** [[Database/NPCs/The Man Upstairs\|The Man Upstairs]]
+**PARAGON** [[Database/People/The Man Upstairs\|The Man Upstairs]]
 
 ```base
 filters:

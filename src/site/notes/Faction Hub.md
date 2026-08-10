@@ -26,7 +26,7 @@ Formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to 
 filters:
   and:
     - Faction == "Rebels"
-    - file.hasTag("npc")
+    - file.hasTag("npc", "PC")
 views:
   - type: list
     name: Known Members
@@ -62,7 +62,7 @@ views:
 | 4 | 2 | 8 | 6 |
 
 **BELIEFS** We Are The Line Between The System And Starvation,Our Ends Justify Any Means
-**PARAGON** [[Database/NPCs/The Man Upstairs\|The Man Upstairs]]
+**PARAGON** [[Database/People/The Man Upstairs\|The Man Upstairs]]
 
 ```base
 filters:
@@ -107,9 +107,9 @@ views:
 | 4 | 2 | 6 | 8 |
 
 **BELIEFS** Obedience Through Power,Trust The (Long) Process
-**PARAGON** [[Database/NPCs/The CEO\|The CEO]]
+**PARAGON** [[Database/People/The CEO\|The CEO]]
 
-The corporate council that forms the effective governing body of [[Database/Places/Jupiter\|Jupiter]]. Whether they hold the leash of [[Database/Factions/Apsis\|Apsis]] or the other way around is becoming a murkier question every day.
+The corporate council that forms the effective governing body of the [[Database/Places/Jupiter\|Jupiter]] sphere. Whether they hold the leash of [[Database/Factions/Apsis\|Apsis]] or the other way around is becoming a murkier question every day.
 
 ```base
 filters:
@@ -149,7 +149,7 @@ views:
 | 2 | 8 | 6 | 4 |
 
 **BELIEFS** Take Back What's Ours,Loyalty Among Thieves
-**PARAGON** [[Database/NPCs/The Pirate King\|The Pirate King]]
+**PARAGON** [[Database/People/The Pirate King\|The Pirate King]]
 ```base
 filters:
   and:
@@ -187,7 +187,7 @@ Refugees, displaced people, exiles with chips on their shoulder
 | 6 | 8 | 2 | 4 |
 
 **BELIEFS** Don't Let Your Gift Be Abused
-**PARAGON** [[Database/NPCs/The Mother And The Father\|The Mother And The Father]]
+**PARAGON** [[Database/People/The Mother And The Father\|The Mother And The Father]]
 
 The semi-organized portion of what's left of [[Game Creation/The Hive Mind\|The Hive Mind]]. Not all survivors are aligned with the faction, but all are aware of it.
 
@@ -229,7 +229,7 @@ views:
 | 8 | 6 | 4 | 2 |
 
 **BELIEFS** The Queen's Word Is Law,Their Gift Is Our Destiny,Never Turn A Blind Eye
-**PARAGON** [[Database/NPCs/The Queen\|The Queen]]
+**PARAGON** [[Database/People/The Queen\|The Queen]]
 ```base
 filters:
   and:
@@ -251,9 +251,9 @@ views:
 
 Hive Cultists
 
-They decide they want in on [[Game Creation/The Hive Mind\|The Hive Mind]] even though it has been cut off, which leads down a path of kidnapping, experimentation, and cannibalism. This leads to something like a mixture of the hivemind and Superkuru coming into being, it's all the worst aspects of the concept of a Hivemind the OG avoided. 
+They decide they want in on [[Game Creation/The Hive Mind\|The Hive Mind]] even though it has been cut off, which leads down a path of kidnapping, experimentation, and cannibalism. This leads to something like a mixture of the hivemind and Superkuru coming into being; it's all the worst aspects of the concept of a Hivemind the OG avoided. 
 
-Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could do better if only they were given a chance. If they find a member, *take them*. 
+Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could do better if only they were given a chance. If they find a member, *take them*. "Never Turn A Blind Eye" includes being ever-vigilant and never missing an opportunity.
 
 </div></div>
 
@@ -267,9 +267,7 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 
 
 
-|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
-| :------------: | :----------------: | :-----------: | :----------------: |
-| 2 | 2 | 2 | 2 |
+
 
 
 

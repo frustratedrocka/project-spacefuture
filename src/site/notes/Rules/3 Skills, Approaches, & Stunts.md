@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-09T18:04:54.702-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T03:10:04.922-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -289,6 +289,9 @@ Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is 
 
 #TODO **OVERCOME**
 #TODO **CREATE AN ADVANTAGE**
+
+### Sample Stunts
+**I'LL MAKE DO** You're used to having to make things work in a pinch. You may Tinker to treat a mech's breakdown using the normal rules for renaming and clearing consequences instead of waiting until the end of the scenario.
 
 ## Understand
 #TODO Empathy
