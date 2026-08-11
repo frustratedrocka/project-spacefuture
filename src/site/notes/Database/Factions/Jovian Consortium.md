@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T16:51:01.762-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T19:51:21.054-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
 ---
 
 
@@ -39,7 +39,7 @@ views:
 ```base
 filters:
   and:
-    - faction_Control == "Jovian Consortium"
+    - Faction == "Jovian Consortium"
     - file.tags.contains("location")
 properties:
   file.name:
@@ -55,9 +55,9 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - faction_Control
-      - control
-      - faction_Presence
+      - Faction
+      - Control
+      - Faction_Presence
     indentProperties: false
 
 ```

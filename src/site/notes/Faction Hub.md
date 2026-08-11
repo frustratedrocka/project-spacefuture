@@ -22,29 +22,12 @@
 
 Formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to make an example of multiple dissenting colonies - [[Database/Places/Colonies/Cairo\|Cairo]], [[Database/Places/Colonies/Brisbane\|Brisbane]], [[Database/Places/Colonies/Mumbai\|Mumbai]] - by cutting their food allotments below starvation levels. 
 
-```base
-filters:
-  and:
-    - file.hasTag("PC")
-    - file.folder != "Admin/Templates"
-    - file.folder != "Player Characters/Pregen"
-    - Faction == "Rebels"
-views:
-  - type: cards
-    name: Player Characters
-    order:
-      - file.name
-    image: note.Portrait
-    imageAspectRatio: 0.65
-    cardSize: 200
-
-```
 
 ```base
 filters:
   and:
     - Faction == "Rebels"
-    - file.hasTag("npc")
+    - file.hasTag("npc", "PC")
 views:
   - type: list
     name: Known Members
@@ -165,7 +148,7 @@ views:
 ```base
 filters:
   and:
-    - faction_Control == "Apsis"
+    - Faction == "Apsis"
     - file.tags.contains("location")
 properties:
   note.file.name:
@@ -181,9 +164,9 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - faction_Control
-      - control
-      - faction_Presence
+      - Faction
+      - Control
+      - Faction_Presence
     indentProperties: false
 
 ```
@@ -258,7 +241,7 @@ views:
 ```base
 filters:
   and:
-    - faction_Control == "Jovian Consortium"
+    - Faction == "Jovian Consortium"
     - file.tags.contains("location")
 properties:
   file.name:
@@ -274,9 +257,9 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - faction_Control
-      - control
-      - faction_Presence
+      - Faction
+      - Control
+      - Faction_Presence
     indentProperties: false
 
 ```
@@ -370,7 +353,17 @@ Refugees, displaced people, exiles with chips on their shoulder
 **BELIEFS** Don't Let Your Gift Be Abused,Survival Through Secrecy
 **PARAGON** [[Database/People/The Mother And The Father\|The Mother And The Father]]
 
-The semi-organized portion of what's left of [[Game Creation/The Hive Mind\|The Hive Mind]]. Not all survivors are aligned with the faction, but all are aware of it.
+[[Game Creation/The Hive Mind\|Hive mind]] refugees that came together due to war, betrayal, and abuse of their gift. They find comfort and community between themselves with two defacto leaders that are more symbolic than literal. 
+
+Paragons: Mother and Father. Nature and nurture with structure and care.
+
+Fellowship: Care for your fellow Eye. Make sure we stay together through tough times. 
+
+Fealty: Above all else, never let your power be abused. We've been used once before... but not again. 
+
+Fraternity: With wars and conflicts, some still have connections with some of their allies. 
+
+Force: Not the forefront, but not slacked. If ever needed, they rely on small, elite strike teams. Unfortunately, their low numbers mean they need to be very deliberate about when and where to deploy, and they can't always answer every threat without giving ground elsewhere.
 
 ```base
 filters:

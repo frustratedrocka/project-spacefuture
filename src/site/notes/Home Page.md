@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-08-10T17:39:19.605-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-08-10T19:09:40.372-04:00","dg-note-properties":{}}
 ---
 
 # SESSION 0: SEPTEMBER 1 2026

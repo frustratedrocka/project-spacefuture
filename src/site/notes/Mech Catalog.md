@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-10T17:13:24.440-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-10T19:17:41.548-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 ```base
@@ -17,7 +17,7 @@ properties:
     displayName: Stunts
   note.Known_Users:
     displayName: Known Pilots
-  note.User_Factions:
+  note.Faction:
     displayName: Associated Factions
 views:
   - type: cards
@@ -25,7 +25,7 @@ views:
     order:
       - file.name
       - Known_Users
-      - User_Factions
+      - Faction
     image: MECH_Portrait
     imageFit: cover
     cardSize: 200

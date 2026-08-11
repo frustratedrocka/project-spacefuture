@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T16:51:24.110-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":["Rebels"]}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T19:52:38.501-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":["Rebels"]}}
 ---
 
 
@@ -12,29 +12,12 @@
 
 Formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to make an example of multiple dissenting colonies - [[Database/Places/Colonies/Cairo\|Cairo]], [[Database/Places/Colonies/Brisbane\|Brisbane]], [[Database/Places/Colonies/Mumbai\|Mumbai]] - by cutting their food allotments below starvation levels. 
 
-```base
-filters:
-  and:
-    - file.hasTag("PC")
-    - file.folder != "Admin/Templates"
-    - file.folder != "Player Characters/Pregen"
-    - Faction == "Rebels"
-views:
-  - type: cards
-    name: Player Characters
-    order:
-      - file.name
-    image: note.Portrait
-    imageAspectRatio: 0.65
-    cardSize: 200
-
-```
 
 ```base
 filters:
   and:
     - Faction == "Rebels"
-    - file.hasTag("npc")
+    - file.hasTag("npc", "PC")
 views:
   - type: list
     name: Known Members
