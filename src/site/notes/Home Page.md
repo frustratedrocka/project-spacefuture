@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-08-10T19:09:40.372-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-08-11T00:15:32.593-04:00","dg-note-properties":{}}
 ---
 
 # SESSION 0: SEPTEMBER 1 2026
@@ -22,7 +22,7 @@ Today, Apsis is anything *but* neutral, blatantly favoring the [[Database/Factio
 Recently, things reached a breaking point. As a response to particularly intense dissent in three of the many independent colonies in [[Database/Places/The Belt\|The Belt]], Apsis cut food allotment to those colonies below starvation levels. They seem to have intended to make an example of the colonies; instead, they provoked counter-escalation into open armed revolt.
 
 ## You Are The Resistance
-The [[Database/Factions/Rebels\|Rebels]] are a motely assortment of defectors, pirates, deniable government support, ideologues, and anyone else willing and able to take drastic measures to correct Apsis's lethal overreach. Your current mission is simple: Intercept excess food shipments and redirect them from the Jupter sphere towards the places where they're most needed.
+The [[Database/Factions/Rebels\|Rebels]] are a motley assortment of defectors, pirates, deniable government support, ideologues, and anyone else willing and able to take drastic measures to correct Apsis's lethal overreach. Your current mission is simple: Intercept excess food shipments and redirect them from the Jupiter sphere towards the places where they're most needed.
 
 The question is not whether you should be fighting. The question is what you're willing to let the war cost, and how much you'll compromise to keep up the good fight. Not everyone with you or backing you is doing it for what you see as the right reasons, and staying afloat will require finding ways to navigate that. 
 
