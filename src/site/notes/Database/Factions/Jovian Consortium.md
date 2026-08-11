@@ -1,14 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-11T15:54:30.354-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-11T16:18:09.054-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
 ---
 
 
-|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
-| :------------: | :----------------: | :-----------: | :----------------: |
-| 4 | 2 | 6 | 8 |
-
-**BELIEFS** Obedience Through Power,Trust The (Long) Process
-**PARAGON** [[Database/People/The CEO\|The CEO]]
+>[!INFOBOX]
+># Jovian Consortium
+>`=embed(link(this.Portrait))`
+>
+>
+>
+>|SKILL|RANK|
+>|--|:--:|
+>|**FEALTY**|4|
+>|**FELLOWSHIP**|2|
+>|**FORCE**|6|
+>|**FRATERNITY**|8|
+>
+>
+>**BELIEFS**
+><div><ul class="dataview list-view-ul"><li><span>Obedience Through Power</span></li><li><span>Trust The (Long) Process</span></li></ul></div>
+>
+> **PARAGON**
+>[[Database/People/The CEO\|The CEO]]
 
 The corporate council that forms the effective governing body of the [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] sphere. Whether they hold the leash of [[Database/Factions/Apsis\|Apsis]] or the other way around is becoming a murkier question every day.
 

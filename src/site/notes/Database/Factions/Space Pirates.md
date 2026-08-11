@@ -1,16 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-11T15:56:26.043-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Space Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors"]}}
+{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-11T17:28:21.435-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Space Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
 ---
 
 
-|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
-| :------------: | :----------------: | :-----------: | :----------------: |
-| 2 | 8 | 6 | 4 |
+>[!INFOBOX]
+># Space Pirates
+>![Admin/Attachments/CV_Recolor.webp\|CV_Recolor.webp](/img/user/Admin/Attachments/CV_Recolor.webp)
+>
+>
+>
+>|SKILL|RANK|
+>|--|:--:|
+>|**FEALTY**|2|
+>|**FELLOWSHIP**|8|
+>|**FORCE**|6|
+>|**FRATERNITY**|4|
+>
+>
+>**BELIEFS**
+><div><ul class="dataview list-view-ul"><li><span>Take Back What's Ours</span></li><li><span>Loyalty Among Thieves</span></li></ul></div>
+>
+> **PARAGON**
+>[[Database/People/The Pirate King\|The Pirate King]]
 
-**BELIEFS** Take Back What's Ours,Loyalty Among Thieves
-**PARAGON** [[Database/People/The Pirate King\|The Pirate King]]
-
-Refugees, displaced people, exiles with chips on their shoulder
+Refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and [[Database/Places/Luna\|Luna]], exiles with chips on their shoulder.
 
 ```base
 filters:

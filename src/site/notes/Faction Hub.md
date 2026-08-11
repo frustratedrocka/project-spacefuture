@@ -31,8 +31,8 @@ Top level directory for characters, locations, and mobile suits organized by fac
 >**BELIEFS**
 ><div><ul class="dataview list-view-ul"><li><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>-</span></li></ul></li></ul></div>
 >
->**PARAGON**
->`=this.Paragon`
+> **PARAGON**
+>[[|]]
 
 The [[Database/Factions/Rebels\|Rebels]] are a motley assortment of defectors, pirates, deniable government support, ideologues, and anyone else willing and able to take drastic measures to correct Apsis's lethal overreach. They officially formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to make an example of multiple dissenting colonies - [[Database/Places/Colonies/Cairo\|Cairo]], [[Database/Places/Colonies/Brisbane\|Brisbane]], [[Database/Places/Colonies/Mumbai\|Mumbai]] - by cutting their food allotments below starvation levels. 
 
@@ -254,12 +254,25 @@ views:
 
 
 
-|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
-| :------------: | :----------------: | :-----------: | :----------------: |
-| 4 | 2 | 6 | 8 |
-
-**BELIEFS** Obedience Through Power,Trust The (Long) Process
-**PARAGON** [[Database/People/The CEO\|The CEO]]
+>[!INFOBOX]
+># Jovian Consortium
+>`=embed(link(this.Portrait))`
+>
+>
+>
+>|SKILL|RANK|
+>|--|:--:|
+>|**FEALTY**|4|
+>|**FELLOWSHIP**|2|
+>|**FORCE**|6|
+>|**FRATERNITY**|8|
+>
+>
+>**BELIEFS**
+><div><ul class="dataview list-view-ul"><li><span>Obedience Through Power</span></li><li><span>Trust The (Long) Process</span></li></ul></div>
+>
+> **PARAGON**
+>[[Database/People/The CEO\|The CEO]]
 
 The corporate council that forms the effective governing body of the [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] sphere. Whether they hold the leash of [[Database/Factions/Apsis\|Apsis]] or the other way around is becoming a murkier question every day.
 
@@ -347,14 +360,27 @@ views:
 
 
 
-|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
-| :------------: | :----------------: | :-----------: | :----------------: |
-| 2 | 8 | 6 | 4 |
+>[!INFOBOX]
+># Space Pirates
+>![Admin/Attachments/CV_Recolor.webp\|CV_Recolor.webp](/img/user/Admin/Attachments/CV_Recolor.webp)
+>
+>
+>
+>|SKILL|RANK|
+>|--|:--:|
+>|**FEALTY**|2|
+>|**FELLOWSHIP**|8|
+>|**FORCE**|6|
+>|**FRATERNITY**|4|
+>
+>
+>**BELIEFS**
+><div><ul class="dataview list-view-ul"><li><span>Take Back What's Ours</span></li><li><span>Loyalty Among Thieves</span></li></ul></div>
+>
+> **PARAGON**
+>[[Database/People/The Pirate King\|The Pirate King]]
 
-**BELIEFS** Take Back What's Ours,Loyalty Among Thieves
-**PARAGON** [[Database/People/The Pirate King\|The Pirate King]]
-
-Refugees, displaced people, exiles with chips on their shoulder
+Refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and [[Database/Places/Luna\|Luna]], exiles with chips on their shoulder.
 
 ```base
 filters:
