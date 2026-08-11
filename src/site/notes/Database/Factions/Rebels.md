@@ -1,23 +1,54 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T19:52:38.501-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":["Rebels"]}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-11T16:04:59.543-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":null}}
 ---
 
+>[!INFOBOX]
+># Rebels
+>`=embed(link(this.Portrait))`
+>
+>
+>
+>|SKILL|RANK|
+>|--|:--:|
+>|**FEALTY**|6|
+>|**FELLOWSHIP**|8|
+>|**FORCE**|4|
+>|**FRATERNITY**|2|
+>
+>
+>**BELIEFS**
+>
+>
+>**PARAGON**
+>`=this.Paragon`
 
-|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
-| :------------: | :----------------: | :-----------: | :----------------: |
-| 2 | 2 | 2 | 2 |
+The [[Database/Factions/Rebels\|Rebels]] are a motley assortment of defectors, pirates, deniable government support, ideologues, and anyone else willing and able to take drastic measures to correct Apsis's lethal overreach. They officially formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to make an example of multiple dissenting colonies - [[Database/Places/Colonies/Cairo\|Cairo]], [[Database/Places/Colonies/Brisbane\|Brisbane]], [[Database/Places/Colonies/Mumbai\|Mumbai]] - by cutting their food allotments below starvation levels. 
 
-**BELIEFS** 
-**PARAGON** `=this.Paragon`
-
-Formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to make an example of multiple dissenting colonies - [[Database/Places/Colonies/Cairo\|Cairo]], [[Database/Places/Colonies/Brisbane\|Brisbane]], [[Database/Places/Colonies/Mumbai\|Mumbai]] - by cutting their food allotments below starvation levels. 
-
+The current mission is simple: Intercept excess food shipments and redirect them from the Jupiter sphere towards the places where they're most needed. That said, the questions of who gets to define "excess" and what counts as "most needed" are matters of significant internal debate.
 
 ```base
 filters:
   and:
     - Faction == "Rebels"
-    - file.hasTag("npc", "PC")
+	- file.hasTag("PC")
+views:
+  - type: cards
+    name: PCs
+    order:
+      - file.name
+      - concept
+    image: note.Portrait
+    imageFit: cover
+    imageAspectRatio: 0.75
+    cardSize: 160
+    indentProperties: false
+```
+
+```base
+filters:
+  and:
+    - file.hasTag("npc")
+    - Faction == "Rebels"
 views:
   - type: list
     name: Known Members
@@ -29,15 +60,12 @@ views:
     sort:
       - property: Rank
         direction: ASC
-    columnSize:
-      note.Concept: 212
     separator: " - "
     markers: none
     image: note.Portrait
-    imageAspectRatio: 0.7
-    cardSize: 240
+    imageAspectRatio: 0.5
+    cardSize: 160
     indentProperties: false
-
 ```
 { #FactionTable}
 
@@ -45,10 +73,12 @@ views:
 ```base
 filters:
   and:
-    - faction_Control == "Rebels"
     - file.tags.contains("location")
+    - or:
+        - Faction == "Rebels"
+        - Faction_Presence.contains("Rebels")
 properties:
-  file.name:
+  note.file.name:
     displayName: Location
   note.faction_Control:
     displayName: Leadership
@@ -61,17 +91,16 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - faction_Control
-      - control
-      - faction_Presence
+      - Faction
+      - Control
+      - Faction_Presence
     indentProperties: false
-
 ```
 
 ```base
 filters:
   and:
-    - User_Factions.contains("Rebels")
+    - Faction.contains("Rebels")
     - file.tags.contains("Mech")
     - file.folder != "Database/Mechs/Sample"
 properties:
@@ -86,5 +115,4 @@ views:
     imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover
-
 ```

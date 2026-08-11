@@ -1,19 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T19:51:55.508-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-11T16:10:32.381-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 
-|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
-| :------------: | :----------------: | :-----------: | :----------------: |
-| 4 | 2 | 8 | 6 |
+>[!INFOBOX]
+># Apsis
+>`=embed(link(this.Portrait))`
+>
+>
+>
+>|SKILL|RANK|
+>|--|:--:|
+>|**FEALTY**|4|
+>|**FELLOWSHIP**|2|
+>|**FORCE**|8|
+>|**FRATERNITY**|6|
+>
+>
+>**BELIEFS**
+><div><ul class="dataview list-view-ul"><li><span>We Are The Line Between The System And Starvation</span></li><li><span>Our Ends Justify Any Means</span></li></ul></div>
+>
+>>[!caption|s-t no-icon color-white] **PARAGON**
+>[[Database/People/The Man Upstairs\|The Man Upstairs]]
 
-**BELIEFS** We Are The Line Between The System And Starvation,Our Ends Justify Any Means
-**PARAGON** [[Database/People/The Man Upstairs\|The Man Upstairs]]
+Originally a shipping company run by [[Database/People/The Man Upstairs\|The Man Upstairs]], Apsis was empowered by the Ceres Accords that ended [[Database/History/The Ground War\|The Ground War]] as an ostensibly neutral body to oversee food distribution throughout the solar system.
+
+They have proven to be anything *but* neutral, blatantly favoring [[Database/Places/Colonies/Ceres\|Ceres]] and the [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] sphere. The degree to which they've been centralizing more and more power around themselves is even starting to alarm some members of the [[Database/Factions/Jovian Consortium\|Jovian Consortium]]. 
+
+Their recent actions have pushed the system past the breaking point. In response to increasingly intense protests in [[Database/Places/The Belt\|The Belt]], they cut food allotments to the colonies of [[Database/Places/Colonies/Brisbane\|Brisbane]], [[Database/Places/Colonies/Cairo\|Cairo]], and [[Database/Places/Colonies/Mumbai\|Mumbai]] below starvation levels. The intent appears to have been to make examples of the colonies. Instead, they pushed [[Database/Factions/Rebels\|their opposition]] into open, armed revolt. 
 
 ```base
 filters:
   and:
-    - file.hasTag("npc")
+    - file.hasTag("character")
     - Faction == "Apsis"
 views:
   - type: list
@@ -26,15 +45,12 @@ views:
     sort:
       - property: Rank
         direction: ASC
-    columnSize:
-      note.Concept: 212
     separator: " - "
     markers: none
     image: note.Portrait
-    imageAspectRatio: 0.7
-    cardSize: 240
+    imageAspectRatio: 0.5
+    cardSize: 160
     indentProperties: false
-
 ```
 { #FactionTable}
 
@@ -42,8 +58,10 @@ views:
 ```base
 filters:
   and:
-    - Faction == "Apsis"
     - file.tags.contains("location")
+    - or:
+        - Faction == "Apsis"
+        - Faction_Presence.contains("Apsis")
 properties:
   note.file.name:
     displayName: Location
@@ -62,13 +80,12 @@ views:
       - Control
       - Faction_Presence
     indentProperties: false
-
 ```
 
 ```base
 filters:
   and:
-    - User_Factions.contains("Apsis")
+    - Faction.contains("Apsis")
     - file.tags.contains("Mech")
     - file.folder != "Database/Mechs/Sample"
 properties:
@@ -83,6 +100,5 @@ views:
     imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover
-
 ```
 

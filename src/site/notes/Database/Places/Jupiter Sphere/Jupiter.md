@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-11T00:16:36.131-04:00","dg-note-properties":{"tags":["location"],"type":"Planet","Faction":"Jovian Consortium","Control":"Wholly Controlled","Faction_Presence":null,"Portrait":"Admin/Attachments/Jupiter_OPAL_2024-1.png"}}
+{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-11T14:26:04.186-04:00","dg-note-properties":{"tags":["location"],"type":"Planet","Faction":"Jovian Consortium","Control":"Home / Headquarters","Faction_Presence":"Apsis","Portrait":"Admin/Attachments/Jupiter_OPAL_2024-1.png"}}
 ---
 
 
@@ -11,8 +11,8 @@
 > |--|--|
 > |Body|Planet|
 > |Leadership|[[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
-> |Status|Wholly Controlled|
-> |Interest||
+> |Status|Home / Headquarters|
+> |Interest|[[Database/Factions/Apsis\|Apsis]]|
 
 Ruler of the skies, now in fact and not just in name. Governed by the [[Database/Factions/Jovian Consortium\|Jovian Consortium]] Corporate Council.
 

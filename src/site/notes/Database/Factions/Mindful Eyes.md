@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T19:43:17.579-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Mindful Eyes","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
+{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-11T15:57:57.503-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Mindful Eyes","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
 ---
 
 
@@ -10,7 +10,7 @@
 **BELIEFS** Don't Let Your Gift Be Abused,Survival Through Secrecy
 **PARAGON** [[Database/People/The Mother And The Father\|The Mother And The Father]]
 
-[[Game Creation/The Hive Mind\|Hive mind]] refugees that came together due to war, betrayal, and abuse of their gift. They find comfort and community between themselves with two defacto leaders that are more symbolic than literal. 
+[[Database/History/The Hive Mind\|Hive mind]] refugees that came together due to war, betrayal, and abuse of their gift. They find comfort and community between themselves with two defacto leaders that are more symbolic than literal. 
 
 Paragons: Mother and Father. Nature and nurture with structure and care.
 
@@ -25,7 +25,7 @@ Force: Not the forefront, but not slacked. If ever needed, they rely on small, e
 ```base
 filters:
   and:
-    - file.hasTag("npc")
+    - file.hasTag("character")
     - Faction == "Mindful Eyes"
 views:
   - type: list
@@ -38,16 +38,59 @@ views:
     sort:
       - property: Rank
         direction: ASC
-    columnSize:
-      note.Concept: 212
     separator: " - "
     markers: none
     image: note.Portrait
-    imageAspectRatio: 0.7
-    cardSize: 240
+    imageAspectRatio: 0.5
+    cardSize: 160
     indentProperties: false
-
 ```
 { #FactionTable}
 
 
+```base
+filters:
+  and:
+    - file.tags.contains("location")
+    - or:
+        - Faction == "Mindful Eyes"
+        - Faction_Presence.contains("Mindful Eyes")
+properties:
+  note.file.name:
+    displayName: Location
+  note.faction_Control:
+    displayName: Leadership
+  note.faction_Presence:
+    displayName: Other Factions
+  note.control:
+    displayName: Status
+views:
+  - type: table
+    name: Associated Locations
+    order:
+      - file.name
+      - Faction
+      - Control
+      - Faction_Presence
+    indentProperties: false
+```
+
+```base
+filters:
+  and:
+    - Faction.contains("Mindful Eyes")
+    - file.tags.contains("Mech")
+    - file.folder != "Database/Mechs/Sample"
+properties:
+  file.name:
+    displayName: Mech
+views:
+  - type: cards
+    name: Mobile Suits
+    order:
+      - file.name
+    indentProperties: false
+    imageAspectRatio: 0.5
+    image: MECH_Portrait
+    imageFit: cover
+```

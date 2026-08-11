@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T19:51:21.054-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-11T15:54:30.354-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
 ---
 
 
@@ -15,7 +15,7 @@ The corporate council that forms the effective governing body of the [[Database/
 ```base
 filters:
   and:
-    - file.tags.contains("npc")
+    - file.hasTag("character")
     - Faction == "Jovian Consortium"
 views:
   - type: list
@@ -30,8 +30,10 @@ views:
         direction: ASC
     separator: " - "
     markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.5
+    cardSize: 160
     indentProperties: false
-
 ```
 { #FactionTable}
 
@@ -39,10 +41,12 @@ views:
 ```base
 filters:
   and:
-    - Faction == "Jovian Consortium"
     - file.tags.contains("location")
+    - or:
+        - Faction == "Jovian Consortium"
+        - Faction_Presence.contains("Jovian Consortium")
 properties:
-  file.name:
+  note.file.name:
     displayName: Location
   note.faction_Control:
     displayName: Leadership
@@ -59,13 +63,12 @@ views:
       - Control
       - Faction_Presence
     indentProperties: false
-
 ```
 
 ```base
 filters:
   and:
-    - User_Factions.contains("Jovian Consortium")
+    - Faction.contains("Jovian Consortium")
     - file.tags.contains("Mech")
     - file.folder != "Database/Mechs/Sample"
 properties:
@@ -80,5 +83,4 @@ views:
     imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover
-
 ```

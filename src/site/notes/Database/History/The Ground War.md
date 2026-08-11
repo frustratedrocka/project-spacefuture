@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/database/history/the-ground-war/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T20:16:32.062-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
-[[Game Creation/The Hive Mind\|The Hive Mind]] starts in space as fungal infection in food supply, entity on [[Database/Places/Earth\|Earth]] notices what's happening, doesn't like it, drops biggest concentration of the hive on [[Database/Places/Earth\|Earth]], Earth overcorrects, massive war ensues. 
+[[Database/History/The Hive Mind\|The Hive Mind]] starts in space as fungal infection in food supply, entity on [[Database/Places/Earth\|Earth]] notices what's happening, doesn't like it, drops biggest concentration of the hive on [[Database/Places/Earth\|Earth]], Earth overcorrects, massive war ensues. 
 
 Breadbasket
 
-1. [[Game Creation/The Hive Mind\|The Hive Mind]] emerges
+1. [[Database/History/The Hive Mind\|The Hive Mind]] emerges
 2. Someone does not like that the hive mind has emerged
 3. [[Database/Places/Luna\|Luna]] gets thrown at [[Database/Places/Earth\|Earth]] in an attempt to deal with the hive 
 4. This results in catastrophic solar-system-wide food shortages
