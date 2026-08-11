@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T17:17:20.055-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-11T16:15:28.334-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 
+
+Top level directory for characters, locations, and mobile suits organized by faction. I love embedded subpages, don't you? 
 
 # [[Database/Factions/Rebels\|Rebels]]
 
@@ -27,7 +29,7 @@
 >
 >
 >**BELIEFS**
->
+><div><ul class="dataview list-view-ul"><li><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>-</span></li></ul></li></ul></div>
 >
 >**PARAGON**
 >`=this.Paragon`
@@ -40,7 +42,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 filters:
   and:
     - Faction == "Rebels"
-	- file.hasTag("PC")
+    - file.hasTag("PC")
 views:
   - type: cards
     name: PCs
@@ -121,6 +123,7 @@ views:
     order:
       - file.name
     indentProperties: false
+    cardSize: 160
     imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover
@@ -155,7 +158,7 @@ views:
 >**BELIEFS**
 ><div><ul class="dataview list-view-ul"><li><span>We Are The Line Between The System And Starvation</span></li><li><span>Our Ends Justify Any Means</span></li></ul></div>
 >
->>[!caption|s-t no-icon color-white] **PARAGON**
+> **PARAGON**
 >[[Database/People/The Man Upstairs\|The Man Upstairs]]
 
 Originally a shipping company run by [[Database/People/The Man Upstairs\|The Man Upstairs]], Apsis was empowered by the Ceres Accords that ended [[Database/History/The Ground War\|The Ground War]] as an ostensibly neutral body to oversee food distribution throughout the solar system.
@@ -231,6 +234,7 @@ views:
     order:
       - file.name
     indentProperties: false
+    cardSize: 160
     imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover

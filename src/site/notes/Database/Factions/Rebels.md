@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-11T16:12:11.598-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-11T16:14:05.962-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":null}}
 ---
 
 >[!INFOBOX]
@@ -17,7 +17,7 @@
 >
 >
 >**BELIEFS**
->
+><div><ul class="dataview list-view-ul"><li><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>-</span></li></ul></li></ul></div>
 >
 >**PARAGON**
 >`=this.Paragon`
@@ -112,6 +112,7 @@ views:
     order:
       - file.name
     indentProperties: false
+    cardSize: 160
     imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover
