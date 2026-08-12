@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-08-12T13:10:29.557-04:00","dg-note-properties":{"tags":["location"],"type":"Planet","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Space Pirates","Mindful Eyes","Hive Cult"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-08-12T14:21:12.143-04:00","dg-note-properties":{"tags":["location"],"type":"Planet","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Space Pirates","Mindful Eyes","Hive Cult"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
 ---
 
 > [!INFOBOX] Earth
