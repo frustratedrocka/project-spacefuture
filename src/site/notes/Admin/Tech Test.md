@@ -60,6 +60,7 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 > 
 > |  |  |
 > |--|--|
+> |**MODEL**|[[Database/Mobile Suits/TC-01 Gundam Descolada\|TC-01 Gundam Descolada]]|
 > | **ARMOR**|`REDACTED`|
 > 
 > |HARM|BREAKDOWN|
@@ -69,29 +70,31 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 > |4 Dsbl|Disabled|
 > |6 Doom|Doomed|
 
-|ASPECTS|
-|--------------- | 
-|Far Better To Live And Die Under The Brave Black Flag|
-|Relationship|
-|Exemplary Captain First, King Distant Second|
-|`REDACTED`|
-|`REDACTED`|
-|`REDACTED`|
+| Aspects                                               |
+| ----------------------------------------------------- |
+| Far Better To Live And Die Under The Brave Black Flag |
+| Relationship                                          |
+| Exemplary Captain First, King Distant Second          |
 
-|MECH ASPECTS|
-|---------|
-|High Concept|
-|Trouble|
-|Relationship|
+{ .block-language-dataview}
 
-|GEAR ASPECTS|
-|--------|
-|Primary Equipment|
-|Secondary Equipment|
+| Mech Aspects |
+| ------------ |
+| High Concept |
+| Trouble      |
+| Relationship |
+
+{ .block-language-dataview}
+
+| Gear Aspects        |
+| ------------------- |
+| Primary Equipment   |
+| Secondary Equipment |
+
+{ .block-language-dataview}
 
 >[!blank|static wfull]
-
-
+>
 `REDACTED`
 
 >[!blank|static wfull]

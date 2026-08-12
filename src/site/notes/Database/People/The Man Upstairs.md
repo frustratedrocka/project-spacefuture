@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character"],"noteIcon":"","updated":"2026-08-12T04:45:46.222-04:00","dg-note-properties":{"tags":["npc","character"],"NPC_Name":"The Man Upstairs","Portrait":"Admin/Attachments/GenericFeddie_SQ.png","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.png]]","Faction":"Apsis","Rank":0,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["`REDACTED`","Expert Shipping Magnate"],"Stunts":[[null]],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network"],"approach_4":["Subtly","Cleverly"],"skill_3":["Acquire","Sway"],"approach_3":["Quickly","Forcefully"],"skill_2":["Understand","Notice","Persevere"],"approach_2":["Boldly","Carefully"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
+{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character"],"noteIcon":"","updated":"2026-08-12T05:40:33.276-04:00","dg-note-properties":{"tags":["npc","character"],"NPC_Name":"The Man Upstairs","Portrait":"Admin/Attachments/GenericFeddie_SQ.png","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.png]]","Faction":"Apsis","Rank":0,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["`REDACTED`","Expert Shipping Magnate"],"Stunts":[[null]],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network"],"approach_4":["Subtly","Cleverly"],"skill_3":["Acquire","Sway"],"approach_3":["Quickly","Forcefully"],"skill_2":["Understand","Notice","Persevere"],"approach_2":["Boldly","Carefully"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
 ---
 
 > [!infobox|left wsmall]
@@ -17,18 +17,18 @@
 > |4 Mod|Moderate|
 > |6 Svr|Severe|
 
-| Aspects                                  |
-| ---------------------------------------- |
-| !r! The Object Of Power Is Power !/r!    |
-| Relationship                             |
-| !r! [[Database/Factions/Apsis\|Apsis]] Are Mine To Command !/r!   |
-| !r!When In A Gold Rush, Sell Shovels!/r! |
-| Expert Shipping Magnate                  |
+| Aspects                 |
+| ----------------------- |
+| `REDACTED`              |
+| Relationship            |
+| `REDACTED`              |
+| `REDACTED`              |
+| Expert Shipping Magnate |
 
 { .block-language-dataview}
 
 `REDACTED`
 
 >[!blank|static wfull]
->
+
 # Notes
