@@ -311,7 +311,7 @@ views:
 filters:
   and:
     - file.hasTag("character")
-    - Faction == this.File.name
+    - Faction.contains(this.File.name)
 views:
   - type: list
     name: Known Members
