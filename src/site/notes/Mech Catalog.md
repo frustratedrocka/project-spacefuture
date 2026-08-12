@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-12T02:03:10.250-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-12T06:15:04.370-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 ```base
@@ -7,7 +7,7 @@ filters:
   and:
     - file.hasTag("Mech")
     - file.folder != "Admin/Templates"
-    - file.folder != "Database/Mechs/Sample"
+    - file.folder != "Database/Mobile Suits/Sample"
 properties:
   note.MECH_Concept:
     displayName: Concept
