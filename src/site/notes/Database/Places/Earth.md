@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-08-12T14:21:12.143-04:00","dg-note-properties":{"tags":["location"],"type":"Planet","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Space Pirates","Mindful Eyes","Hive Cult"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-08-12T17:20:26.210-04:00","dg-note-properties":{"tags":["location"],"type":"Planet","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Space Pirates","Mindful Eyes","Hive Cult"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
 ---
 
 > [!INFOBOX] Earth
@@ -21,12 +21,12 @@ Many of the displaced survivors who couldn't or wouldn't assimilate elsewhere to
 
 ```base
 filters:
-  and:
+  or:
     - Origin == "Earth"
-	- file.hasTag("character")
+	- Assoc.contains("Earth")
 views:
   - type: list
-    name: Characters From Here
+    name: Associated
     order:
       - file.name
     image: note.Portrait
