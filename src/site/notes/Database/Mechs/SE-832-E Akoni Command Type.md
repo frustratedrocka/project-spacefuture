@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mechs/se-832-e-akoni-command-type/","tags":["Mech"],"noteIcon":"","updated":"2026-08-11T23:57:29.566-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":null,"MECH_Model":"SE-832-E Akoni","MECH_Portrait":"Admin/Attachments/Akoni-E_SQ.png","MECH_portrait_Link":"![[Admin/Attachments/Akoni_SQ.png]]","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Concept":"Apsis's First Line Of Offense, Enhanced","MECH_Trouble":"The Face of Tyranny","MECH_Relationship":[null],"MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mechs","`REDACTED`"],"Faction":["Apsis"],"Variants":["SE-832 Akoni"]}}
+{"dg-publish":true,"permalink":"/database/mechs/se-832-e-akoni-command-type/","tags":["Mech"],"noteIcon":"","updated":"2026-08-12T00:00:50.990-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":null,"MECH_Model":"SE-832-E Akoni","MECH_Portrait":"Admin/Attachments/Akoni-E_SQ.png","MECH_portrait_Link":"![[Admin/Attachments/Akoni_SQ.png]]","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Concept":"Apsis's First Line Of Offense, Enhanced","MECH_Trouble":"The Face of Tyranny","MECH_Relationship":[null],"MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mechs","`REDACTED`"],"Faction":["Apsis"],"Variants":["SE-832 Akoni"]}}
 ---
 
 
@@ -12,7 +12,6 @@
 > |**FACTIONS**|[[Database/Factions/Apsis\|Apsis]]|
 > |**VARIANTS**|[[Database/Mechs/SE-832 Akoni\|SE-832 Akoni]]|
 > | **ARMOR**|`REDACTED`|
->
 > 
 > 
 > 
@@ -44,23 +43,6 @@
 
 # Test Base Embed
 
-```base
-filters:
-  and:
-    - file.hasTag("character")
-    - MECH_Model == this.MECH_Model
-    - '!file.inFolder("Admin/Templates")'
-views:
-  - type: list
-    name: Known Pilots
-    sort: []
-    markers: bullet
-
-```
-
-
-# Test Blockquote Embed
-> 
 ```base
 filters:
   and:
