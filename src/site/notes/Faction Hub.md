@@ -240,7 +240,7 @@ views:
     imageFit: cover
 ```
 
-# TEST
+# TEST EMBED
 
 ```base
 filters:
@@ -303,6 +303,80 @@ views:
 
 ```
 
+
+# TEST RECURSIVE
+
+```base
+filters:
+  and:
+    - file.hasTag("character")
+    - Faction == this.Faction
+views:
+  - type: list
+    name: Known Members
+    order:
+      - file.name
+      - Concept
+      - Relationship
+      - Loyalty
+    sort:
+      - property: Rank
+        direction: ASC
+    separator: " - "
+    markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.5
+    cardSize: 160
+    indentProperties: false
+```
+
+```base
+filters:
+  and:
+    - file.tags.contains("location")
+    - or:
+        - Faction == this.Faction
+        - Faction_Presence.contains(this.Faction)
+properties:
+  note.file.name:
+    displayName: Location
+  note.faction_Control:
+    displayName: Leadership
+  note.faction_Presence:
+    displayName: Other Factions
+  note.control:
+    displayName: Status
+views:
+  - type: table
+    name: Associated Locations
+    order:
+      - file.name
+      - Faction
+      - Control
+      - Faction_Presence
+    indentProperties: false
+```
+
+```base
+filters:
+  and:
+    - Faction.contains(this.Faction)
+    - file.tags.contains("Mech")
+    - file.folder != "Database/Mechs/Sample"
+properties:
+  file.name:
+    displayName: Mech
+views:
+  - type: cards
+    name: Mobile Suits
+    order:
+      - file.name
+    indentProperties: false
+    cardSize: 160
+    imageAspectRatio: 0.5
+    image: MECH_Portrait
+    imageFit: cover
+```
 
 </div></div>
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-11T23:00:48.144-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-11T23:16:54.928-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 
@@ -103,7 +103,7 @@ views:
     imageFit: cover
 ```
 
-# TEST
+# TEST EMBED
 
 ```base
 filters:
@@ -164,4 +164,79 @@ views:
     image: note.MECH_Portrait
     imageAspectRatio: 0.5
 
+```
+
+
+# TEST RECURSIVE
+
+```base
+filters:
+  and:
+    - file.hasTag("character")
+    - Faction == this.Faction
+views:
+  - type: list
+    name: Known Members
+    order:
+      - file.name
+      - Concept
+      - Relationship
+      - Loyalty
+    sort:
+      - property: Rank
+        direction: ASC
+    separator: " - "
+    markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.5
+    cardSize: 160
+    indentProperties: false
+```
+
+```base
+filters:
+  and:
+    - file.tags.contains("location")
+    - or:
+        - Faction == this.Faction
+        - Faction_Presence.contains(this.Faction)
+properties:
+  note.file.name:
+    displayName: Location
+  note.faction_Control:
+    displayName: Leadership
+  note.faction_Presence:
+    displayName: Other Factions
+  note.control:
+    displayName: Status
+views:
+  - type: table
+    name: Associated Locations
+    order:
+      - file.name
+      - Faction
+      - Control
+      - Faction_Presence
+    indentProperties: false
+```
+
+```base
+filters:
+  and:
+    - Faction.contains(this.Faction)
+    - file.tags.contains("Mech")
+    - file.folder != "Database/Mechs/Sample"
+properties:
+  file.name:
+    displayName: Mech
+views:
+  - type: cards
+    name: Mobile Suits
+    order:
+      - file.name
+    indentProperties: false
+    cardSize: 160
+    imageAspectRatio: 0.5
+    image: MECH_Portrait
+    imageFit: cover
 ```
