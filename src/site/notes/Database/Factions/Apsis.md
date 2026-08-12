@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-12T05:53:34.383-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-12T06:07:00.044-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 
->[!INFOBOX|wm-sm]
+>[!INFOBOX|ws-med]
 ># Apsis
 >`=embed(link(this.Portrait))`
 >
->
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The Man Upstairs\|The Man Upstairs]]|
+>|**BELIEFS**|"We Are The Line Between The System And Starvation"<br>"Our Ends Justify Any Means"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -15,13 +18,6 @@
 >|**FELLOWSHIP**|2|
 >|**FORCE**|8|
 >|**FRATERNITY**|6|
->
->
->**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><span>We Are The Line Between The System And Starvation</span></li><li><span>Our Ends Justify Any Means</span></li></ul></div>
->
-> **PARAGON**
->[[Database/People/The Man Upstairs\|The Man Upstairs]]
 
 Originally a shipping company run by [[Database/People/The Man Upstairs\|The Man Upstairs]], Apsis was empowered by the Ceres Accords that ended [[Database/History/The Ground War\|The Ground War]] as an ostensibly neutral body to oversee food distribution throughout the solar system.
 

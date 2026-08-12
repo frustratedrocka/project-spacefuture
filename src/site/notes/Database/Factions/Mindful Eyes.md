@@ -1,27 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-12T05:55:01.778-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Mindful Eyes","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
+{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-12T06:07:28.047-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Mindful Eyes","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
 ---
 
 
->[!INFOBOX|wm-sm]
+>[!INFOBOX|ws-med]
 ># Mindful Eyes
 >`=embed(link(this.Portrait))`
 >
->
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The Mother And The Father\|The Mother And The Father]]|
+>|**BELIEFS**|"Don't Let Your Gift Be Abused"<br>"Survival Through Secrecy"|
 >
 >|SKILL|RANK|
 >|--|:--:|
->|Fealty|6|
->|Fellowship|8|
->|Force|2|
->|Fraternity|4|
->
->
->**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><span>Don't Let Your Gift Be Abused</span></li><li><span>Survival Through Secrecy</span></li></ul></div>
->
-> **PARAGON**
->[[Database/People/The Mother And The Father\|The Mother And The Father]]
+>|**FEALTY**|6|
+>|**FELLOWSHIP**|8|
+>|**FORCE**|2|
+>|**FRATERNITY**|4|
 
 [[Database/History/The Hive Mind\|Hive mind]] refugees that came together due to war, betrayal, and abuse of their gift. They find comfort and community between themselves with two defacto leaders that are more symbolic than literal. 
 
@@ -106,4 +102,5 @@ views:
     imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover
+    cardSize: 160
 ```

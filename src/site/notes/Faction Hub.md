@@ -41,6 +41,7 @@ filters:
   and:
     - Faction == "Rebels"
     - file.hasTag("PC")
+    - '!file.inFolder("Admin/Templates")'
 views:
   - type: cards
     name: PCs
@@ -49,9 +50,10 @@ views:
       - concept
     image: note.Portrait
     imageFit: cover
-    imageAspectRatio: 0.75
+    imageAspectRatio: 0.6
     cardSize: 160
     indentProperties: false
+
 ```
 
 ```base
@@ -139,11 +141,14 @@ views:
 
 
 
->[!INFOBOX|wm-sm]
+>[!INFOBOX|ws-med]
 ># Apsis
 >`=embed(link(this.Portrait))`
 >
->
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The Man Upstairs\|The Man Upstairs]]|
+>|**BELIEFS**|"We Are The Line Between The System And Starvation"<br>"Our Ends Justify Any Means"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -151,13 +156,6 @@ views:
 >|**FELLOWSHIP**|2|
 >|**FORCE**|8|
 >|**FRATERNITY**|6|
->
->
->**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><span>We Are The Line Between The System And Starvation</span></li><li><span>Our Ends Justify Any Means</span></li></ul></div>
->
-> **PARAGON**
->[[Database/People/The Man Upstairs\|The Man Upstairs]]
 
 Originally a shipping company run by [[Database/People/The Man Upstairs\|The Man Upstairs]], Apsis was empowered by the Ceres Accords that ended [[Database/History/The Ground War\|The Ground War]] as an ostensibly neutral body to oversee food distribution throughout the solar system.
 
@@ -249,11 +247,14 @@ views:
 
 
 
->[!INFOBOX|wm-sm]
+>[!INFOBOX|ws-med]
 ># Jovian Consortium
 >`=embed(link(this.Portrait))`
 >
->
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The CEO\|The CEO]]|
+>|**BELIEFS**|"Obedience Through Power"<br>"Trust The (Long) Process"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -261,13 +262,6 @@ views:
 >|**FELLOWSHIP**|2|
 >|**FORCE**|6|
 >|**FRATERNITY**|8|
->
->
->**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><span>Obedience Through Power</span></li><li><span>Trust The (Long) Process</span></li></ul></div>
->
-> **PARAGON**
->[[Database/People/The CEO\|The CEO]]
 
 The corporate council that forms the effective governing body of the [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] sphere. Whether they hold the leash of [[Database/Factions/Apsis\|Apsis]] or the other way around is becoming a murkier question every day.
 
@@ -341,6 +335,7 @@ views:
     imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover
+    cardSize: 160
 ```
 
 </div></div>
@@ -355,11 +350,14 @@ views:
 
 
 
->[!INFOBOX|wm-sm]
+>[!INFOBOX|ws-med]
 ># Space Pirates
 >![Admin/Attachments/CV_Recolor.webp\|CV_Recolor.webp](/img/user/Admin/Attachments/CV_Recolor.webp)
 >
->
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The Pirate King\|The Pirate King]]|
+>|**BELIEFS**|"Take Back What's Ours"<br>"Loyalty Among Thieves"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -367,13 +365,6 @@ views:
 >|**FELLOWSHIP**|8|
 >|**FORCE**|6|
 >|**FRATERNITY**|4|
->
->
->**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><span>Take Back What's Ours</span></li><li><span>Loyalty Among Thieves</span></li></ul></div>
->
-> **PARAGON**
->[[Database/People/The Pirate King\|The Pirate King]]
 
 Refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and [[Database/Places/Luna\|Luna]], exiles with chips on their shoulder.
 
@@ -444,6 +435,7 @@ views:
     order:
       - file.name
     indentProperties: false
+    cardSize: 160
     imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover
@@ -461,25 +453,21 @@ views:
 
 
 
->[!INFOBOX|wm-sm]
+>[!INFOBOX|ws-med]
 ># Mindful Eyes
 >`=embed(link(this.Portrait))`
 >
->
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The Mother And The Father\|The Mother And The Father]]|
+>|**BELIEFS**|"Don't Let Your Gift Be Abused"<br>"Survival Through Secrecy"|
 >
 >|SKILL|RANK|
 >|--|:--:|
->|Fealty|6|
->|Fellowship|8|
->|Force|2|
->|Fraternity|4|
->
->
->**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><span>Don't Let Your Gift Be Abused</span></li><li><span>Survival Through Secrecy</span></li></ul></div>
->
-> **PARAGON**
->[[Database/People/The Mother And The Father\|The Mother And The Father]]
+>|**FEALTY**|6|
+>|**FELLOWSHIP**|8|
+>|**FORCE**|2|
+>|**FRATERNITY**|4|
 
 [[Database/History/The Hive Mind\|Hive mind]] refugees that came together due to war, betrayal, and abuse of their gift. They find comfort and community between themselves with two defacto leaders that are more symbolic than literal. 
 
@@ -563,6 +551,7 @@ views:
     imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover
+    cardSize: 160
 ```
 
 </div></div>
@@ -577,25 +566,23 @@ views:
 
 
 
->[!INFOBOX|wm-sm]
+>[!INFOBOX|ws-med]
 ># Hive Cult
 >`=embed(link(this.Portrait))`
 >
->
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The Queen\|The Queen]]|
+>|**BELIEFS**|"The Queen's Word Is Law"<br>"Their Gift Is Our Destiny"<br>"Never Turn A Blind Eye"|
 >
 >|SKILL|RANK|
 >|--|:--:|
->|Fealty|8|
->|Fellowship|6|
->|Force|4|
->|Fraternity|2|
->
->
->**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><span>The Queen's Word Is Law</span></li><li><span>Their Gift Is Our Destiny</span></li><li><span>Never Turn A Blind Eye</span></li></ul></div>
->
-> **PARAGON**
->[[Database/People/The Queen\|The Queen]]
+>|**FEALTY**|8|
+>|**FELLOWSHIP**|6|
+>|**FORCE**|4|
+>|**FRATERNITY**|2|
+
+
 Hive Cultists
 
 They decide they want in on [[Database/History/The Hive Mind\|The Hive Mind]] even though it has been cut off, which leads down a path of kidnapping, experimentation, and cannibalism. This leads to something like a mixture of the hivemind and Superkuru coming into being; it's all the worst aspects of the concept of a Hivemind the OG avoided. 
@@ -605,7 +592,7 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 ```base
 filters:
   and:
-    - file.hasTag("npc")
+    - file.hasTag("character")
     - Faction == "Hive Cult"
 views:
   - type: list
@@ -618,18 +605,62 @@ views:
     sort:
       - property: Rank
         direction: ASC
-    columnSize:
-      note.Concept: 212
     separator: " - "
     markers: none
     image: note.Portrait
-    imageAspectRatio: 0.7
-    cardSize: 240
+    imageAspectRatio: 0.5
+    cardSize: 160
     indentProperties: false
-
 ```
 
 
+```base
+filters:
+  and:
+    - file.tags.contains("location")
+    - or:
+        - Faction == "Hive Cult"
+        - Faction_Presence.contains("Hive Cult")
+properties:
+  note.file.name:
+    displayName: Location
+  note.faction_Control:
+    displayName: Leadership
+  note.faction_Presence:
+    displayName: Other Factions
+  note.control:
+    displayName: Status
+views:
+  - type: table
+    name: Associated Locations
+    order:
+      - file.name
+      - Faction
+      - Control
+      - Faction_Presence
+    indentProperties: false
+```
+
+```base
+filters:
+  and:
+    - Faction.contains("Hive Cult")
+    - file.tags.contains("Mech")
+    - file.folder != "Database/Mechs/Sample"
+properties:
+  file.name:
+    displayName: Mech
+views:
+  - type: cards
+    name: Mobile Suits
+    order:
+      - file.name
+    indentProperties: false
+    imageAspectRatio: 0.5
+    image: MECH_Portrait
+    imageFit: cover
+    cardSize: 160
+```
 
 </div></div>
 

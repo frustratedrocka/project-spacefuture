@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T05:53:14.188-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Space Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T06:07:20.826-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Space Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
 ---
 
 
->[!INFOBOX|wm-sm]
+>[!INFOBOX|ws-med]
 ># Space Pirates
 >![Admin/Attachments/CV_Recolor.webp\|CV_Recolor.webp](/img/user/Admin/Attachments/CV_Recolor.webp)
 >
->
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The Pirate King\|The Pirate King]]|
+>|**BELIEFS**|"Take Back What's Ours"<br>"Loyalty Among Thieves"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -15,13 +18,6 @@
 >|**FELLOWSHIP**|8|
 >|**FORCE**|6|
 >|**FRATERNITY**|4|
->
->
->**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><span>Take Back What's Ours</span></li><li><span>Loyalty Among Thieves</span></li></ul></div>
->
-> **PARAGON**
->[[Database/People/The Pirate King\|The Pirate King]]
 
 Refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and [[Database/Places/Luna\|Luna]], exiles with chips on their shoulder.
 
@@ -93,6 +89,7 @@ views:
     order:
       - file.name
     indentProperties: false
+    cardSize: 160
     imageAspectRatio: 0.5
     image: MECH_Portrait
     imageFit: cover

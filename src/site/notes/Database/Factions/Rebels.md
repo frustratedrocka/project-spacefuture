@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-12T05:53:41.679-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-12T06:09:48.729-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":null}}
 ---
 
 >[!INFOBOX|wm-sm]
@@ -31,6 +31,7 @@ filters:
   and:
     - Faction == "Rebels"
     - file.hasTag("PC")
+    - '!file.inFolder("Admin/Templates")'
 views:
   - type: cards
     name: PCs
@@ -39,9 +40,10 @@ views:
       - concept
     image: note.Portrait
     imageFit: cover
-    imageAspectRatio: 0.75
+    imageAspectRatio: 0.6
     cardSize: 160
     indentProperties: false
+
 ```
 
 ```base
