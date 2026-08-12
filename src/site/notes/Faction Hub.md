@@ -12,7 +12,7 @@
 
 
 
->[!INFOBOX]
+>[!INFOBOX|wm-sm]
 ># Rebels
 >`=embed(link(this.Portrait))`
 >
@@ -139,7 +139,7 @@ views:
 
 
 
->[!INFOBOX]
+>[!INFOBOX|wm-sm]
 ># Apsis
 >`=embed(link(this.Portrait))`
 >
@@ -249,7 +249,7 @@ views:
 
 
 
->[!INFOBOX]
+>[!INFOBOX|wm-sm]
 ># Jovian Consortium
 >`=embed(link(this.Portrait))`
 >
@@ -355,7 +355,7 @@ views:
 
 
 
->[!INFOBOX]
+>[!INFOBOX|wm-sm]
 ># Space Pirates
 >![Admin/Attachments/CV_Recolor.webp\|CV_Recolor.webp](/img/user/Admin/Attachments/CV_Recolor.webp)
 >
@@ -461,12 +461,25 @@ views:
 
 
 
-|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
-| :------------: | :----------------: | :-----------: | :----------------: |
-| 6 | 8 | 2 | 4 |
-
-**BELIEFS** Don't Let Your Gift Be Abused,Survival Through Secrecy
-**PARAGON** [[Database/People/The Mother And The Father\|The Mother And The Father]]
+>[!INFOBOX|wm-sm]
+># Mindful Eyes
+>`=embed(link(this.Portrait))`
+>
+>
+>
+>|SKILL|RANK|
+>|--|:--:|
+>|Fealty|6|
+>|Fellowship|8|
+>|Force|2|
+>|Fraternity|4|
+>
+>
+>**BELIEFS**
+><div><ul class="dataview list-view-ul"><li><span>Don't Let Your Gift Be Abused</span></li><li><span>Survival Through Secrecy</span></li></ul></div>
+>
+> **PARAGON**
+>[[Database/People/The Mother And The Father\|The Mother And The Father]]
 
 [[Database/History/The Hive Mind\|Hive mind]] refugees that came together due to war, betrayal, and abuse of their gift. They find comfort and community between themselves with two defacto leaders that are more symbolic than literal. 
 
@@ -564,13 +577,25 @@ views:
 
 
 
-|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
-| :------------: | :----------------: | :-----------: | :----------------: |
-| 8 | 6 | 4 | 2 |
-
-**BELIEFS** The Queen's Word Is Law,Their Gift Is Our Destiny,Never Turn A Blind Eye
-**PARAGON** [[Database/People/The Queen\|The Queen]]
-
+>[!INFOBOX|wm-sm]
+># Hive Cult
+>`=embed(link(this.Portrait))`
+>
+>
+>
+>|SKILL|RANK|
+>|--|:--:|
+>|Fealty|8|
+>|Fellowship|6|
+>|Force|4|
+>|Fraternity|2|
+>
+>
+>**BELIEFS**
+><div><ul class="dataview list-view-ul"><li><span>The Queen's Word Is Law</span></li><li><span>Their Gift Is Our Destiny</span></li><li><span>Never Turn A Blind Eye</span></li></ul></div>
+>
+> **PARAGON**
+>[[Database/People/The Queen\|The Queen]]
 Hive Cultists
 
 They decide they want in on [[Database/History/The Hive Mind\|The Hive Mind]] even though it has been cut off, which leads down a path of kidnapping, experimentation, and cannibalism. This leads to something like a mixture of the hivemind and Superkuru coming into being; it's all the worst aspects of the concept of a Hivemind the OG avoided. 

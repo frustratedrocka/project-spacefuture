@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-11T17:28:21.435-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Space Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T05:53:14.188-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Space Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
 ---
 
 
->[!INFOBOX]
+>[!INFOBOX|wm-sm]
 ># Space Pirates
 >![Admin/Attachments/CV_Recolor.webp\|CV_Recolor.webp](/img/user/Admin/Attachments/CV_Recolor.webp)
 >
