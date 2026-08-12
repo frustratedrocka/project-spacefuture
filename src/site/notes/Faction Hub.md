@@ -246,7 +246,7 @@ views:
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(this.Faction)
+    - Faction.contains(this.file.name)
 views:
   - type: list
     name: Known Members
