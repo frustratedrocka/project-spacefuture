@@ -240,6 +240,68 @@ views:
     imageFit: cover
 ```
 
+# TEST
+
+```base
+filters:
+  and:
+    - file.hasTag("character")
+    - Faction.contains(this.Faction)
+views:
+  - type: list
+    name: Known Members
+    order:
+      - file.name
+      - Concept
+      - Relationship
+      - Loyalty
+    sort:
+      - property: Rank
+        direction: ASC
+    markers: none
+    separator: " - "
+
+```
+
+
+```base
+filters:
+  and:
+    - file.hasTag("location")
+    - or:
+        - Faction.contains(this.Faction)
+        - Faction_Presence.contains(this.Faction)
+    - '!file.inFolder("Admin/Templates")'
+properties:
+  note.Faction_Presence:
+    displayName: Other Presence
+views:
+  - type: table
+    name: Associated Locations
+    order:
+      - file.name
+      - Faction
+      - Control
+      - Faction_Presence
+
+```
+
+
+```base
+filters:
+  and:
+    - file.hasTag("Mech")
+    - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Database/Mechs/Sample")'
+    - Faction.contains(this.Faction)
+views:
+  - type: cards
+    name: Mobile Suits
+    cardSize: 160
+    image: note.MECH_Portrait
+    imageAspectRatio: 0.5
+
+```
 
 
 </div></div>

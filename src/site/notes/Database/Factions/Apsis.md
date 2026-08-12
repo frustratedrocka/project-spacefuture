@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-11T16:17:49.197-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-11T23:00:48.144-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 
@@ -103,3 +103,65 @@ views:
     imageFit: cover
 ```
 
+# TEST
+
+```base
+filters:
+  and:
+    - file.hasTag("character")
+    - Faction.contains(this.Faction)
+views:
+  - type: list
+    name: Known Members
+    order:
+      - file.name
+      - Concept
+      - Relationship
+      - Loyalty
+    sort:
+      - property: Rank
+        direction: ASC
+    markers: none
+    separator: " - "
+
+```
+
+
+```base
+filters:
+  and:
+    - file.hasTag("location")
+    - or:
+        - Faction.contains(this.Faction)
+        - Faction_Presence.contains(this.Faction)
+    - '!file.inFolder("Admin/Templates")'
+properties:
+  note.Faction_Presence:
+    displayName: Other Presence
+views:
+  - type: table
+    name: Associated Locations
+    order:
+      - file.name
+      - Faction
+      - Control
+      - Faction_Presence
+
+```
+
+
+```base
+filters:
+  and:
+    - file.hasTag("Mech")
+    - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Database/Mechs/Sample")'
+    - Faction.contains(this.Faction)
+views:
+  - type: cards
+    name: Mobile Suits
+    cardSize: 160
+    image: note.MECH_Portrait
+    imageAspectRatio: 0.5
+
+```
