@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T01:56:17.781-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T05:04:02.469-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 
-
-Top level directory for characters, locations, and mobile suits organized by faction. I love embedded subpages, don't you? 
 
 # [[Database/Factions/Rebels\|Rebels]]
 
