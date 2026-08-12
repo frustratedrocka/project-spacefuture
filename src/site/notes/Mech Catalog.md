@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-10T19:17:41.548-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-12T02:03:10.250-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 ```base
@@ -28,7 +28,7 @@ views:
       - Faction
     image: MECH_Portrait
     imageFit: cover
-    cardSize: 200
+    cardSize: 160
     imageAspectRatio: 0.65
 
 ```
