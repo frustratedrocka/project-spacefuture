@@ -1,70 +1,137 @@
 ---
-{"dg-publish":t`REDACTED`malink":"/`REDACTED`4-challenges-conflicts-and-contests/","tags":["`REDACTED`"],"dgShowInlineTitle":t`REDACTED`ue,"noteIcon":"","updated":"2026-08-07T16:01:30.187-04:00","dg-note-p`REDACTED`ties":{"tags":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-07T16:01:30.187-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Challenges
-Many of the difficulties you`REDACTED`acte`REDACTED`oll in the cou`REDACTED`m the bomb, find the tome of eld`REDACTED`e, o`REDACTED`. But sometimes things a`REDACTED`e fluid, mo`REDACTED`itch lo`REDACTED`e sea`REDACTED`eening th`REDACTED`bo`REDACTED`ages outside and the boat’s lib`REDACTED`y is on fi`REDACTED` fault.
+Many of the difficulties your characters face can be handled with a single roll in the course of a scene—disarm the bomb, find the tome of eldritch lore, or decode the cypher. But sometimes things are more fluid, more complicated, and it’s just not as simple as finding the tome of eldritch lore because the yacht you’re searching is careening through Hong Kong harbor while a monsoon rages outside and the boat’s library is on fire—which is totally not your fault.
 
-In complicated ci`REDACTED`ies of ove`REDACTED` issue. Challenges let the enti`REDACTED`oup wo`REDACTED` in a scene, and they keep things dynamic.
+In complicated circumstances with no opposition, you’ll want to use a challenge: a series of overcome actions that tackle a bigger issue. Challenges let the entire group work together in a scene, and they keep things dynamic.
 
-To set up a challenge, the GM conside`REDACTED` of skills that can cont`REDACTED`oup. T`REDACTED`ate ove`REDACTED`oll. Teamwo`REDACTED`e allowed, but may int`REDACTED` complications, such as `REDACTED` othe`REDACTED` best to give each cha`REDACTED` in the scene an oppo`REDACTED`ibute—aim fo`REDACTED` of skills equal to the numbe`REDACTED`acte`REDACTED`acte`REDACTED` dist`REDACTED` p`REDACTED`ities, o`REDACTED`oom fo`REDACTED`k. Fo`REDACTED`e difficult challenges, build the challenge with mo`REDACTED`e a`REDACTED`acte`REDACTED` the `REDACTED`es, and costs of each action as they inte`REDACTED`et how the scene p`REDACTED`esults lead into anothe`REDACTED` even a conflict. A mix of successes and failu`REDACTED`acte`REDACTED`wa`REDACTED`tial victo`REDACTED`oes get into a st`REDACTED` can't possibly lose, it's a [[Rules/4 Challenges, Conflicts, & Contests#Contests\|contest]] instead).
+To set up a challenge, the GM considers the situation and picks a number of skills that can contribute to the success of the group. Treat each action as a separate overcome roll. Teamwork actions are allowed, but may introduce costs or complications, such as running out of time or other inefficiencies.
 
-Conflicts a`REDACTED`e than just physical. While a shootout with a `REDACTED` swo`REDACTED`ocky peak a`REDACTED`gument with a loved one, a tense inte`REDACTED`ogation, o`REDACTED`umo`REDACTED`ing to fu`REDACTED` you`REDACTED` opponents' at a high society ball a`REDACTED`s when using some kinds of [[#Teamwo`REDACTED`ove thei`REDACTED`oll at any time (though the same aspect still cannot be invoked twice on the same action).
-- You can help an ally *befo`REDACTED` tu`REDACTED`ound by c`REDACTED` tu`REDACTED` that `REDACTED`k bonus. 
+GMs, do your best to give each character in the scene an opportunity to contribute—aim for a number of skills equal to the number of characters involved. Downsize if you expect to have some of the characters pulled away or distracted by other priorities, or if you want to make room for teamwork. For more difficult challenges, build the challenge with more needed actions than there are characters, in addition to adjusting the difficulties of the actions.
+
+After the rolls have been made, the GM will evaluate the successes, failures, and costs of each action as they interpret how the scene proceeds. It could be that the results lead into another challenge, a contest, or even a conflict. A mix of successes and failures should allow the characters to move forward with a partial victory as they face new entangling complications.
+
+# Conflicts
+The heroes get into a straight-up fight, and have a chance to win (if they don't have that chance, or can't possibly lose, it's a [[Rules/4 Challenges, Conflicts, & Contests#Contests\|contest]] instead).
+
+Conflicts are more than just physical. While a shootout with a rival gang or swordfight atop a rocky peak are both obvious applications, an argument with a loved one, a tense interrogation, or politicking and rumormongering to further your agenda and weaken your opponents' at a high society ball are all just as valid. 
+
+Timing matters when using some kinds of [[Rules/4 Challenges, Conflicts, & Contests#Teamwork\|#Teamwork]] in a conflict:
+- You can invoke an aspect on an ally's behalf to improve their roll at any time (though the same aspect still cannot be invoked twice on the same action).
+- You can help an ally *before* their turn comes around by creating an advantage.
+- You can use up your turn (skipping it for that round) to give an ally a +1 teamwork bonus. 
 
 ## Simultaneous Initiative
-This game uses a somewhat unusual initiative system. At the top of each `REDACTED`s and GM decla`REDACTED`ont. Then, they `REDACTED`de`REDACTED`oach each cha`REDACTED` uses fo`REDACTED` action. The o`REDACTED` is the same as what's ma`REDACTED`acte`REDACTED`oaches, & Stunts#App`REDACTED`cefully, Cleve`REDACTED`efully.
+This game uses a somewhat unusual initiative system. At the top of each round, the players and GM declare all of the PC and NPC actions up front. Then, they resolve in order based on the approach each character uses for their action. The order is the same as what's marked on the character sheet and in [[Rules/3 Skills, Approaches, & Stunts#Approaches\|3 Skills, Approaches, & Stunts#Approaches]]: Quickly, Boldly, Forcefully, Cleverly, Subtly, Carefully.
 
-### GM Fi`REDACTED` any NPCs in combat and w`REDACTED` initiative t`REDACTED` in app`REDACTED`de`REDACTED`e than a name o`REDACTED`thand and 1-3 wo`REDACTED`iption (e.g. "Blademaste`REDACTED`ge + D`REDACTED`e," "Gange`REDACTED`essive Fi`REDACTED`n Decla`REDACTED` teamwo`REDACTED`s decla`REDACTED` actions in popco`REDACTED`de`REDACTED`st playe`REDACTED`e thei`REDACTED` to decla`REDACTED`s have decla`REDACTED`yone's actions a`REDACTED`esolve in o`REDACTED` of app`REDACTED`acte`REDACTED`oach compa`REDACTED` `REDACTED`oach; if those a`REDACTED`e thei`REDACTED`anks in the skill they'`REDACTED`e also tied, they each `REDACTED`de`REDACTED`om highest to lowest `REDACTED`lie`REDACTED`ound may invalidate actions that would have gone off late`REDACTED` planned to Shoot Ca`REDACTED`eady taken out ea`REDACTED` in the `REDACTED`e is a `REDACTED` such actions to be `REDACTED`geted without changing the app`REDACTED`s to do so; othe`REDACTED`natively, someone whose app`REDACTED`lie`REDACTED`ound may still have decla`REDACTED`e waiting fo`REDACTED`igge`REDACTED`esponse; in that case, they may also delay thei`REDACTED`igge`REDACTED`e still in a position to take that action when the t`REDACTED` occu`REDACTED`e not, o`REDACTED`igge`REDACTED` occu`REDACTED`p`REDACTED`p`REDACTED`elevant (e.g. a successful ambush), su`REDACTED`ised conflict pa`REDACTED`e and act only afte`REDACTED` pa`REDACTED` tu`REDACTED`m
-When an attack is successful, the defende`REDACTED`b the blow and suffe`REDACTED`m equal to **THE NUMBER OF HITS** the attack exceeded the defense by. You can **PUSH THROUGH** hits by ma`REDACTED` **SUFFER CONSEQUENCES**. 
+### GM First
+The GM decides the actions for any NPCs in combat and writes them down on their initiative tracker in approach order. This should be quick - no more than a name or shorthand and 1-3 words of description (e.g. "Blademaster Charge + Draw Fire," "Ganger A+B Flank Detective," "Heavy Suppressive Fire").
 
-When you take ha`REDACTED`esou`REDACTED`ough it and, based on that, how the ha`REDACTED` don't push th`REDACTED`m, you a`REDACTED`e `REDACTED`om the scene, and **THE ATTACKER DECIDES HOW IT PLAYS OUT.**
+### Popcorn Declaration
+To speed up play while still allowing for teamwork and some amount of tactical decision making, the players declare their actions in popcorn order. The first player to declare their action nominates the next player to declare, who then picks the next, and so on until all players have declared.
 
-### St`REDACTED`ough ha`REDACTED`king st`REDACTED`ain abso`REDACTED`m, and you can use as many o`REDACTED`m not abso`REDACTED`ain must eithe`REDACTED` a consequence o`REDACTED` cha`REDACTED` sta`REDACTED`ain available. Each skill `REDACTED`seve`REDACTED`ain, up to an ext`REDACTED`ful (4).
+### Resolution
+Once everyone's actions are set, actions resolve in order of approach. Characters using the same approach compare their ranks in that approach; if those are tied, they compare their ranks in the skill they're using; if those are also tied, they each roll a single d10 and go in order from highest to lowest result.
+
+Sometimes, actions taken earlier in a round may invalidate actions that would have gone off later (e.g. a player planned to Shoot Carefully to snipe an enemy who was already taken out earlier in the round). If there is a reasonable way for such actions to be retargeted without changing the approach, the GM should allow the players to do so; otherwise, the action is lost. 
+
+Alternatively, someone whose approach places them earlier in the round may still have declared they were waiting for something to trigger a response; in that case, they may also delay their action until the trigger goes off. If they're still in a position to take that action when the trigger occurs, they may do so; if they're not, or the trigger never occurs, the action is also lost.
+
+### Surprise
+When surprise is relevant (e.g. a successful ambush), surprised conflict participants declare and act only after all other participants have completed their turns.
+
+
+## Taking Harm
+When an attack is successful, the defender must absorb the blow and suffers harm equal to **THE NUMBER OF HITS** the attack exceeded the defense by. You can **PUSH THROUGH** hits by marking **STRAIN** boxes or **SUFFER CONSEQUENCES**. 
+
+When you take harm, **YOU GET TO DECIDE** which resources you use to push through it and, based on that, how the harm actually affects you. If you can't or don't push through all the harm, you are **TAKEN OUT** - you're removed from the scene, and **THE ATTACKER DECIDES HOW IT PLAYS OUT.**
+
+### Strain
+You can push through harm by marking strain. Each box of strain absorbs 1 harm, and you can use as many or as few boxes as you like. Any harm not absorbed by strain must either incur a consequence or cause you to be taken out.
+
+Your character starts with 4 boxes of strain available. Each skill rank in Persevere unlocks one additional box of strain, up to an extra 4 boxes at Masterful (4).
 
 ### Consequences
-If you'`REDACTED` unwilling to push th`REDACTED`m with st`REDACTED` a consequence instead. This is a tempo`REDACTED`y aspect `REDACTED`e of the ha`REDACTED`actu`REDACTED`ved And Unbalanced,"* *"Humiliating F`REDACTED` sheet has a numbe`REDACTED`ate 4, Seve`REDACTED`s `REDACTED`esent the maximum amount of ha`REDACTED`e ha`REDACTED`est elsewhe`REDACTED` to St`REDACTED` to anothe`REDACTED` example, if you take 5 ha`REDACTED`om a single attack, you may allocate it to:
-- A seve`REDACTED`ate consequence and 1 st`REDACTED`ate consequence and a mild consequence
-- A mild consequence and 3 st`REDACTED`human (5) `REDACTED`seve`REDACTED`y
-At the **END OF EACH SCENE**, eve`REDACTED`acte`REDACTED`s thei`REDACTED`ain boxes. Consequences take mo`REDACTED`t to clea`REDACTED`t the **RECOVERY PROCESS,** the pe`REDACTED`eating you will need to succeed at an ove`REDACTED`op`REDACTED`stand, occasionally something else). This ove`REDACTED`ity of the consequence: Adequate (1) fo`REDACTED` mode`REDACTED`eat (3) fo`REDACTED`e. These difficulties inc`REDACTED`e t`REDACTED`eat you`REDACTED`o`REDACTED`eatment is occu`REDACTED`ing in sub-pa`REDACTED`eases **STACK** - attempting to Tend a seve`REDACTED`self with poo`REDACTED`equi`REDACTED`human (5) effo`REDACTED`oll, `REDACTED`ite the consequence to indicate that it is healing. A "b`REDACTED`m" may be `REDACTED`itten as "a`REDACTED` instance. Success he`REDACTED`st hu`REDACTED` the consequence.
-- Mild consequences take one full scene afte`REDACTED`eatment to clea`REDACTED`ate consequences last longe`REDACTED` (meaning they clea`REDACTED`* they a`REDACTED`eated).
-- Seve`REDACTED` when you `REDACTED`acte`REDACTED`eation#B`REDACTED`ough]].
+If you're unable or unwilling to push through harm with strain, you suffer a consequence instead. This is a temporary aspect reflecting the nature of the harm (e.g. *"Busted Lip,"* *"Fractured Leg,"* *"Unnerved And Unbalanced,"* *"Humiliating Freak Out"*).
 
-If you have not yet successfully `REDACTED`each a B`REDACTED`ough, then you get to do so automatically as pa`REDACTED`eakth`REDACTED`enamed consequence will then pe`REDACTED` the enti`REDACTED`io and clea`REDACTED`eakth`REDACTED`mal.
+Each consequence on your sheet has a number associated with it: Mild 2, Moderate 4, Severe 6. These numbers represent the maximum amount of harm that each consequence can contain. If you take more harm than a single consequence can contain, you'll need to allocate the rest elsewhere, either to Strain or to another consequence. 
 
-### Ext`REDACTED`eme consequences a`REDACTED`th seve`REDACTED`manently, i`REDACTED`evocably change a cha`REDACTED`. Taking an ext`REDACTED`educes ha`REDACTED` cha`REDACTED`'s existing aspects (othe`REDACTED` high concept, which is off-limits) with an aspect that `REDACTED`esents the p`REDACTED`acte`REDACTED`esulting f`REDACTED`m they've taken.
+For example, if you take 5 harm from a single attack, you may allocate it to:
+- A severe consequence
+- A moderate consequence and 1 strain
+- A moderate consequence and a mild consequence
+- A mild consequence and 3 strain
 
-The`REDACTED`ecove`REDACTED`om an ext`REDACTED`t of the cha`REDACTED` now. At you`REDACTED`acte`REDACTED`eation#B`REDACTED`ough]] you may `REDACTED`eflect how you've come to te`REDACTED` go back to you`REDACTED`iginal aspect.
+If you achieve a Superhuman (5) rank in Persevere, you unlock a second mild consequence slot.
 
-Between b`REDACTED`oughs, a cha`REDACTED` may only use this option once. 
+### Recovery
+At the **END OF EACH SCENE**, every character clears their strain boxes. Consequences take more time and effort to clear. 
 
-Ext`REDACTED`mal consequence t`REDACTED`e neve`REDACTED`equi`REDACTED` consequence t`REDACTED`athe`REDACTED` an ext`REDACTED`e huge, cha`REDACTED`-alte`REDACTED`efo`REDACTED`a`REDACTED` a cost of some kind, and can no longe`REDACTED`k towa`REDACTED` cont`REDACTED`e fo`REDACTED`ing that conflict. 
+To start the **RECOVERY PROCESS,** the person treating you will need to succeed at an overcome action with an appropriate skill (usually Tend, sometimes Understand, occasionally something else). This overcome action faces difficulty equal to **HALF** the severity of the consequence: Adequate (1) for a mild consequence, Good (2) for moderate, and Great (3) for severe. These difficulties increase by 1 when you're trying to treat yourself, and/or if the treatment is occurring in sub-par conditions. These increases **STACK** - attempting to Tend a severe consequence on yourself with poor supplies in the middle of the jungle would require a Superhuman (5) effort.
 
-## Ha`REDACTED`mo`REDACTED`mo`REDACTED` to st`REDACTED`s in two ways. Fi`REDACTED`e st`REDACTED`s automatically at the end of each scene, `REDACTED`ing a`REDACTED` `REDACTED`es you to be in a position whe`REDACTED` you`REDACTED`epai`REDACTED` mech c`REDACTED`t, no spa`REDACTED`ts to wo`REDACTED`ound fo`REDACTED`e going to need eithe`REDACTED` ci`REDACTED` some ve`REDACTED`essive Tinke`REDACTED`epai`REDACTED` a`REDACTED` when you'`REDACTED`e it makes sense, you must Tinke`REDACTED`come action with opposition equal to the amount of a`REDACTED` boxes you'`REDACTED`ying to `REDACTED` (maximum 5). This `REDACTED`esents you`REDACTED`t with the `REDACTED`ces available to you; `REDACTED`dless of the `REDACTED` mech takes additional ha`REDACTED` you gain access to `REDACTED`ces that can help you.
+If you succeed on this roll, rewrite the consequence to indicate that it is healing. A "broken arm" may be rewritten as "arm in a cast," for instance. Success here is only the first hurdle - it **TAKES TIME** to clear the consequence.
+- Mild consequences take one full scene after treatment to clear.
+- Moderate consequences last longer, taking a full session to clear (meaning they clear at the end of the session *after* they are treated).
+- Severe consequences only clear when you reach a [[Rules/2 Character Creation#Breakthrough\|2 Character Creation#Breakthrough]].
 
-The othe`REDACTED`ence is how you upg`REDACTED` a`REDACTED`. Whe`REDACTED`ain is innate to you`REDACTED` Pe`REDACTED`e skill, a`REDACTED` is a mechanical quality of you`REDACTED`son. Instead of taking a skill inc`REDACTED`ing a [[2 Cha`REDACTED` C`REDACTED`eakth`REDACTED`mo`REDACTED` mech (to a maximum of 8). If you eve`REDACTED`ades do not ca`REDACTED`y ove`REDACTED` GM may decide togethe`REDACTED`op`REDACTED` the new mech to al`REDACTED`-than-standa`REDACTED`mo`REDACTED`esh-f`REDACTED`y p`REDACTED` specifications), but that is not an assumed default.
+If you have not yet successfully renamed a consequence by the time you reach a Breakthrough, then you get to do so automatically as part of that Breakthrough. The renamed consequence will then persist for the entire next scenario and clear at the next Breakthrough as normal.
 
-### B`REDACTED`eakdown wo`REDACTED`ently than consequences. Instead of the wide-open field of situation aspects you can c`REDACTED` pilot suffe`REDACTED`m, b`REDACTED`e-defines the way that damage to you`REDACTED`oughout a fight. This is meant to take some of the p`REDACTED`e off eve`REDACTED`e out wo`REDACTED`eate `REDACTED`atchet up the tension of the scene. 
+### Extreme Consequences
+Extreme consequences are a fourth severity of consequence that permanently, irrevocably change a character. Taking an extreme consequence reduces harm by 8. When taken, you must **REPLACE** one of your character's existing aspects (other than their high concept, which is off-limits) with an aspect that represents the profound change to the character resulting from the harm they've taken.
 
-A **DENTED** mech (2 ha`REDACTED`mful, but c`REDACTED`. Maybe an impo`REDACTED`uctu`REDACTED`acked, o`REDACTED`mo`REDACTED`able a`REDACTED`m consequence) has had one of its systems o`REDACTED`etains most of its functions - maybe it's lost a booste`REDACTED` its ta`REDACTED`own off, o`REDACTED`e sta`REDACTED`m consequence) has lost a c`REDACTED`haps a dest`REDACTED`oken weapon, loss of flight capability. 
+There is no option to recover from an extreme consequence; it has become a part of the character now. At your next [[Rules/2 Character Creation#Breakthrough\|2 Character Creation#Breakthrough]] you may rename it to reflect how you've come to terms with it, but you can never go back to your original aspect.
 
-A **DOOMED** mech (6 ha`REDACTED`om dest`REDACTED`y to fight, but you'`REDACTED`wa`REDACTED`haps oxygen is leaking, the powe`REDACTED`loading, o`REDACTED`e a sitting duck. 
+Between breakthroughs, a character may only use this option once. 
 
-Unless the`REDACTED`elevant aspect in play somewhe`REDACTED` game that would p`REDACTED`itical supply sho`REDACTED` hanga`REDACTED`eakdown is clea`REDACTED`ely at each b`REDACTED`ough as you`REDACTED`epai`REDACTED`e hugely impactful to the tone of a game, as well as to ove`REDACTED` agency; the GM should keep that in mind and have talked with the playe`REDACTED`y they all want to tell befo`REDACTED`mal consequences, b`REDACTED`de`REDACTED`m taken is ultimately allocated and pushed th`REDACTED` Mech
-If you concede o`REDACTED`eme Consequences|ext`REDACTED` mech is Doomed and you'`REDACTED` an ally in a position to inte`REDACTED`ifice a point of Ref`REDACTED`ibe how it su`REDACTED`ough ext`REDACTED` effo`REDACTED` d`REDACTED` `REDACTED`esh below 1). If you`REDACTED`oyed, you acqui`REDACTED` next b`REDACTED`ough, o`REDACTED`lie`REDACTED`s an oppo`REDACTED`om an enemy base). Wo`REDACTED` GM to design a new mech that's app`REDACTED`iate fo`REDACTED`esou`REDACTED` cha`REDACTED`. A `REDACTED`eakth`REDACTED` cost you `REDACTED`ces outside the fiction laye`REDACTED`emised on you being a mech pilot, and even though you spend a lot of time out of you`REDACTED` be without access to one fo`REDACTED`iod.
+Extreme consequences exist outside of the normal consequence track, and though you may always choose to take one, you are never required to - even if your consequence track has filled, you may choose to be taken out rather than suffer an extreme consequence. These are huge, character-altering moments, and should therefore be rare. 
 
-If you`REDACTED` taken out while you'`REDACTED`oyed, and whoeve`REDACTED`e taken out on foot. See [[2 Cha`REDACTED` C`REDACTED` Mech]] fo`REDACTED`vive.
+### Conceding
+You can **INTERRUPT** any action in a conflict to **CONCEDE**, as long as the dice haven't hit the table yet. You get to decide how you exit the conflict, but you may incur a cost of some kind, and can no longer work towards the objective or contribute to the scene. **YOU GAIN A FATE POINT**, plus 1 more for each consequence you took during that conflict. 
+
+## Harm and Mechs
+### Armor
+Armor is similar to strain in play, but differs in two ways. First, where strain clears automatically at the end of each scene, restoring armor requires you to be in a position where it makes fictional sense for your mech to be repaired. If a scene ends with your mech crash-landed in the desert, no spare parts to work with, and no one else around for miles, you're going to need either a way to change your circumstances or some very impressive Tinkering. 
+
+To repair your armor when you're not in position where it makes sense, you must Tinker as an overcome action with opposition equal to the amount of armor boxes you're trying to repair (maximum 5). This represents your best effort with the resources available to you; regardless of the result, you cannot attempt this again until your mech takes additional harm or you gain access to resources that can help you.
+
+The other difference is how you upgrade your armor. Where strain is innate to your pilot and scales with their Persevere skill, armor is a mechanical quality of your mech, not you as a person. Instead of taking a skill increase during a [[Rules/2 Character Creation#Breakthrough\|2 Character Creation#Breakthrough]], you may add 2 armor boxes to your mech (to a maximum of 8). If you ever get a new mech, those upgrades do not carry over. You and your GM may decide together that it's fictionally appropriate for the new mech to already have better-than-standard armor when you get it (e.g. it's a fresh-from-the-factory prototype custom-built to your specifications), but that is not an assumed default.
+
+### Breakdown
+Breakdown works a little differently than consequences. Instead of the wide-open field of situation aspects you can create when your pilot suffers harm, breakdown pre-defines the way that damage to your mech escalates throughout a fight. This is meant to take some of the pressure off everyone at the table to quickly figure out wording in the heat of a battle, automatically create relevant and usable aspects, and tune those aspects to continuously ratchet up the tension of the scene. 
+
+A **DENTED** mech (2 harm consequence) has taken damage that isn't immediately harmful, but creates a weak point that can be exploited later. Maybe an important structural piece is cracked, or an armor plate is blown off to expose a vulnerable area.
+
+A **DAMAGED** mech (second 2 harm consequence) has had one of its systems or capabilities weakened, but retains most of its functions - maybe it's lost a booster and slowed down, or its targeting is thrown off, or its joints are starting to lock up.
+
+A **DISABLED** mech (4 harm consequence) has lost a critical function - perhaps a destroyed limb, a broken weapon, loss of flight capability. 
+
+A **DOOMED** mech (6 harm consequence) is moments from destruction - you can still try to fight, but you're likely to need a new mech afterwards. Perhaps oxygen is leaking, the power plant is overloading, or you've lost all mobility and are a sitting duck. 
+
+Unless there is a relevant aspect in play somewhere in your game that would prevent it (e.g. "critical supply shortage" at your hangar), Breakdown is cleared entirely at each breakthrough as your mech is repaired to full function. Such aspects are hugely impactful to the tone of a game, as well as to overall player agency; the GM should keep that in mind and have talked with the players about the kind of story they all want to tell before one is deployed.
+
+As with normal consequences, breakdown slots can be filled in any order as long as all harm taken is ultimately allocated and pushed through.
+
+### Losing Your Mech
+If you concede or take an [[Rules/4 Challenges, Conflicts, & Contests#Extreme Consequences\|extreme consequence]] while your mech is Doomed and you're inside it, the mech is **DESTROYED** unless you or an ally in a position to intervene sacrifice a point of Refresh and describe how it survives the engagement through extreme luck or effort (as with buying stunts, you can never drop your refresh below 1). If your mech is destroyed, you acquire a new one at your next breakthrough, or earlier if the fiction offers an opportunity to do so (e.g. stealing one from an enemy base). Work with your GM to design a new mech that's appropriate for the state of the fiction and the resources available to your character. A replacement mech at breakthrough should never cost you resources outside the fiction layer; the game is premised on you being a mech pilot, and even though you spend a lot of time out of your mech, you should never be without access to one for an extended period.
+
+If your mech is ever taken out while you're in it, it is destroyed, and whoever took you out gets to decide what happens to you just like when you're taken out on foot. See [[Rules/2 Character Creation#Replacing Your Mech\|2 Character Creation#Replacing Your Mech]] for what to do if you survive.
 
 # Contests
 
-A contest is when two o`REDACTED`e sides a`REDACTED`ect opposition but the`REDACTED`t the othe`REDACTED`oup t`REDACTED`eat befo`REDACTED`y.
+A contest is when two or more sides are in direct opposition but there isn’t a conflict. This doesn’t mean one side doesn’t _want_ to hurt the other. Contests may involve the group trying to escape a threat before it cuts off any chance of victory.
 
-At the sta`REDACTED`yone involved decla`REDACTED` intent, what they hope to get out of it. If the`REDACTED`e multiple PCs involved, they can be on the same o`REDACTED`ent sides, depending on thei`REDACTED`ace, each cha`REDACTED` might be on thei`REDACTED` a`REDACTED`ying to ha`REDACTED`nal th`REDACTED`upting volcano, ang`REDACTED` all sides; those th`REDACTED`ticipant in the contest.
+At the start of a contest, everyone involved declares their intent, what they hope to get out of it. If there are multiple PCs involved, they can be on the same or different sides, depending on their goals—_e.g.,_ in a foot race, each character might be on their own side. **In a contest, the PCs can’t or aren’t trying to harm the enemy.** External threats (e.g., erupting volcano, angry god) may attack any or all sides; those threats might also be a participant in the contest.
 
-Contests take place ove`REDACTED`ies of exchanges. Each side takes one ove`REDACTED` goals du`REDACTED`acte`REDACTED`come action in each exchange, but thei`REDACTED`ovide teamwo`REDACTED`y to c`REDACTED`isk—see below). The ove`REDACTED`e facing sepa`REDACTED`onmental challenges—o`REDACTED`ed against one anothe`REDACTED`e in di`REDACTED`e the effo`REDACTED`t ma`REDACTED` succeeds with style—and no one else did—then they ma`REDACTED`ies. The fi`REDACTED`ee victo`REDACTED`un an extended contest `REDACTED`ing mo`REDACTED`ies, though we `REDACTED`e than five.)
+Contests take place over a series of exchanges. Each side takes one overcome action to do something to achieve their goals during each exchange. Only one character on each side takes the overcome action in each exchange, but their allies can provide teamwork and try to create advantages to assist (which comes with some risk—see below). The overcome actions can be against passive difficulties—if the contestants are facing separate environmental challenges—or compared against one another when they’re in direct competition.
 
-When the`REDACTED` the highest effo`REDACTED`ks a victo`REDACTED`oduce a new situation aspect to `REDACTED``REDACTED` situation has changed.
+At the end of each exchange, compare the efforts of each side’s action. The side with the highest effort marks a **VICTORY**. If the victor succeeds with style—and no one else did—then they mark **TWO** victories. The first one to three victories wins the contest. (You can always decide instead to run an extended contest requiring more victories, though we recommend no more than five.)
 
-In contests whe`REDACTED`eate is t`REDACTED`m any of the contestants, eve`REDACTED` contest `REDACTED` than the th`REDACTED`oll o`REDACTED`ating. They take shifts equal to the shifts of failu`REDACTED`acte`REDACTED`b all the shifts of a hit, they a`REDACTED`eating Advantages in a Contest
+When there’s a tie for the highest effort, no one marks a victory, and an **UNEXPECTED TWIST** happens. The GM will introduce a new situation aspect to reflect how the scene, terrain, or situation has changed.
 
-Du`REDACTED` side can t`REDACTED`eate advantages befo`REDACTED` ove`REDACTED`oll. The ta`REDACTED` anyone else who can `REDACTED`fe`REDACTED`oll as no`REDACTED`ticipant may attempt to c`REDACTED`olling o`REDACTED`oviding a teamwo`REDACTED`eate an advantage, you have a choice: eithe`REDACTED` side fo`REDACTED`come `REDACTED` you may “succeed at a cost” (p`REDACTED`ving you`REDACTED`oll o`REDACTED`k bonus) by giving the othe`REDACTED`ee invoke instead. If you at least tie, p`REDACTED`mal with you`REDACTED`oll or bonus.
+In contests where a threate is trying to harm any of the contestants, everyone on a side takes a hit when their contest roll is lower than the threat's attack roll or static difficulty rating. They take shifts equal to the shifts of failure. Just like in a conflict, if a character can’t absorb all the shifts of a hit, they are taken out.
+
+## Creating Advantages in a Contest
+
+During any exchange, your side can try to create advantages before making your overcome roll. The target, or anyone else who can reasonably interfere, may oppose with a defend roll as normal. Each participant may attempt to create an advantage in addition to rolling or providing a teamwork bonus (**page XX**). If you fail to create an advantage, you have a choice: either your side forfeits its overcome roll, or you may “succeed at a cost” (preserving your roll or teamwork bonus) by giving the other side a free invoke instead. If you at least tie, proceed as normal with your roll or bonus.

@@ -1,75 +1,152 @@
 ---
-{"dg-publish":t`REDACTED`malink":"/`REDACTED`fate-s`REDACTED`factions-unedited-s`REDACTED`","tags":["`REDACTED`ue,"dgShowToc":t`REDACTED`ope`REDACTED`ules","SRD"]}}
+{"dg-publish":true,"permalink":"/rules/fate-srd/factions-unedited-srd/","tags":["rules","SRD"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T21:02:11.895-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
 ---
 
-W`REDACTED`k Diaz T`REDACTED`ed Hicks
+Written by Mark Diaz Truman  Edited by John Adamus  Layout by Fred Hicks
 
-The following is an official Fate Co`REDACTED`ules supplement, c`REDACTED` Declan Feeney as pa`REDACTED`e Kicksta`REDACTED` commission. Declan Feeney has chosen to `REDACTED` a C`REDACTED` the details.
+The following is an official Fate Core rules supplement, created for Declan Feeney as part of a Fate Core Kickstarter commission. Declan Feeney has chosen to release this content under a Creative Commons license. Please check the last page of this document for the details.
 
 ## CREATING FACTIONS
 
-Afte`REDACTED` g`REDACTED` setting's Big Issues (Fate Co`REDACTED` names a Faction, a collection of individuals within the community who have a pe`REDACTED`mal o`REDACTED`ofessional guild o`REDACTED`ty, but they often have mo`REDACTED`ous bounda`REDACTED`s to move in and out of the Faction as the cha`REDACTED`s" beliefs change. Many Factions have unofficial st`REDACTED`es and names, like "**the jocks**" o`REDACTED`ge`REDACTED`oup like "**poo`REDACTED`ke`REDACTED` "**devout Hindus**".
+After your group has decided your setting's Big Issues (Fate Core, p. 22), each player names a Faction, a collection of individuals within the community who have a perspective on the issues the community faces. These Factions might be formal organizations, like a professional guild or a political party, but they often have more porous boundaries that allow community members to move in and out of the Faction as the characters" beliefs change. Many Factions have unofficial structures and names, like "**the jocks**" or "**the nobility**," and some Factions may be a subset of a larger group like "**poor dockworkers**" or "**devout Hindus**".
 
-Rega`REDACTED`mal st`REDACTED`e, each Faction is unified by Beliefs, attitudes about the Big Issues that d`REDACTED`. The`REDACTED` `REDACTED`e.ments, such as a ce`REDACTED` a pa`REDACTED` job, that the cha`REDACTED`s have to meet to be conside`REDACTED`t of the Faction, but holding acting in acco`REDACTED`al to membe`REDACTED`e not necessa`REDACTED`acte`REDACTED`e than one Faction in the setting. The playe`REDACTED`acte`REDACTED`ongly associated with the Factions they c`REDACTED`ee with all of the Faction's Beliefs.
+Regardless of formal structure, each Faction is unified by Beliefs, attitudes about the Big Issues that draw like-minded people together. There may be other require.ments, such as a certain amount of wealth or a particular job, that the characters have to meet to be considered a part of the Faction, but holding acting in accordance with the Faction's Beliefs is central to membership. These Beliefs are not necessarily mutually exclusive, and a character may belong to more than one Faction in the setting. The players" characters will be strongly associated with the Factions they create, although they need not agree with all of the Faction's Beliefs.
 
-> Octavio is playing in a pulp Los Angeles in 1946 that follows the adventu`REDACTED`et he`REDACTED`ld Wa`REDACTED`oup has al`REDACTED``REDACTED` is Ove`REDACTED`acte`REDACTED`ope, so he c`REDACTED`ning Soldie`REDACTED`y membe`REDACTED`ganization, Beliefs a`REDACTED`e limited than othe`REDACTED`s of the Faction can be compelled to follow Beliefs, but they can deny the compel without spending a fate point. At the same time, Beliefs can only be invoked on Factional Skill `REDACTED`acte`REDACTED`e c`REDACTED` identifies a Pa`REDACTED` the Faction, an NPC exe pla`REDACTED`aditions."The GM can stat up each Pa`REDACTED`s have the fi`REDACTED`agon's look, outlook, and tempe`REDACTED`agons come in all shapes and sizes, but they gene`REDACTED`e impo`REDACTED`al figu`REDACTED` Faction. It's p`REDACTED`a`REDACTED`agon who doesn"t ca`REDACTED` the issues in the setting. Pa`REDACTED`mous amount of info`REDACTED`ity within the Faction, and they use that autho`REDACTED` inte`REDACTED`agon of his faction to be Ruben Fox, an Af`REDACTED`ican soldie`REDACTED`ing the Wa`REDACTED`ibes Ruben as a tall, b`REDACTED`s he fought with and now wo`REDACTED` `REDACTED`ces fo`REDACTED`etu`REDACTED`ans of Los Angeles. He's well-known to the **Retu`REDACTED`ans**.
+> Octavio is playing in a pulp Los Angeles in 1946 that follows the adventures of secret heroes fighting Nazis post-World War II. The group has already decided on one current issue ("The War is Over!") and one impending issue ("The Rise of the Thule Society"). Octavio's planning on making a character who fought in Europe, so he creates the Faction **Returning Soldiers**.
+
+### ARE BELIEFS ASPECTS?
+
+Yes, albeit limited Aspects. Since not every member of a Faction is faithful to the dogma of the organization, Beliefs are more limited than other Aspects. Members of the Faction can be compelled to follow Beliefs, but they can deny the compel without spending a fate point. At the same time, Beliefs can only be invoked on Factional Skill rolls, and cannot be invoked when individual characters take action.
+
+## FACTION PARAGONS
+
+Once Factions are created, each player identifies a Paragon for the Faction, an NPC exe plar of the Faction's Beliefs and traditions."The GM can stat up each Paragon if needed, but the players have the first say in defining the Paragon's look, outlook, and temperament.
+
+Paragons come in all shapes and sizes, but they generally are important political and cultural figures to their Faction. It's pretty rare to find a Paragon who doesn"t care about the Faction or the issues in the setting. Paragons wield an enormous amount of informal authority within the Faction, and they use that authority when it suits their interests.
+
+> Octavio decides that he wants the Paragon of his faction to be Ruben Fox, an African-American soldier who fought in the Pacific during the War. Octavio describes Ruben as a tall, broad man beloved by the soldiers he fought with and now works to fight for resources for the returning veterans of Los Angeles. He's well-known to the **Returning Veterans**.
 
 ## FACTION BELIEFS
 
-Factions a`REDACTED`tant to the setting specifically because they have viewpoints about the Big Issues the p`REDACTED`ing the game. Beliefs a`REDACTED`ceived solutions to Big Issues, but they can also be new pe`REDACTED` attitudes about how othe`REDACTED`elate to the p`REDACTED` c`REDACTED` Faction holds about one Big Issue. The Belief is a complete statement, such as "_The only t`REDACTED`d T`REDACTED` "_Ou`REDACTED`ivals at the State Depa`REDACTED`e `REDACTED` the te`REDACTED`o`REDACTED`eat._" The mo`REDACTED`essive the Faction's Beliefs a`REDACTED`e active and p`REDACTED` playe`REDACTED`ting Belief to each faction, each playe`REDACTED`ent Faction that inte`REDACTED`eato`REDACTED` ove`REDACTED`s of the Faction may only tenuously suppo`REDACTED`ly info`REDACTED`ity st`REDACTED`e.
+Factions are important to the setting specifically because they have viewpoints about the Big Issues the protagonists face during the game. Beliefs are often perceived solutions to Big Issues, but they can also be new perspectives on the conflict to come or attitudes about how other Factions relate to the problem.
 
-> Octavio thinks that the **Retu`REDACTED`ans** a`REDACTED`etty conce`REDACTED`eates the Belief "The Thule Society is the g`REDACTED`eat Ame`REDACTED` the Faction. Anothe`REDACTED` of Octavio's g`REDACTED`ing that "Civilians don"t unde`REDACTED`." Octavio likes that Belief, so he notes both Beliefs on his Faction's sheet.
+To add Beliefs to Factions, each player creates a Belief that their Faction holds about one Big Issue. The Belief is a complete statement, such as "_The only true king of the land is Lord Trellian_" or "_Our rivals at the State Department are responsible for the terrorist threat._" The more aggressive the Faction's Beliefs are, the more active and present that Faction will be in the setting.
+
+After players add a starting Belief to each faction, each player should add an addi.tional Belief to a different Faction that interests them. The Faction creator has final veto power over the added Belief. Many members of the Faction may only tenuously support some of the Beliefs, especially if the Faction has a fairly informal authority structure.
+
+> Octavio thinks that the **Returning Veterans** are pretty concerned about the Thule Society, so he creates the Belief "The Thule Society is the greatest threat America faces." for the Faction. Another member of Octavio's group, Amy, adds a new Belief, declaring that "Civilians don"t understand the War." Octavio likes that Belief, so he notes both Beliefs on his Faction's sheet.
 
 ## FACTION SKILLS
 
-Each Faction has the following Skills in addition to thei`REDACTED`e Beliefs:
+Each Faction has the following Skills in addition to their core Beliefs:
 
-- _Fealty:_ The intensity of the Faction's membe`REDACTED`ence to the Beliefs of thei`REDACTED`mality of autho`REDACTED`uctu`REDACTED`ust and goodwill membe`REDACTED`d each othe`REDACTED`ce:_ The Faction's ability to take action in the wo`REDACTED`ect inte`REDACTED`ate`REDACTED`ate `REDACTED`ces and info`REDACTED` its membe`REDACTED` naming the Faction, c`REDACTED`agon fo`REDACTED`s assign `REDACTED`e (+0), one Ave`REDACTED` (+2), and one Good (+3). These skills can be imp`REDACTED`oughout play if the membe`REDACTED`sue milestones associated with the Faction (see Imp`REDACTED`ess t`REDACTED`anked Belief `REDACTED` of st`REDACTED`eceiving one fewe`REDACTED`ess box to a minimum of one. This st`REDACTED`ep`REDACTED`ongly the Faction holds that pa`REDACTED` Belief, and how much conflict would be `REDACTED`ed fo`REDACTED`eexamine o`REDACTED` a Belief (see Beliefs in Conflict).
+- _Fealty:_ The intensity of the Faction's member's adherence to the Beliefs of their Faction and the formality of authority structures within the Faction.
 
-In addition to the st`REDACTED`acks fo`REDACTED` of the Faction gets a new st`REDACTED`ack in addition to Mental and Physical - Status st`REDACTED`ess boxes, Status st`REDACTED`ts with just two boxes, but imp`REDACTED`ee boxes if the Faction's Fellowship is at least Ave`REDACTED` boxes if Fellowship is Good (+3) o`REDACTED`. Cha`REDACTED`s can have as many Status st`REDACTED`acks as
+- _Fellowship:_ The trust and goodwill members hold toward each other, espe.cially in times of conflict about the Faction's Beliefs.
+
+- _Force:_ The Faction's ability to take action in the world without the PC's direct intervention.
+
+- \*_Fraternity:_ The Faction's ability to generate resources and information for its members.
+
+After naming the Faction, creating a Paragon for the Faction, and establish.ing Beliefs, players assign ranks to the Faction's Skills: one Mediocre (+0), one Average"(+1), one Fair (+2), and one Good (+3). These skills can be improved throughout play if the members of the Faction pursue milestones associated with the Faction (see Improving Factions).
+
+Each Belief the Faction holds gets a stress track. The highest ranked Belief receives a number of stress boxes equal to the Faction's Fealty; each additional belief receiving one fewer stress box to a minimum of one. This stress represents how strongly the Faction holds that particular Belief, and how much conflict would be required for that Faction to reexamine or alter a Belief (see Beliefs in Conflict).
+
+In addition to the stress tracks for each Belief, each member of the Faction gets a new stress track in addition to Mental and Physical - Status stress. Like Mental and Physical stress boxes, Status stress starts with just two boxes, but improves to three boxes if the Faction's Fellowship is at least Average (+1) and to four boxes if Fellowship is Good (+3) or better. Characters can have as many Status stress tracks as
 
 ### FEALTY
 
-Fealty is d`REDACTED`om the autho`REDACTED`uctu`REDACTED`ong Fealty both hold tightly to the Beliefs that unify the Faction and `REDACTED`ly
-police the Faction fo`REDACTED`come an obstacle:** Use Fealty to `REDACTED`ces of a Faction p`REDACTED`eatened o`REDACTED`eate an advantage:** Fealty can be used to c`REDACTED`ising f`REDACTED`nal consensus o`REDACTED`eement (We"`REDACTED` sha`REDACTED``REDACTED` sac.`REDACTED`k).
+Fealty is drawn from the authority structures and Beliefs of the Faction. Factions
+with strong Fealty both hold tightly to the Beliefs that unify the Faction and regularly
+police the Faction for dissidence.
 
-**Attack:** Fealty can be used to `REDACTED` f`REDACTED` Status. If the Faction takes out a membe`REDACTED` faces `REDACTED`cus.sions `REDACTED`om punishment to expulsion.
+**Overcome an obstacle:** Use Fealty to rally the forces of a Faction present in a scene, uniting them in common cause when threatened or dismayed.
 
-**Defend:** Fealty is used to defend against attacks on the Faction's Beliefs when no single cha`REDACTED` could act as the defende`REDACTED`ship in diffe`REDACTED`ega`REDACTED`ust and believe in the membe`REDACTED`s should value the `REDACTED`. Fo`REDACTED`eason, Fellowship is the skill that dete`REDACTED`ess t`REDACTED`come an obstacle:** Without active leade`REDACTED`come challenges, especially a lack of mo`REDACTED`acte`REDACTED`ecove`REDACTED`om consequences stemming f`REDACTED` Factions.
+**Create an advantage:** Fealty can be used to create aspects arising from internal consensus or agreement (We"re All Behind You) or shared narratives or sac.rifice (The Battle of York).
 
-**C`REDACTED`eate aspects that `REDACTED`esent the inspi.`REDACTED`acte`REDACTED` the unifying effects of mutual suppo`REDACTED`othe`REDACTED`).
+**Attack:** Fealty can be used to remove a member from a Faction by attacking their Status. If the Faction takes out a member, that member faces repercus.sions ranging from punishment to expulsion.
 
-**Attack:** Fellowship isn"t used fo`REDACTED`e capable of taking action without the PCs" di`REDACTED`oll Fo`REDACTED`mine the effectiveness of thei`REDACTED`come an obstacle:** Fo`REDACTED`come di`REDACTED`anging f`REDACTED``REDACTED`s to `REDACTED`iminals off the st`REDACTED`eate an advantage:** Use Fo`REDACTED`eate aspects `REDACTED`esentative of immediate spoils of action. Membe`REDACTED` Faction might c`REDACTED` find a Collection of Stolen Goods when inte`REDACTED`upting bu`REDACTED`s. You can also use Fo`REDACTED` membe`REDACTED` in a mob to go and attack a ta`REDACTED`ce when mobs of the Faction attempt to attack ta`REDACTED`ce when mobs of the Faction a`REDACTED`ectly attacked.
+**Defend:** Fealty is used to defend against attacks on the Faction's Beliefs when no single character could act as the defender.
+
+### FELLOWSHIP
+
+Each Faction holds its membership in differing regard. Some Factions trust and believe in the membership as a whole, implying that members should value the rela.tionships they have with each other. For that reason, Fellowship is the skill that deter.mines the depth of the Status stress track.
+
+**Overcome an obstacle:** Without active leadership, a Faction uses Fellowship to overcome challenges, especially a lack of morale. Fellowship can also be used to help characters recover from consequences stemming from social conflicts with other Factions.
+
+**Create an advantage:** Use Fellowship to create aspects that represent the inspi.ration the Faction gives to a character (Thy Will Be Done) or the unifying effects of mutual support within the Faction (My Brother's Keeper).
+
+**Attack:** Fellowship isn"t used for attacks.
+
+**Defend:** Fellowship isn"t used to defend.
+
+### FORCE
+
+Factions are capable of taking action without the PCs" direct involvement. When they do so, they roll Force to determine the effectiveness of their actions.
+
+**Overcome an obstacle:** Force allows Factions to overcome direct obstacles ranging from knocking down physical barriers to rounding up criminals off the street.
+
+**Create an advantage:** Use Force to create aspects representative of immediate spoils of action. Members of your Faction might create An Opening in the Enemy's Ranks or find a Collection of Stolen Goods when interrupting burglars. You can also use Force to gather members together in a mob to go and attack a target.
+
+**Attack:** Use Force when mobs of the Faction attempt to attack targets in a conflict. **Defend:** Use Force when mobs of the Faction are directly attacked.
 
 ### FRATERNITY
 
-Some o`REDACTED`e bette`REDACTED`ting thei`REDACTED`s than othe`REDACTED`es how the membe`REDACTED`, F`REDACTED`nity is the skill that gene`REDACTED`esou`REDACTED`oblems th`REDACTED`elationships.
-**Ove`REDACTED`ate`REDACTED`oblems the Faction's con.nections can solve. If a membe`REDACTED`s opened, F`REDACTED`nity is the `REDACTED` the job.
+Some organizations are better at supporting their members than others. While Fellowship measures how the membership views each other, Fraternity is the skill that generates resources and solves problems through the Faction's connections and relationships.
+**Overcome an obstacle:** Use Fraternity to get past problems the Faction's con.nections can solve. If a member of the Faction can make a phone call to get doors opened, Fraternity is the right skill for the job.
 
-**C`REDACTED`ate`REDACTED`eate aspects `REDACTED`esenting sha`REDACTED`esou`REDACTED`ship of the Faction can cont`REDACTED`esou`REDACTED`oad, but they gene`REDACTED`om collective action like a tithing (Loaded Collection Plate) o`REDACTED`ength of weak ties (My Union B`REDACTED` Knows a Guy).
+**Create an advantage:** Use Fraternity to create aspects representing shared resources that the membership of the Faction can contribute to a cause. These resources can be broad, but they generally will come from collective action like a tithing (Loaded Collection Plate) or the strength of weak ties (My Union Brother Knows a Guy).
 
-**Attack:** F`REDACTED`nity isn"t used fo`REDACTED`ate`REDACTED` the most pa`REDACTED` the cont`REDACTED` collection of NPCs. Howeve`REDACTED`s a`REDACTED` about who needs to be convinced, misled, o`REDACTED`ced in o`REDACTED` fo`REDACTED`agon. In the cases that the Pa`REDACTED`s `REDACTED`ning Vete`REDACTED`e a p`REDACTED`oup, Octavio decides to make Fealty the weakest Skill fo`REDACTED`oup, giving them a Medioc`REDACTED`ongest Skill will be Fellowship at Good (+3), followed by F`REDACTED`nity at Fai`REDACTED`ans have a lot of t`REDACTED`d each othe`REDACTED`e likely to sha`REDACTED`esou`REDACTED`ce at Ave`REDACTED`ans a`REDACTED` to get in to a new `REDACTED`s following the Wa`REDACTED`ning Vete`REDACTED`e (+0) Fealty Skill means that all of thei`REDACTED`ess box. Thei`REDACTED`, means that Octavio will have a Status st`REDACTED`ack with fou`REDACTED`nal st`REDACTED`acte`REDACTED`mally take Mental st`REDACTED`om social conflicts with membe`REDACTED` Faction, especially when those membe`REDACTED`e t`REDACTED`acte`REDACTED`geted cha`REDACTED` should use the Status st`REDACTED`ack instead of the no`REDACTED`ess t`REDACTED`acte`REDACTED`ough this kind of conflict, the cha`REDACTED` is expelled f`REDACTED` concedes these kinds of conflicts, a common concession is fo`REDACTED` s cha`REDACTED` to fall in line with the Faction.
+**Attack:** Fraternity isn"t used for attacks.
+
+**Defend:** Fraternity isn"t used to defend.
+
+#### WHO ROLLS FOR THE FACTION?
+
+For the most part, the Faction is under the control of the GM, like any other collection of NPCs. However, the players are clear about who needs to be convinced, misled, or coerced in order for the Faction to take action: the Paragon. In the cases that the Paragon is convinced to take action, it s totally fine to have the players roll the dice to see the effectiveness of the Faction's actions.
+
+> Since the **Returning Veterans** are a pretty loose group, Octavio decides to make Fealty the weakest Skill for the group, giving them a Mediocre (+0) Fealty Skill. He decides that the strongest Skill will be Fellowship at Good (+3), followed by Fraternity at Fair (+2); the veterans have a lot of trust and goodwill toward each other and are likely to share resources and contacts. Octavio puts Force at Average"(+1), since the veterans aren"t too eager to get in to a new round of conflicts in the years following the War.
+
+> The Returning Veterans" Mediocre (+0) Fealty Skill means that all of their Beliefs will have only a single stress box. Their Good (+3) Fellowship, however, means that Octavio will have a Status stress track with four boxes; his Faction can handle a lot of internal stress.
+
+#### STATUS STRESS
+
+When characters would normally take Mental stress from social conflicts with members of their Faction, especially when those members are trying to use Fealty to attack a character, the targeted character should use the Status stress track instead of the normal Mental stress track. If a character is taken out through this kind of conflict, the character is expelled from the Faction. When a player concedes these kinds of conflicts, a common concession is for the player s character to fall in line with the Faction.
 
 ## BELIEFS IN CONFLICT
 
-B`REDACTED`e a`REDACTED`ee ways Beliefs come into conflict:
+Broadly speaking, there are three ways Beliefs come into conflict:
 
-- Cha`REDACTED`s challenge thei`REDACTED`acte`REDACTED` cha`REDACTED`'s beliefs
+- Characters challenge their own Faction's Beliefs
 
-- Cha`REDACTED`s challenge anothe`REDACTED` own Faction's Beliefs_, `REDACTED`ovoke against the Faction's Fealty. Gene`REDACTED`king down st`REDACTED`ack and you ma`REDACTED`ess on you`REDACTED`ack. If you win the conflict, you"ll be able to change the Faction's belief. If you lose, you"ll face `REDACTED`cus.sions at the hands of the g`REDACTED`acte`REDACTED`ess you c`REDACTED`ecting it to the Belief.
+- Characters challenge another character's beliefs
 
-_When you challenge anothe`REDACTED`acte`REDACTED`oll P`REDACTED` cha`REDACTED`'s Will as no`REDACTED`, both you and you`REDACTED`get can ma`REDACTED`ess on you`REDACTED`ess t`REDACTED` Mental st`REDACTED`ack if the conve`REDACTED`easonably public (i.e. if othe`REDACTED`s of you`REDACTED` Belief st`REDACTED`ack fills up, howeve`REDACTED` Faction must `REDACTED` `REDACTED` Faction st`REDACTED`son p`REDACTED`sa`REDACTED` Faction's Beliefs_, you `REDACTED`ovoke against the Faction's Fealty, as if you we`REDACTED` own Faction's Beliefs. Howeve`REDACTED`en"t a membe`REDACTED` position is conside`REDACTED`e tenuous. If you a`REDACTED`cing the Faction to `REDACTED`s of the Faction who we`REDACTED`ue believe`REDACTED`evenge on you`REDACTED` you`REDACTED`uptive influence.
+- Characters challenge another Faction's Beliefs
 
-> Octavio's cha`REDACTED`, Ralph Gabaldon, is conce`REDACTED`ning Vete`REDACTED`ed the th`REDACTED`an's issues because they a`REDACTED`ont the g`REDACTED` whe`REDACTED`ans will be at afte`REDACTED`s. He `REDACTED`ovoke against the Retu`REDACTED`ans Medioc`REDACTED`ans. He changes thei`REDACTED` th`REDACTED`ica faces."
+_When you challenge your own Faction's Beliefs_, roll Provoke against the Faction's Fealty. Generally this takes place as a conflict, with the Faction marking down stress on the Belief track and you marking down stress on your Status track. If you win the conflict, you"ll be able to change the Faction's belief. If you lose, you"ll face repercus.sions at the hands of the group. Individual characters may oppose you, in which case they have the option of taking some of the stress you create instead of directing it to the Belief.
 
-> Luckily fo`REDACTED`e wasn"t a specific cha`REDACTED` he had to conf`REDACTED`. If anothe`REDACTED`an had stood up to challenge him like Ruben Fox, Gabaldon would have had to engage in a longe`REDACTED`t Gabaldon's status among the Vete`REDACTED`ove to be an obstacle once he lea`REDACTED` Factions, they can select one of the following fo`REDACTED` Faction in addition to thei`REDACTED`sonal advancement:
+_When you challenge another character's Beliefs_, roll Provoke against the other char.acter's Will as normal. However, both you and your target can mark stress on your Belief stress tracks as well as your Mental stress track if the conversation is reasonably public (i.e. if other members of your Faction could know about the outcome). If your Belief stress track fills up, however, your Faction must reexamine or reevaluate the Belief. This could lead to your Faction strengthening its beliefs, especially if the person provoking it is seen as an adversary.
 
-- Switch the `REDACTED` own Faction
+_When you challenge another Faction's Beliefs_, you roll Provoke against the Faction's Fealty, as if you were challenging your own Faction's Beliefs. However, since you aren"t a member of the Faction, your position is considerably more tenuous. If you are successful at forcing the Faction to reevaluate its Beliefs, you may find that mem.bers of the Faction who were true believers attempt to take revenge on your for your disruptive influence.
 
-If the PCs complete a Majo`REDACTED` Factions, they can select one of the following fo`REDACTED` Faction in addition to thei`REDACTED`sonal advancement:
+> Octavio's character, Ralph Gabaldon, is concerned that the Returning Veterans have ignored the threat that the new city council elections pose to veteran's issues because they are too focused on the Thule Society. He decides he's going to confront the group, and heads down to a bar where he knows many veterans will be at after hours. He rolls his Good (+3) Provoke against the Returning Veterans Mediocre (+0) Fealty and succeeds by one shift, all he needs to move the Veterans. He changes their Belief to "We need to focus on other threats America faces."
+
+> Luckily for Gabaldon, there wasn"t a specific character he had to confront at the bar. If another veteran had stood up to challenge him like Ruben Fox, Gabaldon would have had to engage in a longer discussion, one in which Fox may have been able to hurt Gabaldon's status among the Veterans. That said, Fox may still prove to be an obstacle once he learns what Gabaldon has done.
+
+## IMPROVING FACTIONS
+
+If the PCs complete a Significant Milestone associated with their Factions, they can select one of the following for their Faction in addition to their personal advancement:
+
+- Switch the rank value of any two Factional Skills
+
+- Add a new Belief to your own Faction
+
+If the PCs complete a Major Milestone associate with their Factions, they can select one of the following for their Faction in addition to their personal advancement:
 
 - Add one additional skill point to a Factional Skill
 
-- Select a new Pa`REDACTED` thei`REDACTED` use with the C`REDACTED`ibution Unpo`REDACTED`ibution must be p`REDACTED` text, whe`REDACTED` you put you`REDACTED`ight, in the same size as you`REDACTED`ight text:_
+- Select a new Paragon for their Faction
 
-_This wo`REDACTED` Fate, a p`REDACTED`oductions, LLC, commisioned by Declan Feeney, developed and autho`REDACTED`k Diaz T`REDACTED` ou`REDACTED` the C`REDACTED`ibution 3.0 Unpo`REDACTED`/c`REDACTED`g/licenses/by/3.0/)._
+_This document is for use with the Creative Commons Attribution Unported license. The following attribution must be provided in your text, wherever you put your own copyright, in the same size as your copyright text:_
+
+_This work is based on Factions for Fate, a product of Evil Hat Productions, LLC, commisioned by Declan Feeney, developed and authored by Mark Diaz Truman, and edited by John Adamus. It is licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/)._

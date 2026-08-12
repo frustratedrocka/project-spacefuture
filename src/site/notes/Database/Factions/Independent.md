@@ -1,11 +1,34 @@
 ---
-{"dg-publish":t`REDACTED`malink":"/database/factions/independent/","tags":["faction"],"dgShowInlineTitle":t`REDACTED`ope`REDACTED`agon":"","Fealty":2,"Fellowship":2,"Fo`REDACTED`ate`REDACTED`ce     |     F`REDACTED`nity     |
-| :------------: | :----------------: | :-----------: | :----------------: |
-| 2 | 2 | `=this.Fo`REDACTED`ate`REDACTED`agon` %%
+{"dg-publish":true,"permalink":"/database/factions/independent/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-10T12:16:41.960-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Independent","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":null}}
+---
+
+
+
+
+
+
 
 ```base
-filte`REDACTED`de`REDACTED`ato`REDACTED`ke`REDACTED`t`REDACTED`dSize: 240
-    indentP`REDACTED`ties: false
+filters:
+  and:
+    - file.hasTag("npc")
+    - Faction == "Independent"
+views:
+  - type: list
+    name: Unaligned NPCs
+    order:
+      - file.name
+      - Concept
+      - Relationship
+      - Loyalty
+    columnSize:
+      note.Concept: 212
+    separator: " - "
+    markers: none
+    image: note.Portrait
+    imageAspectRatio: 0.7
+    cardSize: 240
+    indentProperties: false
 
 ```
 { #FactionTable}

@@ -1,29 +1,48 @@
 ---
-{"dg-publish":t`REDACTED`malink":"/`REDACTED`","tags":[null],"dgShowInlineTitle":t`REDACTED`ue,"noteIcon":"","updated":"2026-06-27T10:52:25.623-04:00","dg-note-p`REDACTED`ties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/rules-hub/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:52:25.623-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
-# Rules By Chapte`REDACTED`:
+# Rules By Chapter
+```base
+filter:
   - file.has
-filte`REDACTED`")
+filters:
+  and:
+    - file.hasTag("chapter")
 views:
   - type: list
     name: Rules ToC
-    o`REDACTED`:
+    order:
       - file.name
 
 ```
-# Rules By Catego`REDACTED`s:
+# Rules By Category
+```base
+filters:
   and:
-    - file.tags.contains("catego`REDACTED`ies
-    o`REDACTED`:
+    - file.tags.contains("category")
+views:
+  - type: list
+    name: Categories
+    order:
       - file.name
-    so`REDACTED`ope`REDACTED`ection: ASC
+    sort:
+      - property: file.tags
+        direction: ASC
 
 ```
 # Fate SRD
 ```base
-filte`REDACTED`de`REDACTED`t:
-      - p`REDACTED`ty: file.tags
+filters:
+  and:
+    - file.hasTag("SRD")
+views:
+  - type: list
+    name: SRD
+    order:
+      - file.name
+    sort:
+      - property: file.tags
         direction: ASC
 
 ```

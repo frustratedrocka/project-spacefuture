@@ -1,14 +1,56 @@
 ---
-{"dg-publish":t`REDACTED`malink":"/database/people/the-pi`REDACTED`","tags":["npc","cha`REDACTED`"],"noteIcon":"","updated":"2026-08-11T17:31:59.424-04:00","dg-note-p`REDACTED`ties":{"tags":["npc","cha`REDACTED`"],"NPC_Name":"The Pi`REDACTED`t`REDACTED`Attachments/Ha`REDACTED`ates","O`REDACTED`th","Rank":0,"St`REDACTED`ate","Seve`REDACTED` Bette`REDACTED` The B`REDACTED`y Captain Fi`REDACTED`t`REDACTED`Attachments/Descolada_SQ.png","A`REDACTED`":4,"B`REDACTED`ouble":"T`REDACTED`":["P`REDACTED`y Equipment","Seconda`REDACTED`oach_5":[[null\|null]],"skill_4":["Shoot",[null],[null],[null]],"app`REDACTED`oach_3":["App`REDACTED`oach_2":["App`REDACTED`oach"],"skill_1":["Skill","Skill","Skill",[null]],"app`REDACTED`oach","App`REDACTED`t`REDACTED`|Severe|
+{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character"],"noteIcon":"","updated":"2026-08-11T17:31:59.424-04:00","dg-note-properties":{"tags":["npc","character"],"NPC_Name":"The Pirate King","Portrait":"Admin/Attachments/Harlock.jpg","Faction":"Space Pirates","Origin":"Earth","Rank":0,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Far Better To Live And Die Under The Brave Black Flag","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":[null],"Stunts":[null],"MECH_Name":"Gundam Descolada","MECH_Model":"TC-01 Gundam Descolada","MECH_Portrait":"Admin/Attachments/Descolada_SQ.png","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High Concept","MECH_Trouble":"Trouble","MECH_Relationship":"Relationship","MECH_Gear":["Primary Equipment","Secondary Equipment"],"MECH_Stunts":[null],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":["Shoot",[null],[null],[null]],"approach_4":["Boldly",[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill",[null]],"approach_1":["Approach","Approach"]}}
+---
 
-> [!infobox|`REDACTED`t`REDACTED`eakdown[0]`|
-> |2 Dmg|`=this.B`REDACTED`eakdown[2]`|
-> |6 Doom|`=this.B`REDACTED`ouble`|
+> [!infobox|left wsmall]
+> # The Pirate King
+> ![Admin/Attachments/Harlock.jpg\|Harlock.jpg](/img/user/Admin/Attachments/Harlock.jpg)
+> 
+> |  |  |
+> |--|--|
+> |**FACTION**| [[Database/Factions/Space Pirates\|Space Pirates]]|
+> | **STRAIN**| `REDACTED` |
+>  
+> |HARM|CONSEQUENCE|
+> |----|-----|
+> |2 Mild|Mild|
+> |4 Mod|Moderate|
+> |6 Svr|Severe|
+
+> [!infobox|right wsmall]
+> # Gundam Descolada
+> ![Admin/Attachments/Descolada_SQ.png\|Descolada_SQ.png](/img/user/Admin/Attachments/Descolada_SQ.png)
+> 
+> |  |  |
+> |--|--|
+> | **ARMOR**|`REDACTED`|
+> 
+> |HARM|BREAKDOWN|
+> |----|-----|
+> |2 Dent|Dented|
+> |2 Dmg|Damaged|
+> |4 Dsbl|Disabled|
+> |6 Doom|Doomed|
+
+|ASPECTS|
+|--------------- | 
+|Far Better To Live And Die Under The Brave Black Flag|
+|Relationship|
+|Exemplary Captain First, King Distant Second|
+|`REDACTED`|
+|`REDACTED`|
+|`REDACTED`|
+
+|MECH ASPECTS|
+|---------|
+|High Concept|
+|Trouble|
 |Relationship|
 
 |GEAR ASPECTS|
 |--------|
-|`=this.MECH_Gea`REDACTED`[1]`|
+|Primary Equipment|
+|Secondary Equipment|
 
 >[!blank|static wfull]
 

@@ -1,17 +1,25 @@
 ---
-{"dg-publish":t`REDACTED`malink":"/database/histo`REDACTED`the-g`REDACTED`/","tags":[null],"dgShowInlineTitle":t`REDACTED`ue,"noteIcon":"","updated":"2026-08-04T20:16:32.062-04:00","dg-note-p`REDACTED`ties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/the-ground-war/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T20:16:32.062-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
-[[Database/History/The Hive Mind\|The Hive Mind]] sta`REDACTED`th]] notices what's happening, doesn't like it, d`REDACTED`ation of the hive on [[Ea`REDACTED`th ove`REDACTED``REDACTED` ensues. 
+[[Database/History/The Hive Mind\|The Hive Mind]] starts in space as fungal infection in food supply, entity on [[Database/Places/Earth\|Earth]] notices what's happening, doesn't like it, drops biggest concentration of the hive on [[Database/Places/Earth\|Earth]], Earth overcorrects, massive war ensues. 
 
-B`REDACTED`ges
-2. Someone does not like that the hive mind has eme`REDACTED`own at [[Ea`REDACTED`esults in catast`REDACTED`-system-wide food sho`REDACTED`s]], [[Jupite`REDACTED`th makes the p`REDACTED`se
-	2. [[Space Pi`REDACTED`e a thing
-6. Results: Any place that g`REDACTED`emely valuable. Politicking based off who can supply food - mafia p`REDACTED`acket thing: "We do dange`REDACTED`k, but we do get `REDACTED`e not hassled too much, so we put up with it"
-7. Afte`REDACTED`op, it becomes a wa`REDACTED`s and Jupite`REDACTED`etty much immediately, and the hive is kind of fo`REDACTED` the hive
-	1. [[Ma`REDACTED`e food due to physical p`REDACTED`th and soil ext`REDACTED`]] has less food - still enough to suppo`REDACTED`ely - but cont`REDACTED`gy supply 
-	3. [[Database/Factions/Apsis\|Apsis]] - sup`REDACTED`ol
-		1. Eme`REDACTED`t of the peace p`REDACTED`al" a`REDACTED` and food dist`REDACTED`, p`REDACTED`al 
-		2. Is the sou`REDACTED``REDACTED`oblem 
-		3. They impose d`REDACTED`ules about food dist`REDACTED`easingly benefit only Jupite`REDACTED`ovocation fo`REDACTED``REDACTED`vation levels as punishment
+Breadbasket
+
+1. [[Database/History/The Hive Mind\|The Hive Mind]] emerges
+2. Someone does not like that the hive mind has emerged
+3. [[Database/Places/Luna\|Luna]] gets thrown at [[Database/Places/Earth\|Earth]] in an attempt to deal with the hive 
+4. This results in catastrophic solar-system-wide food shortages
+5. [[Database/Places/Mars\|Mars]], [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], [[Database/Places/The Belt\|The Belt]] all have a lot of weapons and not a lot of food, so use weapons to get food 
+	1. Fighting on earth makes the problem even worse
+	2. [[Database/Factions/Space Pirates\|Space Pirates]] are a thing
+6. Results: Any place that grows food is extremely valuable. Politicking based off who can supply food - mafia protection racket thing: "We do dangerous work, but we do get rations and we're not hassled too much, so we put up with it"
+7. After the drop, it becomes a war between Mars and Jupiter pretty much immediately, and the hive is kind of forgotten about - lucky for the hive
+	1. [[Database/Places/Mars\|Mars]] has more food due to physical proximity to Earth and soil extraction capability
+	2. [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] has less food - still enough to support itself and make deals, but barely - but controls energy supply 
+	3. [[Database/Factions/Apsis\|Apsis]] - supremacy, control
+		1. Emerges as part of the peace process as a "neutral" arbiter and food distributor, proceeds to absolutely not be neutral 
+		2. Is the source of the immediate current problem 
+		3. They impose draconian rules about food distribution that increasingly benefit only Jupiter and punish dissenting [[Database/Places/The Belt\|The Belt]] colonies
+		4. Provocation for [[Database/History/The Current Conflict\|The Current Conflict]] - intentionally cutting supply to a few [[Database/Places/The Belt\|The Belt]] colonies below starvation levels as punishment
 8. 

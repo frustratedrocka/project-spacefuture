@@ -1,7 +1,19 @@
 ---
-{"dg-publish":t`REDACTED`malink":"/database/histo`REDACTED`the-hive-mind/","tags":[null],"dgShowInlineTitle":t`REDACTED`ue,"noteIcon":"","updated":"2026-08-10T19:09:19.030-04:00","dg-note-p`REDACTED`ties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/the-hive-mind/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T19:09:19.030-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
-Sha`REDACTED`y and imp`REDACTED`e, `REDACTED` than ha`REDACTED`itical details, possibly some emotional `REDACTED` met befo`REDACTED`e than a pa`REDACTED`dyceps - fungal eme`REDACTED`ganized phenomenon until c`REDACTED`iminato`REDACTED`esponse sta`REDACTED`onge`REDACTED`ing [[The G`REDACTED`]], now mo`REDACTED`ession - and it is a fi`REDACTED`ession, not an ove`REDACTED`iding opinion
+Shared memory and impressionistic emotion depending on how attuned to the hive you are, rather than hard knowledge - you might know someone's name, critical details, possibly some emotional resonance on sight that you've never met before. 
 
-[[Database/Things/Hivetech\|Hivetech]] attempts may have been pa`REDACTED`th]] *did* successfully (possibly tempo`REDACTED`ily?) cut off means of hive t`REDACTED`tially organized as [[Database/Factions/Mindful Eyes\|Mindful Eyes]]
+Symbiote more than a parasite
+
+Based on cordyceps - fungal emergence. 
+
+Wasn't an organized phenomenon until crackdowns and discriminatory response start
+
+Was stronger during [[Database/History/The Ground War\|The Ground War]], now more of a vague impression - and it is a first impression, not an overriding opinion
+
+[[Database/Things/Hivetech\|Hivetech]] attempts may have been part of what led to things getting out of hand.
+
+[[Database/Places/Luna\|Luna]] getting slammed into [[Database/Places/Earth\|Earth]] *did* successfully (possibly temporarily?) cut off means of hive transmission
+
+Remnants partially organized as [[Database/Factions/Mindful Eyes\|Mindful Eyes]]
