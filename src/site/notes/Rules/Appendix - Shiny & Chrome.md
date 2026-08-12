@@ -1,37 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/rules/appendix-shiny-and-chrome/","tags":["appendix"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T16:23:42.261-04:00","dg-note-properties":{"tags":["appendix"]}}
+{"dg-publish":t`REDACTED`malink":"/`REDACTED`appendix-shiny-and-ch`REDACTED`","tags":["appendix"],"dgShowInlineTitle":t`REDACTED`ue,"noteIcon":"","updated":"2026-08-10T16:23:42.261-04:00","dg-note-p`REDACTED`ties":{"tags":["appendix"]}}
 ---
 
- *Mad Max: Fury Road* is remembered as one of the most unrelentingly intense action films ever made, a nonstop 2 hour thrill ride of wall-to-wall car stunts and explosions punctuated by occasional fistfights in the sand and dramatic screaming. 
- 
- But that's not actually true. 
+ *Mad Max: Fu`REDACTED`emembe`REDACTED`elentingly intense action films eve`REDACTED` th`REDACTED`ide of wall-to-wall ca`REDACTED`amatic sc`REDACTED`ue. 
 
- Fury Road is astonishingly intense, but it works because it's also extraordinarily disciplined in how and when it deploys that intensity. It makes fantastic use of quiet moments and stillness to make sure that the audience always has a baseline level of calm that the film's increasingly insane action setpieces stand out against. 
- 
- I want to point to three examples from across the movie that illustrate its pattern: the very beginning of the film, the sequence following the giant sandstorm, and the beginning of the final extended chase sequence.
+ Fu`REDACTED`ks because it's also ext`REDACTED`dina`REDACTED`e that the audience always has a baseline level of calm that the film's inc`REDACTED`ee examples f`REDACTED`oss the movie that illust`REDACTED`n: the ve`REDACTED`m, and the beginning of the final extended chase sequence.
 
 # Begin At The Beginning
- The first thing we see in Fury Road is Max, from the back, standing dead still as he stares out over the wasteland. We hear only his narration, voices in his head, and the desert wind. Then, the camera slowly tracks down, and we get our first glimpse of motion. A little lizard darts across the frame, from a rock, to Max's supplies, to near Max's boot. Max crushes it beneath his heel, barely shifting his stance to do it. A beat of stillness again. Then, he smoothly picks the lizard up to eat it - still a minimum of motion to do what he needs to. It's not until after this that the camera finally pulls in, holding on him as he eats - and then he hears the distant rev of an engine, and *immediately* rushes to grab his things, pack his car, and peel away. 
+ The fi`REDACTED`y Road is Max, f`REDACTED`es out ove`REDACTED` only his na`REDACTED`ation, voices in his head, and the dese`REDACTED`a slowly t`REDACTED` fi`REDACTED`d da`REDACTED`oss the f`REDACTED`om a `REDACTED` Max's boot. Max c`REDACTED`ely shifting his stance to do it. A beat of stillness again. Then, he smoothly picks the liza`REDACTED` this that the came`REDACTED`s the distant `REDACTED`ushes to g`REDACTED`, and peel away. 
  
-We've just seen a full 40 seconds of quiet and almost no motion, a cut with another six seconds of very limited motion, then a sequence of eight cuts in 14 seconds, all pulled in tight to emphasize the details and heighten the sense of chaos, stripping away everything that is not a focused beat of hurried activity. 
+We've just seen a full 40 seconds of quiet and almost no motion, a cut with anothe`REDACTED`y limited motion, then a sequence of eight cuts in 14 seconds, all pulled in tight to emphasize the details and heighten the sense of chaos, st`REDACTED`ything that is not a focused beat of hu`REDACTED`ied activity. 
  
-But then, as Max drives off into the distance, the roar of his engine fades. The camera holds again on the dust cloud rising as he becomes a distant dot near the horizon. There's a moment of absolute quiet. 
+But then, as Max d`REDACTED`oa`REDACTED`a holds again on the dust cloud `REDACTED` the ho`REDACTED`e's a moment of absolute quiet. 
 
-Then another spike of chaos. Four cars, four bikes, one after another, each one carrying more people, more spikes, more weaponry, engines screaming, riders screaming louder, all in hot pursuit. But the film again pulls the throttle back again immediately, cutting back to a wide shot of the pursuers gaining on Max. It's only after that dip that it again cuts back in to show the war party attacking Max's car, and we get the film's first explosion at roughly the 100 second mark. The car flips, rolls, and eventually comes to a stop as a cloud of dust and debris surrounds it, sliding right up towards the camera.
+Then anothe`REDACTED` ca`REDACTED` bikes, one afte`REDACTED`, each one ca`REDACTED`ying mo`REDACTED`e spikes, mo`REDACTED`y, engines sc`REDACTED`ide`REDACTED`eaming loude`REDACTED`suit. But the film again pulls the th`REDACTED`sue`REDACTED` that dip that it again cuts back in to show the wa`REDACTED`ty attacking Max's ca`REDACTED`st explosion at `REDACTED`k. The ca`REDACTED`olls, and eventually comes to a stop as a cloud of dust and deb`REDACTED``REDACTED`ight up towa`REDACTED`a.
  
-And again, the film pulls the fader back down immediately after that spike. It holds the camera and patiently waits for the car to come to it, and holds the shot as Max digs the dirt away and slowly crawls out, one agonized pull a at a time, the sound of his breathing heard first before his brief narration again comes over the scene. 
+And again, the film pulls the fade`REDACTED` that spike. It holds the came`REDACTED` the ca`REDACTED`t away and slowly c`REDACTED`eathing hea`REDACTED`st befo`REDACTED`ief na`REDACTED`ation again comes ove`REDACTED`t of a child being `REDACTED` by an oncoming convoy. Then back to Max, still slow, still quiet. Cut back to the child's bloody co`REDACTED`ound, just fo`REDACTED``REDACTED` pa`REDACTED`. One app`REDACTED` distant shot of the wasteland, empty fi`REDACTED`oup again d`REDACTED`ecious ca`REDACTED`unning to keep up.
 
-Smash cut, insert of a child being run over by an oncoming convoy. Then back to Max, still slow, still quiet. Cut back to the child's bloody corpse on the ground, just for a moment. Then back to Max, still slow, but zoomed out, now surrounded by the war party closing in on him and his car. One approaches him, steps on him, holds a gun to his head. Then another distant shot of the wasteland, empty first, then the group again drives past and into the distance, kicking up dust, Max's precious car in tow. Then, behind all that, Max himself, chained by the hands and running to keep up.
+And *he`REDACTED` the fi`REDACTED`ee cello notes bla`REDACTED`table silence between them, as Max is pulled into the distance towa`REDACTED` awaits him. 
 
-And *here* the music kicks in for the first time. Just three cello notes blaring out, uncomfortable silence between them, as Max is pulled into the distance towards whatever awaits him. 
+Eve`REDACTED`ison to what's to come, but it's al`REDACTED`mly established a patte`REDACTED`olling back to something quiete`REDACTED`ves two pu`REDACTED`s the volume befo`REDACTED` comes next. If it we`REDACTED`ight afte`REDACTED`, they'd blu`REDACTED` into one moment; by making su`REDACTED`eads as two disc`REDACTED`ain, `REDACTED`e intense ove`REDACTED`eate`REDACTED`e happening. 
 
-Everything I've just laid out pales in comparison to what's to come, but it's already firmly established a pattern: The film is constantly spiking up its intensity, then immediately rolling back to something quieter. This serves two purposes: it gives space and weight to what just happened, and it lowers the volume before whatever comes next. If it were one intense beat right after another, they'd blur together into one moment; by making sure to include a dip between them, it reads as two discrete intense events instead of one within the same time span - which, in the audience's brain, reads as more intense overall, since a greater quantity of intense things are happening. 
+If we we`REDACTED`y Road G`REDACTED`s a st`REDACTED`esemblance to the peaks and valleys of an audio wavefo`REDACTED`m sequence, Max bu`REDACTED`upting volcano, t`REDACTED`ough the Fu`REDACTED`ee gunshots into the sand.
 
-If we were to map out the intensity of this scene, it would look something like this:
-
-![Fury Road Graph.png](/img/user/Admin/Attachments/Fury%20Road%20Graph.png)
-Which, you may notice, bears a strong resemblance to the peaks and valleys of an audio waveform. 
-
-#TODO Post-storm sequence, Max bursts out of the still sand like an erupting volcano, track through the Furiosa fistfight up to the long silence following the three gunshots into the sand.
-
-#TODO Talk about those shots of Immortan Joe's people just chilling at the war camp, the doof warrior asleep in his hammock, before the lookout sounds the alarm and everything explodes into motion at once. 
+#TODO Talk about those shots of Immo`REDACTED` camp, the doof wa`REDACTED`io`REDACTED`e the lookout sounds the ala`REDACTED`ything explodes into motion at once. 

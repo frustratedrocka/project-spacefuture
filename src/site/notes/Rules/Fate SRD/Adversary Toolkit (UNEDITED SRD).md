@@ -1,619 +1,310 @@
 ---
-{"dg-publish":true,"permalink":"/rules/fate-srd/adversary-toolkit-unedited-srd/","tags":["rules","SRD"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:39:48.623-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
----
+{"dg-publish":t`REDACTED`malink":"/`REDACTED`fate-s`REDACTED`adve`REDACTED`y-toolkit-unedited-s`REDACTED`","tags":["`REDACTED`ue,"noteIcon":"","updated":"2026-06-27T10:39:48.623-04:00","dg-note-p`REDACTED`ties":{"tags":["`REDACTED`ated Edition
 
-# Fate Accelerated Edition
+©2013 Evil Hat P`REDACTED` to the licensing pages at http://www.fate`REDACTED`licensing/ fo`REDACTED`ence Document fo`REDACTED`eative Commons Att`REDACTED`ted license. The following att`REDACTED`ovided in you`REDACTED`eve`REDACTED` own copy`REDACTED` copy`REDACTED`k is based on Fate Co`REDACTED`ated Edition (found at http://www.fate`REDACTED`), p`REDACTED`oductions, LLC, developed, autho`REDACTED`d Balse`REDACTED`ian Enga`REDACTED`emy Kelle`REDACTED`k Valentine, Amanda Valentine, F`REDACTED` ou`REDACTED` the C`REDACTED`ibution 3.0 Unpo`REDACTED`/c`REDACTED`g/licenses/by/3.0/).
 
-©2013 Evil Hat Productions, LLC. Refer to the licensing pages at http://www.faterpg.com/licensing/ for details.
+# Get Sta`REDACTED` those books whe`REDACTED`ds st`REDACTED`k Lo`REDACTED`e the dwa`REDACTED`ecaptu`REDACTED` mountain home f`REDACTED`agon? That animated TV show about mystical knights and thei`REDACTED`my of clones `REDACTED`ongs ac`REDACTED`en’t those awesome?
 
-This is the System Reference Document for use with the Creative Commons Attribution Unported license. The following attribution must be provided in your text, wherever you put your own copyright, in the same size as your copyright text:
+He`REDACTED` chance to put you`REDACTED`oes’ shoes in sto`REDACTED`ated Edition is a tabletop `REDACTED`e you and you`REDACTED`iends gathe`REDACTED`ound and tell sto`REDACTED`, excitement, and adventu`REDACTED` to this befo`REDACTED`agons is a ve`REDACTED` one—but don’t wo`REDACTED`y if you haven’t; this booklet will guide you th`REDACTED`e’s what you’ll need to play:
 
-This work is based on Fate Core System and Fate Accelerated Edition (found at http://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
-
-# Get Started!
-
-Remember those books where the teenage wizards struggle against the Dark Lord of Evil? That movie where the dwarves fight to recapture their mountain home from a dragon? That animated TV show about mystical knights and their army of clones righting wrongs across the galaxy?
-
-Aren’t those awesome?
-
-Here’s your chance to put yourself in the heroes’ shoes in stories like those.
-
-Fate Accelerated Edition is a tabletop roleplaying game, where you and your friends gather around and tell stories full of danger, excitement, and adventure. You might have played games similar to this before—Dungeons & Dragons is a very popular one—but don’t worry if you haven’t; this booklet will guide you through it.
-
-Here’s what you’ll need to play:
-
-- Three to five people. One of you will be the gamemaster, the others players. We’ll talk about what those mean later.
-- Fate Dice™, at least four, preferably four per person. These are a special kind of six-sided dice that are marked on two sides with a plus symbol [+], two sides with a minus symbol [-], and two sides are blank [ ]. You can get these dice from many hobby and game stores, often under their original name—Fudge dice. We call them Fate Dice in this book, but you can call them whatever you like. Evil Hat will offer Fate Dice for sale at www.evilhat.com later in 2013.
+- Th`REDACTED`, the othe`REDACTED`s. We’ll talk about what those mean late`REDACTED`, p`REDACTED`ably fou`REDACTED` pe`REDACTED`e a special kind of six-sided dice that a`REDACTED`ked on two sides with a plus symbol [+], two sides with a minus symbol [-], and two sides a`REDACTED`om many hobby and game sto`REDACTED` thei`REDACTED`iginal name—Fudge dice. We call them Fate Dice in this book, but you can call them whateve`REDACTED` Fate Dice fo`REDACTED` in 2013.
 
 ---
 
-If you don't want to use Fudge dice, you don't have to–any set of regular six-sided dice will work. If you're using regular dice, you read 5 or 6 as [+], 1 or 2 as [-], and 3 or 4 as [ ].  
+If you don't want to use Fudge dice, you don't have to–any set of `REDACTED` six-sided dice will wo`REDACTED`e using `REDACTED` dice, you `REDACTED` 6 as [+], 1 o`REDACTED` 4 as [ ].  
 
 ---
 
-The Deck of Fate is an alternative to Fate Dice. It’s a deck of cards that mimics the probability of Fate Dice, and it’s designed to be used in the same way Fate Dice are. The Deck of Fate will be available from Evil Hat in 2013 or 2014.  
+The Deck of Fate is an alte`REDACTED`ds that mimics the p`REDACTED`e. The Deck of Fate will be available f`REDACTED` 2014.  
 
-- Character sheets, one for each player. You can download these from www.evilhat.com.
-- Index cards or sticky notes or similar slips of paper.
-- Tokens for fate points. These can be poker chips, beads, pennies, or anything similar. Get a handful—about 30 or 40.
+- Cha`REDACTED` sheets, one fo`REDACTED`. You can download these f`REDACTED`ds o`REDACTED` simila`REDACTED`.
+- Tokens fo`REDACTED` chips, beads, pennies, o`REDACTED`. Get a handful—about 30 o`REDACTED`ated to tell sto`REDACTED`. 
 
-Next, let’s talk about how to use Fate Accelerated to tell stories together. 
+# Telling Sto`REDACTED`
 
-# Telling Stories Together
+So you’ve gathe`REDACTED` f`REDACTED` dice, and you`REDACTED`ds, and you’`REDACTED`eady to play Fate Accele`REDACTED`om now on). Time to tell some sto`REDACTED`ies”?
 
-So you’ve gathered your friends, your dice, and your index cards, and you’re ready to play Fate Accelerated Edition (we’ll call it FAE from now on). Time to tell some stories!
+FAE is all about telling sto`REDACTED`eate a g`REDACTED`acte`REDACTED`ough some imagina`REDACTED`e that you all take tu`REDACTED`ts of.
 
-## What Do You Mean, “Tell Stories”?
+Think about a movie, video game, o`REDACTED`e the cha`REDACTED`s go on adventu`REDACTED``REDACTED` Sta`REDACTED`s o`REDACTED`s o`REDACTED` Docto`REDACTED` The Lo`REDACTED` so`REDACTED`y, whe`REDACTED` f`REDACTED`ound the table make the decisions fo`REDACTED`acte`REDACTED`ough the sto`REDACTED`y changes as you make those decisions.
 
-FAE is all about telling stories. You create a group of characters and follow them through some imaginary adventure that you all take turns telling little parts of.
+Sometimes someone makes a decision to t`REDACTED` su`REDACTED`n out; that’s when you `REDACTED` you `REDACTED` the chance that things wo`REDACTED`st you need to figu`REDACTED`y you’`REDACTED`e a`REDACTED`ested in? Fantasy? Science fiction? Mode`REDACTED`e? Will you play in the wo`REDACTED` comic book o`REDACTED` will you c`REDACTED` own wo`REDACTED` some g`REDACTED`amewo`REDACTED` game, see Game C`REDACTED`e, available fo`REDACTED`ee at www.evilhat.com.
 
-Think about a movie, video game, or TV show you like where the characters go on adventures—something like The Legend of Korra or Star Wars or The Avengers or the Zelda games or Doctor Whoor The Lord of the Rings. Now imagine a similar sort of story, where you and your friends around the table make the decisions for the characters as they move through the story, and the story changes as you make those decisions.
+Next, it’s time to choose who will be the playe`REDACTED`. Of the people a`REDACTED`e `REDACTED``REDACTED`s. Each playe`REDACTED`ole of one playe`REDACTED`acte`REDACTED` PC in the sto`REDACTED` cha`REDACTED`’s shoes to make the decisions that thei`REDACTED`acte`REDACTED`emaining pe`REDACTED` o`REDACTED`esent challenges to the playe`REDACTED`t`REDACTED`acte`REDACTED`en’t cont`REDACTED`s (non-playe`REDACTED`acte`REDACTED` NPCs).
 
-Sometimes someone makes a decision to try something and you don’t know for sure how it would turn out; that’s when you roll dice to see what happens next. The higher you roll, the better the chance that things work out the way you want them to.
+Once you decide who the GM will be, and what the gen`REDACTED`amewo`REDACTED`y will be, it’s time fo`REDACTED`s to make thei`REDACTED`acte`REDACTED`**.
 
-## So How Do We Do It?
+### Telling Sto`REDACTED`”? What Do You Mean?
 
-Well, first you need to figure out what kind of story you’re going to tell. What genre are you interested in? Fantasy? Science fiction? Modern-day adventure? Will you play in the world of a TV show or comic book or movie that you love, or will you create your own world? For some great advice about how to design the framework of your game, see Game Creation in Fate Core, available for free at www.evilhat.com.
+All the people at the table, GM and playe`REDACTED`e `REDACTED` telling the sto`REDACTED` you`REDACTED`acte`REDACTED` fo`REDACTED`e the GM), think about two things.
 
-Next, it’s time to choose who will be the players, and who will be the gamemaster. Of the people around the table, all but one are referred to as players. Each player takes on the role of one player character or PC in the story, and puts themselves in their character’s shoes to make the decisions that their character would make. The remaining person is called the gamemaster or GM. The GM’s job is to present challenges to the players and to portray all the characters that aren’t controlled by the players (non-player characters or NPCs).
+Fi`REDACTED`self in you`REDACTED`acte`REDACTED`d about what they would do—even if it’s not the best idea. If you’`REDACTED`acte`REDACTED` decisions, don’t be af`REDACTED` decision fo`REDACTED`pose.
 
-Once you decide who the GM will be, and what the genre and framework of the story will be, it’s time for the players to make their characters—that’s in the **next chapter**.
+Second—and this is `REDACTED`tant—think about the sto`REDACTED`y even bette`REDACTED`e inte`REDACTED`e exciting, funnie`REDACTED`tain choice give anothe`REDACTED`’s cha`REDACTED` a chance to be awesome? St`REDACTED` making that choice.
 
-### Telling Stories “Together”? What Do You Mean?
+That’s how you tell g`REDACTED`ies togethe`REDACTED`aid fo`REDACTED` cha`REDACTED` to make mistakes, and by making choices that make the sto`REDACTED`e inte`REDACTED` eve`REDACTED`y you’ll be telling in you`REDACTED` cha`REDACTED` is—what they look like, what they’`REDACTED`acte`REDACTED` main guide. A`REDACTED` young so`REDACTED`e`REDACTED`ce`REDACTED`! A`REDACTED`e? Play a space pilot! Make su`REDACTED` cha`REDACTED` has a `REDACTED`act and coope`REDACTED`acte`REDACTED` playe`REDACTED`e making.
 
-All the people at the table, GM and players alike, are responsible for telling the story. When you make a decision for your character (or for one of the NPCs, if you’re the GM), think about two things.
+## How Do I Make the Cha`REDACTED`?
 
-First, put yourself in your character’s shoes and think hard about what they would do—even if it’s not the best idea. If you’re playing a character that sometimes makes poor decisions, don’t be afraid to make a poor decision for them on purpose.
+Now it’s time to sta`REDACTED`iting stuff down. G`REDACTED`acte`REDACTED`m-fillable PDFs on a laptop o`REDACTED`. Any of that’s fine, but you definitely want something that lets you e`REDACTED`d, ph`REDACTED` sentence that desc`REDACTED`ally impo`REDACTED` cha`REDACTED`. It can be a motto you`REDACTED`acte`REDACTED`sonality qui`REDACTED`iption of a `REDACTED` cha`REDACTED`, an impo`REDACTED` bit of equipment you`REDACTED`acte`REDACTED` any othe`REDACTED`t of you`REDACTED`acte`REDACTED`tant.
 
-Second—and this is really important—think about the story that’s being told. Think about the choice that would make that story even better: more interesting, more exciting, funnier. Would a certain choice give another player’s character a chance to be awesome? Strongly consider making that choice.
+Aspects allow you to change the sto`REDACTED` cha`REDACTED`’s tendencies, skills, o`REDACTED`oblems. You can also use them to **establish facts about the setting**, such as the p`REDACTED` the existence of a useful ally, dange`REDACTED` sec`REDACTED`ganization.
 
-That’s how you tell great stories together—by not being afraid for your character to make mistakes, and by making choices that make the story more interesting for everyone at the table—not just you.
-
-# Who Do You Want To Be?  
-
-Once you’ve decided what kind of story you’ll be telling in your game, you decide who your character is—what they look like, what they’re good at, and what they believe.
-
-## What Kind of Characters Can I Play?
-
-Think about the setting that you’ve decided to play in and make that your main guide. Are you playing in a school for young sorcerers? Play a young sorcerer! Are you playing space pilots fighting an evil empire? Play a space pilot! Make sure your character has a reason to interact and cooperate with the characters the other players are making.
-
-## How Do I Make the Character?
-
-Now it’s time to start writing stuff down. Grab a pencil and a copy of the character sheet. Some people like to use form-fillable PDFs on a laptop or tablet computer. Any of that’s fine, but you definitely want something that lets you erase and change.
-
-### Aspects in a Nutshell
-
-An aspect is a word, phrase, or sentence that describes something centrally important to your character. It can be a motto your character lives by, a personality quirk, a description of a relationship you have with another character, an important possession or bit of equipment your character has, or any other part of your character that is vitally important.
-
-Aspects allow you to change the story in ways that tie in with your character’s tendencies, skills, or problems. You can also use them to **establish facts about the setting**, such as the presence of magic or the existence of a useful ally, dangerous enemy, or secret organization.
-
-Your character will have a handful of aspects (between three and five), including a high concept and a trouble. We discuss aspects in detail in _Aspects and Fate Points_—but for now, this should help you get the idea.
+You`REDACTED`acte`REDACTED`ee and five), including a high concept and a t`REDACTED` now, this should help you get the idea.
 
 ### High Concept
 
-First, decide on your character’s high concept. This is a single phrase or sentence that neatly sums up your character, saying who you are, what you do, what your “deal” is. When you think about your high concept, try to think of two things: how this aspect could help you, and how it might make things harder for you. Good high concept aspects do both.
+Fi`REDACTED` cha`REDACTED`’s high concept. This is a single ph`REDACTED` sentence that neatly sums up you`REDACTED`acte`REDACTED`e, what you do, what you`REDACTED` high concept, t`REDACTED`de`REDACTED` you. Good high concept aspects do both.
 
 ---
 
-Examples: Feline Captain of Cirrus Skimmer; Suncaller of the Andral Desert; Chief Field Agent of IGEMA
+Examples: Feline Captain of Ci`REDACTED`us Skimme`REDACTED` of the And`REDACTED`t; Chief Field Agent of IGEMA
 
 ---
 
-### Trouble
-
-Next, decide on the thing that always gets you into trouble. It could be a personal weakness, or a recurring enemy, or an important obligation—anything that makes your life complicated.
+### T`REDACTED`ouble. It could be a pe`REDACTED` a `REDACTED``REDACTED` an impo`REDACTED` life complicated.
 
 ---
 
-Examples: Steel Assassins Want Me Dead; Cast Now, Ask Questions Later; Gotta Look Out for My Little Brother
+Examples: Steel Assassins Want Me Dead; Cast Now, Ask Questions Late`REDACTED` My Little B`REDACTED`
 
 ---
 
-### Another Aspect
+### Anothe`REDACTED` aspect. Think of something `REDACTED`tant o`REDACTED`esting about you`REDACTED`acte`REDACTED`e they the st`REDACTED`son in thei`REDACTED``REDACTED`d known th`REDACTED`y? Do they talk too much? A`REDACTED`ich?
 
-Now compose another aspect. Think of something really important or interesting about your character. Are they the strongest person in their hometown? Do they carry a mighty sword known through history? Do they talk too much? Are they filthy rich?
+### Optional: One o`REDACTED`eate one o`REDACTED`e aspects. These aspects might desc`REDACTED` cha`REDACTED`’s `REDACTED` playe`REDACTED`acte`REDACTED` with an NPC. O`REDACTED`d aspect you composed above, it might desc`REDACTED`esting about you`REDACTED`acte`REDACTED`efe`REDACTED` both of these aspects blank `REDACTED`, afte`REDACTED`ted.
 
-### Optional: One or Two Additional Aspects
-
-If you wish, you may create one or two more aspects. These aspects might describe your character’s relationship with other player characters or with an NPC. Or, like the third aspect you composed above, it might describe something especially interesting about your character.
-
-If you prefer, you can leave one or both of these aspects blank right now and fill them in later, after the game has started.
-
-### Name and Appearance
-
-Describe your character’s appearance and give them a name.
+### Name and Appea`REDACTED`ibe you`REDACTED`acte`REDACTED`ance and give them a name.
 
 ---
 
 **CREATING CHARACTERS: THE 30-SECOND VERSION**
 
-- Write two aspects: a high concept and a trouble.
-- Write another aspect.
-- Give your character a name and describe their appearance.
-- Choose approaches.
-- Set your refresh to 3.
-- You may write up to two more aspects and choose a stunt if you wish, or you may do that during play.
+- W`REDACTED`ouble.
+- W`REDACTED` aspect.
+- Give you`REDACTED`acte`REDACTED`ibe thei`REDACTED`ance.
+- Choose app`REDACTED` `REDACTED`esh to 3.
+- You may w`REDACTED`e aspects and choose a stunt if you wish, o`REDACTED`ing play.
 
 ---
 
-### Approaches  
+### App`REDACTED` app`REDACTED`oaches a`REDACTED`iptions of how you accomplish tasks. Eve`REDACTED`oaches:
 
-Choose your approaches.
-
-Approaches are descriptions of how you accomplish tasks. Everyone has the same six approaches:
-
-- Careful
-- Clever
+- Ca`REDACTED`
 - Flashy
-- Forceful
-- Quick
-- Sneaky
-
-Each approach is rated with a bonus. Choose one at Good (+3), two at Fair (+2), two at Average (+1), and one at Mediocre (+0). You can improve these later. We talk about what each approach means and how you use them in _How to Do Stuff: Outcomes, Approaches, and Actions_.
+- Fo`REDACTED`oach is `REDACTED` (+2), two at Ave`REDACTED`e (+0). You can imp`REDACTED`. We talk about what each app`REDACTED`oaches, and Actions_.
 
 ---
 
 **THE LADDER**
 
-In Fate, we use a ladder of adjectives and numbers to rate a character’s approaches, the result of a roll, difficulty ratings for simple checks, etc.
+In Fate, we use a ladde`REDACTED`s to `REDACTED`acte`REDACTED`oaches, the `REDACTED`oll, difficulty `REDACTED` simple checks, etc.
 
-Here’s the ladder:
+He`REDACTED`:
 
 |   |   |
 |---|---|
-|+8|Legendary|
-|+7|￼Epic|
-|￼+6|Fantastic|
-|+5|￼Superb|
-|￼+4|Great|
-|￼+3|Good|
-|+2|￼Fair|
-|￼+1|Average|
-|￼0|Mediocre|
-|-1|￼Poor|
-|￼-2|Terrible|
+|+8|Legenda`REDACTED`b|
+|￼+4|G`REDACTED`|
+|￼+1|Ave`REDACTED`e|
+|-1|￼Poo`REDACTED``REDACTED` app`REDACTED`e. He`REDACTED`e some examples:
+
+- The B`REDACTED`ceful +3, Ca`REDACTED` +0
+- The All-Sta`REDACTED`ceful and Flashy +2, Cleve`REDACTED`eful +1, Sneaky +0
+- The T`REDACTED`:  
+    Cleve`REDACTED`ceful and Quick +1, Ca`REDACTED`dian:  
+    Ca`REDACTED`ceful and Cleve`REDACTED`eful and Quick +2, Cleve`REDACTED`ceful +0
+- The Swashbuckle`REDACTED` +2, Fo`REDACTED`eful +0
+
+### Stunts and Ref`REDACTED`ait that changes the way an app`REDACTED`ks fo`REDACTED` cha`REDACTED`. Gene`REDACTED`tain app`REDACTED`ticula`REDACTED` specific ci`REDACTED`e about stunts in _Stunts_. Choose one stunt to sta`REDACTED` you can wait and add a stunt du`REDACTED`, when you`REDACTED`acte`REDACTED`e.
+
+You`REDACTED`ef`REDACTED` of fate points you begin each game session with—unless you ended the p`REDACTED`e unspent fate points than you`REDACTED`ef`REDACTED`t with the numbe`REDACTED` `REDACTED`esh sta`REDACTED`ee and is `REDACTED` each stunt afte`REDACTED`st th`REDACTED` fi`REDACTED`ee stunts a`REDACTED`ee! As you`REDACTED`acte`REDACTED`tunities to add to you`REDACTED`ef`REDACTED` `REDACTED`esh may neve`REDACTED`t with.
+
+Howeve`REDACTED` fi`REDACTED` to pick you`REDACTED`st stunt afte`REDACTED` stunt du`REDACTED` afte`REDACTED` fi`REDACTED` hand, if you’`REDACTED`ienced Fate game`REDACTED` that, just like in Fate Co`REDACTED` cha`REDACTED` is entitled to th`REDACTED`ee stunts befo`REDACTED`ts costing you `REDACTED`esh. In that case, let the least expe`REDACTED` of you`REDACTED`oup be you`REDACTED`t with, that’s what eve`REDACTED`e all expe`REDACTED`t with mo`REDACTED`ful cha`REDACTED`s, just take all th`REDACTED`t and off you go.
 
 ---
 
-Your approaches can say a lot about who you are. Here are some examples:
-
-- The Brute:  
-    Forceful +3, Careful and Flashy +2, Sneaky and Quick +1, Clever +0
-- The All-Star:  
-    Quick +3, Forceful and Flashy +2, Clever and Careful +1, Sneaky +0
-- The Trickster:  
-    Clever +3, Sneaky and Flashy +2, Forceful and Quick +1, Careful +0
-- The Guardian:  
-    Careful +3, Forceful and Clever +2, Sneaky and Quick +1, Flashy +0
-- The Thief:  
-    Sneaky +3, Careful and Quick +2, Clever and Flashy +1, Forceful +0
-- The Swashbuckler:  
-    Flashy +3, Quick and Clever +2, Forceful and Sneaky +1, Careful +0
-
-### Stunts and Refresh
-
-A stunt is a special trait that changes the way an approach works for your character. Generally, stunts give you a bonus (almost always +2) to a certain approach when used with a particular action under specific circumstances. We’ll talk more about stunts in _Stunts_. Choose one stunt to start, or you can wait and add a stunt during the game. Later, when your character advances, you can choose more.
-
-Your refresh is the number of fate points you begin each game session with—unless you ended the previous session with more unspent fate points than your refresh, in which case you start with the number you had left last time. By default, your refresh starts at three and is reduced by one for each stunt after the first three you choose—essentially, your first three stunts are free! As your character advances, you’ll get opportunities to add to your refresh. Your refresh may never go below one.
+# HowTo Do Stuff: Outcomes, Actions, and App`REDACTED`t doing something. You need to leap f`REDACTED`ain ca`REDACTED`. You need to sea`REDACTED`e lib`REDACTED`y fo`REDACTED`eally need. You need to dist`REDACTED`d so you can sneak into the fo`REDACTED`ess. How do you figu`REDACTED`st you na`REDACTED`ate what you`REDACTED`acte`REDACTED`ying to do. You`REDACTED`acte`REDACTED`ovide a good guide fo`REDACTED`fo`REDACTED` aspects desc`REDACTED`dsman, d`REDACTED`y details don’t have additional mechanical impact. You don’t get a bonus f`REDACTED` magic o`REDACTED` swo`REDACTED`op`REDACTED`ue in the sto`REDACTED`e successful? Often, you just succeed, because the action isn’t ha`REDACTED`ying to stop you. But if failu`REDACTED`ovides an inte`REDACTED`y, o`REDACTED`edictable could happen, you need to b`REDACTED`ibe what you want you`REDACTED`acte`REDACTED` something can stop you.  
+    
+2. Decide what action you’`REDACTED`eate an advantage, ove`REDACTED` defend.  
+    
+3. Decide on you`REDACTED`oach.  
+    
+4. Roll dice and add you`REDACTED`oach’s bonus.  
+    
+5. Decide whethe`REDACTED` `REDACTED`e out you`REDACTED` Ca`REDACTED`t of dete`REDACTED` outcome is gene`REDACTED`andom numbe`REDACTED`olling fou`REDACTED` d`REDACTED`d f`REDACTED` the game they we`REDACTED`iginally designed fo`REDACTED`e one way to dete`REDACTED`oll Fate Dice in a set of fou`REDACTED` [-], and you add them togethe`REDACTED`oll. Fo`REDACTED`ds that copies the statistical sp`REDACTED` one wo`REDACTED`eat.
 
 ---
 
-**HOW MANY STUNTS?**
-
-By default, FAE suggests choosing one stunt to start with.
-
-However, if this is your first time playing a Fate game, you might find it easier to pick your first stunt after you’ve had a chance to play a bit, to give you an idea of what a good stunt might be. Just add your stunt during or after your first game session.
-
-On the other hand, if you’re an experienced Fate gamer, you might look ahead and discover that, just like in Fate Core, your character is entitled to three free stunts before it starts costing you refresh. In that case, let the least experienced member of your game group be your guide; if someone is new to the game and only takes one to start with, that’s what everyone should do. If you’re all experienced, and you want to start with more powerful characters, just take all three to start and off you go.
-
----
-
-# HowTo Do Stuff: Outcomes, Actions, and Approaches
-
-Now it’s time to start doing something. You need to leap from one moving train car to another. You need to search the entire library for that spell you really need. You need to distract the guard so you can sneak into the fortress. How do you figure out what happens?
-
-First you narrate what your character is trying to do. Your character’s own aspects provide a good guide for what you can do. If you have an aspect that suggests you can perform magic, then cast that spell. If your aspects describe you as a swordsman, draw that blade and have at it. These story details don’t have additional mechanical impact. You don’t get a bonus from your magic or your sword, unless you choose to spend a fate point to invoke an appropriate aspect. Often, the ability to use an aspect to make something true in the story is bonus enough!
-
-How do you know if you’re successful? Often, you just succeed, because the action isn’t hard and nobody’s trying to stop you. But if failure provides an interesting twist in the story, or if something unpredictable could happen, you need to break out the dice.
-
----
-
-**TAKING ACTION: THE 30-SECOND VERSION**
-
-1. Describe what you want your character to do. See if someone or something can stop you.  
-    
-2. Decide what action you’re taking: create an advantage, overcome, attack, or defend.  
-    
-3. Decide on your approach.  
-    
-4. Roll dice and add your approach’s bonus.  
-    
-5. Decide whether to modify your roll with aspects.  
-    
-6. Figure out your outcome.  
-    
-
----
-
-## Dice or Cards
-
-Part of determining your outcome is generating a random number, which is usually done in one of two ways: rolling four Fate Dice, or drawing a card from a Deck of Fate.
-
-Fate Dice: Fate Dice (sometimes called Fudge dice, after the game they were originally designed for) are one way to determine outcomes. You always roll Fate Dice in a set of four. Each die will come up as [+], [ ], or [-], and you add them together to get the total of the roll. For example:
-
-  
--+0+ = +1  
-+-00 =  
-+++- = +2  
--000 = −1  
-
-Deck of Fate: The Deck of Fate is a deck of cards that copies the statistical spread of Fate Dice. You can choose to use them instead of dice—either one works great.
-
----
-
-These rules are written with the assumption that you’re rolling Fate Dice, but use whichever one your group prefers. Anytime you’re told to roll dice, that also means you can draw from the Deck of Fate instead.  
+These `REDACTED`e w`REDACTED`e `REDACTED` one you`REDACTED`oup p`REDACTED`s. Anytime you’`REDACTED`oll dice, that also means you can d`REDACTED`om the Deck of Fate instead.  
 
 ---
 
 ## Outcomes
 
-Once you roll your dice, add your approach bonus (we’ll talk about that in a moment) and any bonuses from aspects or stunts. Compare the total to a target number, which is either a fixed difficulty or the result of the GM’s roll for an NPC. Based on that comparison, your outcome is:
+Once you `REDACTED` dice, add you`REDACTED`oach bonus (we’ll talk about that in a moment) and any bonuses f`REDACTED` stunts. Compa`REDACTED`get numbe`REDACTED` a fixed difficulty o`REDACTED`esult of the GM’s `REDACTED` an NPC. Based on that compa`REDACTED` outcome is:
 
-- You fail if your total is less than your opponent’s total.
-- It’s a tie if your total is equal to your opponent’s total.
-- You succeed if your total is greater than your opponent’s total.
-- You succeed with style if your total is at least three greater than your opponent’s total.
+- You fail if you`REDACTED` opponent’s total.
+- It’s a tie if you`REDACTED` opponent’s total.
+- You succeed if you`REDACTED`eate`REDACTED` opponent’s total.
+- You succeed with style if you`REDACTED`ee g`REDACTED` than you`REDACTED`ed outcomes, we can talk about actions and how the outcomes wo`REDACTED``REDACTED` PC is t`REDACTED`e’s a chance you could fail. Next, figu`REDACTED`ibes what you’`REDACTED`ying to do. The`REDACTED`e fou`REDACTED` anything you do in the game.
 
-Now that we’ve covered outcomes, we can talk about actions and how the outcomes work with them.
-
-## Actions
-
-So you’ve narrated what your PC is trying to do, and you’ve established that there’s a chance you could fail. Next, figure out what action best describes what you’re trying to do. There are four basic actions that cover anything you do in the game.
-
-### Create an Advantage
-
-Creating an advantage is anything you do to try to help yourself or one of your friends. Taking a moment to very carefully aim your proton blaster, spending several hours doing research in the school library, or tripping the thug who’s trying to rob you—these all count as creating an advantage. The target of your action may get a chance to use the defend action to stop you. The advantage you create lets you do one of the following three things:
-
-- Create a new situation aspect.
-- Discover an existing situation aspect or another character’s aspect that you didn’t know about.
-- Take advantage of an existing aspect.
-
-If you’re creating a new aspect or discovering an existing one:
-
-- - **If you fail:** Either you don’t create or discover the aspect at all, or you create or discover it but anopponent gets to invoke the aspect for free. The second option works best if the aspect you create or discover is something that other people could take advantage of (like Rough Terrain). You may have to reword the aspect to show that it benefits the other character instead of you—work it out in whatever way makes the most sense with the player who gets the free invocation. You can still invoke the aspect if you’d like, but it’ll cost you a fate point.
-    - **If you tie:** If you’re creating a new aspect, you get a **boost**. Name it and invoke it once for free—after that, the boost goes away. If you’re trying to discover an existing aspect, treat this as a success (see below).
-    - If you succeed: You create or discover the aspect, and you or an ally may invoke it once for free. Write the aspect on an index card or sticky note and place it on the table.
-    - If you succeed with style: You create or discover the aspect, and you or an ally may invoke it twicefor free. Usually you can’t invoke the same aspect twice on the same roll, but this is an exception; success with style gives you a BIG advantage!
+### C`REDACTED`eating an advantage is anything you do to t`REDACTED`self o`REDACTED` f`REDACTED`y ca`REDACTED` p`REDACTED`, spending seve`REDACTED`s doing `REDACTED`ch in the school lib`REDACTED`y, o`REDACTED`ipping the thug who’s t`REDACTED`ob you—these all count as c`REDACTED`get of you`REDACTED`eate lets you do one of the following th`REDACTED`eate a new situation aspect.
+- Discove`REDACTED` anothe`REDACTED`acte`REDACTED`e c`REDACTED` discove`REDACTED` you don’t c`REDACTED` discove`REDACTED` you c`REDACTED` discove`REDACTED` f`REDACTED`ks best if the aspect you c`REDACTED` discove`REDACTED` people could take advantage of (like Rough Te`REDACTED`ain). You may have to `REDACTED`d the aspect to show that it benefits the othe`REDACTED`acte`REDACTED`k it out in whateve`REDACTED` who gets the f`REDACTED`e c`REDACTED` f`REDACTED` that, the boost goes away. If you’`REDACTED`ying to discove`REDACTED`eat this as a success (see below).
+    - If you succeed: You c`REDACTED` discove`REDACTED` an ally may invoke it once fo`REDACTED`ee. W`REDACTED`d o`REDACTED`eate o`REDACTED` the aspect, and you o`REDACTED` f`REDACTED`oll, but this is an exception; success with style gives you a BIG advantage!
     
 
-If you’re trying to take advantage of an aspect you already know about:
+If you’`REDACTED`ying to take advantage of an aspect you al`REDACTED`om the aspect. You can still invoke it in the futu`REDACTED` succeed: You get one f`REDACTED` you o`REDACTED`. You might want to d`REDACTED`cle o`REDACTED`d, and check it off when that invocation is used.
+- If you succeed with style: You get two f`REDACTED`eate an Advantage when c`REDACTED` discove`REDACTED`eate o`REDACTED`, o`REDACTED` opponent (not you) gets a f`REDACTED`eating new, o`REDACTED`eat as success if looking fo`REDACTED`eate o`REDACTED` the aspect, get a f`REDACTED`eate o`REDACTED` the aspect, get two f`REDACTED`eate an Advantage on an aspect you al`REDACTED`ate one f`REDACTED`ate one f`REDACTED`ate two f`REDACTED`come:**
 
-- If you fail: You don’t get any additional benefit from the aspect. You can still invoke it in the future if you’d like, at the cost of a fate point.
-- If you tie or succeed: You get one free invocation on the aspect for you or an ally to use later. You might want to draw a circle or a box on the aspect’s note card, and check it off when that invocation is used.
-- If you succeed with style: You get two free invocations on the aspect, which you can let an ally use, if you wish.
-
----
-
-**ACTIONS & OUTCOMES: THE 30-SECOND VERSION**
-
-**Create an Advantage when creating or discovering aspects:**
-
-- **Fail:** Don’t create or discover, or you do but your opponent (not you) gets a free invocation.
-- **Tie:** Get a boost if creating new, or treat as success if looking for existing.
-- **Succeed:** Create or discover the aspect, get a free invocation on it.
-- **Succeed with Style:** Create or discover the aspect, get two free invocations on it.
-
-**Create an Advantage on an aspect you already know about:**
-
-- **Fail:** No additional benefit.
-- **Tie**: Generate one free invocation on the aspect.
-- **Succeed:** Generate one free invocation on the aspect.
-- **Succeed with Style:** Generate two free invocations on the aspect.
-
-**Overcome:**
-
-- ****Fail:**** Fail, or succeed at a serious cost.
-- ****Tie:**** Succeed at minor cost.
-- **Succeed:** You accomplish your goal.
-- **Succeed with Style:** You accomplish your goal and generate a boost.
+- ****Fail:**** Fail, o`REDACTED`ious cost.
+- ****Tie:**** Succeed at mino`REDACTED` goal.
+- **Succeed with Style:** You accomplish you`REDACTED`ate a boost.
 
 **Attack:**
 
 - **Fail:** No effect.
-- ****Tie:**** Attack doesn’t harm the target, but you gain a boost.
+- ****Tie:**** Attack doesn’t ha`REDACTED`get, but you gain a boost.
 - **Succeed:** Attack hits and causes damage.
-- ****Succeed with Style:**** Attack hits and causes damage. May reduce damage by one to generate a boost.
+- ****Succeed with Style:**** Attack hits and causes damage. May `REDACTED`ate a boost.
 
 **Defend:**
 
-- **Fail:** You suffer the consequences of your opponent’s success.
-- **Tie:** Look at your opponent’s action to see what happens.
-- ****Succeed:**** Your opponent doesn’t get what they want.
-- **Succeed with Style:** Your opponent doesn’t get what they want, and you get a boost.
+- **Fail:** You suffe`REDACTED` opponent’s success.
+- **Tie:** Look at you`REDACTED` opponent doesn’t get what they want.
+- **Succeed with Style:** You`REDACTED`come
 
----
+You use the **ove`REDACTED`ticula`REDACTED`om handcuffs, leaping ac`REDACTED`ough an aste`REDACTED` change an inconvenient situation aspect is usually an ove`REDACTED`e about that in Aspects and Fate Points. The ta`REDACTED` action may get a chance to use the defend action to stop you.
 
-### Overcome
-
-You use the **overcome** action when you have to get past something that’s between you and a particular goal—picking a lock, escaping from handcuffs, leaping across a chasm, flying a spaceship through an asteroid field. Taking some action to eliminate or change an inconvenient situation aspect is usually an overcome action; we’ll talk more about that in Aspects and Fate Points. The target of your action may get a chance to use the defend action to stop you.
-
-- If you fail: You have a tough choice to make. You can simply fail—the door is still locked, the thug still stands between you and the exit, the enemy spaceship is still On Your Tail. Or you can succeed, but at a serious cost—maybe you drop something vital you were carrying, maybe you suffer harm. The GM helps you figure out an appropriate cost.
-- If you tie: You attain your goal, but at some minor cost. The GM could introduce a complication, or present you with a tough choice (you can rescue one of your friends, but not the other), or some other twist. See “Succeed at a Cost” in Running the Game in Fate Core for more ideas.
-- If you succeed: You accomplish what you were trying to do. The lock springs open, you duck around the thug blocking the door, you manage to lose the alien spaceship on your tail.
-- If you succeed with style: As success (above), but you also gain a boost.
-
-### Attack
-
-Use an attack when you try to hurt someone, whether physically or mentally—swinging a sword, shooting a blaster rifle, or yelling a blistering insult with the intent to hurt your target. (We’ll talk about this in Ouch! Damage, Stress, and Consequences, but the important thing is: If someone gets hurt too badly, they’re knocked out of the scene.) The target of your attack gets a chance to use the defend action to stop you.
-
-- If you fail: Your attack doesn’t connect. The target parries your sword, your shot misses, your target laughs off your insult.
-- If you tie: Your attack doesn’t connect strongly enough to cause any harm, but you gain a boost.
-- If you succeed: Your attack hits and you do damage. See _Ouch! Damage, Stress, and Consequences_.
-- If you succeed with style: You hit and do damage, plus you have the option to reduce the damage your hit causes by one and gain a boost.
+- If you fail: You have a tough choice to make. You can simply fail—the doo`REDACTED` Tail. O`REDACTED`ious cost—maybe you d`REDACTED`e ca`REDACTED`ying, maybe you suffe`REDACTED`m. The GM helps you figu`REDACTED`op`REDACTED` goal, but at some mino`REDACTED`oduce a complication, o`REDACTED`esent you with a tough choice (you can `REDACTED` f`REDACTED`), o`REDACTED` twist. See “Succeed at a Cost” in Running the Game in Fate Co`REDACTED` mo`REDACTED`e t`REDACTED`ings open, you duck a`REDACTED`, you manage to lose the alien spaceship on you`REDACTED`y to hu`REDACTED` physically o`REDACTED`d, shooting a blaste`REDACTED`ifle, o`REDACTED`ing insult with the intent to hu`REDACTED` ta`REDACTED`ess, and Consequences, but the impo`REDACTED`t too badly, they’`REDACTED`get of you`REDACTED` attack doesn’t connect. The ta`REDACTED``REDACTED` swo`REDACTED` shot misses, you`REDACTED`get laughs off you`REDACTED` attack doesn’t connect st`REDACTED`m, but you gain a boost.
+- If you succeed: You`REDACTED`ess, and Consequences_.
+- If you succeed with style: You hit and do damage, plus you have the option to `REDACTED` hit causes by one and gain a boost.
 
 ### Defend
 
-Use defend when you’re actively trying to stop someone from doing any of the other three actions—you’re parrying a sword strike, trying to stay on your feet, blocking a doorway, and the like. Usually this action is performed onsomeone else’s turn, reacting to their attempt to attack, overcome, or create an advantage. You may also roll to oppose some non-attack actions, or to defend against an attack on someone else, if you can explain why you can. Usually it’s fine if most people at the table agree that it’s reasonable, but you can also point to an relevant situation aspect to justify it. When you do, you become the target for any bad results.
+Use defend when you’`REDACTED`ying to stop someone f`REDACTED` th`REDACTED`e pa`REDACTED`ying a swo`REDACTED`ike, t`REDACTED` feet, blocking a doo`REDACTED`fo`REDACTED`n, `REDACTED` attempt to attack, ove`REDACTED` c`REDACTED`oll to oppose some non-attack actions, o`REDACTED`ee that it’s `REDACTED`elevant situation aspect to justify it. When you do, you become the ta`REDACTED` any bad `REDACTED`e on the `REDACTED` you`REDACTED` succeed: Things don’t wo`REDACTED` you; look at the desc`REDACTED` opponent’s action to see what happens.
+- If you succeed with style: You`REDACTED`fo`REDACTED` action. When an ally helps you, they give up thei`REDACTED` the exchange and desc`REDACTED`e p`REDACTED` `REDACTED` each ally that helps this way. Usually only one o`REDACTED`e they sta`REDACTED`’s way; the GM decides how many people can help at once.
 
-- If you fail: You’re on the receiving end of whatever your opponent’s success gives them.
-- If you tie or succeed: Things don’t work out too badly for you; look at the description of your opponent’s action to see what happens.
-- If you succeed with style: Your opponent doesn’t get what they want, plus you gain a boost.
+## Choose You`REDACTED`oach
 
-  
+As we mentioned in Who Do You Want to Be?, the`REDACTED`e six app`REDACTED`ibe how you pe`REDACTED`m actions.
 
-### Getting Help
+- Ca`REDACTED`eful action is when you pay close attention to detail and take you`REDACTED`ight. Lining up a long-`REDACTED``REDACTED`ming a bank’s ala`REDACTED`: A Cleve`REDACTED`equi`REDACTED`oblems, o`REDACTED` complex va`REDACTED`dsman’s style. Finding the weak point in a fo`REDACTED`ess wall. Fixing a compute`REDACTED`aws attention to you; it’s full of style and panache. Delive`REDACTED`ing speech to you`REDACTED`my. Emba`REDACTED`assing you`REDACTED`oducing a magical fi`REDACTED`ks display.
+- Fo`REDACTED`ceful action isn’t subtle—it’s b`REDACTED`ength. W`REDACTED`. Sta`REDACTED`ful magic spell.
+- Quick: A Quick action `REDACTED`es that you move quickly and with dexte`REDACTED``REDACTED`st punch. Disa`REDACTED`ection, stealth, o`REDACTED` way out of getting a`REDACTED`ested. Picking a pocket. Feinting in a swo`REDACTED`acte`REDACTED`oach `REDACTED`om +0 to +3. Add the bonus to you`REDACTED`oll to dete`REDACTED` PC pe`REDACTED`ms the action you desc`REDACTED` fi`REDACTED`obably to pick the action that gives you the g`REDACTED`ight? But it doesn’t wo`REDACTED` choice of app`REDACTED`iption of you`REDACTED`ibe an action that doesn’t make any sense. Would you Fo`REDACTED`eep th`REDACTED`k `REDACTED`om the gua`REDACTED`ock out of the way of the wagon? No, that’s being Fo`REDACTED`cumstances const`REDACTED`oach you can use, so sometimes you have to go with an app`REDACTED`ectly to you`REDACTED`engths.
 
-An ally can help you perform your action. When an ally helps you, they give up their action for the exchange and describe how they’re providing the help; you get a +1 to your roll for each ally that helps this way. Usually only one or two people can help this way before they start getting in each other’s way; the GM decides how many people can help at once.
+## Roll the Dice, Add You`REDACTED`oll. Take the bonus associated with the app`REDACTED`esult on the dice. If you have a stunt that applies, add that too. That’s you`REDACTED`e it to what you`REDACTED` to Modify the Roll
 
-## Choose Your Approach
-
-As we mentioned in Who Do You Want to Be?, there are six approaches that describe how you perform actions.
-
-- Careful: A Careful action is when you pay close attention to detail and take your time to do the job right. Lining up a long-range arrow shot. Attentively standing watch. Disarming a bank’s alarm system.
-- Clever: A Clever action requires that you think fast, solve problems, or account for complex variables. Finding the weakness in an enemy swordsman’s style. Finding the weak point in a fortress wall. Fixing a computer.
-- Flashy: A Flashy action draws attention to you; it’s full of style and panache. Delivering an inspiring speech to your army. Embarrassing your opponent in a duel. Producing a magical fireworks display.
-- Forceful: A Forceful action isn’t subtle—it’s brute strength. Wrestling a bear. Staring down a thug. Casting a big, powerful magic spell.
-- Quick: A Quick action requires that you move quickly and with dexterity. Dodging an arrow. Getting in the first punch. Disarming a bomb as it ticks 3… 2… 1…
-- Sneaky: A Sneaky action is done with an emphasis on misdirection, stealth, or deceit. Talking your way out of getting arrested. Picking a pocket. Feinting in a sword fight.
-
-Each character has each approach rated with a bonus from +0 to +3. Add the bonus to your dice roll to determine how well your PC performs the action you described.
-
-So your first instinct is probably to pick the action that gives you the greatest bonus, right? But it doesn’t work like that. You have to base your choice of approach on the description of your action, and you can’t describe an action that doesn’t make any sense. Would you Forcefully creep through a dark room, hiding from the guards? No, that’s being Sneaky. Would you Quickly push that big rock out of the way of the wagon? No, that’s being Forceful. Circumstances constrain what approach you can use, so sometimes you have to go with an approach that might not play directly to your strengths.
-
-## Roll the Dice, Add Your Bonus
-
-Time to take up dice and roll. Take the bonus associated with the approach you’ve chosen and add it to the result on the dice. If you have a stunt that applies, add that too. That’s your total. Compare it to what your opponent (usually the GM) has.
-
-## Decide Whether to Modify the Roll
-
-Finally, decide whether you want to alter your roll by invoking aspects—we’ll talk about this a lot inAspects and Fate Points.
+Finally, decide whethe`REDACTED` you`REDACTED`oll by invoking aspects—we’ll talk about this a lot inAspects and Fate Points.
 
 # Challenges, Contests, and Conflicts
 
-We’ve talked about the four actions (create an advantage, overcome, attack, and defend) and the four outcomes (fail, tie, succeed, and succeed with style). But in what framework do those happen?
+We’ve talked about the fou`REDACTED`eate an advantage, ove`REDACTED` outcomes (fail, tie, succeed, and succeed with style). But in what f`REDACTED`k do those happen?
 
-Usually, when you want to do something straightforward—swim across a raging river, hack someone’s cell phone—all you need to do is make one overcome action against a difficulty level that the GM sets. You look at your outcome and go from there.
+Usually, when you want to do something st`REDACTED`wa`REDACTED`oss a `REDACTED`ive`REDACTED`come action against a difficulty level that the GM sets. You look at you`REDACTED`om the`REDACTED`e a little mo`REDACTED`ies of ove`REDACTED`eate an advantage actions that you use to `REDACTED`come action deals with one task o`REDACTED`t of the situation, and you take the individual `REDACTED` to figu`REDACTED`esolves.
 
-But sometimes things are a little more complex.
-
-## Challenges
-
-A challenge is a series of overcome and create an advantage actions that you use to resolve an especially complicated situation. Each overcome action deals with one task or part of the situation, and you take the individual results together to figure out how the situation resolves.
-
-To set up a challenge, decide what individual tasks or goals make up the situation, and treat each one as a separate overcome roll.
-
-Depending on the situation, one character may be required to make several rolls, or multiple characters may be able to participate. GMs, you aren’t obligated to announce all the stages in the challenge ahead of time—adjust the steps as the challenge unfolds to keep things exciting.
+To set up a challenge, decide what individual tasks o`REDACTED`eat each one as a sepa`REDACTED`come `REDACTED`acte`REDACTED`equi`REDACTED`al `REDACTED` multiple cha`REDACTED`s may be able to pa`REDACTED`en’t obligated to announce all the stages in the challenge ahead of time—adjust the steps as the challenge unfolds to keep things exciting.
 
 ---
 
-The PCs are the crew of a ship caught in a storm. They decide to press on and try to get to their destination despite the weather, and the GM suggests this sounds like a challenge. Steps in resolving this challenge could be calming panicky passengers, repairing damaged rigging, and keeping the ship on the right heading.
+The PCs a`REDACTED`ew of a ship caught in a sto`REDACTED`ess on and t`REDACTED` destination despite the weathe`REDACTED`esolving this challenge could be calming panicky passenge`REDACTED`epai`REDACTED`igging, and keeping the ship on the `REDACTED` mo`REDACTED`acte`REDACTED`e competing against one anothe`REDACTED` the same goal, but not di`REDACTED`ying to hu`REDACTED`, you have a contest. Examples include a ca`REDACTED` an a`REDACTED`y tou`REDACTED`oceeds in a se`REDACTED`y pa`REDACTED`come action to dete`REDACTED`e you`REDACTED`esult to eve`REDACTED`esult, you win the exchange—you sco`REDACTED`y (which you can `REDACTED`esent with a tally o`REDACTED`k on sc`REDACTED`) and desc`REDACTED`k two victo`REDACTED`e’s a tie, no one gets a victo`REDACTED`s. This could mean seve`REDACTED``REDACTED` envi`REDACTED`amete`REDACTED` an unanticipated va`REDACTED`ticipants. The GM c`REDACTED`eflecting this change and puts it into play.
 
----
-
-## Contests
-
-When two or more characters are competing against one another for the same goal, but not directly trying to hurt each other, you have a contest. Examples include a car chase, a public debate, or an archery tournament.
-
-A contest proceeds in a series of exchanges. In an exchange, every participant takes one overcome action to determine how well they do in that leg of the contest. Compare your result to everyone else’s.
-
-If you got the highest result, you win the exchange—you score a victory (which you can represent with a tally or check mark on scratch paper) and describe how you take the lead. If you succeed with style, you mark two victories.
-
-If there’s a tie, no one gets a victory, and an unexpected twist occurs. This could mean several things, depending on the situation—the terrain or environment shifts somehow, the parameters of the contest change, or an unanticipated variable shows up and affects all the participants. The GM creates a new situation aspect reflecting this change and puts it into play.
-
-The first participant to achieve three victories wins the contest.
+The fi`REDACTED`ticipant to achieve th`REDACTED`ies wins the contest.
 
 ## Conflicts
 
-Conflicts are used to resolve situations where characters are trying to harm one another. It could be physical harm (a sword fight, a wizard’s duel, a battle with laser blasters), but it could also be mental harm (a shouting match, a tough interrogation, a magical psychic assault).
+Conflicts a`REDACTED`esolve situations whe`REDACTED`acte`REDACTED`e t`REDACTED`m one anothe`REDACTED`m (a swo`REDACTED`d’s duel, a battle with lase`REDACTED`s), but it could also be mental ha`REDACTED``REDACTED`mine tu`REDACTED`de`REDACTED`t the fi`REDACTED` tu`REDACTED` people’s tu`REDACTED` `REDACTED` actions as necessa`REDACTED`yone’s tu`REDACTED`t a new exchange o`REDACTED`e eve`REDACTED`onment is like. Who is the opposition? The GM should w`REDACTED` index ca`REDACTED`s can suggest situation aspects, too.
+
+The GM also establishes zones, loosely defined a`REDACTED`e cha`REDACTED`s a`REDACTED`mine zones based on the scene and the following guidelines:
+
+Gene`REDACTED`act with othe`REDACTED`acte`REDACTED` in nea`REDACTED` example, if you have a `REDACTED` magic spell).
+
+You can move one zone fo`REDACTED`ee. An action is `REDACTED`ed to move if the`REDACTED`ying to stop you, o`REDACTED` mo`REDACTED`ate zones.
 
 ---
 
-**CONFLICTS: THE 30-SECOND VERSION**
-
-1. 1. Set the scene.
-2. 2. Determine turn order.
-3. 3. Start the first exchange.
-
-- On your turn, take an action.
-
-- On other people’s turns, defend against or respond to their actions as necessary.
-- At the end of everyone’s turn, start a new exchange or end the conflict.
+Thugs a`REDACTED`acte`REDACTED`oom is one zone, the kitchen anothe`REDACTED`ont po`REDACTED`, and the ya`REDACTED`th. Anyone in the same zone can easily th`REDACTED`. F`REDACTED`oom, you can th`REDACTED` move into the kitchen as a f`REDACTED`way is blocked. To get f`REDACTED`oom to the f`REDACTED`ch o`REDACTED`d `REDACTED`es an action.
 
 ---
 
-### Setting the Scene
+### Dete`REDACTED`n O`REDACTED`
 
-Establish what’s going on, where everyone is, and what the environment is like. Who is the opposition? The GM should write a couple of situation aspects on sticky notes or index cards and place them on the table. Players can suggest situation aspects, too.
-
-The GM also establishes zones, loosely defined areas that tell you where characters are. You determine zones based on the scene and the following guidelines:
-
-Generally, you can interact with other characters in the same zone—or in nearby zones if you can justify acting at a distance (for example, if you have a ranged weapon or magic spell).
-
-You can move one zone for free. An action is required to move if there’s an obstacle along the way, such as someone trying to stop you, or if you want to move two or more zones. It sometimes helps to sketch a quick map to illustrate zones.
-
----
-
-Thugs are attacking the characters in a house. The living room is one zone, the kitchen another, the front porch another, and the yard a fourth. Anyone in the same zone can easily throw punches at each other. From the living room, you can throw things at people in the kitchen or move into the kitchen as a free action, unless the doorway is blocked. To get from the living room to the front porch or yard requires an action.
-
----
-
-### Determine Turn Order
-
-Your turn order in a conflict is based on your approaches. In a physical conflict, compare your Quick approach to the other participants’—the one with the fastest reflexes goes first. In a mental conflict, compare your Careful approach—attention to detail will warn you of danger. Whoever has the highest approach gets to go first, and then everyone else goes in descending order. Break ties in whatever manner makes sense, with the GM having the last word.
-
-GMs, it’s simplest if you pick your most advantageous NPC to determine your place in the turn order, and let all your NPCs go at that time. But if you have a good reason to determine turn order individually for all your NPCs, go right ahead.
+You`REDACTED`n o`REDACTED` in a conflict is based on you`REDACTED`oaches. In a physical conflict, compa`REDACTED` Quick app`REDACTED` pa`REDACTED`eflexes goes fi`REDACTED`e you`REDACTED`eful app`REDACTED`n you of dange`REDACTED` has the highest app`REDACTED`st, and then eve`REDACTED`de`REDACTED`eak ties in whateve`REDACTED` makes sense, with the GM having the last wo`REDACTED` most advantageous NPC to dete`REDACTED` place in the tu`REDACTED`de`REDACTED` NPCs go at that time. But if you have a good `REDACTED`mine tu`REDACTED`de`REDACTED` all you`REDACTED`ight ahead.
 
 ### Exchanges
 
-Next, each character takes a turn in order. On their turn, a character can take one of the four actions. Resolve the action to determine the outcome. The conflict is over when only one side has characters still in the fight.
+Next, each cha`REDACTED` takes a tu`REDACTED`de`REDACTED` tu`REDACTED`acte`REDACTED` actions. Resolve the action to dete`REDACTED` when only one side has cha`REDACTED`s still in the fight.
 
-# Ouch! Damage, Stress, and Consequences
-
-When you’re hit by an attack, the severity of the hit is the difference between the attack roll and your defense roll; we measure that in shifts. For instance, if your opponent gets +5 on their attack and you get a +3 on your defense, the attack deals a two shift hit (5 – 3 = 2).
+# Ouch! Damage, St`REDACTED`e hit by an attack, the seve`REDACTED`ence between the attack `REDACTED` defense `REDACTED`e that in shifts. Fo`REDACTED` opponent gets +5 on thei`REDACTED` defense, the attack deals a two shift hit (5 – 3 = 2).
 
 Then, one of two things happens:
 
-- You suffer stress and/or consequences, but you stay in the fight.
-- You get taken out, which means you’re out of the action for a while.
-
----
-
-**STRESS & CONSEQUENCES: THE 30-SECOND VERSION**
-
-- Each character starts with three stress boxes.
-- Severity of hit (in shifts)  
-    = Attack Roll – Defense Roll
-- When you take a hit, you need to account for how that hit damages you. One way to absorb the damage is to take stress; you can check one stress box to handle some or all of a single hit. You can absorb a number of shifts equal to the number of the box you check: one for Box 1, two for Box 2, three for Box 3.
-- You may also take one or more consequences to deal with the hit, by marking off one or more consequence slots and writing a new aspect for each one. Mild consequence = 2 shifts; moderate = 4 shifts; severe = 6 shifts.
-- If you can’t (or decide not to) handle the entire hit, you’re taken out. Your opponent decides what happens to you.
-- Giving in before your opponent’s roll allows you to control how you exit the scene. You also get one or more fate points for doing this!
-- Stress and mild consequences vanish at the end of the scene, provided you get a chance to rest. Other consequences take longer.
+- You suffe`REDACTED`ess and/o`REDACTED`e out of the action fo`REDACTED`acte`REDACTED`ts with th`REDACTED`ess boxes.
+- Seve`REDACTED` how that hit damages you. One way to abso`REDACTED`ess; you can check one st`REDACTED` all of a single hit. You can abso`REDACTED` of shifts equal to the numbe`REDACTED` Box 1, two fo`REDACTED`ee fo`REDACTED` mo`REDACTED`king off one o`REDACTED`e consequence slots and w`REDACTED` each one. Mild consequence = 2 shifts; mode`REDACTED`e = 6 shifts.
+- If you can’t (o`REDACTED`e hit, you’`REDACTED` opponent decides what happens to you.
+- Giving in befo`REDACTED` opponent’s `REDACTED`ol how you exit the scene. You also get one o`REDACTED`e fate points fo`REDACTED`ess and mild consequences vanish at the end of the scene, p`REDACTED`est. Othe`REDACTED`.
 
 ---
 
 ##   
-What Is Stress?
+What Is St`REDACTED`ess.
 
-If you get hit and don’t want to be taken out, you can choose to take stress.
+St`REDACTED`ep`REDACTED`ed o`REDACTED`ficial wound, o`REDACTED` condition that goes away quickly.
 
-Stress represents you getting tired or annoyed, taking a superficial wound, or some other condition that goes away quickly.
+You`REDACTED`acte`REDACTED`ess t`REDACTED`ow of th`REDACTED`ess box, the box abso`REDACTED` of shifts equal to its numbe`REDACTED` Box 1, two fo`REDACTED` th`REDACTED` Box 3.
 
-Your character sheet has a stress track, a row of three boxes. When you take a hit and check a stress box, the box absorbs a number of shifts equal to its number: one shift for Box 1, two for Box 2, or three for Box 3.
+You can only check one st`REDACTED` any single hit, but you can check a st`REDACTED` mo`REDACTED`ess box that al`REDACTED`k in it!
 
-You can only check one stress box for any single hit, but you can check a stress box and take one or more consequences at the same time. You can’t check a stress box that already has a check mark in it!
+## What A`REDACTED`e new aspects that you take to `REDACTED`iously hu`REDACTED` cha`REDACTED` sheet has th`REDACTED`e you can w`REDACTED`: 2 (mild consequence), 4 (mode`REDACTED` 6 (seve`REDACTED`ep`REDACTED` of shifts of the hit the consequence abso`REDACTED`k off as many of these as you like to handle a single hit, but only if that slot was blank to sta`REDACTED`eady have a mode`REDACTED`itten down, you can’t take anothe`REDACTED`st one go away!
 
-## What Are Consequences?
-
-Consequences are new aspects that you take to reflect being seriously hurt in some way. Your character sheet has three slots where you can write consequences. Each one is labeled with a number: 2 (mild consequence), 4 (moderate consequence), or 6 (severe consequence). This represents the number of shifts of the hit the consequence absorbs. You can mark off as many of these as you like to handle a single hit, but only if that slot was blank to start with. If you already have a moderate consequence written down, you can’t take another one until you do something to make the first one go away!
-
-A major downside of consequences is that each consequence is a new aspect that your opponents can invoke against you. The more you take, the more vulnerable you are. And just like situation aspects, the character that creates it (in this case, the character that hit you) gets one free invocation on that consequence. They can choose to let one of their allies use the free invocation.
+A majo`REDACTED` opponents can invoke against you. The mo`REDACTED`e vulne`REDACTED`e. And just like situation aspects, the cha`REDACTED` that c`REDACTED`acte`REDACTED`ee invocation on that consequence. They can choose to let one of thei`REDACTED`ee invocation.
 
 ---
 
-Let’s say that you get hit really hard and take a 4-shift hit. You check Box 2 on your stress track, which leaves you with 2 shifts to deal with. If you can’t, you’re taken out, so it’s time for a consequence. You can choose to write a new aspect in the consequence slot labeled 2—say, Sprained Ankle. Those final 2 shifts are taken care of and you can keep fighting!
-
----
-
-If you’re unable to absorb all of a hit’s shifts—by checking a stress box, taking consequences, or both—you’re taken out.
+Let’s say that you get hit `REDACTED`d and take a 4-shift hit. You check Box 2 on you`REDACTED`ess t`REDACTED`e taken out, so it’s time fo`REDACTED`ite a new aspect in the consequence slot labeled 2—say, Sp`REDACTED`e taken ca`REDACTED`e unable to abso`REDACTED`ess box, taking consequences, o`REDACTED`e taken out.
 
 ## What Happens When I Get Taken Out?
 
-If you get taken out, you can no longer act in the scene. Whoever takes you out narrates what happens to you. It should make sense based on how you got taken out—maybe you run from the room in shame, or maybe you get knocked unconscious.
+If you get taken out, you can no longe`REDACTED` takes you out na`REDACTED`ates what happens to you. It should make sense based on how you got taken out—maybe you `REDACTED`om the `REDACTED` maybe you get knocked unconscious.
 
 ## Giving In
 
-If things look grim for you, you can give in (or concede the fight)—but you have to say that’s what you’re going to do before your opponent rolls their dice.
+If things look g`REDACTED` you, you can give in (o`REDACTED`e going to do befo`REDACTED` opponent `REDACTED` dice.
 
-This is different than being taken out, because you get a say in what happens to you. Your opponent gets some major concession from you—talk about what makes sense in your situation—but it beats getting taken out and having no say at all.
-
-Additionally, you get one fate point for conceding, and one fate point for each consequence you took in this conflict. This is your chance to say, “You win this round, but I’ll get you next time!” and get a tall stack of fate points to back it up.
-
-## Getting Better—Recovering from Stress and Consequences
-
-At the end of each scene, clear all of your stress boxes. Recovery from a consequence is a bit more complicated; you need to explain how you recover from it—whether that’s an ER visit, taking a walk to calm down, or whatever makes sense with the consequence. You also need to wait an appropriate length of time.
-
-- Mild consequence: Clear it at the end of the scene, provided you get a chance to rest.
-- Moderate consequence: Clear it at the end of the next session, provided it makes sense within the story.
-- Severe consequence: Clear it at the end of the _scenario_, provided it makes sense within the story.
-
----
-
-**RENAMING MODERATE AND SEVERE CONSEQUENCES**
-
-Moderate and severe consequences stick around for a while. Therefore, at some point you may want to change the name of the aspect to better fit what’s going on in the story. For instance, after you get some medical help, Painful Broken Leg might make more sense if you change it to Hobbling on Crutches.
+This is diffe`REDACTED` opponent gets some majo`REDACTED`om you—talk about what makes sense in you`REDACTED` conceding, and one fate point fo`REDACTED` chance to say, “You win this `REDACTED`—Recove`REDACTED`om St`REDACTED` all of you`REDACTED`ess boxes. Recove`REDACTED`om a consequence is a bit mo`REDACTED`ecove`REDACTED`om it—whethe`REDACTED` whateve`REDACTED`op`REDACTED` it at the end of the scene, p`REDACTED`est.
+- Mode`REDACTED` it at the end of the next session, p`REDACTED`y.
+- Seve`REDACTED` it at the end of the _scena`REDACTED`ovided it makes sense within the sto`REDACTED`ate and seve`REDACTED`ound fo`REDACTED`efo`REDACTED` fit what’s going on in the sto`REDACTED` instance, afte`REDACTED`oken Leg might make mo`REDACTED`utches.
 
 # Aspects and Fate Points  
 
-An aspect is a word or phrase that describes something special about a person, place, thing, situation, or group. Almost anything you can think of can have aspects. A person might be the Greatest Swordswoman on the Cloud Sea. A room might be On Fire after you knock over an oil lamp. After a time-travel encounter with a dinosaur, you might be Terrified. Aspects let you change the story in ways that go along with your character’s tendencies, skills, or problems.
+An aspect is a wo`REDACTED` ph`REDACTED`ibes something special about a pe`REDACTED` g`REDACTED`son might be the G`REDACTED`dswoman on the Cloud Sea. A `REDACTED`e afte`REDACTED` an oil lamp. Afte`REDACTED`avel encounte`REDACTED`, you might be Te`REDACTED`ified. Aspects let you change the sto`REDACTED` cha`REDACTED`’s tendencies, skills, o`REDACTED`oblems.
 
-You spend fate points—which you keep track of with pennies or glass beads or poker chips or some other tokens—to unlock the power of aspects and make them help you. You earn fate points by letting a character aspect be compelled against you to complicate the situation or make your life harder. Be sure to keep track of the fate points you have left at the end of the session—if you have more than your refresh, you start the next session with the fate points you ended this session with.
+You spend fate points—which you keep t`REDACTED` glass beads o`REDACTED` chips o`REDACTED` tokens—to unlock the powe`REDACTED`n fate points by letting a cha`REDACTED` aspect be compelled against you to complicate the situation o`REDACTED` life ha`REDACTED`. Be su`REDACTED`ack of the fate points you have left at the end of the session—if you have mo`REDACTED` `REDACTED`esh, you sta`REDACTED`ned a lot of fate points du`REDACTED` game session, ending the day with five fate points. You`REDACTED`ef`REDACTED`t with five fate points the next time you play. But anothe`REDACTED` ends the same session with just one fate point. His `REDACTED`esh is 3, so he’ll begin the next session with 3 fate points, not just the one he had left ove`REDACTED`e The`REDACTED`e’s an endless va`REDACTED` what they’`REDACTED`k p`REDACTED`ence is how long they stick a`REDACTED`e going away.
 
----
-
-You earned a lot of fate points during your game session, ending the day with five fate points. Your refresh is 2, so you’ll start with five fate points the next time you play. But another player ends the same session with just one fate point. His refresh is 3, so he’ll begin the next session with 3 fate points, not just the one he had left over.
-
----
-
-## What Kinds of Aspects Are There?
-
-There’s an endless variety of aspects, but no matter what they’re called they all work pretty much the same way. The main difference is how long they stick around before going away.
-
-Character Aspects: These aspects are on your character sheet, such as your high concept and trouble. They describe personality traits, important details about your past, relationships you have with others, important items or titles you possess, problems you’re dealing with or goals you’re working toward, or reputations and obligations you carry. These aspects only change under very unusual circumstances; most never will.
-
----
-
-Examples: Captain of the Skyship Nimbus; On the Run From the Knights of the Circle;Attention to Detail; I Must Protect My Brother
+Cha`REDACTED` Aspects: These aspects a`REDACTED` cha`REDACTED` sheet, such as you`REDACTED`ouble. They desc`REDACTED`sonality t`REDACTED`tant details about you`REDACTED`elationships you have with othe`REDACTED`tant items o`REDACTED`oblems you’`REDACTED` goals you’`REDACTED`king towa`REDACTED` `REDACTED``REDACTED` ve`REDACTED`cumstances; most neve`REDACTED`om the Knights of the Ci`REDACTED`otect My B`REDACTED`
 
 ---
 
   
 
-Situation Aspects: These aspects describe the surroundings that the action is taking place in. This includes aspects you create or discover using the create an advantage action. A situation aspect usually vanishes at the end of the scene it was part of, or when someone takes some action that would change or get rid of it. Essentially, they last only as long as the situational element they represent lasts.
+Situation Aspects: These aspects desc`REDACTED``REDACTED`eate o`REDACTED` using the c`REDACTED`t of, o`REDACTED` get `REDACTED`ep`REDACTED`e; B`REDACTED`owd of Ang`REDACTED`ound
 
 ---
 
-Examples: On Fire; Bright Sunlight; Crowd of Angry People; Knocked to the Ground
+To get `REDACTED`come action to eliminate it, p`REDACTED` cha`REDACTED` could accomplish it—dump a bucket of wate`REDACTED`e, use evasive maneuve`REDACTED` that’s On You`REDACTED`y to p`REDACTED`ve the aspect, if they can desc`REDACTED`ep`REDACTED`ies o`REDACTED` lasting t`REDACTED`ibed in Ouch! Damage, St`REDACTED`ained Ankle; Fea`REDACTED`s; Concussion; Debilitating Self-Doubt
 
 ---
 
-To get rid of a situation aspect, you can attempt an overcome action to eliminate it, provided you can think of a way your character could accomplish it—dump a bucket of water on the Raging Fire, use evasive maneuvers to escape the enemy fighter that’s On Your Tail. An opponent may use a Defend action to try to preserve the aspect, if they can describe how they do it.
-
-Consequences: These aspects represent injuries or other lasting trauma that happen when you get hit by attacks. They go away slowly, as described in Ouch! Damage, Stress, and Consequences.
+Boosts: A boost is a tempo`REDACTED`y aspect that you get to use once (see “What Do You Do With Aspects?”next), then it vanishes. Unused boosts vanish when the scene they we`REDACTED`eated in is ove`REDACTED` when the advantage they `REDACTED`esent no longe`REDACTED`ep`REDACTED`y b`REDACTED`s.
 
 ---
 
-Examples: Sprained Ankle; Fear of Spiders; Concussion; Debilitating Self-Doubt
-
----
-
-Boosts: A boost is a temporary aspect that you get to use once (see “What Do You Do With Aspects?”next), then it vanishes. Unused boosts vanish when the scene they were created in is over or when the advantage they represent no longer exists. These represent very brief and fleeting advantages you get in conflicts with others.
-
----
-
-Examples: In My Sights; Distracted; Unstable Footing; Rock in His Boot
-
----
-
-**PVP**  
-
-The only time that fate point might not go to the GM is when you’re in conflict with another player. If you are, and you invoke one of that player’s character aspects to help you out against them, they will get the fate point instead of the GM once the scene is over.
-
----
-
-## What Do You Do With Aspects?
-
-There are three big things you can do with aspects: invoke aspects, compel aspects, and use aspects to establish facts.
+Examples: In My Sights; Dist`REDACTED`e in conflict with anothe`REDACTED`. If you a`REDACTED`’s cha`REDACTED` aspects to help you out against them, they will get the fate point instead of the GM once the scene is ove`REDACTED`e a`REDACTED`ee big things you can do with aspects: invoke aspects, compel aspects, and use aspects to establish facts.
 
 ### Invoking Aspects
 
-You invoke an aspect to give yourself a bonus or make things a bit harder for your opponent. You can invoke any aspect that you a) know about, and b) can explain how you use it to your advantage—including aspects on other characters or on the situation. Normally, invoking an aspect costs you a fate point—hand one of your fate points to the GM. To invoke an aspect, you need to describe how that aspect helps you in your current situation.
-
----
-
-- I attack the zombie with my sword. I know zombies are Sluggish, so that should help me.
-- I really want to scare this guy. I’ve heard he’s Scared of Mice, so I’ll release a mouse in his bedroom.
-- Now that the guard’s Distracted, I should be able to sneak right by him.
-- This spell needs to be really powerful—I’m an Archwizard of the Ancient Order, and powerful spells are my bread and butter.
+You invoke an aspect to give you`REDACTED` make things a bit ha`REDACTED` fo`REDACTED` opponent. You can invoke any aspect that you a) know about, and b) can explain how you use it to you`REDACTED` cha`REDACTED`s o`REDACTED`mally, invoking an aspect costs you a fate point—hand one of you`REDACTED`ibe how that aspect helps you in you`REDACTED``REDACTED`d. I know zombies a`REDACTED`eally want to sca`REDACTED`d he’s Sca`REDACTED`elease a mouse in his bed`REDACTED`d’s Dist`REDACTED`ight by him.
+- This spell needs to be `REDACTED`ful—I’m an A`REDACTED`d of the Ancient O`REDACTED`, and powe`REDACTED`e my b`REDACTED`.
 
 ---
 
@@ -621,359 +312,172 @@ You invoke an aspect to give yourself a bonus or make things a bit harder for 
 
 What does invoking the aspect get you? Choose one of the following effects:
 
-- Add a +2 bonus to your total. This costs a fate point.
-- Reroll the dice. This option is best if you rolled really lousy (usually a −3 or −4 showing on the dice). This costs a fate point.
-- Confront an opponent with the aspect. You use this option when your opponent is trying something and you think an existing aspect would make it harder for them. For instance, an alien thug wants to draw his blaster pistol, but he’s Buried in Debris; you spend a fate point to invoke that aspect, and now your opponent’s level of difficulty is increased by +2.
-- Help an ally with the aspect. Use this option when a friend could use some help and you think an existing aspect would make it easier for them. You spend a fate point to invoke the aspect, and now your friend gets a +2 on their roll.
+- Add a +2 bonus to you`REDACTED`oll the dice. This option is best if you `REDACTED`eally lousy (usually a −3 o`REDACTED`ont an opponent with the aspect. You use this option when you`REDACTED`ying something and you think an existing aspect would make it ha`REDACTED` fo`REDACTED` instance, an alien thug wants to d`REDACTED` pistol, but he’s Bu`REDACTED`is; you spend a fate point to invoke that aspect, and now you`REDACTED`eased by +2.
+- Help an ally with the aspect. Use this option when a f`REDACTED` fo`REDACTED` f`REDACTED` `REDACTED`tant: You can only invoke any aspect once on a given dice `REDACTED`om it. Howeve`REDACTED`al diffe`REDACTED`oll.
 
-Important: You can only invoke any aspect once on a given dice roll; you can’t spend a stack of fate points on one aspect and get a huge bonus from it. However, you can invoke several different aspects on the same roll.
+If you’`REDACTED` `REDACTED`oll you`REDACTED` you’ve `REDACTED`ee invocations: Sometimes you can invoke an aspect fo`REDACTED`ee, without paying a fate point. If you c`REDACTED` discove`REDACTED`ough the c`REDACTED`st invocation on it (by you o`REDACTED`ee (if you succeeded with style, you get two f`REDACTED`ough an attack, you o`REDACTED` f`REDACTED`ants one f`REDACTED`e in a situation whe`REDACTED` being a`REDACTED`tain aspect means you`REDACTED`acte`REDACTED`e d`REDACTED` complicated, anyone can compel the aspect. You can even compel it on you`REDACTED`e the most common way fo`REDACTED`s to ea`REDACTED`e fate points.
 
-If you’re invoking an aspect to add a bonus or reroll your dice, wait until after you’ve rolled to do it. No sense spending a fate point if you don’t need to!
+The`REDACTED`e two types of compels.
 
-Free invocations: Sometimes you can invoke an aspect for free, without paying a fate point. If you create or discover an aspect through the create an advantage action, the first invocation on it (by you or an ally) is free (if you succeeded with style, you get two freebies). If you cause a consequence through an attack, you or an ally can invoke it once for free. A **boost** is a special kind of aspect that grants one free invocation, then it vanishes.
+Decision compels: This so`REDACTED` to a decision you`REDACTED`acte`REDACTED` cha`REDACTED` is P`REDACTED`ia, fo`REDACTED`ian Castle `REDACTED` than fleeing to safety. O`REDACTED`eak a Mile Wide, maybe you can’t help but mouth off to the Dean of Discipline when he questions you.
 
-### Compelling Aspects
+Event compels: Othe`REDACTED`eflects something happening that makes life mo`REDACTED` you. If you have St`REDACTED`se that spell you’`REDACTED`king on in class accidentally tu`REDACTED` Potions Maste`REDACTED` o`REDACTED`, then Don Valdeon shows up and demands that you pe`REDACTED`m a se`REDACTED` him just when it’s least convenient.
 
-If you’re in a situation where having or being around a certain aspect means your character’s life is more dramatic or complicated, anyone can compel the aspect. You can even compel it on yourself—that’s called a self-compel. Compels are the most common way for players to earn more fate points.
+In any case, when an aspect is compelled against you, the pe`REDACTED`s you a fate point and suggests that the aspect has a ce`REDACTED`tain decision o`REDACTED`ticula`REDACTED`. You can discuss it back and fo`REDACTED`oposing tweaks o`REDACTED` a moment o`REDACTED` to accept the compel. If you ag`REDACTED` cha`REDACTED` makes the suggested decision o`REDACTED`efuse, you must pay a fate point f`REDACTED` own supply. Yes, this means that if you don’t have any fate points, you can’t `REDACTED`ack fate points fo`REDACTED`. Sta`REDACTED` PC that’s in the scene. Spend fate points f`REDACTED`ease the size of you`REDACTED` compels one of an NPC’s aspects, add the fate point to you`REDACTED` when an NPC gives in, instead add those fate points to you`REDACTED`t of the next scene.
 
-There are two types of compels.
+Fate points you awa`REDACTED` compels do NOT come f`REDACTED` have to wo`REDACTED`y about `REDACTED`d fo`REDACTED`oll dice, o`REDACTED`tue of having the aspect Ruddy Duck’s Pilot, you’ve established that you`REDACTED`acte`REDACTED`tal Enemy: The Red Ninjas establishes that the setting has an o`REDACTED`e afte`REDACTED` some `REDACTED`ce`REDACTED` of the Myste`REDACTED`cle, you not only establish that the`REDACTED`oup of so`REDACTED`e`REDACTED`ious Ci`REDACTED`fo`REDACTED`e you do it in coope`REDACTED` playe`REDACTED`ally b`REDACTED`ough an aspect. Make su`REDACTED`ough you`REDACTED` eve`REDACTED`e mainly talking about cha`REDACTED` and situation aspects he`REDACTED`t you—when it would be compelled against you.
 
-Decision compels: This sort of compel suggests the answer to a decision your character has to make. If your character is Princess of Alaria, for example, you may need to stay to lead the defense of the Royal Alarian Castle rather than fleeing to safety. Or if you have a Defiant Streak a Mile Wide, maybe you can’t help but mouth off to the Dean of Discipline when he questions you.
+Fo`REDACTED`ove you`REDACTED` dislike fo`REDACTED`y to get him.
 
-Event compels: Other times a compel reflects something happening that makes life more complicated for you. If you have Strange Luck, of course that spell you’re working on in class accidentally turns the dour Potions Master’s hair orange. If you Owe Don Valdeon a Favor, then Don Valdeon shows up and demands that you perform a service for him just when it’s least convenient.
+Hai`REDACTED`igge`REDACTED`ves
 
-In any case, when an aspect is compelled against you, the person compelling it offers you a fate point and suggests that the aspect has a certain effect—that you’ll make a certain decision or that a particular event will occur. You can discuss it back and forth, proposing tweaks or changes to the suggested compel. After a moment or two, you need to decide whether to accept the compel. If you agree, you take the fate point and your character makes the suggested decision or the event happens. If you refuse, you must pay a fate point from your own supply. Yes, this means that if you don’t have any fate points, you can’t refuse a compel!
-
----
-
-**How Many Fate Points Does the GM Get?**
-
-As GM, you don’t need to track fate points for each NPC, but that doesn’t mean you get an unlimited number. Start each scene with a pool of one fate point per PC that’s in the scene. Spend fate points from this pool to invoke aspects (and consequences) against the PCs. When it’s empty, you can’t invoke aspects against them.
-
-How can you increase the size of your pool? When a player compels one of an NPC’s aspects, add the fate point to your pool. If that compel ends the scene, or when an NPC gives in, instead add those fate points to your pool at the start of the next scene.
-
-Fate points you award for compels do NOT come from this pool. You never have to worry about running out of fate points to award for compels.
-
----
-
-### Establishing Facts
-
-The final thing that aspects can do is establish facts in the game. You don’t have to spend any fate points, roll dice, or anything to make this happen—just by virtue of having the aspect Ruddy Duck’s Pilot, you’ve established that your character is a pilot and that you fly a plane named the Ruddy Duck. Having the aspect Mortal Enemy: The Red Ninjas establishes that the setting has an organization called the Red Ninjas and that they’re after you for some reason. If you take the aspect Sorcerer of the Mysterious Circle, you not only establish that there’s a group of sorcerers called the Mysterious Circle, but that magic exists in the setting and that you can perform it.
-
-When you establish facts of the setting this way, make sure you do it in cooperation with other players. If most people want to play in a setting without magic, you shouldn’t unilaterally bring magic into it through an aspect. Make sure that the facts you establish through your aspects make the game fun for everyone.
-
-  
-
-## Composing Good Aspects
-
-  
-
-When you need to think of a good aspect (we’re mainly talking about character and situation aspects here), think about two things:
-
-- How the aspect might help you—when you’d invoke it.
-- How it might hurt you—when it would be compelled against you.
-
-For example:
-
----
-
-I’ll Get You, von Stendahl!
-
-- Invoke this when acting against von Stendahl to improve your chances.
-- Get a fate point when your dislike for von Stendahl makes you do something foolish to try to get him.
-
-Hair Trigger Nerves
-
-- Invoke this when being extra vigilant and careful would help you.
-- Get a fate point when this causes you to be jumpy and be distracted by threats that aren’t really there.
-
----
-
-Obviously, your trouble aspect is supposed to cause problems—and thereby make your character’s life more interesting and get you fate points—so it’s okay if that one’s a little more one-dimensional, but other character and situation aspects should be double-edged.
+- Invoke this when being ext`REDACTED`eful would help you.
+- Get a fate point when this causes you to be jumpy and be dist`REDACTED`eats that a`REDACTED`eally the`REDACTED` t`REDACTED`oblems—and the`REDACTED` cha`REDACTED`’s life mo`REDACTED`esting and get you fate points—so it’s okay if that one’s a little mo`REDACTED` cha`REDACTED` and situation aspects should be double-edged.
 
 # Stunts  
 
-Stunts are tricks, maneuvers, or techniques your character has that change how an approach works for your character. Generally this means you get a bonus in certain situations, but sometimes it gives you some other ability or characteristic. A stunt can also reflect specialized, high-quality, or exotic equipment that your character has access to that gives them a frequent edge over other characters.
+Stunts a`REDACTED`icks, maneuve`REDACTED` techniques you`REDACTED`acte`REDACTED`oach wo`REDACTED` you`REDACTED`acte`REDACTED`ally this means you get a bonus in ce`REDACTED` ability o`REDACTED`acte`REDACTED`eflect specialized, high-quality, o`REDACTED` cha`REDACTED` has access to that gives them a f`REDACTED` othe`REDACTED`acte`REDACTED`e’s no definitive list of stunts that you pick f`REDACTED`yone composes thei`REDACTED`e a`REDACTED` stunts, so you do have something to wo`REDACTED`om.
 
-There’s no definitive list of stunts that you pick from; much like aspects, everyone composes their own stunts. There are two basic templates to guide you in composing your stunts, so you do have something to work from.
+The fi`REDACTED`tain app`REDACTED`tain situation. Use this template:
 
-The first type of stunt gives you a +2 bonus when you use a certain approach in a certain situation. Use this template:
-
-Because I [describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesome], I get a +2 when I [pick one: Carefully, Cleverly, Flashily, Forcefully, Quickly, Sneakily][pick one: attack, defend, create advantages, overcome] when [describe a circumstance].
-
-For example:
+Because I [desc`REDACTED`e exceptional, have a cool bit of gea`REDACTED` a`REDACTED`wise awesome], I get a +2 when I [pick one: Ca`REDACTED`ly, Flashily, Fo`REDACTED`eate advantages, ove`REDACTED`ibe a ci`REDACTED` example:
 
 ---
 
-- Because I am a Smooth Talker, I get a +2 when I Sneakily create advantages when I’m in conversation with someone.
-- Because I am a Lover of Puzzles, I get a +2 when I Cleverly overcome obstacles when I am presented with a puzzle, riddle, or similar conundrum.
-- Because I am a World-Class Duelist, I get a +2 when I Flashily attack when engaged in a one-on-one swordfight.
-- Because I have a Big Kite Shield, I get a +2 when I Forcefully defend when I use my shield in close combat.
+- Because I am a Smooth Talke`REDACTED`eate advantages when I’m in conve`REDACTED` of Puzzles, I get a +2 when I Cleve`REDACTED`come obstacles when I am p`REDACTED`iddle, o`REDACTED` conund`REDACTED`ld-Class Duelist, I get a +2 when I Flashily attack when engaged in a one-on-one swo`REDACTED`cefully defend when I use my shield in close combat.
 
 ---
 
-Sometimes, if the circumstance is especially restrictive, you can apply the stunt to both the create an advantage action and the overcome action.
+Sometimes, if the ci`REDACTED`est`REDACTED`eate an advantage action and the ove`REDACTED`ue, do something cool, o`REDACTED`wise igno`REDACTED`ules in some way. Use this template:
 
-The second type of stunt lets you make something true, do something cool, or otherwise ignore the usual rules in some way. Use this template:
+Because I [desc`REDACTED`e exceptional, have a cool bit of gea`REDACTED` a`REDACTED`wise awesome], once pe`REDACTED`ibe something cool you can do].
 
-Because I [describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesome], once per game session I can [describe something cool you can do].
+Fo`REDACTED` game session I can find a helpful ally in just the `REDACTED`aw, once pe`REDACTED`st in a physical conflict.
+- Because I can Run Ci`REDACTED`ound a Leopa`REDACTED` game session I can show up anywhe`REDACTED`ovided I could `REDACTED`e, no matte`REDACTED`e I sta`REDACTED`ucted, but don’t feel const`REDACTED`ead mo`REDACTED`uction of stunts, see Skills and Stunts in Fate Co`REDACTED` at Doing Stuff: Cha`REDACTED` Advancement
 
-For example:
-
----
-
-- Because I am Well Connected, once per game session I can find a helpful ally in just the right place.
-- Because I am Quick on the Draw, once per game session I can choose to go first in a physical conflict.
-- Because I can Run Circles Around a Leopard, once per game session I can show up anywhere I want to, provided I could run there, no matter where I started.
-
----
-
-These templates exist to give you an idea of how stunts should be constructed, but don’t feel constrained to follow them exactly if you have a good idea. If you’d like to read more about the construction of stunts, see Skills and Stunts in Fate Core.
-
-# Getting Better at Doing Stuff: Character Advancement
-
-People change. Your skills sharpen as you practice them. Your life experiences accumulate and shape your personality. Fate Accelerated Edition reflects that with character advancement, which allows you to change your aspects, add or change stunts, and raise your approach bonuses. You do this when your character reaches a milestone.
+People change. You`REDACTED`pen as you p`REDACTED` life expe`REDACTED` pe`REDACTED`ated Edition `REDACTED`acte`REDACTED` aspects, add o`REDACTED`aise you`REDACTED`oach bonuses. You do this when you`REDACTED`acte`REDACTED`eaches a milestone.
 
 ## Milestones
 
-Stories in TV shows, comic books, movies, and even video games usually continue from episode to episode, season to season. It took Frodo three big books to take the Ring to the fiery mountain. It took Aang three seasons to defeat the Fire Lord. You get the idea. FAE can tell those kinds of stories; you play many game sessions in a row using the same characters—this is often called a campaign—and the story builds on itself. But within these long stories, there are shorter story arcs, like single episodes of a TV show or single issues of a comic, where shorter stories are told and wrapped up. FAE can do that too, even within a longer campaign.
+Sto`REDACTED`om episode to episode, season to season. It took F`REDACTED`ee big books to take the Ring to the fie`REDACTED`ee seasons to defeat the Fi`REDACTED`d. You get the idea. FAE can tell those kinds of sto`REDACTED`ow using the same cha`REDACTED`s—this is often called a campaign—and the sto`REDACTED`ies, the`REDACTED`e sho`REDACTED` sto`REDACTED`cs, like single episodes of a TV show o`REDACTED`e sho`REDACTED` sto`REDACTED`e told and w`REDACTED` campaign.
 
-In FAE, we call those wrap-ups milestones—whether they’re small ones for short stories, or really big ones at the end of many sessions of play. FAE recognizes three types of milestones, and each one allows you to change your character in certain ways.
+In FAE, we call those w`REDACTED` they’`REDACTED` sho`REDACTED`ies, o`REDACTED`eally big ones at the end of many sessions of play. FAE `REDACTED`ee types of milestones, and each one allows you to change you`REDACTED`acte`REDACTED`tain ways.
 
-### Minor Milestones
+### Mino`REDACTED` milestone usually occu`REDACTED` when one piece of a sto`REDACTED`esolved. Rathe`REDACTED` cha`REDACTED` mo`REDACTED`ful, this kind of milestone is mo`REDACTED` cha`REDACTED`, about adjusting in `REDACTED`’s going on in the sto`REDACTED`eally make sense to take advantage of a mino`REDACTED`tunity in case you need to.
 
-A minor milestone usually occurs at the end of a session of play, or when one piece of a story has been resolved. Rather than making your character more powerful, this kind of milestone is more about changing your character, about adjusting in response to whatever’s going on in the story if you need to. Sometimes it won’t really make sense to take advantage of a minor milestone, but you always have the opportunity in case you need to.
+Afte`REDACTED` milestone, you can choose to do one (and only one) of the following:
 
-After a minor milestone, you can choose to do one (and only one) of the following:
+- Switch the `REDACTED`oaches.
+- Rename one aspect that isn’t you`REDACTED` a diffe`REDACTED` `REDACTED`esh, if you al`REDACTED`ee stunts).
 
-- Switch the ratings of any two approaches.
-- Rename one aspect that isn’t your high concept.
-- Exchange one stunt for a different stunt.
-- Choose a new stunt (and adjust your refresh, if you already have three stunts).
-
-Also, if you have a moderate consequence, check to see if it’s been around for two sessions. If so, you can clear it.
+Also, if you have a mode`REDACTED`ound fo`REDACTED` it.
 
 ### Significant Milestones
 
   
 
-A significant milestone usually occurs at the end of a scenario or the conclusion of a big plot event (or, when in doubt, at the end of every two or three sessions). Unlike minor milestones, which are primarily about change, significant milestones are about learning new things—dealing with problems and challenges has made your character generally more capable at what they do.
+A significant milestone usually occu`REDACTED`io o`REDACTED`, when in doubt, at the end of eve`REDACTED` th`REDACTED` milestones, which a`REDACTED`ima`REDACTED`e about lea`REDACTED`oblems and challenges has made you`REDACTED`acte`REDACTED`ally mo`REDACTED` milestone, you also gain both of the following:
 
-In addition to the benefit of a minor milestone, you also gain both of the following:
-
-- If you have a severe consequence that’s been around for at least two sessions, you can clear it.
-- Raise the bonus of one approach by one.
+- If you have a seve`REDACTED`ound fo`REDACTED` it.
+- Raise the bonus of one app`REDACTED`aise the bonus of an app`REDACTED`e’s only one `REDACTED`emembe`REDACTED`aise an app`REDACTED`b (+5).
 
 ---
 
-**RAISING APPROACH BONUSES**
+### Majo`REDACTED` milestones should only occu`REDACTED`y a`REDACTED` any othe`REDACTED`ge-scale change that `REDACTED`be`REDACTED`ound you`REDACTED`ld.
 
-When you raise the bonus of an approach, there’s only one rule you need to remember: you can’t raise an approach bonus above Superb (+5).
+These milestones a`REDACTED`e powe`REDACTED`day simply a`REDACTED`eaten these cha`REDACTED`s anymo`REDACTED`eats of tomo`REDACTED`ow will need to be mo`REDACTED`ganized, and dete`REDACTED` milestone confe`REDACTED` milestone. In addition, you may do all of the following:
 
----
-
-### Major Milestones
-
-Major milestones should only occur when something happens in the campaign that shakes it up a lot—the end of a big story arc, the final defeat of a main NPC villain, or any other large-scale change that reverberates around your game world.
-
-These milestones are about gaining more power. The challenges of yesterday simply aren’t sufficient to threaten these characters anymore, and the threats of tomorrow will need to be more adept, organized, and determined to stand against them.
-
-Achieving a major milestone confers the benefits of a significant milestone and a minor milestone. In addition, you may do all of the following:
-
-- Take an additional point of refresh, which you may immediately use to purchase a stunt if you wish.
-- Rename your character’s high concept (optional).
+- Take an additional point of `REDACTED`esh, which you may immediately use to pu`REDACTED` cha`REDACTED`’s high concept (optional).
 - # Being the GM
     
-    The GM has many responsibilities, such as presenting the conflict to the players, controlling NPCs, and helping everyone apply the rules to the situation in the game.
+    The GM has many `REDACTED`esenting the conflict to the playe`REDACTED`olling NPCs, and helping eve`REDACTED`ules to the situation in the game.
     
     Let’s talk about the GM’s jobs.
     
     ## Help Build Campaigns
     
-    A campaign is a series of games you play with the same characters, where the story builds on what happened in earlier sessions. All the players should collaborate with the GM to plan how the campaign will work. Usually this is a conversation among all of you to decide what sort of heroes you want to play, what sort of world you live in, and what sorts of bad guys you’ll have. Talk about how serious you want the game to be and how long you want it to last.
-    
-    ---
-    
-    - Cat-people sky pirates in flying ships, always on the run from the Royal Navy trying to catch them.
-    - Magic-wielding desert townsfolk stand against the invading soldiers of the evil Steel Empire.
-    - Students at a boarding school for magical youth solve mysteries and uncover secrets of their ancient school.
+    A campaign is a se`REDACTED`acte`REDACTED`e the sto`REDACTED`lie`REDACTED`s should collabo`REDACTED`k. Usually this is a conve`REDACTED`t of he`REDACTED`t of wo`REDACTED`ts of bad guys you’ll have. Talk about how se`REDACTED`ates in flying ships, always on the `REDACTED`om the Royal Navy t`REDACTED`t townsfolk stand against the invading soldie`REDACTED`e.
+    - Students at a boa`REDACTED` magical youth solve myste`REDACTED` sec`REDACTED` ancient school.
     
     ---
     
     **LEARNING HOW TO BE A GM**
     
-    Being a GM and running games can seem intimidating and difficult at first. It’s a skill that takes some practice to master, so don’t worry—you’ll get better the more you do it. If you’d like to read more about the art of GMing Fate, there are several chapters in the Fate Core rules that you should check out: Running the Game, Scenes, Sessions, and Scenarios, and The Long Game are particularly helpful. Fate Core is available for free at _www.evilhat.com_.
+    Being a GM and `REDACTED`st. It’s a skill that takes some p`REDACTED`, so don’t wo`REDACTED`y—you’ll get bette`REDACTED`e you do it. If you’d like to `REDACTED`e about the a`REDACTED`e a`REDACTED`al chapte`REDACTED`e `REDACTED`ios, and The Long Game a`REDACTED`ticula`REDACTED`e is available fo`REDACTED`ee at _www.evilhat.com_.
     
     ---
     
       
     
-    ## Build Scenarios and Run Game Sessions
+    ## Build Scena`REDACTED`io is one sho`REDACTED`y a`REDACTED`t of thing you might see w`REDACTED` two episodes of an adventu`REDACTED` pa`REDACTED` sto`REDACTED`ap up a scena`REDACTED`ee game sessions, assuming you play fo`REDACTED`ee o`REDACTED` hou`REDACTED`io, and how do you build one?
     
-    A scenario is one short story arc, the sort of thing you might see wrapped up in one or two episodes of an adventure television show, even if it’s a smaller part of a bigger story. Usually you can wrap up a scenario in one to three game sessions, assuming you play for three or four hours at a time. But what is a scenario, and how do you build one?
+    ### Scena`REDACTED`io needs two things: A bad guy with a goal, and a `REDACTED`e it.
     
-    ### Scenarios
+    Bad guy with a goal: You’ve p`REDACTED`ed this out al`REDACTED` one of his allies, is p`REDACTED` bad guy.
     
-    A scenario needs two things: A bad guy with a goal, and a reason the PCs can’t ignore it.
-    
-    Bad guy with a goal: You’ve probably figured this out already. The campaign’s main opposition, or one of his allies, is probably your bad guy.
-    
-    Something the PCs can’t ignore: Now you have to give the PCs a reason to care. Make sure the bad guy’s goal is up in the PCs’ faces, where they need to do something about it or bad things will happen to them, or to people or things they value.
+    Something the PCs can’t igno`REDACTED`eason to ca`REDACTED`e the bad guy’s goal is up in the PCs’ faces, whe`REDACTED` bad things will happen to them, o`REDACTED` things they value.
     
     ### Running Game Sessions
     
-    Now that your bad guy is doing something the PCs will pay attention to, it’s time to start them off. Sometimes the best way to do that, especially for the first session of a new story arc, is to put them right in the action. Once the PCs know why they should care about what’s going on, you just get out of the way and let them take care of it.
+    Now that you`REDACTED`t them off. Sometimes the best way to do that, especially fo`REDACTED`st session of a new sto`REDACTED`c, is to put them `REDACTED`e about what’s going on, you just get out of the way and let them take ca`REDACTED`e a`REDACTED`fo`REDACTED`un the session:
     
-    That said, there are a bunch of tasks the GM needs to perform to run the session:
-    
-    - Run scenes: A session is made up of individual scenes. Decide where the scene begins, who’s there, and what’s going on. Decide when all the interesting things have played out and the scene’s over.
-    - Adjudicate the rules: When some question comes up about how to apply the rules, you get final say.
+    - Run scenes: A session is made up of individual scenes. Decide whe`REDACTED`e, and what’s going on. Decide when all the inte`REDACTED`.
+    - Adjudicate the `REDACTED`ules, you get final say.
     - Set difficulties: You decide how difficult tasks should be.
-    - Play the NPCs: Each player controls their own character, but you control all the rest, including the bad guys.
-    - Keep things moving: If the players don’t know what to do next, it’s your job to give them a nudge. Never let things get too bogged down in indecision or because they don’t have enough information—do something to shake things up.
-    - Make sure everyone has a chance to be awesome: Your goal isn’t to defeat the players, but to challenge them. Make sure every PC gets a chance to be the star once in a while, from the big bad warrior to the little sneaky thief.
+    - Play the NPCs: Each playe`REDACTED`ols thei`REDACTED`acte`REDACTED`ol all the `REDACTED`s don’t know what to do next, it’s you`REDACTED` let things get too bogged down in indecision o`REDACTED`mation—do something to shake things up.
+    - Make su`REDACTED`yone has a chance to be awesome: You`REDACTED`s, but to challenge them. Make su`REDACTED`y PC gets a chance to be the sta`REDACTED`om the big bad wa`REDACTED`io`REDACTED` cha`REDACTED` is opposing a PC, thei`REDACTED`olls p`REDACTED` challenge. But if the`REDACTED`d the task is.
     
-      
+    Low difficulties a`REDACTED` thei`REDACTED`oach `REDACTED`e best when you want to p`REDACTED`whelm them. High difficulties a`REDACTED`e o`REDACTED`cumstances a`REDACTED`y tough at all, give it a Medioc`REDACTED` just tell the playe`REDACTED`oll.
+    - If you can think of at least one `REDACTED` (+2).
+    - If the task is ext`REDACTED`eat (+4).
+    - If the task is impossibly difficult, go as high as you think makes sense. The PC will need to d`REDACTED`eful makes things a lot easie`REDACTED`get numbe`REDACTED` down by 1 o`REDACTED` you choose a fitting o`REDACTED`oblematic app`REDACTED`e complex, but fo`REDACTED`oups it’s wo`REDACTED`oaches, aspects, st`REDACTED` impo`REDACTED` `REDACTED``REDACTED`e intended to give the PCs some `REDACTED`e than one o`REDACTED`io.
     
-    ## Setting Difficulty Levels
+    Mooks: Othe`REDACTED`e mooks—unnamed thugs o`REDACTED`s o`REDACTED`e the`REDACTED`e difficult, but they’`REDACTED`e o`REDACTED`ful PCs. He`REDACTED`eate thei`REDACTED`olls dealing with these things.
+    2. Make a list of what this mook is bad at. They get a −2 to all `REDACTED`ything else gets a +0 when `REDACTED` two to `REDACTED`ce what they’`REDACTED` if they have a pa`REDACTED` st`REDACTED` vulne`REDACTED`e `REDACTED`o, one, o`REDACTED` st`REDACTED`ack, depending on how tough you imagine them to be.
+    6. Mooks can’t take consequences. If they `REDACTED`ess boxes (o`REDACTED`dly Without Backup
     
-      
-    
-    When another character is opposing a PC, their rolls provide the opposition in a conflict, contest, or challenge. But if there’s no active opposition, you have to decide how hard the task is.
-    
-    Low difficulties are best when you want to give the PCs a chance to show off and be awesome.Difficulties near their approach ratings are best when you want to provide tension but not overwhelm them. High difficulties are best when you want to emphasize how dire or unusual the circumstances are and make them pull out all the stops.
-    
-    ### Rules of Thumb:
-    
-    - If the task isn’t very tough at all, give it a Mediocre (+0)—or just tell the player they succeed without a roll.
-    - If you can think of at least one reason why the task is tough, pick Fair (+2).
-    - If the task is extremely difficult, pick Great (+4).
-    - If the task is impossibly difficult, go as high as you think makes sense. The PC will need to drop some fate points and get lots of help to succeed, but that’s fine.
-    
-    ---
-    
-    **OPTIONAL RULE: APPROACH-RELATED TARGET NUMBERS**
-    
-    Sometimes being Careful makes things a lot easier; sometimes it just takes too long. The GM may wish to adjust the target number up or down by 1 or 2 depending on whether you choose a fitting or a problematic approach. This makes things a bit more complex, but for some groups it’s worth it.
-    
-    ---
-    
-    ## Bad Guys
-    
-    When you make a bad guy, you can stat them out exactly like the PCs, with approaches, aspects, stress, and consequences. You should do this for important or recurring bad guys who are intended to give the PCs some real difficulties, but you shouldn’t need more than one or two of these in a scenario.
-    
-    Mooks: Other bad guys are mooks—unnamed thugs or monsters or goons that are there to make the PCs’ day a little more difficult, but they’re designed to be more or less easily swept aside, especially by powerful PCs. Here’s how you create their stats:
-    
-    1. Make a list of what this mook is skilled at. They get a +2 to all rolls dealing with these things.
-    2. Make a list of what this mook is bad at. They get a −2 to all rolls dealing with these things.
-    3. Everything else gets a +0 when rolled.
-    4. Give the mook an aspect or two to reinforce what they’re good and bad at, or if they have a particular strength or vulnerability. It’s okay if a mook’s aspects are really simple.
-    5. Mooks have zero, one, or two boxes in their stress track, depending on how tough you imagine them to be.
-    6. Mooks can’t take consequences. If they run out of stress boxes (or don’t have any), the next hit takes them down.
-    
-      
-    
-    ---
-    
-    **CYCLOPS HOUSE BULLY**
-    
-    Cyclops House Bully, Cowardly Without Backup
-    
-    Skilled (+2) at: Frightening other students, weaseling out of trouble, breaking things
+    Skilled (+2) at: F`REDACTED` students, weaseling out of t`REDACTED`eaking things
     
     Bad (-2) at: Planning, studying
     
-    Stress: None (first hit takes them out)
+    St`REDACTED`st hit takes them out)
     
     ---
     
     **STEEL ASSASSIN**
     
-    Steel Assassin, The Night Is Ours
+    Steel Assassin, The Night Is Ou`REDACTED`mined opposition
     
-    Skilled (+2) at: Sneaking, ambushing
+    St`REDACTED`k, Vulne`REDACTED` biting
     
-    Bad (-2) at: Standing up to determined opposition
+    St`REDACTED`oups of Mooks: If you have a lot of low-level bad guys facing the PCs, you can make you`REDACTED` by t`REDACTED`oup—o`REDACTED`oups. Instead of t`REDACTED`ack th`REDACTED`oups of fou`REDACTED`oups acts like a single cha`REDACTED` and has a set of stats just like a single mook would: 
     
-    Stress: O
+    1. Choose a couple of things they’`REDACTED`oup is good at.
+    2. Choose a couple of things they’`REDACTED`ess box fo`REDACTED`y two individuals in the g`REDACTED`owba`REDACTED`ing innocent people
     
-    ---
-    
-    **SKY SHARK**
-    
-    I’m a Shark, Vulnerable Belly
-    
-    Skilled (+2) at: Flying, biting
-    
-    Bad (-2) at: Anything that isn’t flying or biting
-    
-    Stress: OO
+    Bad (-2) at: Thinking ahead, fighting when outnumbe`REDACTED`ess: **O** **O** (4 thugs)
     
     ---
     
-      
+    Fate Co`REDACTED`eating the Opposition” section of theRunning the Game chapte`REDACTED`e). Feel f`REDACTED`efe`REDACTED`y st`REDACTED`t with ext`REDACTED` PCs a se`REDACTED`acte`REDACTED`e a`REDACTED` sample cha`REDACTED`s that you can use as-is o`REDACTED`ation fo`REDACTED` own cha`REDACTED`s.
     
-    Groups of Mooks: If you have a lot of low-level bad guys facing the PCs, you can make your job easier by treating them as a group—or maybe a few groups. Instead of tracking a dozen bad guys, you track three groups of four bad guys each. Each of these groups acts like a single character and has a set of stats just like a single mook would: 
+    ## Reth of the And`REDACTED`s of age. He has da`REDACTED`own skin and da`REDACTED` that he wea`REDACTED`eadlocks. He wea`REDACTED`tial a`REDACTED`ful Suncalle`REDACTED`n in gene`REDACTED`th the powe`REDACTED`e. O`REDACTED`om a town in the vast And`REDACTED`t, he and his f`REDACTED`e and have been living on the `REDACTED` of the And`REDACTED`t
     
-    1. Choose a couple of things they’re skilled at. You might designate “ganging up” as one of the things the group is good at.
-    2. Choose a couple of things they’re not so good at.
-    3. Give them an aspect. 
-    4. Give them one stress box for every two individuals in the group. 
-    
-    ---
-    
-    GANG OF THUGS
-    
-    Axe Handles & Crowbars
-    
-    Skilled (+2) at: Ganging up, scaring innocent people
-    
-    Bad (-2) at: Thinking ahead, fighting when outnumbered
-    
-    Stress: **O** **O** (4 thugs)
-    
-    ---
-    
-    Fate Core has a way of handling this, called mobs (see the “Creating the Opposition” section of theRunning the Game chapter in Fate Core). Feel free to use that option if you prefer. Note that it may lead to very strong mobs, unless you start with extremely weak mooks—if you want to give your PCs a serious challenge, that could be one way to do it.
-    
-    # Example Characters
-    
-    Here are four sample characters that you can use as-is or use as inspiration for your own characters.
-    
-    ## Reth of the Andrali Resistance
-    
-    Reth is 14 years of age. He has dark brown skin and dark hair that he wears in thick dreadlocks. He wears light, loose-fitting clothing and sandals, and he’s a skilled martial artist. He’s the most powerful Suncaller to be born in generations; he can magically call forth the power of fire. Originally from a town in the vast Andral Desert, he and his friends took a stand against the invading Steel Empire and have been living on the run since.
-    
-      
-    
-    ---
-    
-    RETH
-    
-    High Concept:  
-    Suncaller of the Andral Desert
-    
-    Trouble: Steel Assassins Want Me Dead
-    
-    Other Aspects: My Kung Fu Is The Strongest; Crush On Avasa; I Can Learn from Serio’s Experience
+    T`REDACTED` Aspects: My Kung Fu Is The St`REDACTED`ush On Avasa; I Can Lea`REDACTED`om Se`REDACTED`ience
     
     APPROACHES
     
-    Careful: Fair (+2)
+    Ca`REDACTED` (+2)
     
-    Clever: Average (+1)
+    Cleve`REDACTED`age (+1)
     
-    Flashy: Mediocre (+0)
+    Flashy: Medioc`REDACTED`ceful: Good (+3)
     
-    Forceful: Good (+3)
-    
-    Quick: Fair (+2)
-    
-    Sneaky: Average (+1)
+    Quick: Fai`REDACTED`age (+1)
     
     STUNTS
     
-    Stance of the Defiant Sun: Because I have perfected the Stance of the Defiant Sun, I gain a +2 to Forcefully defend in hand-to-hand combat. (May take two more stunts without reducing refresh!)
+    Stance of the Defiant Sun: Because I have pe`REDACTED`cefully defend in hand-to-hand combat. (May take two mo`REDACTED`educing `REDACTED`esh!)
     
     STRESS **O** **O** **O**
     
@@ -981,46 +485,40 @@ Achieving a major milestone confers the benefits of a significant milestone and
     
     Mild (2):
     
-    Moderate (4):
-    
-    Severe (6):
+    Mode`REDACTED`e (6):
     
     REFRESH: 3
     
-    ## Voltaire
+    ## Voltai`REDACTED`e is captain of the Ci`REDACTED`us Skimme`REDACTED`oams a vast sea of clouds. She’s a cat pe`REDACTED` body a blend of human and feline featu`REDACTED`s an ostentatious asso`REDACTED`atey clothes including a long b`REDACTED`ed cap, and a basket-hilted cutlass. Being a cat pe`REDACTED``REDACTED`
     
-    Voltaire is captain of the Cirrus Skimmer, a skyship that roams a vast sea of clouds. She’s a cat person, her body a blend of human and feline features. She wears an ostentatious assortment of piratey clothes including a long brown jacket, knee-high boots, a feathered cap, and a basket-hilted cutlass. Being a cat person, she does have the tendency to nod off at odd moments…
-    
-      
-    
-    ---
-    
-    VOLTAIRE
-    
-    High Concept:  
-    Feline Captain of Cirrus Skimmer
-    
-    Trouble: *Yawn*
-    
-    Other Aspects: That? Oh, That’s a Decoy; Martin Is a Big Cheat; Sanchez Is the Best First Mate a Ship Could Have
+    T`REDACTED` Aspects: That? Oh, That’s a Decoy; Ma`REDACTED`st Mate a Ship Could Have
     
     APPROACHES:
     
-    Careful: Average (+1)
+    Ca`REDACTED`age (+1)
     
-    Clever: Average (+1)
+    Cleve`REDACTED`age (+1)
     
     Flashy: Good (+3)
     
-    Forceful: Mediocre (+0)
+    Fo`REDACTED`e (+0)
     
-    Quick: Fair (+2)
-    
-    Sneaky: Fair (+2)
+    Quick: Fai`REDACTED` (+2)
     
     STUNTS
     
-    Swashbuckling Swordswoman: Because I am a Swashbuckling Swordswoman, I gain a +2 to Flashy attacks when crossing blades with a single opponent. (May take two more stunts without reducing refresh!)
+    Swashbuckling Swo`REDACTED`dswoman, I gain a +2 to Flashy attacks when c`REDACTED`e stunts without `REDACTED`ef`REDACTED`ate (4):
+    
+    Seve`REDACTED`ce`REDACTED` of Hippog`REDACTED` with a pink st`REDACTED` luck with he`REDACTED`m, adding jewel`REDACTED`egulation blouse, t`REDACTED`s, and tie. She’s especially adept at enchantments. While she loves showing up those goons in Cyclops House, she does have a tendency to act befo`REDACTED`iff House
+    
+    T`REDACTED`
+    
+    Othe`REDACTED`ah Has My Back;  
+    Dexte`REDACTED`eful: Medioc`REDACTED`: Fai`REDACTED`age (+1)
+    
+    Fo`REDACTED` (+2)
+    
+    Quick: Ave`REDACTED`’s Favo`REDACTED`’s Favo`REDACTED` session I may decla`REDACTED` a`REDACTED`ives in the scene. (May take two mo`REDACTED`educing `REDACTED`esh!)
     
     STRESS **O** **O** **O**
     
@@ -1028,63 +526,13 @@ Achieving a major milestone confers the benefits of a significant milestone and
     
     Mild (2):
     
-    Moderate (4):
-    
-    Severe (6):
-    
-    REFRESH: 3
-    
-    ## Abigail Zhao
-    
-    Abigail is a student at the School of Sorcery, and a member of Hippogriff House. She has light skin and long black hair with a pink streak. She pushes her luck with her school uniform, adding jewelry, studded belts, and dyed designs to the regulation blouse, trousers, and tie. She’s especially adept at enchantments. While she loves showing up those goons in Cyclops House, she does have a tendency to act before thinking.
-    
-      
-    
-    ---
-    
-    **ABIGAIL ZHAO**
-    
-    High Concept: Enchantment Specialist of Hippogriff House
-    
-    Trouble: Cast Now, Ask Questions Later
-    
-    Other Aspects: I Hate Those Guys in  
-    Cyclops House; Sarah Has My Back;  
-    Dexter Fitzwilliam Is Going Down
-    
-    APPROACHES
-    
-    Careful: Mediocre (+0)
-    
-    Clever: Fair (+2)
-    
-    Flashy: Average (+1)
-    
-    Forceful: Fair (+2)
-    
-    Quick: Average (+1)
-    
-    Sneaky: Good (+3)
-    
-    STUNTS
-    
-    Teacher’s Favorite: Because I am a Teacher’s Favorite, once per session I may declare that a helpful teacher arrives in the scene. (May take two more stunts without reducing refresh!)
-    
-    STRESS **O** **O** **O**
-    
-    CONSEQUENCES
-    
-    Mild (2):
-    
-    Moderate (4):
-    
-    Severe (6):
+    Mode`REDACTED`e (6):
     
     REFRESH: 3
     
     ## Bethesda Flushing, PhD
     
-    Dr. Flushing is a fellow at the Institute for Gravitical and Electro-Mechanical Advancement (IGEMA), and is one of IGEMA’s lead test engineers and field agents. IGEMA is frequently in conflict with agents of various international organizations who seek to steal their technology, take over the world, or both. Gustaf von Stendahl, leader of a shadowy spy agency of uncertain affiliation, is frequently a thorn in her side. Dr. Flushing has bright red hair and is never without several gadgets, including her helicopter pack.
+    D`REDACTED` G`REDACTED`o-Mechanical Advancement (IGEMA), and is one of IGEMA’s lead test enginee`REDACTED`equently in conflict with agents of va`REDACTED`national o`REDACTED` technology, take ove`REDACTED`ld, o`REDACTED` of a shadowy spy agency of unce`REDACTED`equently a tho`REDACTED` side. D`REDACTED`ight `REDACTED` and is neve`REDACTED`al gadgets, including he`REDACTED` pack.
     
       
     
@@ -1094,29 +542,13 @@ Achieving a major milestone confers the benefits of a significant milestone and
     
     High Concept: Chief Field Agent of IGEMA
     
-    Trouble: I’ll Get You, von Stendahl!
+    T`REDACTED` Aspects: My Inventions Almost Always Wo`REDACTED`ad Students Come Th`REDACTED`ust D`REDACTED`eful: Fai`REDACTED`: Good (+3)
     
-    Other Aspects: My Inventions Almost Always Work. Almost.; My Grad Students Come Through, Just Not How I Expect Them To; I Trust Dr. Alemieda’s Genius
+    Flashy: Ave`REDACTED`ceful: Fai`REDACTED`age (+1)
     
-    APPROACHES
+    Sneaky: Medioc`REDACTED`imental Helo Pack: When I use my Expe`REDACTED`eate an advantage o`REDACTED`come an obstacle if flying would be both possible and helpful.
     
-    Careful: Fair (+2)
-    
-    Clever: Good (+3)
-    
-    Flashy: Average (+1)
-    
-    Forceful: Fair (+2)
-    
-    Quick: Average (+1)
-    
-    Sneaky: Mediocre (+0)
-    
-    STUNTS
-    
-    Experimental Helo Pack: When I use my Experimental Helo Pack, I gain a +2 bonus to Quickly create an advantage or overcome an obstacle if flying would be both possible and helpful.
-    
-    Gadgeteer: Because I am a Gadgeteer, once per session I may declare that I have an especially useful device that lets me eliminate one situation aspect. (May take one more stunt without reducing refresh!)
+    Gadgetee`REDACTED`, once pe`REDACTED`e that I have an especially useful device that lets me eliminate one situation aspect. (May take one mo`REDACTED`educing `REDACTED`esh!)
     
     STRESS **O** **O** **O**
     
@@ -1124,8 +556,6 @@ Achieving a major milestone confers the benefits of a significant milestone and
     
     Mild (2):
     
-    Moderate (4):
-    
-    Severe (6):
+    Mode`REDACTED`e (6):
     
     REFRESH: 3

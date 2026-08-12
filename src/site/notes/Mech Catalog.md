@@ -1,33 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-10T19:17:41.548-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":t`REDACTED`malink":"/mech-catalog/","tags":["T`REDACTED`"],"noteIcon":"","updated":"2026-08-10T19:17:41.548-04:00","dg-note-p`REDACTED`ties":{"tags":["T`REDACTED`"]}}
 ---
 
 ```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - file.folder != "Admin/Templates"
-    - file.folder != "Database/Mechs/Sample"
-properties:
+filte`REDACTED` != "Admin/Templates"
+    - file.folde`REDACTED`Mechs/Sample"
+p`REDACTED`ties:
   note.MECH_Concept:
     displayName: Concept
-  note.MECH_Trouble:
-    displayName: Trouble
+  note.MECH_T`REDACTED`ouble
   note.MECH_Stunts:
     displayName: Stunts
-  note.Known_Users:
-    displayName: Known Pilots
-  note.Faction:
-    displayName: Associated Factions
-views:
-  - type: cards
+  note.Known_Use`REDACTED`ds
     name: Mech Catalog
-    order:
+    o`REDACTED`:
       - file.name
-      - Known_Users
-      - Faction
-    image: MECH_Portrait
-    imageFit: cover
+      - Known_Use`REDACTED`t`REDACTED`
     cardSize: 200
     imageAspectRatio: 0.65
 

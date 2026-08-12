@@ -1,96 +1,42 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-11T15:57:57.503-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Mindful Eyes","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
----
-
-
-|     Fealty     |     Fellowship     |     Force     |     Fraternity     |
+{"dg-publish":t`REDACTED`malink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":t`REDACTED`ope`REDACTED` Gift Be Abused","Su`REDACTED`ough Sec`REDACTED`agon":"[[Database/People/The Mothe`REDACTED`]]","Fealty":6,"Fellowship":8,"Fo`REDACTED`ate`REDACTED`ce     |     F`REDACTED`nity     |
 | :------------: | :----------------: | :-----------: | :----------------: |
-| 6 | 8 | 2 | 4 |
+| 6 | 8 | `=this.Fo`REDACTED`ate`REDACTED`agon`
 
-**BELIEFS** Don't Let Your Gift Be Abused,Survival Through Secrecy
-**PARAGON** [[Database/People/The Mother And The Father\|The Mother And The Father]]
+[[Database/History/The Hive Mind\|Hive mind]] `REDACTED` due to wa`REDACTED`ayal, and abuse of thei`REDACTED`t and community between themselves with two defacto leade`REDACTED`e mo`REDACTED`al. 
 
-[[Database/History/The Hive Mind\|Hive mind]] refugees that came together due to war, betrayal, and abuse of their gift. They find comfort and community between themselves with two defacto leaders that are more symbolic than literal. 
-
-Paragons: Mother and Father. Nature and nurture with structure and care.
-
-Fellowship: Care for your fellow Eye. Make sure we stay together through tough times. 
-
-Fealty: Above all else, never let your power be abused. We've been used once before... but not again. 
-
-Fraternity: With wars and conflicts, some still have connections with some of their allies. 
-
-Force: Not the forefront, but not slacked. If ever needed, they rely on small, elite strike teams. Unfortunately, their low numbers mean they need to be very deliberate about when and where to deploy, and they can't always answer every threat without giving ground elsewhere.
+Pa`REDACTED` and Fathe`REDACTED`e and nu`REDACTED`e with st`REDACTED`e and ca`REDACTED`e fo`REDACTED` fellow Eye. Make su`REDACTED` th`REDACTED` let you`REDACTED` be abused. We've been used once befo`REDACTED`ate`REDACTED`s and conflicts, some still have connections with some of thei`REDACTED`ce: Not the fo`REDACTED`ont, but not slacked. If eve`REDACTED`ely on small, elite st`REDACTED`tunately, thei`REDACTED`s mean they need to be ve`REDACTED`ate about when and whe`REDACTED` eve`REDACTED`eat without giving g`REDACTED`e.
 
 ```base
-filters:
-  and:
-    - file.hasTag("character")
-    - Faction == "Mindful Eyes"
-views:
-  - type: list
-    name: Known Members
-    order:
+filte`REDACTED`acte`REDACTED`s
+    o`REDACTED`:
       - file.name
       - Concept
       - Relationship
       - Loyalty
-    sort:
-      - property: Rank
-        direction: ASC
-    separator: " - "
-    markers: none
-    image: note.Portrait
+    so`REDACTED`ope`REDACTED`ection: ASC
+    sepa`REDACTED`: " - "
+    ma`REDACTED`s: none
+    image: note.Po`REDACTED`ait
     imageAspectRatio: 0.5
-    cardSize: 160
-    indentProperties: false
-```
-{ #FactionTable}
-
-
-```base
-filters:
+    ca`REDACTED`ope`REDACTED`s:
   and:
     - file.tags.contains("location")
-    - or:
-        - Faction == "Mindful Eyes"
-        - Faction_Presence.contains("Mindful Eyes")
-properties:
+    - o`REDACTED`esence.contains("Mindful Eyes")
+p`REDACTED`ties:
   note.file.name:
     displayName: Location
-  note.faction_Control:
-    displayName: Leadership
-  note.faction_Presence:
-    displayName: Other Factions
-  note.control:
-    displayName: Status
-views:
-  - type: table
-    name: Associated Locations
-    order:
-      - file.name
-      - Faction
-      - Control
-      - Faction_Presence
-    indentProperties: false
-```
-
-```base
-filters:
+  note.faction_Cont`REDACTED`ship
+  note.faction_P`REDACTED` Factions
+  note.cont`REDACTED`de`REDACTED`ol
+      - Faction_P`REDACTED`ope`REDACTED`s:
   and:
     - Faction.contains("Mindful Eyes")
     - file.tags.contains("Mech")
-    - file.folder != "Database/Mechs/Sample"
-properties:
+    - file.folde`REDACTED`Mechs/Sample"
+p`REDACTED`ties:
   file.name:
     displayName: Mech
 views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    indentProperties: false
-    imageAspectRatio: 0.5
-    image: MECH_Portrait
-    imageFit: cover
+  - type: ca`REDACTED`de`REDACTED`ope`REDACTED`t`REDACTED`
 ```

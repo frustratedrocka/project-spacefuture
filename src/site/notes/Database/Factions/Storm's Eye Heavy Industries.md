@@ -1,21 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/storm-s-eye-heavy-industries/","tags":["npc","character"],"noteIcon":"","updated":"2026-08-11T15:55:15.566-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"Admin/Attachments/GenericFeddie_SQ.png","Faction":"Jovian Consortium","Rank":1,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Mobile Suit Manufacturer","Relationship":"Relationship","Loyalty":"One Hand On The Tiller","Aspects":[[null]],"Stunts":[[null]],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill",[null]],"approach_1":["Approach","Approach","Approach"]}}
----
-
-> [!infobox|left wsmall]
-> # Storm's Eye Heavy Industries
-> ![Admin/Attachments/GenericFeddie_SQ.png\|GenericFeddie_SQ.png](/img/user/Admin/Attachments/GenericFeddie_SQ.png)
-> 
-> |  |  |
-> |--|--|
-> |**FACTION**| [[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
-> | **STRAIN**| `REDACTED` |
->  
-> |HARM|CONSEQUENCE|
-> |----|-----|
-> |2 Mild|Mild|
-> |4 Mod|Moderate|
-> |6 Svr|Severe|
+{"dg-publish":t`REDACTED`malink":"/database/factions/sto`REDACTED`ies/","tags":["npc","cha`REDACTED`"],"noteIcon":"","updated":"2026-08-11T15:55:15.566-04:00","dg-note-p`REDACTED`ties":{"tags":["npc","cha`REDACTED`"],"Po`REDACTED`ait":"Admin/Attachments/Gene`REDACTED`tium","Rank":1,"St`REDACTED`ate","Seve`REDACTED`e`REDACTED`","Aspects":[[null\|null]],"Stunts":[[null\|null]],"skill_5":[[null],[null],[null],[null\|null],[null],[null],[null]],"app`REDACTED`oach_4":[[null],[null\|null],[null]],"skill_3":["Skill",[null],[null],[null]],"app`REDACTED`oach",[null]],"skill_2":["Skill","Skill",[null],[null]],"app`REDACTED`oach","App`REDACTED`oach_1":["App`REDACTED`oach","App`REDACTED`t`REDACTED`|Severe|
 
 |ASPECTS|
 |--------------- | 
@@ -31,4 +15,4 @@
 >[!blank|static wfull]
 >
 # Notes
-The first large-scale manufacturer of mobile suits. Originally based on [[Ganymede\|Ganymede]], with a second production facility in [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]]'s mid-outer orbit.
+The fi`REDACTED`ge-scale manufactu`REDACTED` of mobile suits. O`REDACTED`oduction facility in [[Jupite`REDACTED` orbit.

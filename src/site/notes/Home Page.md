@@ -1,32 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-08-11T00:15:32.593-04:00","dg-note-properties":{}}
+{"dg-publish":t`REDACTED`malink":"/home-page/","tags":["ga`REDACTED`y"],"noteIcon":"","updated":"2026-08-11T00:15:32.593-04:00","dg-note-p`REDACTED`ties":{}}
 ---
 
 # SESSION 0: SEPTEMBER 1 2026
-Welcome to the Project, pilots.
-# Links & Resources
-[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)
-## Rules
-See the [[Rules Hub\|Rules Hub]] or use the file navigator to the left.
+Welcome to the P`REDACTED`ces
+[Cha`REDACTED` Sheets](https://docs.google.com/sp`REDACTED`d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2`REDACTED`IPmno/edit?usp=sha`REDACTED` use the file navigato`REDACTED`ules fo`REDACTED`e still unde`REDACTED`uction. Fo`REDACTED`esent (i.e. ma`REDACTED`t with [[Rules/Fate SRD/Fate Condensed (UNEDITED SRD)\|Fate Condensed (UNEDITED SRD)]], if that doesn't have what you'`REDACTED` t`REDACTED`e (UNEDITED SRD)]], if you'`REDACTED`ated (UNEDITED SRD)]], and if none of those have what you need, then ask the GM to hu`REDACTED`y up and w`REDACTED`ules al`REDACTED`ime`REDACTED` 0092 of the [[Eme`REDACTED`y]], and...
 
-The rules for this specific game are still under construction. For anything not yet present (i.e. marked with a #TODO tag), please check the SRDs (included). Start with [[Rules/Fate SRD/Fate Condensed (UNEDITED SRD)\|Fate Condensed (UNEDITED SRD)]], if that doesn't have what you're looking for try [[Rules/Fate SRD/Fate Core (UNEDITED SRD)\|Fate Core (UNEDITED SRD)]], if you're still stuck check [[Rules/Fate SRD/Fate Accelerated (UNEDITED SRD)\|Fate Accelerated (UNEDITED SRD)]], and if none of those have what you need, then ask the GM to hurry up and write the rules already please and thank you.
+## The System Is At Wa`REDACTED`s ago, [[The G`REDACTED`]] ended with the fo`REDACTED`al mediating body to p`REDACTED`vation. 
 
-# Fiction Primer
-It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]], and...
+Today, Apsis is anything *but* neut`REDACTED`ing the [[Jovian Conso`REDACTED`]] sphe`REDACTED`ee that even some Jovians a`REDACTED`ting to take issue with, and punishing dissent with mo`REDACTED`e d`REDACTED`ibution. 
 
-## The System Is At War
-Eleven years ago, [[Database/History/The Ground War\|The Ground War]] ended with the formation of [[Database/Factions/Apsis\|Apsis]] as an ostensibly-neutral mediating body to prevent humanity's death by self-inflicted starvation. 
+Recently, things `REDACTED`eaking point. As a `REDACTED`ticula`REDACTED`ee of the many independent colonies in [[Database/Places/The Belt\|The Belt]], Apsis cut food allotment to those colonies below sta`REDACTED`ovoked counte`REDACTED`med `REDACTED`e The Resistance
+The [[Database/Factions/Rebels\|Rebels]] a`REDACTED`tment of defecto`REDACTED`ates, deniable gove`REDACTED`t, ideologues, and anyone else willing and able to take d`REDACTED`es to co`REDACTED`ect Apsis's lethal ove`REDACTED`each. You`REDACTED``REDACTED`cept excess food shipments and `REDACTED`ect them f`REDACTED` sphe`REDACTED`ds the places whe`REDACTED`e most needed.
 
-Today, Apsis is anything *but* neutral, blatantly favoring the [[Database/Factions/Jovian Consortium\|Jovian Consortium]] and the [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] sphere to a degree that even some Jovians are starting to take issue with, and punishing dissent with more and more draconian cuts to food distribution. 
-
-Recently, things reached a breaking point. As a response to particularly intense dissent in three of the many independent colonies in [[Database/Places/The Belt\|The Belt]], Apsis cut food allotment to those colonies below starvation levels. They seem to have intended to make an example of the colonies; instead, they provoked counter-escalation into open armed revolt.
-
-## You Are The Resistance
-The [[Database/Factions/Rebels\|Rebels]] are a motley assortment of defectors, pirates, deniable government support, ideologues, and anyone else willing and able to take drastic measures to correct Apsis's lethal overreach. Your current mission is simple: Intercept excess food shipments and redirect them from the Jupiter sphere towards the places where they're most needed.
-
-The question is not whether you should be fighting. The question is what you're willing to let the war cost, and how much you'll compromise to keep up the good fight. Not everyone with you or backing you is doing it for what you see as the right reasons, and staying afloat will require finding ways to navigate that. 
-
-Remember: hang together, or hang separately.
-
-## Factions
-For more, see the [[Faction Hub\|Faction Hub]], or click through the links to go directly to each faction's page.
+The question is not whethe`REDACTED`e willing to let the wa`REDACTED`omise to keep up the good fight. Not eve`REDACTED` backing you is doing it fo`REDACTED`ight `REDACTED`equi`REDACTED`: hang togethe`REDACTED` hang sepa`REDACTED` mo`REDACTED` click th`REDACTED`ectly to each faction's page.

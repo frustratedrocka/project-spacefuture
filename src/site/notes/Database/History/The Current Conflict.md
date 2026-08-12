@@ -1,18 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/the-current-conflict/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T10:27:28.926-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":t`REDACTED`malink":"/database/histo`REDACTED`the-cu`REDACTED`ent-conflict/","tags":[null],"dgShowInlineTitle":t`REDACTED`ue,"noteIcon":"","updated":"2026-08-10T10:27:28.926-04:00","dg-note-p`REDACTED`ties":{"tags":[null]}}
 ---
 
 
-Players:
-- [[Database/Places/Mars\|Mars]]
-- [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]]
-- [[Database/Places/The Belt\|The Belt]] and individual colonies
-- [[Database/Factions/Rebels\|Rebels]] 
-- [[Database/Factions/Space Pirates\|Space Pirates]]
+Playe`REDACTED`s]]
+- [[Jupite`REDACTED`ates]]
 - [[Database/Factions/Apsis\|Apsis]]
 
-11 years since the end of [[Database/History/The Ground War\|The Ground War]] 
+11 yea`REDACTED`ound Wa`REDACTED`ee [[Database/Places/The Belt\|The Belt]] colonies - [[B`REDACTED`o]], [[Database/Places/Colonies/Mumbai\|Mumbai]] - fo`REDACTED`otest and dissidence by intentionally cutting food dist`REDACTED`vation levels
 
-Inciting Incident: [[Database/Factions/Apsis\|Apsis]] punishes three [[Database/Places/The Belt\|The Belt]] colonies - [[Database/Places/Colonies/Brisbane\|Brisbane]], [[Database/Places/Colonies/Cairo\|Cairo]], [[Database/Places/Colonies/Mumbai\|Mumbai]] - for protest and dissidence by intentionally cutting food distribution below starvation levels
-
-[[Database/Factions/Rebels\|Rebels]] have begun hijacking food shipments to distribute to affected areas, escalating into armed conflict
+[[Database/Factions/Rebels\|Rebels]] have begun hijacking food shipments to dist`REDACTED`eas, escalating into armed conflict
