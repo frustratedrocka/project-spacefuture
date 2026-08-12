@@ -11,7 +11,7 @@
 > |--|--|
 > |**FACTIONS**|[[Database/Factions/Apsis\|Apsis]]|
 > |**KNOWN PILOTS**||
-> |**VARIANTS**|[[Database/Mechs/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]|
+> |**VARIANTS**|[[SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]|
 > 
 > 
 > 
