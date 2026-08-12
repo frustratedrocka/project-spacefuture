@@ -270,8 +270,8 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(this.Faction)
-        - Faction_Presence.contains(this.Faction)
+        - Faction.contains(this.file.name)
+        - Faction_Presence.contains(this.file.name)
     - '!file.inFolder("Admin/Templates")'
 properties:
   note.Faction_Presence:
@@ -294,7 +294,7 @@ filters:
     - file.hasTag("Mech")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(this.Faction)
+    - Faction.contains(this.file.name)
 views:
   - type: cards
     name: Mobile Suits
@@ -311,7 +311,7 @@ views:
 filters:
   and:
     - file.hasTag("character")
-    - Faction == this.Faction
+    - Faction == this.File.name
 views:
   - type: list
     name: Known Members
@@ -336,8 +336,8 @@ filters:
   and:
     - file.tags.contains("location")
     - or:
-        - Faction == this.Faction
-        - Faction_Presence.contains(this.Faction)
+        - Faction == this.File.name
+        - Faction_Presence.contains(this.File.name)
 properties:
   note.file.name:
     displayName: Location
@@ -361,7 +361,7 @@ views:
 ```base
 filters:
   and:
-    - Faction.contains(this.Faction)
+    - Faction.contains(this.File.name)
     - file.tags.contains("Mech")
     - file.folder != "Database/Mechs/Sample"
 properties:

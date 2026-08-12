@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-11T23:36:23.206-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-12T00:17:51.076-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 
@@ -133,8 +133,8 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(this.Faction)
-        - Faction_Presence.contains(this.Faction)
+        - Faction.contains(this.file.name)
+        - Faction_Presence.contains(this.file.name)
     - '!file.inFolder("Admin/Templates")'
 properties:
   note.Faction_Presence:
@@ -157,7 +157,7 @@ filters:
     - file.hasTag("Mech")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(this.Faction)
+    - Faction.contains(this.file.name)
 views:
   - type: cards
     name: Mobile Suits
@@ -174,7 +174,7 @@ views:
 filters:
   and:
     - file.hasTag("character")
-    - Faction == this.Faction
+    - Faction == this.File.name
 views:
   - type: list
     name: Known Members
@@ -199,8 +199,8 @@ filters:
   and:
     - file.tags.contains("location")
     - or:
-        - Faction == this.Faction
-        - Faction_Presence.contains(this.Faction)
+        - Faction == this.File.name
+        - Faction_Presence.contains(this.File.name)
 properties:
   note.file.name:
     displayName: Location
@@ -224,7 +224,7 @@ views:
 ```base
 filters:
   and:
-    - Faction.contains(this.Faction)
+    - Faction.contains(this.File.name)
     - file.tags.contains("Mech")
     - file.folder != "Database/Mechs/Sample"
 properties:
