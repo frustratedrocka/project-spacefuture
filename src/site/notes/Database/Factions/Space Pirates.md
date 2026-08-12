@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T06:07:20.826-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Space Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T13:07:42.531-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Space Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
 ---
 
 
@@ -25,7 +25,7 @@ Refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and [[Database
 filters:
   and:
     - file.hasTag("character")
-    - Faction == "Space Pirates"
+    - Faction.contains("Space Pirates")
 views:
   - type: list
     name: Known Members
@@ -43,6 +43,7 @@ views:
     imageAspectRatio: 0.5
     cardSize: 160
     indentProperties: false
+
 ```
 { #FactionTable}
 
@@ -92,5 +93,5 @@ views:
     cardSize: 160
     imageAspectRatio: 0.5
     image: MECH_Portrait
-    imageFit: cover
+
 ```

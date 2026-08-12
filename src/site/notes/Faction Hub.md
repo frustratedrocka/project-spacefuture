@@ -12,7 +12,7 @@
 
 
 
->[!INFOBOX|wm-sm]
+>[!INFOBOX|ws-med]
 ># Rebels
 >`=embed(link(this.Portrait))`
 >
@@ -39,7 +39,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 ```base
 filters:
   and:
-    - Faction == "Rebels"
+    - Faction.contains("Rebels")
     - file.hasTag("PC")
     - '!file.inFolder("Admin/Templates")'
 views:
@@ -49,7 +49,6 @@ views:
       - file.name
       - concept
     image: note.Portrait
-    imageFit: cover
     imageAspectRatio: 0.6
     cardSize: 160
     indentProperties: false
@@ -60,7 +59,7 @@ views:
 filters:
   and:
     - file.hasTag("npc")
-    - Faction == "Rebels"
+    - Faction.contains("Rebels")
 views:
   - type: list
     name: Known Members
@@ -78,6 +77,7 @@ views:
     imageAspectRatio: 0.5
     cardSize: 160
     indentProperties: false
+
 ```
 
 
@@ -126,7 +126,7 @@ views:
     cardSize: 160
     imageAspectRatio: 0.5
     image: MECH_Portrait
-    imageFit: cover
+
 ```
 
 </div></div>
@@ -232,7 +232,7 @@ views:
     cardSize: 160
     imageAspectRatio: 0.5
     image: MECH_Portrait
-    imageFit: cover
+
 ```
 
 </div></div>
@@ -334,8 +334,8 @@ views:
     indentProperties: false
     imageAspectRatio: 0.5
     image: MECH_Portrait
-    imageFit: cover
     cardSize: 160
+
 ```
 
 </div></div>
@@ -372,7 +372,7 @@ Refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and [[Database
 filters:
   and:
     - file.hasTag("character")
-    - Faction == "Space Pirates"
+    - Faction.contains("Space Pirates")
 views:
   - type: list
     name: Known Members
@@ -390,6 +390,7 @@ views:
     imageAspectRatio: 0.5
     cardSize: 160
     indentProperties: false
+
 ```
 
 
@@ -438,7 +439,7 @@ views:
     cardSize: 160
     imageAspectRatio: 0.5
     image: MECH_Portrait
-    imageFit: cover
+
 ```
 
 </div></div>
@@ -485,7 +486,7 @@ Force: Not the forefront, but not slacked. If ever needed, they rely on small, e
 filters:
   and:
     - file.hasTag("character")
-    - Faction == "Mindful Eyes"
+    - Faction.contains("Mindful Eyes")
 views:
   - type: list
     name: Known Members
@@ -503,6 +504,7 @@ views:
     imageAspectRatio: 0.5
     cardSize: 160
     indentProperties: false
+
 ```
 
 
@@ -550,8 +552,8 @@ views:
     indentProperties: false
     imageAspectRatio: 0.5
     image: MECH_Portrait
-    imageFit: cover
     cardSize: 160
+
 ```
 
 </div></div>
@@ -593,7 +595,7 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 filters:
   and:
     - file.hasTag("character")
-    - Faction == "Hive Cult"
+    - Faction.contains("Hive Cult")
 views:
   - type: list
     name: Known Members
@@ -611,6 +613,7 @@ views:
     imageAspectRatio: 0.5
     cardSize: 160
     indentProperties: false
+
 ```
 
 

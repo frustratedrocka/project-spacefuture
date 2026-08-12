@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-12T06:07:28.047-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Mindful Eyes","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
+{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-12T13:07:51.490-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Mindful Eyes","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
 ---
 
 
@@ -35,7 +35,7 @@ Force: Not the forefront, but not slacked. If ever needed, they rely on small, e
 filters:
   and:
     - file.hasTag("character")
-    - Faction == "Mindful Eyes"
+    - Faction.contains("Mindful Eyes")
 views:
   - type: list
     name: Known Members
@@ -53,6 +53,7 @@ views:
     imageAspectRatio: 0.5
     cardSize: 160
     indentProperties: false
+
 ```
 { #FactionTable}
 
@@ -101,6 +102,6 @@ views:
     indentProperties: false
     imageAspectRatio: 0.5
     image: MECH_Portrait
-    imageFit: cover
     cardSize: 160
+
 ```

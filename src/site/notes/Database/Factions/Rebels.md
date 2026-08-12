@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-12T06:09:48.729-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-12T13:07:21.144-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":null}}
 ---
 
->[!INFOBOX|wm-sm]
+>[!INFOBOX|ws-med]
 ># Rebels
 >`=embed(link(this.Portrait))`
 >
@@ -29,7 +29,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 ```base
 filters:
   and:
-    - Faction == "Rebels"
+    - Faction.contains("Rebels")
     - file.hasTag("PC")
     - '!file.inFolder("Admin/Templates")'
 views:
@@ -39,7 +39,6 @@ views:
       - file.name
       - concept
     image: note.Portrait
-    imageFit: cover
     imageAspectRatio: 0.6
     cardSize: 160
     indentProperties: false
@@ -50,7 +49,7 @@ views:
 filters:
   and:
     - file.hasTag("npc")
-    - Faction == "Rebels"
+    - Faction.contains("Rebels")
 views:
   - type: list
     name: Known Members
@@ -68,6 +67,7 @@ views:
     imageAspectRatio: 0.5
     cardSize: 160
     indentProperties: false
+
 ```
 { #FactionTable}
 
@@ -117,5 +117,5 @@ views:
     cardSize: 160
     imageAspectRatio: 0.5
     image: MECH_Portrait
-    imageFit: cover
+
 ```

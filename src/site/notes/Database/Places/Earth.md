@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-08-11T17:26:42.551-04:00","dg-note-properties":{"tags":["location"],"type":null,"Faction":"None","Control":"No Man's Land","Faction_Presence":["Space Pirates"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-08-12T13:10:15.181-04:00","dg-note-properties":{"tags":["location"],"type":"Planet","Faction":"None","Control":"No Man's Land","Faction_Presence":["Space Pirates","Mindful Eyes","Hive Cult"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
 ---
 
 > [!INFOBOX] Earth
@@ -8,10 +8,10 @@
 > 
 > | | |
 > |--|--|
-> |Body|`=this.type`|
+> |Body|Planet|
 > |Leadership|[[None\|None]]|
 > |Status|No Man's Land|
-> |Interest|[[Database/Factions/Space Pirates\|Space Pirates]]|
+> |Interest|[[Database/Factions/Space Pirates\|Space Pirates]],[[Database/Factions/Mindful Eyes\|Mindful Eyes]],[[Database/Factions/Hive Cult\|Hive Cult]]|
 
 Earth is effectively gone - was the breadbasket, now effectively a non-player in solar politics after [[Database/History/The Ground War\|The Ground War]]. 
 
@@ -22,16 +22,15 @@ Many of the displaced survivors who couldn't or wouldn't assimilate elsewhere to
 ```base
 filters:
   and:
-    - Origin == ""
+    - Origin == "Earth"
 	- file.hasTag("character")
 views:
   - type: list
-    name: 
+    name: Characters From Here
     order:
       - file.name
     image: note.Portrait
     imageAspectRatio: 0.65
     cardSize: 160
     indentProperties: false
-
 ```
