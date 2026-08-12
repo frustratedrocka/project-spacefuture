@@ -41,7 +41,7 @@ p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
 	.obsidian-bases-single-view-name, .obsidian-base-table, .obsidian-base-table-wrapper, .obsidian-base-table.tbody, .obsidian-base-empty, .obsidian-bases-result-count, .obsidian-bases-toolbar, .obsidian-base-table td {
   font-size:11pt !important;
 	};
-body th, .markdown-rendered .table-view-table > thead > tr > th {
+th, .markdown-rendered .table-view-table > thead > tr > th {
   font-family: "Russo One" !important;
   font-size: 11pt;
   text-transform: uppercase !important;
