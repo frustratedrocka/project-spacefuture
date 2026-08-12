@@ -41,10 +41,12 @@ p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
 	.obsidian-bases-single-view-name, .obsidian-base-table, .obsidian-base-table-wrapper, .obsidian-base-table.tbody, .obsidian-base-empty, .obsidian-bases-result-count, .obsidian-bases-toolbar, .obsidian-base-table td {
   font-size:11pt !important;
 	};
-th {
-  	text-transform:uppercase;
- 	background-color:hsl(270, 4%, 10%) !important;
- 	color:hsl(26, 97%, 65%) !important;
+body th, .markdown-rendered .table-view-table > thead > tr > th {
+  font-family: "Russo One" !important;
+  font-size: 11pt;
+  text-transform: uppercase !important;
+  background-color: #1a181b !important;
+  color: #fc9a4f !important;
 	};
 .markdown-embed {
   background-color:hsl(285, 5%, 17%);
