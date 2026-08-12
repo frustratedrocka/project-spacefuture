@@ -23,7 +23,7 @@
 > 
 > |  |  |
 > |--|--|
-> |**MODEL**|[[Database/Mechs/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]|
+> |**MODEL**|[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]|
 > | **ARMOR**|`REDACTED`|
 > 
 > |HARM|BREAKDOWN|
