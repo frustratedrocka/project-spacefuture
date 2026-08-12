@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-08-12T13:10:15.181-04:00","dg-note-properties":{"tags":["location"],"type":"Planet","Faction":"None","Control":"No Man's Land","Faction_Presence":["Space Pirates","Mindful Eyes","Hive Cult"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-08-12T13:10:29.557-04:00","dg-note-properties":{"tags":["location"],"type":"Planet","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Space Pirates","Mindful Eyes","Hive Cult"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
 ---
 
 > [!INFOBOX] Earth
@@ -9,7 +9,7 @@
 > | | |
 > |--|--|
 > |Body|Planet|
-> |Leadership|[[None\|None]]|
+> |Leadership|[[Database/Factions/Apsis\|Apsis]]|
 > |Status|No Man's Land|
 > |Interest|[[Database/Factions/Space Pirates\|Space Pirates]],[[Database/Factions/Mindful Eyes\|Mindful Eyes]],[[Database/Factions/Hive Cult\|Hive Cult]]|
 
