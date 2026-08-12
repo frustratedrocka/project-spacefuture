@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-11T16:15:28.334-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T01:56:17.781-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 
