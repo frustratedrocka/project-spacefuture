@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-07T16:01:30.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-13T23:50:21.598-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Challenges
@@ -44,7 +44,7 @@ When surprise is relevant (e.g. a successful ambush), surprised conflict partici
 
 
 ## Taking Harm
-When an attack is successful, the defender must absorb the blow and suffers harm equal to **THE NUMBER OF HITS** the attack exceeded the defense by. You can **PUSH THROUGH** hits by marking **STRAIN** boxes or **SUFFER CONSEQUENCES**. 
+When an attack is successful, the defender must absorb the blow and suffers harm equal to **THE NUMBER OF HITS** the attack exceeded the defense by. You can **PUSH THROUGH** harm by marking **STRAIN** boxes or by suffering **CONSEQUENCES**. 
 
 When you take harm, **YOU GET TO DECIDE** which resources you use to push through it and, based on that, how the harm actually affects you. If you can't or don't push through all the harm, you are **TAKEN OUT** - you're removed from the scene, and **THE ATTACKER DECIDES HOW IT PLAYS OUT.**
 
