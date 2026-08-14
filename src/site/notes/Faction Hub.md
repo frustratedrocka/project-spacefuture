@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T05:04:02.469-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T05:04:02.000-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 
@@ -49,7 +49,7 @@ views:
       - file.name
       - concept
     image: note.Portrait
-    imageAspectRatio: 0.6
+    imageAspectRatio: 0.5
     cardSize: 160
     indentProperties: false
 

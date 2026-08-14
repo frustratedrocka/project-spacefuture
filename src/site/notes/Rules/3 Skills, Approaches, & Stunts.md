@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T03:10:04.922-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-13T17:15:09.588-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -262,6 +262,9 @@ Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is 
 #TODO **OVERCOME**
 #TODO **CREATE AN ADVANTAGE**
 **DEFEND** Shrug off or ignore damage through grit, determination, or sheer toughness.
+
+### Sample Stunts
+**BUILT DIFFERENT** Through sheer stubbornness or heroic effort, you can push through punishment that would take out anyone else. Once per session, you may ignore the effects of your consequences, or refuse a compel or hostile invoke of a consequence for free.
 
 ## Shoot
 #TODO Guns go pew pew

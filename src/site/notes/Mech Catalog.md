@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-12T06:15:04.370-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker"],"noteIcon":"","updated":"2026-08-12T06:15:04.000-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 ```base

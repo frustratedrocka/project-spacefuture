@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/tech-test/","tags":[null],"noteIcon":"","updated":"2026-08-12T15:13:53.444-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/admin/tech-test/","tags":[null],"noteIcon":"","updated":"2026-08-12T15:13:53.000-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 

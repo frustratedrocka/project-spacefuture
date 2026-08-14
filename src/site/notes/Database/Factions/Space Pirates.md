@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T13:07:42.531-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Space Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/space-pirates/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-12T13:07:42.000-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Space Pirates","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
 ---
 
 
