@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-13T23:50:21.598-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-14T00:36:35.117-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Challenges
@@ -14,9 +14,9 @@ GMs, do your best to give each character in the scene an opportunity to contribu
 After the rolls have been made, the GM will evaluate the successes, failures, and costs of each action as they interpret how the scene proceeds. It could be that the results lead into another challenge, a contest, or even a conflict. A mix of successes and failures should allow the characters to move forward with a partial victory as they face new entangling complications.
 
 # Conflicts
-The heroes get into a straight-up fight, and have a chance to win (if they don't have that chance, or can't possibly lose, it's a [[Rules/4 Challenges, Conflicts, & Contests#Contests\|contest]] instead).
+When multiple characters are pursuing competing objectives at the same time, and too much is happening at once to handle through normal free conversation, the conflict rules kick on to manage the order of events.
 
-Conflicts are more than just physical. While a shootout with a rival gang or swordfight atop a rocky peak are both obvious applications, an argument with a loved one, a tense interrogation, or politicking and rumormongering to further your agenda and weaken your opponents' at a high society ball are all just as valid. 
+Conflicts include straight-up fights, but they're more than just physical. While a shootout with a rival gang or swordfight atop a rocky peak are both obvious applications, an argument with a loved one, a tense interrogation, or politicking and rumormongering to further your agenda and weaken your opponents' at a high society ball are all just as valid. 
 
 Timing matters when using some kinds of [[Rules/4 Challenges, Conflicts, & Contests#Teamwork\|#Teamwork]] in a conflict:
 - You can invoke an aspect on an ally's behalf to improve their roll at any time (though the same aspect still cannot be invoked twice on the same action).
