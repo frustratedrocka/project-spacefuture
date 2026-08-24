@@ -25,11 +25,40 @@ views:
 > Blockquote Line 1
 > ![KamillePortrait.png](/img/user/Admin/Attachments/KamillePortrait.png)
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/places/colonies/brisbane/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.
+
+
+> [!INFOBOX] Brisbane
+> # Brisbane
+> `=embed(link(this.Portrait))`
+> 
+> | | |
+> |--|--|
+> |Body|[[Database/Glossary/Colony\|Colony]]|
+> |Leadership|[[Database/Factions/Rebels\|Rebels]]|
+> |Status|Contested|
+> |Interest|[[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
+
+```base
+filters:
+  or:
+    - Origin == ""
+    - Assoc.contains("")
+views:
+  - type: list
+    name: Associated
+    order:
+      - file.name
+    image: Portrait
+    imageAspectRatio: 0.65
+    cardSize: 160
+    indentProperties: false
+```
+
+One of three colonies in [[Database/Glossary/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.
 
 </div></div>
 

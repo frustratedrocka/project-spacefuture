@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-08T00:41:30.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-16T16:25:05.116-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -181,11 +181,27 @@ When prompting players for a decision, if you lay out multiple courses of action
 This step is broken out into two questions, since if the mechanics don't intervene to impose a result, then there's rarely any need to explain that result - the player's action either succeeds or fails precisely as they described it.
 
 ### Do Mechanics Take Over
-**MOST OF THE TIME**, the mechanics don't need to kick in for you to declare the result of an action. If there's no meaningful uncertainty or resistance in the fiction, then you shouldn't apply mechanics that inject that uncertainty or resistance artificially. 
+**MOST OF THE TIME**, the mechanics don't need to kick in for you to declare the result of an action. If there's no *meaningful* uncertainty or resistance in the fiction, then you shouldn't apply mechanics that inject that uncertainty or resistance artificially. 
 
 This applies in both directions - you shouldn't make the player roll for anything that has no chance of failure, or no chance of success. For more on impossible rolls, see [[Rules/1 Core Rules#^06c5d9\|The Limits of Rolling]].
 
-If there's no uncertainty for the mechanics to resolve, proceed to [[Rules/7 General GM Guidance#What Follows the Result\|#What Follows the Result]]. Otherwise, follow the appropriate rules for whatever's happening, then move on to the next question.
+But there's another critical factor. Throughout this book, I've kept using the phrase "**MEANINGFUL UNCERTAINTY**" to describe when to roll. How something is defined as meaningful isn't always obvious, so I want to take the opportunity here to lay out an actual working definition.
+
+Not all uncertainty is productive, meaningful, or interesting. In a mystery, "can the investigator find rhe clue" is almost never the interesting question. It's a *prerequisite* for the interesting questions: who does the clue implicate? How can it be interpreted? What next steps does it suggest? Or, in the same language I've been using here: now that the clue has changed the situation, what is the investigator going to do about it?
+
+More broadly, the fact that there might realistically be uncertainty in a situation is not, by itself, sufficient grounds to introduce that uncertainty into the game. If uncertainty can resolve multiple ways, and one way cuts off the decisions everyone's actually interested in making and the questions they're interested in answering, then foreclose that possibility and don't roll. Allowing the game to sputter and die through bad die rolls at the wrong time is just as severe a breach of the social contract as forcing the decisions that *do* matter to go a certain way.
+
+Put simply: for all that characters in the Mad Max films frequently talk up the importance of gasoline, there are precisely zero scenes in the series where anyone actually runs out of gas onscreen in the middle of something else, because the movies are interested in car chases and running out of gas would mean no more car chase. It could even possibly mean "they get caught and killed, the end." So the movie excludes it from its actual narrative possibility space. A movie where characters *do* run out of gas and then have to solve that problem and deal with the new problems it creates might still be interesting, but it wouldn't be the movie everyone came to see.
+
+This has caveats and conditions, the first one that comes to mind being characters dying or otherwise permanently exiting the story because the mechanics demand it. Setting aside for the moment the increasing number of games that leave the decision of whether a character lives or dies when defeated entirely up to the player, the first assumption would be that death obviously and permanently cuts off one character's decision-making capability and should therefore be avoided. But that's not where I see the question of whether uncertainty protects the possibility space or collapses it applying. The possibility space I want to preserve is *campaign and group level*. If a detective fingers the wrong suspect because they misinterpreted a clue or stopped digging too soon, that's on them. If a fantasy adventuring party all die in a fight they chose to take on, that's on them. That's a fair outcome, and the possibility of that outcome is one of the things that made their choices meaningful in the first place. Everyone agreed to those outcomes being possible as part of the social contract made when they signed up to play the game that included them.
+
+If that same detective misses a critical clue because they asked the right questions and you allowed the dice to declare that they couldn't get the answer they sought, or that party wipes because you decided to roll on a table for what enemy attacked their dinky little rowboat in the middle of a lake and let the result stand when the dice came up uber-kraken? That's on you. 
+
+Preserve the dramatic questions your campaign benefits from asking the players, even when those questions can lead to catastrophe. Don't leave questions to the dice when one answer would cut off the campaign everyone agreed to play.
+
+I'll talk more about dramatic questions later on in [[Rules/7 General GM Guidance#Tone, Atmosphere, & Mood\|#Tone, Atmosphere, & Mood]].
+
+If there's no meaningful uncertainty for the mechanics to resolve, proceed to [[Rules/7 General GM Guidance#What Follows the Result\|#What Follows the Result]]. Otherwise, follow the appropriate rules for whatever's happening, then move on to the next question.
 
 ### What Explains The Result
 

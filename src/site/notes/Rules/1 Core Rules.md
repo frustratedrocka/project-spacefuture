@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-09T18:04:05.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-23T16:46:59.679-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Taking Action
@@ -182,10 +182,10 @@ Group actions cannot be used during [[Rules/4 Challenges, Conflicts, & Contests\
 Most of what's on your character sheet: critical information about a character's personality traits, past, relationships with others, items or titles they possess, problems they're dealing with, goals they're working toward, reputation, obligations they carry, or nearly any other conceivable detail that's important to understanding a character. **EXAMPLES** *"Leader Of My Band Of Survivors,"* *"Mad Dog On A Leash,*" *"My Country Right Or Wrong,"* *"Haunted By Voices Of The Dead."*
 
 ### Consequences & Breakdown
-Temporary aspects that cover lasting physical, psychological, or social harm. **EXAMPLES** *"Damaged Sensor Suite"*, *"Sprained Ankle"*, *"Debilitating Self-Doubt"*, *"Humiliated At Prom"*
+Temporary aspects that cover lasting physical, psychological, or social harm. **EXAMPLES** *"Damaged Sensor Suite"*, *"Sprained Ankle"*, *"Debilitating Self-Doubt"*, *"Humiliated At Prom."* See [[Rules/4 Challenges, Conflicts, & Contests#Taking Harm\|4 Challenges, Conflicts, & Contests#Taking Harm]] for detailed rules.
 
 ### Situation Aspects
-Aspects describing the surroundings or scenario where the action takes place. Usually vanishes at the end of the scene it's part of, or when someone does something that would change or get rid of it. **EXAMPLES** "*On Fire*," "*Heavy Traffic,*" "*Dense Debris Field,*" *"Heavy Police Presence."*
+Aspects describing the surroundings or scenario where the action takes place. Usually vanishes at the end of the scene it's part of, or when someone does something that would change or get rid of it. **EXAMPLES** "*On Fire*," "*Heavy Traffic,*" "*Dense Debris Field,*" *"Slick Roof"*, *"Excessively Fancy Ballroom."*
 
 ### Boosts
 An extremely temporary or minor situation. You **CANNOT COMPEL** a boost - you may **INVOKE IT ONCE FOR FREE**, after which it vanishes. An unused boost vanishes when the advantage it represents no longer exists, which may be a few seconds or the duration of a single scene. Boosts never persist beyond the end of a scene, and you can hold off naming one until you’re using it. If you’re in control of a boost, you may pass it to an ally if there’s rationale for it.
