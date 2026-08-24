@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T02:29:28.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T06:32:55.858-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Pilot Creation
@@ -115,9 +115,9 @@ Additionally, the GM may **DESTROY** a piece of gear as a special type of compel
 
 Unless you use a stunt to get an additional, more mechanically detailed permanent capability built into your mech's design (e.g. a transformation, prototype defense technology, advanced neural link, or other complex feature), these aspects are assumed to be the *only* equipment your mech deploys with above whatever baseline your table agrees on in session 0.
 
-There is no set equipment list, so you're free to outfit your mech with whatever gear you can dream up, but you must still work with the GM to make sure you're both on the same page about what a gear aspect can actually do. 
+There is no set equipment list, so you're free to outfit your mech with whatever gear you can dream up, but you must still work with the GM and other players to make sure you're all on the same page about what a gear aspect can actually do. The group has to agree on how many ways a single gear aspect can solve problems and what kinds of problems each aspect can answer. For example, "Guided Missile Rack" isn't a meaningfully different gear aspect from "Chest Compartment Clustered Micro-Missile Pods" - both solve problems by blowing them up at range. But "specialized sub-missile array" could include heat-seekers, bunker busters, chaff pods, and all manner of other tricks - suddenly, the scope of what the aspect can do has widened enormously. 
 
-**EXAMPLES** Beam Saber, Heat Axe, Shoulder Shield, Twin Head-Mounted Vulcans, Mega Bazooka Launcher, Enhanced Booster Binder, Atmospheric Re-Entry Balloon, Psi-Controlled Drone Swarm
+**EXAMPLES** Beam Saber, Heat Axe, Shoulder Shield, Twin Head-Mounted Vulcans, Mega Bazooka Launcher, Enhanced Booster Binder, Atmospheric Re-Entry Balloon, Psi-Controlled Drone Swarm, Anti-Sensor Stealth Suite
 
 ## Mech Stunts
 Your mech starts with two stunts, written through the same process as your [[Rules/2 Character Creation#Write Stunts\|pilot stunts]]. You may purchase additional mech stunts with refresh.
@@ -129,20 +129,30 @@ You may replace your mech voluntarily at any [[Rules/2 Character Creation#Breakt
 
 ## Scale
 
->[!aside|show-title]+ HOW BIG IS BIG?
->Most Mobile Suits from UC Gundam are somewhere in the scale 2 band, which is what the scale rules are primarily calibrated around - roughly 16 to 22 meters tall, in real terms. Some late-UC units like the Qubeley, Sazabi, Nightingale, and Kshatriya reach Scale 3, while some alternate continuities and distant sequels like G-Gundam, After War, and Crossbone reduce that to the taller end of scale 1. The "extreme outliers" include the Psycho Gundam at around 40 meters tall, the Zeong at roughly 60 meters, and the Neo Zeong topping out at 120 meters - scale 12 by the default rules, scale 5 "stupidly huge mech" using the ladder. 
->
-> Outside Gundam, Armored Cores from the 4th and 6th generations are also comfortably in the Scale 2 band at roughly 18 meters, while other generations sit in scale 1 at 10-12 meters. Media that attempts a more grounded tone like Patlabor, Full Metal Panic, or (for a *very limited* definition of "grounded") Code Geass typically locks all their mechs within the Scale 1 band. All the way on the other end, EVA units are "as large as the scene needs them to be" or 80 meters depending on continuity, while Gurren Lagann ultimately escalates to such extremes that its scales are more comparable to galaxies than people.
+>[!aside|show-title]+ HOW BIG IS BIG?  
+>Most Mobile Suits from UC Gundam, which is what the scale rules are primarily calibrated around, are roughly 16 to 22 meters tall. Some late-UC units like the Qubeley, Sazabi, Nightingale, and Kshatriya reach upwards of 25 and, depending on how you measure, over 30. Extreme outliers include the Psycho Gundam at around 40 meters tall, the Big Zam at roughly 60 meters, and the Neo Zeong topping out at 120 meters.  
+>  
+> Outside Gundam, Armored Cores from the 4th and 6th generations are also roughly 18 meters, while other generations sit at 10-12 meters. Media that attempts a more grounded tone like Patlabor, Full Metal Panic, or (for a *very limited* definition of "grounded") Code Geass typically locks all their mechs within the 10-14 meter band. All the way on the other end, EVA units are "as large as the scene needs them to be" or 80 meters depending on continuity, while Gurren Lagann ultimately escalates to such extremes that its scales are more comparable to galaxies than people.
 
-Mechs have a **SCALE**, a number that models the way that being in a mech radically changes your capabilities without having to use completely separate rulesets for on-foot and in-mech gameplay.  By default, the game assumes roughly 1 point of scale for every 10 meters in mech height, rounded. In the source material this game draws on, most mechs range from scale 1 to scale 3, with outliers starting at scale 4 and increasing from there. Keep all player and most NPC mechs at the same scale - decide this with your group at character creation. Normal humans on foot always count as scale 0.
+Mechs have a **SCALE**, a number that models the way that being in a mech radically changes your capabilities without having to use completely separate rulesets for on-foot and in-mech gameplay. Scale is tracked using an abstract ladder from 1 to 5. By default:
 
-You may wish to widen the bands to use fewer scale categories and a wider variety of mechs within each, or decouple the scale bands from hard measurements entirely and just use a ladder like "human, small mech, normal mech, big mech, huge mech, stupidly huge mech, bigger than any mech."  That's completely fine! This is meant to be a **SET AND FORGET** mechanic that applies only when the difference between human scale and whatever you decide is the standard mech scale, or standard mech scale and something much larger, matters. As long as everyone's on the same page about the impact they can expect those differences to have, scale is doing its job.
+1. Small mech
+2. Normal mech
+3. Big mech
+4. Huge mech
+5. Stupidly huge mech
+
+As an alternative, you could assume roughly 1 point of scale for every 10 meters in mech height, rounded, but this may start to break down when dealing with extreme outliers (see sidebar).
+
+Keep all player and most NPC mechs at the same scale - if you'd prefer standard mechs to count as a scale other than 2, decide that with your group at character creation. Normal humans on foot always count as scale 0.
+
+This is meant to be a **SET AND FORGET** mechanic that applies only when the difference between human scale and whatever you decide is the standard mech scale, or standard mech scale and something much larger, matters. As long as everyone's on the same page about the impact they can expect those differences to have, scale is doing its job.
 
 Scale modifies the dice in two ways:
-- In general, when attempting an action where the scale difference between you and your opposition makes things easier (e.g. evading a mech's sensors; throwing a car; painting a target), the roll should be adjusted down by the difference in your scales. When the difference makes things harder (e.g. fighting a mech with small arms while on foot; precision repair work; dentistry), adjust the roll up by the difference.
-- Any time an attack by a larger-scale opponent succeeds against a lower scale opponent, double the scale difference and add that number to the amount of hits scored above the target. This stacks with the first rule, so if a Scale 2 mech shoots at a Scale 0 character on foot, the on-foot character's Defend roll is already reduced by 2 (since it's the opposition for the mech), then, if the attack is successful, four more hits are added before assigning strain or consequences. The intent here is to model the idea that anyone not in a mech who takes a direct hit from a mech-sized weapon is likely to be reduced to red paste, without making that into a hard guarantee. 
-
-This system does break down somewhat when dealing with extreme outliers (scale differences of 3 or more) or things like spaceships that dwarf mechs, but whose size advantage is counteracted by being far slower and more cumbersome. The GM should use their best judgement and err on the side of "difficult but fair" when dealing with things that are still within the realm of mech combat. For anything larger, an approach other than direct combat with the massive target will be needed (e.g. the Death Star trench run, where the rebels faced ferocious and extended opposition from comparably-scaled ships and point defenses in order to reach an exploitable weak spot they could actually affect, but never had to deal with the Death Star's planet-killing superlaser). You are encouraged to come up with creative ways to circumvent or nullify the scale modifiers, like blowing off a mech's sensor array to force the pilot to open the cockpit and expose their body to direct fire, or a mech stunt with a specific application to small-scale precision work like "Nested Manipulators."  
+- In general, when attempting an action where the scale difference between you and your opposition makes things easier (e.g. evading a mech's sensors; throwing a car; painting a target), the opposition should be adjusted down by the difference in your scales. When the difference makes things harder (e.g. fighting a mech with small arms while on foot; precision repair work; dentistry), adjust the opposition up by the difference. This does not stack on opposed rolls; apply the bonus or penalty only to the defense.
+- Any time an attack by a larger-scale opponent succeeds against a lower scale opponent, double the scale difference and add that number to the amount of hits scored above the target. This stacks with the first rule, so if a Scale 2 mech shoots at a Scale 0 character on foot, the on-foot character's Defend roll is already reduced by 2 (since it's the opposition for the mech), then, if the attack is successful, four more hits are added before assigning strain or consequences. The intent here is to model the idea that anyone not in a mech who takes a direct hit from a mech-sized weapon is likely to be reduced to red paste, without making that into a hard guarantee - Fate protagonists are durable; therefore, if you survived, it *wasn't* a direct hit.
+ 
+You are encouraged to come up with creative ways to circumvent or nullify the scale modifiers, like blowing off a mech's sensor array to force the pilot to open the cockpit and expose their body to direct fire, or a mech stunt with a specific application to small-scale precision work like "Nested Manipulators." The GM should use their best judgement and err on the side of "difficult but fair" when assigning scale and adjudicating modifiers for  things that are still within the realm of mech combat. For anything too large to count as a mech even by the most generous possible definition, an approach other than direct combat with the massive target will be needed (e.g. the Death Star trench run, where the rebels faced ferocious and extended opposition from comparably-scaled ships and point defenses in order to reach an exploitable weak spot they could actually affect, but never had to deal with the Death Star's planet-killing superlaser). 
 
 # Advancement
 ## Milestone

@@ -19,13 +19,13 @@
 
 ## Types of Aspects
 ### Character Aspects
-Most of what's on your character sheet: critical information about a character's personality traits, past, relationships with others, items or titles they possess, problems they're dealing with, goals they're working toward, reputation, obligations they carry, or nearly any other conceivable detail that's important to understanding a character. **EXAMPLES** *"Leader Of My Band Of Survivors,"* *"Mad Dog On A Leash,*" *"My Country Right Or Wrong,"* *"Haunted By Voices Of The Dead."*
+Most of what's on your character sheet: critical information about a character's personality traits, past, relationships with others, items or titles they possess, problems they're dealing with, goals they're working toward, reputation, obligations they carry, or nearly any other conceivable detail that's important to understanding a character. **EXAMPLES** *"Leader Of My Band Of Survivors,"* *"Mad Dog On A Leash,*" *"My Country Right Or Wrong,"* *"Fledgeling Fire Mage,"* *"Haunted By Voices Of The Dead."*
 
 ### Consequences & Breakdown
-Temporary aspects that cover lasting physical, psychological, or social harm. **EXAMPLES** *"Damaged Sensor Suite"*, *"Sprained Ankle"*, *"Debilitating Self-Doubt"*, *"Humiliated At Prom."* See [[Rules/4 Challenges, Conflicts, & Contests#Taking Harm\|4 Challenges, Conflicts, & Contests#Taking Harm]] for detailed rules.
+Temporary aspects that cover lasting physical, psychological, or social harm. **EXAMPLES** *"Damaged Sensor Suite,"* *"Sprained Ankle,"* *"Debilitating Self-Doubt,"* *"Humiliated At Prom."* See [[Rules/4 Challenges, Conflicts, & Contests#Taking Harm\|4 Challenges, Conflicts, & Contests#Taking Harm]] for detailed rules.
 
 ### Situation Aspects
-Aspects describing the surroundings or scenario where the action takes place. Usually vanishes at the end of the scene it's part of, or when someone does something that would change or get rid of it. **EXAMPLES** "*On Fire*," "*Heavy Traffic,*" "*Dense Debris Field,*" *"Slick Roof"*, *"Excessively Fancy Ballroom."*
+Aspects describing the surroundings or scenario where the action takes place. A situation aspect usually vanishes at the end of the scene it's part of, or when someone does something that would change or get rid of it. **EXAMPLES** "*On Fire*," "*Heavy Traffic,*" "*Dense Debris Field,*" *"Slick Roof,"* *"Excessively Fancy Ballroom."*
 
 ### Boosts
 An extremely temporary or minor situation. You **CANNOT COMPEL** a boost - you may **INVOKE IT ONCE FOR FREE**, after which it vanishes. An unused boost vanishes when the advantage it represents no longer exists, which may be a few seconds or the duration of a single scene. Boosts never persist beyond the end of a scene, and you can hold off naming one until you’re using it. If you’re in control of a boost, you may pass it to an ally if there’s rationale for it.
@@ -77,7 +77,7 @@ Compels can be retroactive. If a player finds they have roleplayed themself into
 
 It’s okay to recognize a compel as off-the-mark and withdraw it. If the group agrees that a proposed compel wasn’t appropriate, it should be withdrawn at no cost to the compelled character.
 
-> [!callout|bg-red c-plain no-icon ]+ EXAMPLE OF PLAY: A GUY WALKS INTO A BAR...
+> [!callout|bg-c-red no-icon s-t]+ EXAMPLE OF PLAY: A GUY WALKS INTO A BAR...
 > The legendary war hero Manfred walks into a crowded bar, and all eyes immediately snap to him. Because he has the *"Legendary War Hero"* aspect, most people in the room immediately know who he is, but if the players or the GM want that aspect to shape the story even more, they can use the options above to do so.
 > 
 > Manfred's player might want to **CREATE A STORY DETAIL** here based on his *"Legendary War Hero"* aspect: They spend a fate point to declare that many of the bar's patrons fought on his side during the war when he was making his name. This is now *true*: he's not just known in the bar, he's a celebrity. Maybe Manfred drinks for free; maybe the patrons flock to him to hear his stories or get his autograph; maybe someone here owes him their life and is inclined to assist him however they can.
@@ -188,9 +188,9 @@ Additionally, the GM may **DESTROY** a piece of gear as a special type of compel
 
 Unless you use a stunt to get an additional, more mechanically detailed permanent capability built into your mech's design (e.g. a transformation, prototype defense technology, advanced neural link, or other complex feature), these aspects are assumed to be the *only* equipment your mech deploys with above whatever baseline your table agrees on in session 0.
 
-There is no set equipment list, so you're free to outfit your mech with whatever gear you can dream up, but you must still work with the GM to make sure you're both on the same page about what a gear aspect can actually do. 
+There is no set equipment list, so you're free to outfit your mech with whatever gear you can dream up, but you must still work with the GM and other players to make sure you're all on the same page about what a gear aspect can actually do. The group has to agree on how many ways a single gear aspect can solve problems and what kinds of problems each aspect can answer. For example, "Guided Missile Rack" isn't a meaningfully different gear aspect from "Chest Compartment Clustered Micro-Missile Pods" - both solve problems by blowing them up at range. But "specialized sub-missile array" could include heat-seekers, bunker busters, chaff pods, and all manner of other tricks - suddenly, the scope of what the aspect can do has widened enormously. 
 
-**EXAMPLES** Beam Saber, Heat Axe, Shoulder Shield, Twin Head-Mounted Vulcans, Mega Bazooka Launcher, Enhanced Booster Binder, Atmospheric Re-Entry Balloon, Psi-Controlled Drone Swarm
+**EXAMPLES** Beam Saber, Heat Axe, Shoulder Shield, Twin Head-Mounted Vulcans, Mega Bazooka Launcher, Enhanced Booster Binder, Atmospheric Re-Entry Balloon, Psi-Controlled Drone Swarm, Anti-Sensor Stealth Suite
 
 
 </div></div>

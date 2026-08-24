@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-23T16:46:59.679-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T05:56:13.586-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Taking Action
@@ -140,7 +140,7 @@ Most of the time, your target will actively oppose your attack. Passive oppositi
 
 For more about harm, consequences, and getting taken out, see [[Rules/4 Challenges, Conflicts, & Contests#Taking Harm\|4 Challenges, Conflicts, & Contests#Taking Harm]]. 
 
-> [!callout|bg-red c-plain no-icon]+ EXAMPLE OF PLAY: FAILED ATTACK, WITH A COST
+> [!callout|bg-c-red show-title no-icon]+ EXAMPLE OF PLAY: FAILED ATTACK, WITH A COST
 > Nomu is sneaking up, wicked knife in hand, on an unaware target whose back is turned. Nomu Fights Subtly to attack from behind, hoping to take the target out before they realize anything's wrong. The GM rules that this uses a passive opposition of 2: the target's not aware of the threat and not actively defending themselves, but Nomu still needs a Good result to close the distance and attack in silence. Nomu has both Fight and Subtly at 3 (Great), so he rolls a total of 6d10. 
 > 
 > Unfortunately for Nomu, the dice come up 2, 2, 3, 4, 5, 6 - meaning he gets 0 hits, and the attack fails. The GM could leave it at that, but *failure should change the fiction* (see [[Rules/1 Core Rules#^FailForward\|On Failing Forward]] above), and besides, it doesn't make much sense in this situation for a failed attack to just do nothing - think about it, *why* did the attack fail? It's unlikely that Nomu missed because he was just stabbing at the air behind a stationary target while the target just stood still, happily oblivious. So the GM adds a minor cost into the result: *because* the target heard Nomu sneaking up, they dodge the knife at the last moment, *and* the cost is they're now aware of Nomu and actively defending themselves. Now, the situation has changed: Nomu has lost the element of surprise, and if he still wants to kill his target, he'll have to do it in a straight-up fight. 
@@ -179,13 +179,13 @@ Group actions cannot be used during [[Rules/4 Challenges, Conflicts, & Contests\
 
 ## Types of Aspects
 ### Character Aspects
-Most of what's on your character sheet: critical information about a character's personality traits, past, relationships with others, items or titles they possess, problems they're dealing with, goals they're working toward, reputation, obligations they carry, or nearly any other conceivable detail that's important to understanding a character. **EXAMPLES** *"Leader Of My Band Of Survivors,"* *"Mad Dog On A Leash,*" *"My Country Right Or Wrong,"* *"Haunted By Voices Of The Dead."*
+Most of what's on your character sheet: critical information about a character's personality traits, past, relationships with others, items or titles they possess, problems they're dealing with, goals they're working toward, reputation, obligations they carry, or nearly any other conceivable detail that's important to understanding a character. **EXAMPLES** *"Leader Of My Band Of Survivors,"* *"Mad Dog On A Leash,*" *"My Country Right Or Wrong,"* *"Fledgeling Fire Mage,"* *"Haunted By Voices Of The Dead."*
 
 ### Consequences & Breakdown
-Temporary aspects that cover lasting physical, psychological, or social harm. **EXAMPLES** *"Damaged Sensor Suite"*, *"Sprained Ankle"*, *"Debilitating Self-Doubt"*, *"Humiliated At Prom."* See [[Rules/4 Challenges, Conflicts, & Contests#Taking Harm\|4 Challenges, Conflicts, & Contests#Taking Harm]] for detailed rules.
+Temporary aspects that cover lasting physical, psychological, or social harm. **EXAMPLES** *"Damaged Sensor Suite,"* *"Sprained Ankle,"* *"Debilitating Self-Doubt,"* *"Humiliated At Prom."* See [[Rules/4 Challenges, Conflicts, & Contests#Taking Harm\|4 Challenges, Conflicts, & Contests#Taking Harm]] for detailed rules.
 
 ### Situation Aspects
-Aspects describing the surroundings or scenario where the action takes place. Usually vanishes at the end of the scene it's part of, or when someone does something that would change or get rid of it. **EXAMPLES** "*On Fire*," "*Heavy Traffic,*" "*Dense Debris Field,*" *"Slick Roof"*, *"Excessively Fancy Ballroom."*
+Aspects describing the surroundings or scenario where the action takes place. A situation aspect usually vanishes at the end of the scene it's part of, or when someone does something that would change or get rid of it. **EXAMPLES** "*On Fire*," "*Heavy Traffic,*" "*Dense Debris Field,*" *"Slick Roof,"* *"Excessively Fancy Ballroom."*
 
 ### Boosts
 An extremely temporary or minor situation. You **CANNOT COMPEL** a boost - you may **INVOKE IT ONCE FOR FREE**, after which it vanishes. An unused boost vanishes when the advantage it represents no longer exists, which may be a few seconds or the duration of a single scene. Boosts never persist beyond the end of a scene, and you can hold off naming one until you’re using it. If you’re in control of a boost, you may pass it to an ally if there’s rationale for it.
@@ -237,7 +237,7 @@ Compels can be retroactive. If a player finds they have roleplayed themself into
 
 It’s okay to recognize a compel as off-the-mark and withdraw it. If the group agrees that a proposed compel wasn’t appropriate, it should be withdrawn at no cost to the compelled character.
 
-> [!callout|bg-red c-plain no-icon ]+ EXAMPLE OF PLAY: A GUY WALKS INTO A BAR...
+> [!callout|bg-c-red no-icon s-t]+ EXAMPLE OF PLAY: A GUY WALKS INTO A BAR...
 > The legendary war hero Manfred walks into a crowded bar, and all eyes immediately snap to him. Because he has the *"Legendary War Hero"* aspect, most people in the room immediately know who he is, but if the players or the GM want that aspect to shape the story even more, they can use the options above to do so.
 > 
 > Manfred's player might want to **CREATE A STORY DETAIL** here based on his *"Legendary War Hero"* aspect: They spend a fate point to declare that many of the bar's patrons fought on his side during the war when he was making his name. This is now *true*: he's not just known in the bar, he's a celebrity. Maybe Manfred drinks for free; maybe the patrons flock to him to hear his stories or get his autograph; maybe someone here owes him their life and is inclined to assist him however they can.
