@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/mumbai/","tags":["location"],"noteIcon":"","updated":"2026-08-24T03:43:30.988-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Rebels","Control":"Contested","Faction_Presence":"Martians -","Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/colonies/mumbai/","tags":["location"],"noteIcon":"","updated":"2026-08-24T03:43:30.000-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Rebels","Control":"Contested","Faction_Presence":"Martians -","Portrait":null}}
 ---
 
 
@@ -30,4 +30,4 @@ views:
     indentProperties: false
 ```
 
-One of three colonies in [[Database/Glossary/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.
+One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.

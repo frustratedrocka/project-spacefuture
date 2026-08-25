@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-13T17:15:09.588-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T07:36:06.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -40,7 +40,7 @@ There may, however, be cases where not having a skill ranked means something is 
 ### Unforeseen Circumstances
 The skill list in this game, by design, does not cover every conceivable thing that could happen in any conceivable story. Instead, it focuses on a broad subset of skills that could foreseeably be relevant to characters in mech-based war stories. If for whatever reason your players find themselves needing to do something that nothing on the skill list seems to cover, either use what seems like the closest skill available or treat the roll as though the player is ranked Adequate (1) in the missing skill. It's more generous than the usual rules for untrained actions because the player was never given a choice to rank a relevant skill before they realized they'd need it. If you find the circumstance repeats, you should consider formally adding a new skill to the list to cover it. 
 
-> [!callout|bg-red c-plain no-icon ]+ EXAMPLE: OLD MECHDONALD HAD A FARM
+> [!callout|bg-c-red no-icon ]+ EXAMPLE: OLD MECHDONALD HAD A FARM
 > The skill list has nothing that explicitly covers animal handling. Should your players somehow find themselves needing to win a horse race, cross the desert on the back of a particularly ornery group of camels, or calm down a panicking cow so it can be transported to safety in an empty compartment of their mech, either choose the closest thing available (Sway could work for all of these, possibly also Operate for the horse and camel scenarios) or give them a provisional 1 in the nonexistent skill for purposes of this roll. If these events recur, it's probably worth adding Handle or Tame as its own skill.
 
 # Approaches
@@ -68,7 +68,7 @@ You may notice that the above list is ordered strangely. That's because this dou
 
 Defend actions occur simultaneously with and as a result of someone else attacking or creating an advantage, so they exist outside of the initiative order and use whatever approach makes sense based on your narration.
 
-> [!callout|bg-red c-plain no-icon ]+ EXAMPLE OF PLAY: LONG SHOTS
+> [!callout|bg-c-red no-icon ]+ EXAMPLE OF PLAY: LONG SHOTS
 Two characters are engaged in a sniper duel. Let's say they both use the same tactics - in this case, each one sticks to the sturdiest and best-camouflaged cover they can find that still offers a line of fire, then waits, only occasionally poking their head up to scan the distance through their scopes. This means they're both Shooting Carefully, so they'll compare their Carefully values, then their Shoot values if those are tied, then roll off if both of those are also tied. Or, one character could try to get the drop on their opponent with a rapid potshot at where they think their enemy is (Shoot Quickly), or attempt a trick shot (Shoot Cleverly), potentially at the price of a higher opposition, using an approach they're weaker in, or a different cost if things go wrong.
 
 ## Controlled Opposition
@@ -78,7 +78,7 @@ For example, imagine you're trying to defuse an unsophisticated and amateurish b
 
 But what if you're not under ideal conditions? If there's intense time pressure, Carefully working one wire at a time would need you to be Masterful (4), maybe even Superhuman (5) if there's only seconds left by the time you even reach the bomb. Approaching Forcefully using the trash bin, however, would still be Great (3) opposition, since with this method of containment, it doesn't matter when the timer runs out as long as the container's in place before it does.
 
-> [!callout|bg-red c-plain no-icon ]+ EXAMPLE OF PLAY: IF YOU SEE ME RUNNING....
+> [!callout|bg-c-red no-icon ]+ EXAMPLE OF PLAY: IF YOU SEE ME RUNNING....
 > Let's put a  character in that exact situation, with a jury-rigged bomb that needs to be dealt with. Khara, with Tinker 3, Cleverly 4, and Quickly 2, is stuck in a room with a bomb. She's analytical and methodical as a rule, and she knows her procedures well, so if she had time, thoroughly inspecting the bomb to figure out how to defuse it would be easy. But she doesn't, and it isn't; the bomb's actively ticking down and it's got to be done right now or never. Since the time pressure is working against her preferred method of he'd need to be Masterful - 4 hits or better - to defuse it Carefully, which is her best approach. Khara's Quickly approach is weaker, but it also reduces the opposition to Good. So now, she has a choice to make: does she use her best approach when the situation makes that approach harder, or does she use an approach that she's weaker in but that better suits the needs of the moment?
 > 
 > Either way, it's a moment of high tension as she wipes the sweat off her brow and leans in, desperately hoping that she can pull this off before time runs out, searching for anything that can give her an edge. This may be where using a relevant [[Rules/3 Skills, Approaches, & Stunts#Stunts\|stunt]] or [[Rules/1 Core Rules#Aspects & Fate Points\|invoking aspects]] comes in - leaning hard on fundamental truths about your character and the situation you're in to find the resolve or leverage you need to tip the scales.
@@ -113,13 +113,13 @@ Alternately, these stunts can give bonuses roughly equivalent to +1 hit. This us
 
 **EXAMPLES**
 - **ARCANE EXPERT** When you Know to create an advantage in a situation that specifically has to do with the supernatural or occult, gain an additional free invoke on up to one discovered aspect.
-- **CHILD OF THE COURT** +1 when you Sway to overcome obstacles when you're at an aristocratic function, such as a royal ball, +2 if you're related to the host and in their good graces for the moment.
+- **CHILD OF THE COURT** +1 when you Sway to overcome obstacles when you're at an aristocratic function, such as a royal ball, +2 if you're related to the host and in their good graces ‐ for the moment...
 - **LEAD IN THE AIR** You *really* like emptying magazines. Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area. (Normally, you'd need to take a separate action to set up this kind of interference, but with the stunt, it's free.)
 
 ### Changing The Rules
 The second type of stunt changes the rules of the game. This is a broad category that includes, but is not limited to, the following:
 
-- Swapping which skills cover a certain situation. For instance, a researcher might use Academics to perform a ritual, while anyone else would use Lore.
+- Swapping which skills cover a certain situation. For instance, a detective might Know to learn about an up-and-coming gang, while anyone else might have to hit the street and Network.
 - Using an action with a skill that isn’t normally used with it. For instance, allowing a character to Move Subtly to backstab an opponent from the shadows (which would typically be covered by Fight Subtly).
 - Allowing a character to declare a minor fact is always true. For instance, a survivalist always has survival items like matches on their person, even under unlikely circumstances. This type of stunt establishes that you do not need to [[Rules/1 Core Rules#Declaring a Story Detail\| invoke for story details]] for the given fact.
 - Allowing a character to make a specific rules exception. For instance, a character might have two more strain boxes or another mild consequence slot.
@@ -202,9 +202,9 @@ Lead a group of people. Command troops in battle; rally a crowd; de-escalate an 
 
 ### Sample Stunts
 
-**GOOD PEP TALK** You may Lead instead of Tending when you attempt to heal a mental consequence.
+**GOOD PEP TALKS** You may Lead instead of Tending when you attempt to heal a mental consequence.
 
-**RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke this aspect yourself if you take the +2.
+**RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2.
 
 **TACTICAL GENIUS** You may spend a fate point, sacrifice your turn, and Lead Cleverly to overcome an opposition equal to the number of enemy characters in the current conflict. If you succeed, your opposition must reveal their planned actions. Your side may then declare your own actions in response before the round's actions start to resolve.
 
@@ -264,7 +264,7 @@ Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is 
 **DEFEND** Shrug off or ignore damage through grit, determination, or sheer toughness.
 
 ### Sample Stunts
-**BUILT DIFFERENT** Through sheer stubbornness or heroic effort, you can push through punishment that would take out anyone else. Once per session, you may ignore the effects of your consequences, or refuse a compel or hostile invoke of a consequence for free.
+**BUILT DIFFERENT** Through sheer stubbornness or heroic effort, you can push through punishment that would take out anyone else. Once per session, you may ignore the effects of your consequences for a single action, or refuse a compel or hostile invoke of a consequence for free.
 
 ## Shoot
 #TODO Guns go pew pew

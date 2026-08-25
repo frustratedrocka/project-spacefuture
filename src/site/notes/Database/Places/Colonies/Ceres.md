@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-08-24T05:39:26.586-04:00","dg-note-properties":{"tags":["location"],"type":"Dwarf Planet","Faction":"Apsis","Control":"Home / Headquarters","faction_Presence":[[null]],"Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-08-24T23:45:04.427-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Planet|Dwarf Planet]]","Faction":"Apsis","Control":"Home / Headquarters","faction_Presence":[[null]],"Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg"}}
 ---
 
 
@@ -9,12 +9,12 @@
 > 
 > | | |
 > |--|--|
-> |Body|[[Dwarf Planet\|Dwarf Planet]]|
+> |Body|[[Database/Glossary/Planet\|Dwarf Planet]]|
 > |Leadership|[[Database/Factions/Apsis\|Apsis]]|
 > |Status|Home / Headquarters|
 > |Interest||
 
-Humanity's oldest colony in [[Database/Glossary/The Belt\|The Belt]]. The decade following [[Database/History/The Ground War\|The Ground War]] has seen it largely taken over by [[Database/Factions/Apsis\|Apsis]]. What was once the farthest into the frontier humanity had ever reached is now the core logistical and manufacturing hub that keeps the calories flowing and the solar system fed. 
+Humanity's oldest colony in [[Database/Places/The Belt\|The Belt]]. The decade following [[Database/History/The Ground War\|The Ground War]] has seen it largely taken over by [[Database/Factions/Apsis\|Apsis]]. What was once the farthest into the frontier humanity had ever reached is now the core logistical and manufacturing hub that keeps the calories flowing and the solar system fed. 
 
 A direct assault on Ceres is not in the [[Database/Factions/Rebels\|Rebels]] playbook at this time. Ceres is both:
 

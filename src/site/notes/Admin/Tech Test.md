@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/tech-test/","tags":[null],"noteIcon":"","updated":"2026-08-12T15:13:53.000-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/admin/tech-test/","tags":[null],"noteIcon":"","updated":"2026-08-12T15:13:53.444-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
@@ -58,7 +58,7 @@ views:
     indentProperties: false
 ```
 
-One of three colonies in [[Database/Glossary/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.
+One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.
 
 </div></div>
 

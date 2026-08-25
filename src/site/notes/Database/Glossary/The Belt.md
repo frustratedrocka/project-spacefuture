@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/the-belt/","tags":["glossary"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-24T03:38:40.948-04:00","dg-note-properties":{"tags":["glossary"]}}
+{"dg-publish":true,"permalink":"/database/glossary/the-belt/","tags":["glossary"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-24T03:38:40.000-04:00","dg-note-properties":{"tags":["glossary"]}}
 ---
 
 

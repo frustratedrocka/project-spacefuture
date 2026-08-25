@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/fate-srd/factions-unedited-srd/","tags":["rules","SRD"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T21:02:11.000-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
+{"dg-publish":true,"permalink":"/rules/fate-srd/factions-unedited-srd/","tags":["rules","SRD"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-04T21:02:11.895-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
 ---
 
 Written by Mark Diaz Truman  Edited by John Adamus  Layout by Fred Hicks

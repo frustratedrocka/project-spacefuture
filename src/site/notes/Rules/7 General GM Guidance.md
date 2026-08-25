@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-16T16:25:05.116-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T08:30:33.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -183,13 +183,13 @@ This step is broken out into two questions, since if the mechanics don't interve
 ### Do Mechanics Take Over
 **MOST OF THE TIME**, the mechanics don't need to kick in for you to declare the result of an action. If there's no *meaningful* uncertainty or resistance in the fiction, then you shouldn't apply mechanics that inject that uncertainty or resistance artificially. 
 
-This applies in both directions - you shouldn't make the player roll for anything that has no chance of failure, or no chance of success. For more on impossible rolls, see [[Rules/1 Core Rules#^06c5d9\|The Limits of Rolling]].
+This applies in both directions - you shouldn't make the player roll for anything that has no chance of failure, or no chance of success unless the dice are answering a different question, like "what does success cost" or "just how catastrophically wrong does this actually go?" For more on impossible rolls, see [[Rules/1 Core Rules#^06c5d9\|The Limits of Rolling]].
 
 But there's another critical factor. Throughout this book, I've kept using the phrase "**MEANINGFUL UNCERTAINTY**" to describe when to roll. How something is defined as meaningful isn't always obvious, so I want to take the opportunity here to lay out an actual working definition.
 
-Not all uncertainty is productive, meaningful, or interesting. In a mystery, "can the investigator find rhe clue" is almost never the interesting question. It's a *prerequisite* for the interesting questions: who does the clue implicate? How can it be interpreted? What next steps does it suggest? Or, in the same language I've been using here: now that the clue has changed the situation, what is the investigator going to do about it?
+Not all uncertainty is productive, meaningful, or interesting. In a mystery, "can the investigator find the clue" is almost never the interesting question. It's a *prerequisite* for the interesting questions: who does the clue implicate? How can it be interpreted? What next steps does it suggest? Or, in the same language I've been using here: now that the clue has changed the situation, what is the investigator going to do about it?
 
-More broadly, the fact that there might realistically be uncertainty in a situation is not, by itself, sufficient grounds to introduce that uncertainty into the game. If uncertainty can resolve multiple ways, and one way cuts off the decisions everyone's actually interested in making and the questions they're interested in answering, then foreclose that possibility and don't roll. Allowing the game to sputter and die through bad die rolls at the wrong time is just as severe a breach of the social contract as forcing the decisions that *do* matter to go a certain way.
+More broadly, the fact that there might realistically be uncertainty in a situation is not, by itself, sufficient grounds to introduce that uncertainty into the game. If uncertainty can resolve multiple ways, and one way cuts off the decisions everyone's actually interested in making and the questions they're interested in answering, then foreclose that possibility and don't leave it up to a roll. Allowing the game to sputter and die through bad die rolls at the wrong time is just as severe a breach of the social contract as forcing the decisions that *do* matter to go a certain way.
 
 Put simply: for all that characters in the Mad Max films frequently talk up the importance of gasoline, there are precisely zero scenes in the series where anyone actually runs out of gas onscreen in the middle of something else, because the movies are interested in car chases and running out of gas would mean no more car chase. It could even possibly mean "they get caught and killed, the end." So the movie excludes it from its actual narrative possibility space. A movie where characters *do* run out of gas and then have to solve that problem and deal with the new problems it creates might still be interesting, but it wouldn't be the movie everyone came to see.
 
@@ -213,10 +213,12 @@ If there's no meaningful uncertainty for the mechanics to resolve, proceed to [[
 
 >[!aside|s-t] WHEN A PC SHOULD SUCK
 > There are some notable exceptions to the guidance about not defaulting to incompetence to explain failure - primarily, genre space where PC incompetence is the point of the game. If the intended tone of your game is comedic and farcical, or otherwise operating with the shared understanding that characters getting in over their heads and screwing up royally is the primary appeal and driver of the drama, then by all means, go nuts and have fun with it.
+> 
+> Otherwise, don't take the competence advice to mean that PCs should *never* be bad at things. The aim is integrity to the characters and the fiction. Inigo Montoya is brilliant at swordfighting. He is also terrible at holding his liquor. 
 
 If the mechanics took over after the previous question, then you need to *explain* the result that those mechanics imposed. Since success is often self-explanatory once the player has established their goal and their method, this typically takes the form of "what went wrong or changed about the scenario that kept the PC from achieving their goal with the stated method?"
 
-As the GM, you should try to avoid narrating failure as a result of player character incompetence (though if a *player* chooses to lean into that for themselves, as with the Gimli example, let them). "You just screwed it up" often undermines the identity of the character and, therefore, part of the fun of playing them. Instead, it's best to figure out *why the window for whatever was being attempted closed.* Did something go wrong *around* the PC? Was it bad timing? Bad intel? Dumb luck? Something else? Or, if you're struggling to figure out something that fits, you can pass the narration back to the player and ask them to explain to the table what went wrong.
+As the GM, you should try to avoid narrating failure as a result of player character incompetence when the character is supposed to be good at the task (though if a *player* chooses to lean into that for themselves, as with the Gimli example, let them). "You just screwed it up" often undermines the identity of the character and, therefore, part of the fun of playing them. Instead, it's best to figure out *why the window for whatever was being attempted closed.* Did something go wrong *around* the PC? Was it bad timing? Bad intel? Dumb luck? Something else? Or, if you're struggling to figure out something that fits, you can pass the narration back to the player and ask them to explain to the table what went wrong.
 
 Besides preserving the fantasy of the player characters, finding other reasons why they failed often results in new sources of tension or drama in the scene - this way, failure becomes a new problem to deal with on the next run through the loop, fuelling the fiction instead of closing it off.
 

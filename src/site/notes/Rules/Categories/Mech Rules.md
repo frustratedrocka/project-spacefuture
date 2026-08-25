@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/categories/mech-rules/","tags":["rules","category"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:47:32.000-04:00","dg-note-properties":{"tags":["rules","category"]}}
+{"dg-publish":true,"permalink":"/rules/categories/mech-rules/","tags":["rules","category"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:47:32.606-04:00","dg-note-properties":{"tags":["rules","category"]}}
 ---
 
 # [[Rules/1 Core Rules\|1 Core Rules]]
@@ -105,7 +105,7 @@ To repair your armor when you're not in position where it makes sense, you must 
 The other difference is how you upgrade your armor. Where strain is innate to your pilot and scales with their Persevere skill, armor is a mechanical quality of your mech, not you as a person. Instead of taking a skill increase during a [[Rules/2 Character Creation#Breakthrough\|2 Character Creation#Breakthrough]], you may add 2 armor boxes to your mech (to a maximum of 8). If you ever get a new mech, those upgrades do not carry over. You and your GM may decide together that it's fictionally appropriate for the new mech to already have better-than-standard armor when you get it (e.g. it's a fresh-from-the-factory prototype custom-built to your specifications), but that is not an assumed default.
 
 ### Breakdown
-Breakdown works a little differently than consequences. Instead of the wide-open field of situation aspects you can create when your pilot suffers harm, breakdown pre-defines the way that damage to your mech escalates throughout a fight. This is meant to take some of the pressure off everyone at the table to quickly figure out wording in the heat of a battle, automatically create relevant and usable aspects, and tune those aspects to continuously ratchet up the tension of the scene. 
+Breakdown works a little differently than consequences. Instead of the wide-open field of consequence aspects you can create when your pilot suffers harm, breakdown pre-defines the way that damage to your mech escalates throughout a fight. This is meant to take some of the pressure off everyone at the table to quickly figure out wording in the heat of a battle, automatically create relevant and usable aspects, and tune those aspects to continuously ratchet up the tension of the scene. 
 
 A **DENTED** mech (2 harm consequence) has taken damage that isn't immediately harmful, but creates a weak point that can be exploited later. Maybe an important structural piece is cracked, or an armor plate is blown off to expose a vulnerable area.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-14T00:36:35.117-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T07:14:59.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Challenges
@@ -27,13 +27,13 @@ Timing matters when using some kinds of [[Rules/4 Challenges, Conflicts, & Conte
 This game uses a somewhat unusual initiative system. At the top of each round, the players and GM declare all of the PC and NPC actions up front. Then, they resolve in order based on the approach each character uses for their action. The order is the same as what's marked on the character sheet and in [[Rules/3 Skills, Approaches, & Stunts#Approaches\|3 Skills, Approaches, & Stunts#Approaches]]: Quickly, Boldly, Forcefully, Cleverly, Subtly, Carefully.
 
 ### GM First
-The GM decides the actions for any NPCs in combat and writes them down on their initiative tracker in approach order. This should be quick - no more than a name or shorthand and 1-3 words of description (e.g. "Blademaster Charge + Draw Fire," "Ganger A+B Flank Detective," "Heavy Suppressive Fire").
+The GM decides the actions for any NPCs in combat and secretly writes them down on their initiative tracker in approach order. This should be quick - no more than a name or shorthand and 1-3 words of description (e.g. "Blademaster Charge + Draw Fire," "Ganger A+B Flank Detective," "Heavy Suppressive Fire").
 
 ### Popcorn Declaration
 To speed up play while still allowing for teamwork and some amount of tactical decision making, the players declare their actions in popcorn order. The first player to declare their action nominates the next player to declare, who then picks the next, and so on until all players have declared.
 
 ### Resolution
-Once everyone's actions are set, actions resolve in order of approach. Characters using the same approach compare their ranks in that approach; if those are tied, they compare their ranks in the skill they're using; if those are also tied, they each roll a single d10 and go in order from highest to lowest result.
+Once everyone's actions are set, actions resolve in order of approach. Allied characters using the same approach may freely decide their action order. If opposed characters are using the same approach, resolve hostile [[Rules/5 Running The Game#Major NPCs\|5 Running The Game#Major NPCs]] first, then PCs and their allies, then all other NPCs before moving to the next approach.
 
 Sometimes, actions taken earlier in a round may invalidate actions that would have gone off later (e.g. a player planned to Shoot Carefully to snipe an enemy who was already taken out earlier in the round). If there is a reasonable way for such actions to be retargeted without changing the approach, the GM should allow the players to do so; otherwise, the action is lost. 
 
@@ -99,7 +99,7 @@ To repair your armor when you're not in position where it makes sense, you must 
 The other difference is how you upgrade your armor. Where strain is innate to your pilot and scales with their Persevere skill, armor is a mechanical quality of your mech, not you as a person. Instead of taking a skill increase during a [[Rules/2 Character Creation#Breakthrough\|2 Character Creation#Breakthrough]], you may add 2 armor boxes to your mech (to a maximum of 8). If you ever get a new mech, those upgrades do not carry over. You and your GM may decide together that it's fictionally appropriate for the new mech to already have better-than-standard armor when you get it (e.g. it's a fresh-from-the-factory prototype custom-built to your specifications), but that is not an assumed default.
 
 ### Breakdown
-Breakdown works a little differently than consequences. Instead of the wide-open field of situation aspects you can create when your pilot suffers harm, breakdown pre-defines the way that damage to your mech escalates throughout a fight. This is meant to take some of the pressure off everyone at the table to quickly figure out wording in the heat of a battle, automatically create relevant and usable aspects, and tune those aspects to continuously ratchet up the tension of the scene. 
+Breakdown works a little differently than consequences. Instead of the wide-open field of consequence aspects you can create when your pilot suffers harm, breakdown pre-defines the way that damage to your mech escalates throughout a fight. This is meant to take some of the pressure off everyone at the table to quickly figure out wording in the heat of a battle, automatically create relevant and usable aspects, and tune those aspects to continuously ratchet up the tension of the scene. 
 
 A **DENTED** mech (2 harm consequence) has taken damage that isn't immediately harmful, but creates a weak point that can be exploited later. Maybe an important structural piece is cracked, or an armor plate is blown off to expose a vulnerable area.
 

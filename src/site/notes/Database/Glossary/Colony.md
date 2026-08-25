@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","glossary"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-24T05:44:14.930-04:00","dg-note-properties":{"tags":["index","glossary"]}}
+{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","glossary"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-24T05:44:14.000-04:00","dg-note-properties":{"tags":["index","glossary"]}}
 ---
 
 "Down" is a *very* fluid concept on most asteroid colonies.
