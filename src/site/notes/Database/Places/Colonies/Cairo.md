@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/cairo/","tags":["location"],"noteIcon":"","updated":"2026-08-24T03:05:51.000-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Rebels","Control":"Contested","Faction_Presence":["Space Pirates"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/colonies/cairo/","tags":["location"],"noteIcon":"","updated":"2026-08-26T06:03:46.655-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":"Rebels","Control":"Contested","Faction_Presence":["Space Pirates"],"Portrait":null}}
 ---
 
 

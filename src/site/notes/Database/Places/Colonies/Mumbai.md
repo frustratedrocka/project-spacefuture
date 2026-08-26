@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/mumbai/","tags":["location"],"noteIcon":"","updated":"2026-08-24T03:43:30.000-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Rebels","Control":"Contested","Faction_Presence":"Martians -","Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/colonies/mumbai/","tags":["location"],"noteIcon":"","updated":"2026-08-26T06:04:19.473-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":"Rebels","Control":"Contested","Faction_Presence":"Martians -","Portrait":null}}
 ---
 
 

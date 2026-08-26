@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-08-24T23:45:04.427-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Planet|Dwarf Planet]]","Faction":"Apsis","Control":"Home / Headquarters","faction_Presence":[[null]],"Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-08-26T05:59:38.106-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":"Apsis","Control":"Home / Headquarters","faction_Presence":[[null]],"Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg"}}
 ---
 
 
@@ -9,7 +9,7 @@
 > 
 > | | |
 > |--|--|
-> |Body|[[Database/Glossary/Planet\|Dwarf Planet]]|
+> |Body|[[Locations Hub\|Dwarf Planet]]|
 > |Leadership|[[Database/Factions/Apsis\|Apsis]]|
 > |Status|Home / Headquarters|
 > |Interest||

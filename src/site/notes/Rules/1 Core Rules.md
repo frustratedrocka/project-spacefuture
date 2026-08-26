@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T05:56:13.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-25T22:42:40.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Taking Action
@@ -29,7 +29,8 @@ Some of these terms may not make sense to you yet; that's fine. Most of them wil
 | 2      | Good             | Moderate    |
 | 3      | Great            | Challenging |
 | 4      | Masterful        | Extreme     |
-| ≥ 5    | Superhuman       | Insane      |
+| 5    | Superhuman       | Insane      |
+|≥6|Legendary|Impossible|
 
 **NEGATIVE HITS** Catastrophic failure
 **HITS BELOW OPPOSITION** Failure
@@ -38,11 +39,10 @@ Some of these terms may not make sense to you yet; that's fine. Most of them wil
 **3+ HITS ABOVE OPPOSITION** Success *with style*
 
 >[!NOTE]+ On Failing Forward
->Fate Core came out just three years after Apocalypse World and the associated PBTA engine revolutionized role-playing games, as a refresh of a system that was significantly older than PBTA. Which means it missed out on a number of huge innovations in the realm of fiction-first gaming, including the concept of "fail forward." I already lean on this as a GMing best practice, but I'll take the opportunity to codify it here:
 >
 >Fail Forward means that every roll, be it success or failure, should change the state of the fiction in some way. Failure isn't a null result, it's the window for whatever you were trying to do closing and forcing you to do something else. This also often includes additional complications or consequences that may leave you worse off than you began - which is more fuel for the drama! 
 >
->The most immediate mechanical impact is that there are no retries of failed rolls unless you can describe how this new attempt is meaningfully different from the first one, but the addition of costs, complications, and consequences to failures also make things a bit more punishing. This was another necessary tweak to counterbalance Fate's baseline pulpy tone and add some extra oomph to your rolls.
+>The most immediate mechanical impact is that there are no retries of failed rolls unless you can describe how this new attempt is meaningfully different from the first one, but the addition of costs, complications, and consequences to failures also make things a bit more difficult. This was another necessary tweak to counterbalance Fate's baseline pulpy tone and add some extra oomph to your rolls.
 { #FailForward}
 
 
@@ -152,12 +152,16 @@ For more about harm, consequences, and getting taken out, see [[Rules/4 Challeng
 ### Defend
 *Avoid an attack or prevent someone from creating an advantage against you.*
 
->[!aside|show-title] No Stacked Effects
->Defend's outcomes mirror those in attack and create an advantage. That doesn't mean the attacker gets two boosts; it's the same result from two different points of view. It's written this way so it's consistent when looking up rules whether you're attacking or defending right now.
+> [!aside|show-title]+ In Defense Of Others
+> Sometimes, if it makes sense in the fiction, you may be able to defend on behalf of another character (e.g. Move Boldly to tackle them out of the path of an oncoming car; Lead Cleverly to publicly cut someone's would-be bully down a peg with a witty insult). If this occurs, the character taking over the defense may suffer some or all of the effects of the hostile action on a tie or failure. In a conflict, this may require that the defender sacrifice their intended action in order to pivot to defense. 
+> 
+> This is incredibly situational and entirely dependent on what's actually happening in the scene and what the characters are doing; therefore, whether the fiction allows this and what restrictions it comes with are subject to GM discretion on a case-by-case basis.
 
 Whenever someone [[Rules/1 Core Rules#attack\|attacks]] you in a [[Rules/4 Challenges, Conflicts, & Contests\|conflict]] or tries to [[Rules/1 Core Rules#create an advantage\|#create an advantage]] on you, you always get a chance to defend. As with attacks, this isn't always physical - some skills allow you to defend against attempts to harm your mind or damage your resolve.
 
 Because you roll to defend as a reaction, your opposition is almost always active. If you're rolling a defend action against passive opposition, it's probably because the environment is hostile to you somehow (e.g. poison gas, a blazing fire, or a deliberately-placed trap), or the NPC isn't important enough to bother with dice.
+
+**NOTE:** Defend's outcomes mirror those in attack and create an advantage. That doesn't mean the attacker gets two boosts; it's the same result from two different points of view. It's written this way so it's consistent when looking up rules whether you're attacking or defending right now.
 
 **FAILURE:** You suffer the consequences of whatever you were trying to prevent.
 **TIE:** You grant your opponent a [[Rules/Categories/Aspects#Boosts\|boost]].
@@ -165,9 +169,9 @@ Because you roll to defend as a reaction, your opposition is almost always activ
 **SUCCESS WITH STYLE:** As normal, but you also gain a boost as you momentarily turn the tables.
 
 ## Group Action
-When multiple characters act as a group, the character with the highest rank in the skill being used leads the action and determines the group's overall approach. All participants in the action contribute up to 2 dice to the leader's pool: 1 die if they have any rank in the skill being used, and / or 1 die if the approach being used matches the character's highest-ranked approach.
+When multiple characters act as a group, the character with the highest rank in the skill being used leads the action and determines the group's overall approach. All participants in the action contribute up to 2 dice to the leader's pool: 1 die if they are ranked Good (2) or better in the skill being used, and / or 1 die if the approach being used matches the character's highest-ranked approach.
 
-Group actions cannot be used during [[Rules/4 Challenges, Conflicts, & Contests\|conflicts, contests, or challenges]]. 
+Group actions cannot be used during [[Rules/4 Challenges, Conflicts, & Contests\|conflicts]]. 
 
 # Aspects & Fate Points
 >[!aside|s-t]+ ASPECTS AT THE TABLE

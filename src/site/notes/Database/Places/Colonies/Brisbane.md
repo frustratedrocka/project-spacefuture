@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/brisbane/","tags":["location"],"noteIcon":"","updated":"2026-08-24T03:12:01.000-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Rebels","Control":"Contested","Faction_Presence":["Jovian Consortium"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/colonies/brisbane/","tags":["location"],"noteIcon":"","updated":"2026-08-26T06:03:58.469-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":"Rebels","Control":"Contested","Faction_Presence":["Jovian Consortium"],"Portrait":null}}
 ---
 
 
