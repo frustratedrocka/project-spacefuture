@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T06:32:55.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-27T21:55:36.364-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Pilot Creation
@@ -105,15 +105,21 @@ When creating your **MECH ASPECTS**, you'll start with a high concept and a trou
 > 
 > NPC mechs, naturally, are not subject to these restrictions, and their gear can be as weak or as overpowered as the fiction demands.
 
-Mechs have two gear aspects, representing the equipment loadout you carry into battle. These aspects can shape the tactical options available to you and define how your mech actually fights. They can be invoked or compelled like any other aspect, but they also have a few special rules.
+Mechs have two gear aspects, representing the equipment loadout you carry into battle. These aspects shape the tactical options available to you and define how your mech actually fights. They can be invoked or compelled like any other aspect, but they also have a few special rules.
 
-Mech equipment is proportionate to the mech using it, meaning it is enormous, intricate, and requires some lead time to change out. Your gear aspects are not available to rewrite during a [[Rules/2 Character Creation#Milestone\|#Milestone]]; instead, they may be freely changed when any of the following conditions apply:
+Mech equipment is proportionate to the mech using it, meaning it is enormous, intricate, and requires some lead time for the hangar crew to change out. This means that your gear aspects are not automatically available to rewrite as part of a [[Rules/2 Character Creation#Milestone\|#Milestone]]. Instead, they may be freely changed when any of the following conditions apply:
+
 - You are about to deploy in a battle for which you had time to prepare (so if you're dealing with a surprise attack or other scenario that requires emergency rapid response, you'll have to make the best of what you're already equipped with).
-- A session begins or ends while you are in a position that would reasonably allow access to the facilities and time needed to reequip your mech (meaning you're not currently in your mech, you're not under immediate time pressure, and you're not in a situation or location that naturally prevents access to replacement gear like the middle of an empty desert).
-
-Additionally, the GM may **DESTROY** a piece of gear as a special type of compel when your mech suffers a breakdown other than Dented. If this happens, write the breakdown aspect in a way that reflects the loss of the equipment (e.g. *"Disabled Shoulder Cannons"*). Unless you've established the gear aspect as something irreplaceable, like a bleeding-edge prototype, you'll get it back when the breakdown clears at the next Breakthrough advance. This is still a compel, so you will earn a fate point if it happens and you may spend one to refuse it. See [[Rules/4 Challenges, Conflicts, & Contests#Harm and Mechs\|4 Challenges, Conflicts, & Contests#Harm and Mechs]] for the full rules on suffering and clearing breakdown.
+- A session begins or ends while you are in a position that would reasonably allow access to the facilities and time needed to reequip your mech (meaning you're not currently in your mech, you're not under immediate time pressure, and you're not in a situation or location that naturally prevents access to replacement gear like the middle of an empty desert). You may, if you like, specify a standard loadout that your mech is automatically reset to at this time unless you give instructions to override it.
 
 Unless you use a stunt to get an additional, more mechanically detailed permanent capability built into your mech's design (e.g. a transformation, prototype defense technology, advanced neural link, or other complex feature), these aspects are assumed to be the *only* equipment your mech deploys with above whatever baseline your table agrees on in session 0.
+
+The GM may offer a special type of compel to **DESTROY** a piece of gear when your mech suffers a breakdown other than Dented. This can occur either before you write the breakdown aspect ("I'll offer a fate point if this knocks off your *Enhanced Sensor Array*") or after ("You said your arm got damaged; have a fate point if that also took out your *Shoulder Cannon*"). This type of compel can be refused for free, without requiring a fate point. 
+
+> [!NOTE] Incentive Structures
+> By the logic set out in [[Rules/1 Core Rules#Compelling an Aspect\|1 Core Rules#Compelling an Aspect]], gear destruction *should* count as an Event compel and require a fate point to refuse. It gets a special carveout here because it would otherwise create a warped incentive structure around writing Breakdowns. If the players learn "I need to be careful what I write, because otherwise I might get charged a fate point to not lose more function than I intended," then writing Breakdown becomes a potentially adversarial exercise in defensive fiction-lawyering. Making refusal free preserves the intended effect: the compel turns up the pressure, or emerges as a natural extension of what just happened, but doesn't punish the player for insufficiently specific paranoia. 
+
+ If the fiction allows for gear change as described above, then you may replace the destroyed gear aspect at the first opportunity. Otherwise, unless you've established the gear aspect as something irreplaceable like a bleeding-edge prototype, you'll get it back when the breakdown clears at the next Breakthrough. See [[Rules/4 Challenges, Conflicts, & Contests#Harm and Mechs\|4 Challenges, Conflicts, & Contests#Harm and Mechs]] for the full rules on suffering and clearing breakdown.
 
 There is no set equipment list, so you're free to outfit your mech with whatever gear you can dream up, but you must still work with the GM and other players to make sure you're all on the same page about what a gear aspect can actually do. The group has to agree on how many ways a single gear aspect can solve problems and what kinds of problems each aspect can answer. For example, "Guided Missile Rack" isn't a meaningfully different gear aspect from "Chest Compartment Clustered Micro-Missile Pods" - both solve problems by blowing them up at range. But "specialized sub-missile array" could include heat-seekers, bunker busters, chaff pods, and all manner of other tricks - suddenly, the scope of what the aspect can do has widened enormously. 
 
