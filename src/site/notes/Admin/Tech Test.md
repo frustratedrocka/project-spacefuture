@@ -75,6 +75,7 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 > |  |  |
 > |--|--|
 > |**FACTION**| [[Database/Factions/Armada Ejecta\|Armada Ejecta]]|
+> |**ORIGIN**|[[Database/Places/Earth\|Earth]]|
 > | **STRAIN**| `REDACTED` |
 >  
 > |HARM|CONSEQUENCE|
@@ -151,7 +152,9 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 >[!blank|static wfull]
 # Notes
 
-`REDACTED` before being drafted into the United Terran Sphere Navy in the early days of [[Database/History/The Ground War\|The Ground War]].  
+`REDACTED` before being drafted into the United Terran Sphere Navy in the early days of [[Database/History/The Ground War\|The Ground War]].  One of the most polarizing figures in the entire solar system. 
+
+`REDACTED`
 
 </div></div>
 
