@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/cairo/","tags":["location"],"noteIcon":"","updated":"2026-08-26T06:03:46.655-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":"Rebels","Control":"Contested","Faction_Presence":["Space Pirates"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/colonies/cairo/","tags":["location"],"noteIcon":"","updated":"2026-08-28T08:36:07.141-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":"Rebels","Control":"Contested","Faction_Presence":["Armada Ejecta"],"Portrait":null}}
 ---
 
 
@@ -12,7 +12,7 @@
 > |Body|[[Database/Glossary/Colony\|Colony]]|
 > |Leadership|[[Database/Factions/Rebels\|Rebels]]|
 > |Status|Contested|
-> |Interest|[[Database/Factions/Space Pirates\|Space Pirates]]|
+> |Interest|[[Database/Factions/Armada Ejecta\|Armada Ejecta]]|
 
 ```base
 filters:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-28T04:24:27.489-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-28T08:32:54.352-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
@@ -32,6 +32,6 @@
 >[!TIMELINE|t-l color-red] EC 0092
 > Apsis is all-but-openly anything *but* neutral, and increasingly wields their power like a cudgel with the transparent aim of maintaining and accumulating more power. The breaking point comes when a reallocation intentionally cuts rations to [[Database/Places/Colonies/Cairo\|Cairo]], [[Database/Places/Colonies/Mumbai\|Mumbai]], and [[Database/Places/Colonies/Brisbane\|Brisbane]] colonies below starvation levels as retaliation for increasingly serious demonstration against Apsis's restrictions.
 > 
-> Apsis intended to make an example of the colonies. Instead, they trigger open, armed revolt. The [[Database/Factions/Rebels\|Rebels]] emerge as a semi-unified, cell-based guerilla force made of [[Database/Factions/Space Pirates\|Space Pirates]], [[Database/Factions/Jovian Consortium\|Jovian Consortium]] defectors, [[Martian\|Martian]] militants, and civilians who are taking the opportunity to join up and actually fight for change. The young rebellion is receiving a surprising amount of under-the-table backing from within the political establishment, and significant open backing from those Belt colonies they're able to reliably defend.
+> Apsis intended to make an example of the colonies. Instead, they trigger open, armed revolt. The [[Database/Factions/Rebels\|Rebels]] emerge as a semi-unified, cell-based guerilla force made of [[Database/Factions/Armada Ejecta\|Armada Ejecta]], [[Database/Factions/Jovian Consortium\|Jovian Consortium]] defectors, [[Martian\|Martian]] militants, and civilians who are taking the opportunity to join up and actually fight for change. The young rebellion is receiving a surprising amount of under-the-table backing from within the political establishment, and significant open backing from those Belt colonies they're able to reliably defend.
 
 >[!TIMELINE|color-white] CAMPAIGN START

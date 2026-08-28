@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-08-26T06:04:51.199-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Space Pirates","Mindful Eyes","Hive Cult"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-08-28T08:35:29.114-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Armada Ejecta","Mindful Eyes","Hive Cult"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
 ---
 
 > [!INFOBOX] Earth
@@ -11,13 +11,13 @@
 > |Body|[[Locations Hub\|Planet]]|
 > |Leadership|[[Database/Factions/Apsis\|Apsis]]|
 > |Status|No Man's Land|
-> |Interest|[[Database/Factions/Space Pirates\|Space Pirates]],[[Database/Factions/Mindful Eyes\|Mindful Eyes]],[[Database/Factions/Hive Cult\|Hive Cult]]|
+> |Interest|[[Database/Factions/Armada Ejecta\|Armada Ejecta]],[[Database/Factions/Mindful Eyes\|Mindful Eyes]],[[Database/Factions/Hive Cult\|Hive Cult]]|
 
 Earth is effectively gone - was the breadbasket, now effectively a non-player in solar politics after [[Database/History/The Ground War\|The Ground War]]. 
 
 In an effort to wipe out [[Database/History/The Hive Mind\|The Hive Mind]], *someone* dropped [[Database/Places/Luna\|Luna]] onto the planet. Result: stopped the spread of the hive, but nobody cared because now there's a cataclysmic solar-system-wide food shortage. 
 
-Many of the displaced survivors who couldn't or wouldn't assimilate elsewhere took to life aboard ships, at the fringes of society, forming the [[Database/Factions/Space Pirates\|Space Pirates]].
+Many of the displaced survivors who couldn't or wouldn't assimilate elsewhere took to life aboard ships, at the fringes of society, forming the [[Database/Factions/Armada Ejecta\|Armada Ejecta]].
 
 Fortunately for everyone, Luna fragmented on the way down, and not all of it actually hit the planet. So, nuclear winter, yes. Practically uninhabitable without dedicated equipment, yes. Volcanic hellscape with no resources left to extract, no.
 

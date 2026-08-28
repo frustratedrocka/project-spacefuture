@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/the-current-conflict/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-19T10:20:39.000-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/the-current-conflict/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-28T08:32:54.379-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
@@ -8,7 +8,7 @@ Players:
 - [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]]
 - [[Database/Places/The Belt\|The Belt]] and individual colonies
 - [[Database/Factions/Rebels\|Rebels]] 
-- [[Database/Factions/Space Pirates\|Space Pirates]]
+- [[Database/Factions/Armada Ejecta\|Armada Ejecta]]
 - [[Database/Factions/Apsis\|Apsis]]
 
 11 years since the end of [[Database/History/The Ground War\|The Ground War]] 

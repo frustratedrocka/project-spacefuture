@@ -74,7 +74,7 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 > 
 > |  |  |
 > |--|--|
-> |**FACTION**| [[Database/Factions/Space Pirates\|Space Pirates]]|
+> |**FACTION**| [[Database/Factions/Armada Ejecta\|Armada Ejecta]]|
 > | **STRAIN**| `REDACTED` |
 >  
 > |HARM|CONSEQUENCE|
@@ -85,7 +85,7 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 
 > [!infobox|right wsmall]
 > # Gundam Descolada
-> ![[Descolada_SQ.png\|Descolada_SQ.png]]
+> ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)
 > 
 > |  |  |
 > |--|--|
@@ -118,18 +118,35 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 
 { .block-language-dataview}
 
-| Gear Aspects                                             |
-| -------------------------------------------------------- |
-| Composite Gunlance                                       |
-| Hooked Duelling Cape                                     |
-| P.O.L.L.Y (Preposterous Ordnance Launcher Locked on You) |
-| Backup Pistols                                           |
+| Gear Aspects         |
+| -------------------- |
+| Composite Gunlance   |
+| Hooked Duelling Cape |
+| `REDACTED`           |
+| Backup Pistols       |
 
 { .block-language-dataview}
 
 >[!blank|static wfull]
 >
-`REDACTED`
+`REDACTED` 
+
+| Stunts     |
+| ---------- |
+| `REDACTED` |
+| `REDACTED` |
+| `REDACTED` |
+
+{ .block-language-dataview}
+
+| Mech Stunts                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.                                                                                        |
+| **YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost. |
+| `REDACTED`                                                                                                                                                                                                                                     |
+
+{ .block-language-dataview}
+
 
 >[!blank|static wfull]
 # Notes

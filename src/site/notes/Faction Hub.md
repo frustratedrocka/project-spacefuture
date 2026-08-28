@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T03:08:29.000-04:00","dg-note-properties":{"tags":["Tracker","index"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-28T08:32:54.569-04:00","dg-note-properties":{"tags":["Tracker","index"]}}
 ---
 
 
@@ -343,17 +343,17 @@ views:
 </div></div>
 
 
-# [[Database/Factions/Space Pirates\|Space Pirates]]
+# [[Database/Factions/Armada Ejecta\|Armada Ejecta]]
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/space-pirates/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/armada-ejecta/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 
 >[!INFOBOX|ws-med]
-># Space Pirates
+># Armada Ejecta
 >![Admin/Attachments/CV_Recolor.webp\|CV_Recolor.webp](/img/user/Admin/Attachments/CV_Recolor.webp)
 >
 >|||
@@ -368,13 +368,13 @@ views:
 >|**FORCE**|6|
 >|**FRATERNITY**|4|
 
-Refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and [[Database/Places/Luna\|Luna]], exiles with chips on their shoulder.
+Refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and [[Database/Places/Luna\|Luna]], exiles with chips on their shoulder. Formed into a loose collective around being something *more* than that through some deliberate myth-making and identity construction, largely on [[Database/People/The Pirate King\|The Pirate King]]'s initiative.
 
 ```base
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains("Space Pirates")
+    - Faction.contains("Armada Ejecta")
 views:
   - type: list
     name: Known Members
@@ -401,8 +401,8 @@ filters:
   and:
     - file.tags.contains("location")
     - or:
-        - Faction == "Space Pirates"
-        - Faction_Presence.contains("Space Pirates")
+        - Faction == "Armada Ejecta"
+        - Faction_Presence.contains("Armada Ejecta")
 properties:
   note.file.name:
     displayName: Location
@@ -426,7 +426,7 @@ views:
 ```base
 filters:
   and:
-    - Faction.contains("Space Pirates")
+    - Faction.contains("Armada Ejecta")
     - file.tags.contains("Mech")
     - file.folder != "Database/Mechs/Sample"
 properties:
