@@ -100,15 +100,14 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 > |4 Dsbl|Disabled|
 > |6 Doom|Doomed|
 
-| Aspects                                                  |
-| -------------------------------------------------------- |
-| Flamboyant Living Symbol                                 |
-| Relationship                                             |
-| Exemplary Captain First, King Distant Second             |
-| !h!REAL concept: Calculated Flamboyant Living Symbol!/h! |
-| Far Better To Live And Die Under The Brave Black Flag    |
-| `REDACTED`                                               |
-| `REDACTED`                                               |
+| Aspects                                               |
+| ----------------------------------------------------- |
+| Flamboyant Living Symbol                              |
+| Relationship                                          |
+| Exemplary Captain First, King Distant Second          |
+| Far Better To Live And Die Under The Brave Black Flag |
+| `REDACTED`                                            |
+| `REDACTED`                                            |
 
 { .block-language-dataview}
 
