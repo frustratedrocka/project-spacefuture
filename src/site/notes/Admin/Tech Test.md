@@ -85,7 +85,7 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 
 > [!infobox|right wsmall]
 > # Gundam Descolada
-> ![Admin/Attachments/Descolada_SQ.png\|Descolada_SQ.png](/img/user/Admin/Attachments/Descolada_SQ.png)
+> ![[Descolada_SQ.png\|Descolada_SQ.png]]
 > 
 > |  |  |
 > |--|--|
@@ -101,24 +101,29 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 
 | Aspects                                               |
 | ----------------------------------------------------- |
-| Far Better To Live And Die Under The Brave Black Flag |
+| !h!Calculating !/h!Flamboyant Living Symbol           |
 | Relationship                                          |
 | Exemplary Captain First, King Distant Second          |
+| Far Better To Live And Die Under The Brave Black Flag |
+| `REDACTED`                                            |
+| `REDACTED`                                            |
 
 { .block-language-dataview}
 
-| Mech Aspects |
-| ------------ |
-| High Concept |
-| Trouble      |
-| Relationship |
+| Mech Aspects                 |
+| ---------------------------- |
+| Swashbuckling Space Duellist |
+| `REDACTED`                   |
+| `REDACTED`                   |
 
 { .block-language-dataview}
 
-| Gear Aspects        |
-| ------------------- |
-| Primary Equipment   |
-| Secondary Equipment |
+| Gear Aspects                                             |
+| -------------------------------------------------------- |
+| Composite Gunlance                                       |
+| Hooked Duelling Cape                                     |
+| P.O.L.L.Y (Preposterous Ordnance Launcher Locked on You) |
+| Backup Pistols                                           |
 
 { .block-language-dataview}
 
@@ -128,6 +133,8 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 
 >[!blank|static wfull]
 # Notes
+
+`REDACTED` before being drafted into the United Terran Sphere Navy in the early days of [[Database/History/The Ground War\|The Ground War]].  
 
 </div></div>
 
