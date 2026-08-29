@@ -140,11 +140,11 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 
 { .block-language-dataview}
 
-| Mech Stunts                                                                                                                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.                                                                                        |
-| **YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost. |
-| `REDACTED`                                                                                                                                                                                                                                     |
+| Mech Stunts                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.                                                                                                         |
+| **YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to hook launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost. |
+| `REDACTED`                                                                                                                                                                                                                                                      |
 
 { .block-language-dataview}
 
