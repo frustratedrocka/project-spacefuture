@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-28T08:37:57.120-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Armada Ejecta","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors","Space Pirates"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-30T07:33:13.301-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Armada Ejecta","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors","Space Pirates"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
 ---
 
 
@@ -19,7 +19,9 @@
 >|**FORCE**|6|
 >|**FRATERNITY**|4|
 
-Refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and [[Database/Places/Luna\|Luna]], exiles with chips on their shoulder. Formed into a loose collective around being something *more* than that through some deliberate myth-making and identity construction, largely on [[Database/People/The Pirate King\|The Pirate King]]'s initiative.
+Space pirates. Also refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and [[Database/Places/Luna\|Luna]], exiles with chips on their shoulder. Formed into a loose collective `REDACTED`, largely on [[Database/People/The Pirate King\|The Pirate King]]'s initiative.
+
+The Armada is defined by shared identity and broadly accepted practices, rather than ideology. Ships and flotillas are independent entities bound together by voluntary articles and personal loyalty, inspired by the formal pirate codes of old Earth. The King is looked up to as an exemplar of what it means to be a pirate and why being one matters; he's also very aware he would be airlocked immediately if he ever tried to leverage that give a ship not under his command an order they were strongly against.
 
 ```base
 filters:
