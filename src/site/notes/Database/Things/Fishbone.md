@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["npc","ship","character","weird"],"noteIcon":"","updated":"2026-08-31T14:20:46.306-04:00","dg-note-properties":{"tags":["npc","ship","character","weird"],"Portrait":"Admin/Attachments/PCShip.webp","Faction":"Rebels","Rank":null,"Strain":8,"Consequences":["","","",""],"Concept":"High Concept","Relationship":"Relationship","Aspects":["Improved Diffusion Shielding","Point Defenses",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["npc","ship","character","weird"],"noteIcon":"","updated":"2026-08-31T15:09:14.329-04:00","dg-note-properties":{"tags":["npc","ship","character","weird"],"Portrait":"Admin/Attachments/PCShip.webp","Faction":"Rebels","Rank":null,"Strain":8,"Consequences":["","","",""],"Concept":"High Concept","Relationship":"Relationship","Aspects":["Improved Diffusion Shielding","Point Defenses",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -39,11 +39,7 @@
 ```base
 filters:
   and:
-    - or:
-	  - Faction.contains("")
-	  - Faction_Presence.contains("")
-	  - Assoc.contains("Fishbone")
-	  - Origin.contains("")
+    - Assoc.contains("Fishbone")
     - file.hasTag("npc")
 views:
   - type: list
