@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-26T06:10:05.624-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-31T14:15:14.132-04:00","dg-note-properties":{}}
 ---
 
 # Next Session
 Character Creation - September 1 2026
 
 # Where Are You
-Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Malthus\|Todo]], serving as Second Wing. 
+Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Todo]], serving as Second Wing. 
 
 # Fiction Primer
 It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]], and...

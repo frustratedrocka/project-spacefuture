@@ -184,6 +184,7 @@ views:
     imageAspectRatio: 0.5
     cardSize: 160
     indentProperties: false
+
 ```
 
 
@@ -372,7 +373,7 @@ views:
 
 *Officially*, [[Database/History/The Ground War\|The Ground War]] ended with no winner, and the [[Database/Places/Colonies/Ceres\|Ceres]] accords established [[Database/Factions/Apsis\|Apsis]] as an unaligned, neutral administration.
 
-In reality, [[Database/Places/Mars\|Mars]] is getting completely screwed and everyone knows it. 
+In reality, [[Database/Places/Mars\|Mars]] is getting screwed and everyone knows it. 
 
 Martian crews extract soil from the corpse of Earth, and Apsis sends it on to Jupiter and the Belt. Martian workers successfully terraform a region, and Apsis seizes it to distribute its output through the rest of the solar system. Martian workers threaten a general strike, and suddenly there's armed [[Database/Mobile Suits/SE-832 Akoni\|Akoni]] detachments landing at [[Olympus\|Olympus]], [[Cydonia\|Cydonia]], and other major cities in "scheduled training exercises to acclimate pilots to the requirements of urban movement." 
 
