@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-31T12:26:52.966-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":["This Cannot Continue"],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-31T15:48:44.333-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":["This Cannot Continue"],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!INFOBOX|ws-med]
 ># Rebels
->`=embed(link(this.Portrait))`
->
+>![Admin/Attachments/RebelInsignia.webp\|RebelInsignia.webp](/img/user/Admin/Attachments/RebelInsignia.webp)
 >
 >
 >|SKILL|RANK|

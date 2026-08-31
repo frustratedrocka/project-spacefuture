@@ -12,8 +12,7 @@
 
 >[!INFOBOX|ws-med]
 ># Rebels
->`=embed(link(this.Portrait))`
->
+>![Admin/Attachments/RebelInsignia.webp\|RebelInsignia.webp](/img/user/Admin/Attachments/RebelInsignia.webp)
 >
 >
 >|SKILL|RANK|
