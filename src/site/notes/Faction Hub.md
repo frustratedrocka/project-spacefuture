@@ -350,7 +350,7 @@ views:
 
 
 
->[!INFOBOX|wm-sm]
+>[!INFOBOX|ws-med]
 ># Republic Of Mars
 >![Admin/Attachments/RFGuerillaPropPoster1.jpg\|RFGuerillaPropPoster1.jpg](/img/user/Admin/Attachments/RFGuerillaPropPoster1.jpg)
 >
