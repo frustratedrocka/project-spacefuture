@@ -1,0 +1,119 @@
+{
+  "/": [
+    "Home Page",
+    "Faction Hub",
+    "Locations Hub",
+    "Rules Hub",
+    "Mech Catalog",
+    "Admin",
+    "Database",
+    "Player Characters",
+    "Rules"
+  ],
+  "/Admin": [
+    "Player Intake Form",
+    "Tech Test"
+  ],
+  "/Database": [
+    "Factions",
+    "Glossary",
+    "History",
+    "Mobile Suits",
+    "People",
+    "Places",
+    "Things"
+  ],
+  "/Database/Factions": [
+    "Apsis",
+    "Armada Ejecta",
+    "Hive Cult",
+    "Independent",
+    "Jovian Consortium",
+    "Mindful Eyes",
+    "Rebels",
+    "Republic Of Mars",
+    "Storm's Eye Heavy Industries"
+  ],
+  "/Database/Glossary": [
+    "Ark Stations",
+    "Colony",
+    "Mobile Suit",
+    "The Belt"
+  ],
+  "/Database/History": [
+    "Emergent Century",
+    "The Current Conflict",
+    "The Ground War",
+    "The Hive Mind"
+  ],
+  "/Database/Mobile Suits": [
+    "Gundam Theseus",
+    "Not The Dag Doll",
+    "SE-832 Akoni",
+    "SE-832-E Akoni Command Type",
+    "TC-01 Gundam Descolada"
+  ],
+  "/Database/People": [
+    "Test",
+    "The CEO",
+    "The Man Upstairs",
+    "The Mother And The Father",
+    "The Pirate King",
+    "The Queen",
+    "Vantrin Almeyer"
+  ],
+  "/Database/People/Test": [
+    "Test Secret Pilot"
+  ],
+  "/Database/Places": [
+    "Colonies",
+    "Jupiter Sphere",
+    "Earth"
+  ],
+  "/Database/Places/Colonies": [
+    "Brisbane",
+    "Cairo",
+    "Ceres",
+    "Mumbai"
+  ],
+  "/Database/Places/Jupiter Sphere": [
+    "Jupiter"
+  ],
+  "/Database/Things": [
+    "Ark Stations",
+    "Brynhildr",
+    "Charun",
+    "Fishbone"
+  ],
+  "/Player Characters": [
+    "Pregen"
+  ],
+  "/Player Characters/Pregen": [
+    "Kamille Bidan End",
+    "Kamille Bidan Start"
+  ],
+  "/Rules": [
+    "Categories",
+    "Fate SRD",
+    "0 Introduction",
+    "1 Core Rules",
+    "2 Character Creation",
+    "3 Skills, Approaches, & Stunts",
+    "4 Challenges, Conflicts, & Contests",
+    "5 Running The Game",
+    "6 Putting It All Together",
+    "7 General GM Guidance",
+    "Appendix - Shiny & Chrome"
+  ],
+  "/Rules/Categories": [
+    "Aspects",
+    "Mech Rules"
+  ],
+  "/Rules/Fate SRD": [
+    "Adversary Toolkit (UNEDITED SRD)",
+    "Factions (UNEDITED SRD)",
+    "Fate Accelerated (UNEDITED SRD)",
+    "Fate Condensed (UNEDITED SRD)",
+    "Fate Core (UNEDITED SRD)"
+  ]
+}
