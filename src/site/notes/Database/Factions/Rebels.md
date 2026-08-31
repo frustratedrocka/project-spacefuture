@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-31T15:48:44.333-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":["This Cannot Continue"],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-31T15:50:15.916-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":["This Cannot Continue"],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!INFOBOX|ws-med]
 ># Rebels
 >![Admin/Attachments/RebelInsignia.webp\|RebelInsignia.webp](/img/user/Admin/Attachments/RebelInsignia.webp)
 >
+>|||
+>|--|--|
+>|**PARAGON**|[[|]]|
+>|**BELIEFS**|"This Cannot Continue"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -13,13 +17,6 @@
 >|**FELLOWSHIP**|8|
 >|**FORCE**|4|
 >|**FRATERNITY**|2|
->
->
->**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><span>This Cannot Continue</span></li></ul></div>
->
-> **PARAGON**
->[[|]]
 
 The [[Database/Factions/Rebels\|Rebels]] are a motley assortment of defectors, pirates, deniable government support, ideologues, and anyone else willing and able to take drastic measures to correct Apsis's lethal overreach. They officially formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to make an example of multiple dissenting colonies - [[Database/Places/Colonies/Cairo\|Cairo]], [[Database/Places/Colonies/Brisbane\|Brisbane]], [[Database/Places/Colonies/Mumbai\|Mumbai]] - by cutting their food allotments below starvation levels. 
 
