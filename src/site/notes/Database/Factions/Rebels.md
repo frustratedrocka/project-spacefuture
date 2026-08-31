@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-12T19:06:42.435-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":[[null]],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-08-31T11:41:49.300-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":["This Cannot Continue"],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":null}}
 ---
 
 >[!INFOBOX|ws-med]
@@ -17,7 +17,7 @@
 >
 >
 >**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>-</span></li></ul></li></ul></div>
+><div><ul class="dataview list-view-ul"><li><span>This Cannot Continue</span></li></ul></div>
 >
 > **PARAGON**
 >[[|]]

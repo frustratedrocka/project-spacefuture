@@ -27,7 +27,7 @@
 >
 >
 >**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>-</span></li></ul></li></ul></div>
+><div><ul class="dataview list-view-ul"><li><span>This Cannot Continue</span></li></ul></div>
 >
 > **PARAGON**
 >[[|]]
