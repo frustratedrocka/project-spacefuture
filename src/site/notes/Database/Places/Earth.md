@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-08-28T08:35:29.114-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Armada Ejecta","Mindful Eyes","Hive Cult"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-01T15:58:47.500-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Armada Ejecta","Mindful Eyes","Hive Cult"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
 ---
 
 > [!INFOBOX] Earth
@@ -25,7 +25,7 @@ Fortunately for everyone, Luna fragmented on the way down, and not all of it act
 filters:
   or:
     - Origin == "Earth"
-	- Assoc.contains("Earth")
+    - Assoc.contains("Earth")
 views:
   - type: list
     name: Associated
