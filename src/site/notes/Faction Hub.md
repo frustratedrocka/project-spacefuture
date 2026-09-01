@@ -416,7 +416,7 @@ filters:
     - file.tags.contains("location")
     - or:
         - Faction == "Republic Of Mars"
-        - Faction_Presence.contains("Mars")
+        - Faction_Presence.contains("Republic Of Mars")
 properties:
   note.file.name:
     displayName: Location
@@ -434,7 +434,11 @@ views:
       - Faction
       - Control
       - Faction_Presence
+    sort:
+      - property: Faction
+        direction: DESC
     indentProperties: false
+
 ```
 
 ```base

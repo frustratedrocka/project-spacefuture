@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-08-31T15:00:39.337-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.jpg","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-01T16:00:27.301-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.jpg","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
 ---
 
 
@@ -69,7 +69,7 @@ filters:
     - file.tags.contains("location")
     - or:
         - Faction == "Republic Of Mars"
-        - Faction_Presence.contains("Mars")
+        - Faction_Presence.contains("Republic Of Mars")
 properties:
   note.file.name:
     displayName: Location
@@ -87,7 +87,11 @@ views:
       - Faction
       - Control
       - Faction_Presence
+    sort:
+      - property: Faction
+        direction: DESC
     indentProperties: false
+
 ```
 
 ```base
