@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character"],"noteIcon":"","updated":"2026-08-28T05:42:53.495-04:00","dg-note-properties":{"tags":["npc","character"],"NPC_Name":"The Man Upstairs","Portrait":"Admin/Attachments/Onassis.jpg","Faction":"Apsis","Rank":0,"Strain":6,"Consequences":["Mild","Moderate","Severe"],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["`REDACTED`","Expert Shipping Magnate"],"Stunts":[[null]],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
+{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character"],"noteIcon":"","updated":"2026-08-31T16:40:52.429-04:00","dg-note-properties":{"tags":["npc","character"],"NPC_Name":"The Man Upstairs","Portrait":"Admin/Attachments/Onassis.jpg","Faction":"Apsis","Rank":0,"Strain":6,"Consequences":["Mild","Moderate","Severe"],"Concept":"Power-Hungry Expert Shipping Magnate","Relationship":null,"Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`"],"Stunts":[[null]],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
 ---
 
 > [!infobox|left wsmall]
@@ -17,13 +17,12 @@
 > |4 Mod|Moderate|
 > |6 Svr|Severe|
 
-| Aspects                 |
-| ----------------------- |
-| `REDACTED`              |
-| Relationship            |
-| `REDACTED`              |
-| `REDACTED`              |
-| Expert Shipping Magnate |
+| Aspects                              |
+| ------------------------------------ |
+| Power-Hungry Expert Shipping Magnate |
+| `REDACTED`                           |
+| `REDACTED`                           |
+| `REDACTED`                           |
 
 { .block-language-dataview}
 
