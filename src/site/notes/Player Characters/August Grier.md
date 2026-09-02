@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["PC","character"],"noteIcon":"","updated":"2026-09-02T04:04:41.953-04:00","dg-note-properties":{"tags":["PC","character"],"Player":"Mike","Portrait":"Admin/Attachments/GenericFeddie_SQ.png","Faction":["Rebels"],"Origin":"Mars","Assoc":["Theseus"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"MECH_Name":"Cossack","MECH_Model":["UT-F-08 Cossack"],"MECH_Portrait":"Admin/Attachments/GM-II-AEUG_SQ.png","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Relationship":"My Coffin","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Boldly",[null]],"skill_2":["Shoot","Move",[null],[null]],"approach_2":["Carefully","Quickly"],"skill_1":["Fight","Operate","Tend",[null]],"approach_1":["Cleverly","Forcefully","Subtly"],"aliases":["Auggie"]}}
+{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["PC","character"],"noteIcon":"","updated":"2026-09-02T04:39:54.053-04:00","dg-note-properties":{"tags":["PC","character"],"Player":"Mike","Portrait":"Admin/Attachments/GenericFeddie_SQ.png","Faction":["Rebels"],"Origin":"Mars","Assoc":["Theseus"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"MECH_Name":"Cossack","MECH_Model":["UT-F-08 Cossack"],"MECH_Portrait":"Admin/Attachments/GM-II-AEUG_SQ.png","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Relationship":"My Coffin","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Boldly",[null]],"skill_2":["Shoot","Move",[null],[null]],"approach_2":["Carefully","Quickly"],"skill_1":["Fight","Operate","Tend",[null]],"approach_1":["Cleverly","Forcefully","Subtly"],"aliases":["Auggie"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -109,12 +109,21 @@ filters:
   and:
     - file.hasTag("session")
     - Attending.contains(this.file.name)
+properties:
+  file.name:
+    displayName: Session
+  note.SeshDate:
+    displayName: Session Date
 views:
-  - type: list
+  - type: table
     name: Sessions Present
     order:
       - file.name
-      - date
+      - SeshDate
+      - Mission
+    sort:
+      - property: SeshDate
+        direction: ASC
     image: Portrait
     imageAspectRatio: 0.65
     cardSize: 160

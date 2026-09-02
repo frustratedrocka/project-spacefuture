@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-02T04:30:26.122-04:00","dg-note-properties":{"tags":["session"],"SeshDate":"2026-09-01","Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"],"Mission":null}}
+{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-02T04:38:01.793-04:00","dg-note-properties":{"tags":["session"],"SeshDate":"2026-09-01","Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"],"Mission":"N/A"}}
 ---
 
 # The Opening Crawl
@@ -29,7 +29,7 @@ Lifetimes of horror. Lifetimes of guilt. Lifetimes of memory.
 
 The war touched _everyone_, without exception. It made the world you live in today, and everyone in it.  
 
-And now, eleven years since the guns fell silent and the treaties were signed, [[Database/Factions/Apsis\|the organization ]]that stopped the bleeding is inflicting starvation and death once again. On purpose. Because they refuse to accept the possibility of a future without themselves at its helm.  
+And now, eleven years since the guns fell silent and the treaties were signed, [[Database/Factions/Apsis\|the organization ]] that stopped the bleeding is inflicting starvation and death once again. On purpose. Because they refuse to accept the possibility of a future without themselves at its helm.  
 
 And so it is that in the year 0092 of the Emergent Century, the system is once again at war. You stand proudly among those fighting back. You may not agree at all on the future, but you're united in looking at the present and saying "no."  
 

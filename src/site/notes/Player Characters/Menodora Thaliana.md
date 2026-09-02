@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["PC","character"],"noteIcon":"","updated":"2026-09-02T04:25:02.689-04:00","dg-note-properties":{"tags":["PC","character"],"Player":"Cynthia","Portrait":"Admin/Attachments/GenericFeddie_SQ.png","Faction":["Rebels","Mindful Eyes"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["The Belt"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is actively harming you.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"MECH_Name":"Kerbstomp","MECH_Model":"Kerbstomp","MECH_Portrait":"Admin/Attachments/Theseus_SQ.webp","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Relationship":"My Ticket Out","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Once per session, you can launch chaff to create a debris field, gaining +1 to defend against ranged attacks. This cannot be used if circumstances have kept you from refilling the chaff launchers since the last use.","**FOX IN A TRAP** Once per scenario, your suit can detach a limb without suffering  breakdown from the loss. Limbs lost this way are restored the next time you have access to repair facilities and time, assuming you have recovered the detached limb. Otherwise, the limb is restored only at the next Breakthrough."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Forcefully",[null]],"skill_2":["Fight","Network",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Tinker","Understand","Acquire",[null]],"approach_1":["Carefully","Quickly","Subtly"]}}
+{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["PC","character"],"noteIcon":"","updated":"2026-09-02T04:39:06.566-04:00","dg-note-properties":{"tags":["PC","character"],"Player":"Cynthia","Portrait":"Admin/Attachments/GenericFeddie_SQ.png","Faction":["Rebels","Mindful Eyes"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["The Belt"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is actively harming you.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"MECH_Name":"Kerbstomp","MECH_Model":"Kerbstomp","MECH_Portrait":"Admin/Attachments/Theseus_SQ.webp","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Relationship":"My Ticket Out","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Once per session, you can launch chaff to create a debris field, gaining +1 to defend against ranged attacks. This cannot be used if circumstances have kept you from refilling the chaff launchers since the last use.","**FOX IN A TRAP** Once per scenario, your suit can detach a limb without suffering  breakdown from the loss. Limbs lost this way are restored the next time you have access to repair facilities and time, assuming you have recovered the detached limb. Otherwise, the limb is restored only at the next Breakthrough."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Forcefully",[null]],"skill_2":["Fight","Network",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Tinker","Understand","Acquire",[null]],"approach_1":["Carefully","Quickly","Subtly"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -111,12 +111,21 @@ filters:
   and:
     - file.hasTag("session")
     - Attending.contains(this.file.name)
+properties:
+  file.name:
+    displayName: Session
+  note.SeshDate:
+    displayName: Session Date
 views:
-  - type: list
+  - type: table
     name: Sessions Present
     order:
       - file.name
-      - date
+      - SeshDate
+      - Mission
+    sort:
+      - property: SeshDate
+        direction: ASC
     image: Portrait
     imageAspectRatio: 0.65
     cardSize: 160

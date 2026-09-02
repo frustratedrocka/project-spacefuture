@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["PC","character"],"noteIcon":"","updated":"2026-09-02T04:02:41.853-04:00","dg-note-properties":{"tags":["PC","character"],"Player":"Nestor","Portrait":"Admin/Attachments/GenericFeddie_SQ.png","Faction":["Rebels","Armada Ejecta"],"Origin":"Earth","Assoc":["Mumbai"],"Strain":4,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2."],"MECH_Name":"Elegant Sky","MECH_Model":"Elegant Sky","MECH_Portrait":"Admin/Attachments/DagDoll_SQ.webp","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Relationship":"My Last Piece Of Earth","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Notice",[null],[null],[null]],"approach_3":["Subtly",[null]],"skill_2":["Shoot","Interface",[null],[null]],"approach_2":["Cleverly","Quickly"],"skill_1":["Lead","Operate","Sway",[null]],"approach_1":["Boldly","Carefully","Forcefully"]}}
+{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["PC","character"],"noteIcon":"","updated":"2026-09-02T04:40:03.970-04:00","dg-note-properties":{"tags":["PC","character"],"Player":"Nestor","Portrait":"Admin/Attachments/GenericFeddie_SQ.png","Faction":["Rebels","Armada Ejecta"],"Origin":"Earth","Assoc":["Mumbai"],"Strain":4,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2."],"MECH_Name":"Elegant Sky","MECH_Model":"Elegant Sky","MECH_Portrait":"Admin/Attachments/DagDoll_SQ.webp","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Relationship":"My Last Piece Of Earth","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Notice",[null],[null],[null]],"approach_3":["Subtly",[null]],"skill_2":["Shoot","Interface",[null],[null]],"approach_2":["Cleverly","Quickly"],"skill_1":["Lead","Operate","Sway",[null]],"approach_1":["Boldly","Carefully","Forcefully"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -107,12 +107,21 @@ filters:
   and:
     - file.hasTag("session")
     - Attending.contains(this.file.name)
+properties:
+  file.name:
+    displayName: Session
+  note.SeshDate:
+    displayName: Session Date
 views:
-  - type: list
+  - type: table
     name: Sessions Present
     order:
       - file.name
-      - date
+      - SeshDate
+      - Mission
+    sort:
+      - property: SeshDate
+        direction: ASC
     image: Portrait
     imageAspectRatio: 0.65
     cardSize: 160

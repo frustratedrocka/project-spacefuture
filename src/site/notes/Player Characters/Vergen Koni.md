@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character"],"noteIcon":"","updated":"2026-09-02T04:06:53.051-04:00","dg-note-properties":{"tags":["PC","character"],"Player":"Daeon","Portrait":"Admin/Attachments/GenericFeddie_SQ.png","Faction":["Rebels","Mindful Eyes"],"Origin":"Theseus","Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details. "],"MECH_Name":"Hyper Seeker","MECH_Model":["CQC Hyper Seeker"],"MECH_Portrait":"Admin/Attachments/Hyper_Seeker_CQC_SQ.png","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Move",[null],[null],[null]],"approach_3":["Quickly",[null]],"skill_2":["Fight","Shoot",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker",[null]],"approach_1":["Carefully","Forcefully","Subtly"],"aliases":["Verg"]}}
+{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character"],"noteIcon":"","updated":"2026-09-02T04:40:20.041-04:00","dg-note-properties":{"tags":["PC","character"],"Player":"Daeon","Portrait":"Admin/Attachments/GenericFeddie_SQ.png","Faction":["Rebels","Mindful Eyes"],"Origin":"Theseus","Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details. "],"MECH_Name":"Hyper Seeker","MECH_Model":["CQC Hyper Seeker"],"MECH_Portrait":"Admin/Attachments/Hyper_Seeker_CQC_SQ.png","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Move",[null],[null],[null]],"approach_3":["Quickly",[null]],"skill_2":["Fight","Shoot",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker",[null]],"approach_1":["Carefully","Forcefully","Subtly"],"aliases":["Verg"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -108,12 +108,21 @@ filters:
   and:
     - file.hasTag("session")
     - Attending.contains(this.file.name)
+properties:
+  file.name:
+    displayName: Session
+  note.SeshDate:
+    displayName: Session Date
 views:
-  - type: list
+  - type: table
     name: Sessions Present
     order:
       - file.name
-      - date
+      - SeshDate
+      - Mission
+    sort:
+      - property: SeshDate
+        direction: ASC
     image: Portrait
     imageAspectRatio: 0.65
     cardSize: 160
@@ -123,4 +132,3 @@ views:
     separator: ""
 
 ```
-
