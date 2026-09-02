@@ -1,17 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","glossary"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-02T04:54:00.560-04:00","dg-note-properties":{"tags":["index","glossary"]}}
+{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","glossary"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-02T05:46:24.833-04:00","dg-note-properties":{"tags":["index","glossary"]}}
 ---
 
 ![Stanford.jpg\|right ws-med](/img/user/Admin/Attachments/Stanford.jpg)
 
-# Population Constraints
-On average, each colony is designed to comfortably support a population of 5 million, with enough green space to facilitate emergency subsistence levels of agriculture and (mostly) densely-packed urban residential areas
-
-Very few of them can currently be described as anywhere within a light minute of "comfortable." And the few that can would very much prefer that nobody think too hard about how they've stayed that way.
-
-There's a noted irony here: the colonies with the massive visible densely-packed refugee spaces constructed in what was skyward dead space are the ones generally considered by non-shitheads to be doing it *right*, even as that exact image becomes xenophobic propaganda fuel.
-
-# Architecture
+# Orientation
 "Down" is a *very* fluid concept on most asteroid colonies.
 
 The standard colony plan involves a rotating ring,  kilometers across, with the line between its center and the asteroid's center of gravity as its axis of rotation. This produces a similar effect to the common  hub-and-spokes space station / colony design proposal / scifi classic that uses centrifugal force to generate artificial gravity. 
@@ -28,6 +21,13 @@ Away from the asteroid surface = starward/ skyward
 Towards the asteroid surface = stone
 
 For dimensions, we're looking at *roughly* 3 km stone-to-sky, 36km outer circumference. 
+
+## Population Constraints
+On average, each colony is designed to comfortably support a population of 5 million, with enough green space to facilitate emergency subsistence levels of agriculture and (mostly) densely-packed urban residential areas
+
+Very few of them can currently be described as anywhere within a light minute of "comfortable." And the few that can would very much prefer that nobody think too hard about how they've stayed that way.
+
+There's a noted irony here: the colonies with the massive visible densely-packed refugee spaces constructed in what was skyward dead space are the ones generally considered by non-shitheads to be doing it *right*, even as that exact image becomes xenophobic propaganda fuel.
 
 ## It Seemed Like A Good Idea At The Time...
 The standard urban plan for a colony includes a few consistent features:
