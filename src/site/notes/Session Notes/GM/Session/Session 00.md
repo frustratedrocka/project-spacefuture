@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-02T04:29:50.477-04:00","dg-note-properties":{"tags":["session"],"SeshDate":"2026-09-01","Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"],"Mission":null}}
+{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-02T04:30:26.122-04:00","dg-note-properties":{"tags":["session"],"SeshDate":"2026-09-01","Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"],"Mission":null}}
 ---
 
 # The Opening Crawl
@@ -7,7 +7,7 @@ Before we start, I would just like to impress on everyone how _absolutely fucked
 
 The dinosaurs didn't understand.  
 
-They couldn't understand that the light blazing across the sky would kill them, kill everything they had ever known, kill the whole world that had let them come into being. They couldn't understand that one day the sun would go down and never come up, that if they didn't starve they would freeze and if they didn't freeze they would *choke*.  
+They couldn't understand that the light blazing across the sky would kill them, kill everything they had ever known, kill the whole world that had brought them into being. They couldn't understand that one day the sun would go down and never come up, that if they didn't starve they would freeze and if they didn't freeze they would *choke*.  
 
 And they couldn't have their last embers of hope fanned, strengthened, and then snuffed out again.  
 
