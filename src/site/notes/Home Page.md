@@ -1,12 +1,34 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-31T14:15:14.132-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-02T02:32:47.383-04:00","dg-note-properties":{}}
 ---
 
 # Next Session
-Character Creation - September 1 2026
+**Combat Sim (Tutorial)** - September 15 2026
+
+```base
+filters:
+  and:
+    - file.hasTag("PC")
+    - '!file.inFolder("Player Characters/Pregen")'
+    - '!file.inFolder("Admin/Templates")'
+views:
+  - type: cards
+    name: Player Characters
+    order:
+      - file.name
+    image: Portrait
+    imageAspectRatio: 0.65
+    cardSize: 160
+    indentProperties: false
+    imageFit: cover
+
+```
 
 # Where Are You
-Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Todo]], serving as Second Wing. 
+Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], serving as Second Wing. 
+
+# What Are You Doing
+Awaiting orders from [[Rebel Command\|Rebel Command]] and staying ahead of the [[Database/Things/Brynhildr\|Brynhildr]]
 
 # Fiction Primer
 It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]], and...
@@ -35,3 +57,10 @@ For more, see the [[Faction Hub\|Faction Hub]], or click through the links to go
 See the [[Rules Hub\|Rules Hub]] or use the file navigator to the left.
 
 The rules for this specific game are still under construction. For anything not yet present (i.e. marked with a #TODO tag), please check the SRDs (included). Start with [[Rules/Fate SRD/Fate Condensed (UNEDITED SRD)\|Fate Condensed (UNEDITED SRD)]], if that doesn't have what you're looking for try [[Rules/Fate SRD/Fate Core (UNEDITED SRD)\|Fate Core (UNEDITED SRD)]], if you're still stuck check [[Rules/Fate SRD/Fate Accelerated (UNEDITED SRD)\|Fate Accelerated (UNEDITED SRD)]], and if none of those have what you need, then ask the GM to hurry up and write the rules already please and thank you.
+
+## Feedback Requested
+Because there's a few points of the design that have remained a little uncertain throughout this process and unfortunately need extended testing. We'll be starting as-is with just a few pieces of cleanup I still need to do, but remember I've hacked this together from a few different pieces and there may be some adjustments needed.
+
+Specific points:
+- "Does my character feel good at the things their sheet says they're good at?"
+	- I'm aiming for the answer to be "yes, but that doesn't mean I'm immune to bad luck or some random grunt having the stars align and absolutely ruining my day." If it's not landing there after a good few sessions, I'll tweak things. 
