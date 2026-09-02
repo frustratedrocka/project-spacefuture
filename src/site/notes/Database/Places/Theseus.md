@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-02T03:37:45.962-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Independent","Control":"???","Faction_Presence":[null],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-02T04:42:35.831-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Independent","Control":"???","Faction_Presence":[null],"Portrait":null}}
 ---
 
 
@@ -9,7 +9,7 @@
 > 
 > | | |
 > |--|--|
-> |Body|Colony|
+> |Body|[[Database/Glossary/Colony\|Colony]]|
 > |Leadership|[[Database/Factions/Independent\|Independent]]|
 > |Status|???|
 > |Interest||
