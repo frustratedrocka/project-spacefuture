@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-01T15:59:36.059-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Armada Ejecta","Mindful Eyes","Hive Cult","Republic Of Mars"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-02T04:26:07.368-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Armada Ejecta","Mindful Eyes","Hive Cult","Republic Of Mars"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg","aliases":["Luna"]}}
 ---
 
 > [!INFOBOX] Earth
