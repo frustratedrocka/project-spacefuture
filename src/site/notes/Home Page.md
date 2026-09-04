@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-02T02:32:47.383-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T02:32:49.134-04:00","dg-note-properties":{}}
 ---
 
 # Next Session
@@ -9,8 +9,8 @@
 filters:
   and:
     - file.hasTag("PC")
-    - '!file.inFolder("Player Characters/Pregen")'
     - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Player Characters/Archive")'
 views:
   - type: cards
     name: Player Characters
