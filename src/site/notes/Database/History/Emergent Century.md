@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-28T08:32:54.352-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-03T23:35:51.649-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
@@ -17,7 +17,7 @@
 >[!TIMELINE|color-white] **[[Database/History/The Ground War\|THE GROUND WAR]]**
 
 >[!TIMELINE|t-r color-red] EC 0078 - MOONDROP
-> Someone (nobody knows who) drops [[Database/Places/Luna\|Luna]] onto [[Database/Places/Earth\|Earth]], presumably intending to prevent any further spread of the Hive. This succeeds. It also prevents the further spread of *food* and plunges the entire solar system into near-Malthusian-collapse overnight. 
+> Someone (nobody knows who) drops Luna onto [[Database/Places/Earth\|Earth]], presumably intending to prevent any further spread of the Hive. This succeeds. It also prevents the further spread of *food* and plunges the entire solar system into near-Malthusian-collapse overnight. 
 
 > [!TIMELINE|t-l color-red] EC 0078 - 0081 - FIGHTING OVER SCRAPS
 > Mars and Jupiter declare open war over Earth's remaining resources - primarily, the literal ground. Fertile soil, and the nutrients therein, necessary to sustain the cycle of life that ends with food in human stomachs. Seed vaults. Animal specimen and gene arks. 

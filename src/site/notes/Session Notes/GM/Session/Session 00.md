@@ -1,7 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-02T04:38:01.793-04:00","dg-note-properties":{"tags":["session"],"SeshDate":"2026-09-01","Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"],"Mission":"N/A"}}
+{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-03T23:25:39.786-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"N/A","Scenario_Index":"N/A","Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"]}}
 ---
 
+```base
+filters:
+  and:
+    - this.Attending.contains(file.name)
+properties:
+  file.name:
+    displayName: PC
+views:
+  - type: table
+    name: Attending
+    order:
+      - file.name
+    image: Portrait
+    imageAspectRatio: 0.65
+    cardSize: 160
+    indentProperties: false
+    imageFit: cover
+
+```
+# Session 00: Origins
 # The Opening Crawl
 Before we start, I would just like to impress on everyone how _absolutely fucked_ the situation you've all lived through is. The Moondrop and [[the Ground War \|the Ground War ]]are without question or exaggeration the worst things that have ever happened, and I can prove it with four words:  
 

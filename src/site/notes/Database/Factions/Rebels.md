@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-02T04:39:39.108-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":["This Cannot Continue"],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-04T02:30:45.674-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":["This Cannot Continue"],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!INFOBOX|ws-med]
@@ -28,6 +28,7 @@ filters:
     - Faction.contains("Rebels")
     - file.hasTag("PC")
     - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Player Characters/Archive")'
 views:
   - type: cards
     name: PCs
@@ -101,6 +102,7 @@ filters:
     - Faction.contains("Rebels")
     - file.tags.contains("Mech")
     - file.folder != "Database/Mechs/Sample"
+    - '!file.hasTag("archive")'
 properties:
   file.name:
     displayName: Mech

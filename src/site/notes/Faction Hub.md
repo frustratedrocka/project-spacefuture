@@ -36,6 +36,7 @@ filters:
     - Faction.contains("Rebels")
     - file.hasTag("PC")
     - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Player Characters/Archive")'
 views:
   - type: cards
     name: PCs
@@ -108,6 +109,7 @@ filters:
     - Faction.contains("Rebels")
     - file.tags.contains("Mech")
     - file.folder != "Database/Mechs/Sample"
+    - '!file.hasTag("archive")'
 properties:
   file.name:
     displayName: Mech
@@ -381,7 +383,7 @@ While ROM has taken no public position, most Martians believe Apsis is intention
 
 `REDACTED`
 
-And then there's the refugee problem. Mars was the first stop for most of those who fled [[Database/Places/Luna\|Luna]] and [[Database/Places/Earth\|Earth]] during and after [[Database/History/The Ground War\|The Ground War]]. The explosion in population, combined with the near-total cessation of food imports from Earth that Mars was already reliant on, turned the Red Planet into ground zero for the Malthusian collapse that would quickly spread through the entire solar system. This has understandably led to some extremely contentious and fractured politics, which show no signs of cooling down any time soon even as the "temporary" arrangements start to solidify into permanent infrastructure.
+And then there's the refugee problem. Mars was the first stop for most of those who fled Luna and [[Database/Places/Earth\|Earth]] during and after [[Database/History/The Ground War\|The Ground War]]. The explosion in population, combined with the near-total cessation of food imports from Earth that Mars was already reliant on, turned the Red Planet into ground zero for the Malthusian collapse that would quickly spread through the entire solar system. This has understandably led to some extremely contentious and fractured politics, which show no signs of cooling down any time soon even as the "temporary" arrangements start to solidify into permanent infrastructure.
 
 `REDACTED`
 
@@ -487,7 +489,7 @@ views:
 >|**FORCE**|6|
 >|**FRATERNITY**|4|
 
-Space pirates. Also refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and [[Database/Places/Luna\|Luna]], exiles with chips on their shoulder. Formed into a loose collective `REDACTED`, largely on [[Database/People/The Pirate King\|The Pirate King]]'s initiative.
+Space pirates. Also refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and Luna, exiles with chips on their shoulder. Formed into a loose collective `REDACTED`, largely on [[Database/People/The Pirate King\|The Pirate King]]'s initiative.
 
 The Armada is defined by shared identity and broadly accepted practices, rather than ideology. Ships and flotillas are independent entities bound together by voluntary articles and personal loyalty, inspired by the formal pirate codes of old Earth. The King is looked up to as an exemplar of what it means to be a pirate and why being one matters; he's also very aware he would be airlocked immediately if he ever tried to leverage that give a ship not under his command an order they were strongly against.
 

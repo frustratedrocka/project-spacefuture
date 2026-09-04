@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/the-ground-war/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-28T08:32:54.451-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/the-ground-war/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-03T23:37:17.031-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 [[Database/History/The Hive Mind\|The Hive Mind]] starts in space as fungal infection in food supply, entity on [[Database/Places/Earth\|Earth]] notices what's happening, doesn't like it, drops biggest concentration of the hive on [[Database/Places/Earth\|Earth]], Earth overcorrects, massive war ensues. 
@@ -8,7 +8,7 @@ Breadbasket
 
 1. [[Database/History/The Hive Mind\|The Hive Mind]] emerges
 2. Someone does not like that the hive mind has emerged
-3. [[Database/Places/Luna\|Luna]] gets thrown at [[Database/Places/Earth\|Earth]] in an attempt to deal with the hive 
+3. Luna gets thrown at [[Database/Places/Earth\|Earth]] in an attempt to deal with the hive 
 4. This results in catastrophic solar-system-wide food shortages
 5. [[Database/Places/Mars\|Mars]], [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], [[Database/Places/The Belt\|The Belt]] all have a lot of weapons and not a lot of food, so use weapons to get food 
 	1. Fighting on earth makes the problem even worse

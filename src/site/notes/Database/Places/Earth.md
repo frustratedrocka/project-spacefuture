@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-02T04:26:07.368-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Armada Ejecta","Mindful Eyes","Hive Cult","Republic Of Mars"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg","aliases":["Luna"]}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-03T23:36:46.378-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Armada Ejecta","Mindful Eyes","Hive Cult","Republic Of Mars"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg","aliases":["Luna"]}}
 ---
 
 > [!INFOBOX] Earth
@@ -15,17 +15,18 @@
 
 Earth is effectively gone - was the breadbasket, now effectively a non-player in solar politics after [[Database/History/The Ground War\|The Ground War]]. 
 
-In an effort to wipe out [[Database/History/The Hive Mind\|The Hive Mind]] (we assume), *someone* dropped [[Database/Places/Luna\|Luna]] onto the planet. Result: stopped the spread of the hive, but nobody cared because now there's a cataclysmic solar-system-wide food shortage. 
+In an effort to wipe out [[Database/History/The Hive Mind\|The Hive Mind]] (we assume), *someone* dropped Luna onto the planet. Result: stopped the spread of the hive, but nobody cared because now there's a cataclysmic solar-system-wide food shortage. 
 
 Many of the displaced survivors who couldn't or wouldn't assimilate elsewhere took to life aboard ships, at the fringes of society, forming the [[Database/Factions/Armada Ejecta\|Armada Ejecta]].
 
-Fortunately for everyone, Luna fragmented on the way down, and not all of it actually hit the planet. So, nuclear winter, yes. Practically uninhabitable without dedicated equipment, yes. Volcanic hellscape with no resources left to extract, no.
+Fortunately for everyone, Luna fragmented on the way down, and not all of it actually hit the planet. So, nuclear winter, yes. Practically uninhabitable without dedicated equipment, yes. Pieces of it still landing and keeping the dust in the atmosphere from settling, yes. Volcanic hellscape with no resources left to extract, no. 
 
 ```base
 filters:
   or:
     - Origin == "Earth"
     - Assoc.contains("Earth")
+    - '!file.inFolder("Player Characters/Archive")'
 views:
   - type: list
     name: Associated
