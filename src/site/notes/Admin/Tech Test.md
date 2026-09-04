@@ -133,7 +133,7 @@ views:
 > 
 > |  |  |
 > |--|--|
-> |**MODEL**|[[Database/Mobile Suits/TC-01 Gundam Descolada\|TC-01 Gundam Descolada]]|
+> |**MODEL**|[[Database/Mobile Suits/GS-79 Gundam Descolada\|GS-79 Gundam Descolada]]|
 > | **ARMOR**|`REDACTED`|
 > 
 > |HARM|BREAKDOWN|
