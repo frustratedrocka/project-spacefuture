@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-26T06:04:07.797-04:00","dg-note-properties":{"tags":["location"],"type":"[[Locations Hub|Planet]]","Faction":"Jovian Consortium","Control":"Home / Headquarters","Faction_Presence":"Apsis","Portrait":"Admin/Attachments/Jupiter_OPAL_2024-1.png"}}
+{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T08:12:39.202-04:00","dg-note-properties":{"tags":["location"],"type":"[[Locations Hub|Planet]]","Faction":"Jovian Consortium","Control":"Home / Headquarters","Faction_Presence":"Apsis","Portrait":"Admin/Attachments/Jupiter_OPAL_2024-1.png"}}
 ---
 
 
@@ -23,32 +23,21 @@ Jupiter's magnetosphere, on top of its many more obvious environmental pressures
 ```base
 filters:
   and:
-    - Origin == "Jupiter"
-	- file.hasTag("npc", "PC")
+    - or:
+        - Origin == "Jupiter"
+        - Assoc.contains("Jupiter")
+    - file.hasTag("npc", "PC")
 views:
-  - type: list
-    name: Characters From Here
+  - type: table
+    name: Associated Characters
     order:
       - file.name
+      - Origin
+      - Assoc
+    sort: []
     image: note.Portrait
     imageAspectRatio: 0.65
     cardSize: 200
     indentProperties: false
 
-```
-
-```base
-filters:
-  and:
-    - Origin == "this.File.name"
-	- file.hasTag("character")
-views:
-  - type: list
-    name: Characters From Here
-    order:
-      - file.name
-    image: note.Portrait
-    imageAspectRatio: 0.65
-    cardSize: 200
-    indentProperties: false
 ```

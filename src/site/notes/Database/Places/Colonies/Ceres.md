@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-08-26T05:59:38.106-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":"Apsis","Control":"Home / Headquarters","faction_Presence":[[null]],"Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-09-04T08:14:38.749-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":"Apsis","Control":"Home / Headquarters","faction_Presence":[[null]],"Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg"}}
 ---
 
 
@@ -26,13 +26,18 @@ Unless and until there is a plan to account for any root-level interruption of t
 ```base
 filters:
   and:
-    - Origin == "Ceres"
-	- file.hasTag("npc", "PC")
+    - or:
+        - Origin == "Ceres"
+        - Assoc.contains("Ceres")
+    - file.hasTag("npc", "PC")
 views:
-  - type: list
-    name: Characters From Here
+  - type: table
+    name: Associated Characters
     order:
       - file.name
+      - Origin
+      - Assoc
+    sort: []
     image: note.Portrait
     imageAspectRatio: 0.65
     cardSize: 200

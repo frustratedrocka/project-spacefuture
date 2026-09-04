@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T04:16:16.565-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"N/A","Scenario_Index":"N/A","Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"]}}
+{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T08:01:24.776-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"]}}
 ---
 
 # Session 00: Origins
@@ -173,7 +173,6 @@ Attempted to pirate a [[Database/Factions/Jovian Consortium\|Jovian Consortium]]
 
 #### Phase Two Aspect: “Underdogs can win”
 
-  
 
 ### Phase Three: Crossing Paths
 

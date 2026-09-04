@@ -75,7 +75,6 @@ views:
 
 ```
 
-
 ```base
 filters:
   and:
@@ -185,7 +184,6 @@ views:
 
 ```
 
-
 ```base
 filters:
   and:
@@ -293,7 +291,6 @@ views:
     cardSize: 160
     indentProperties: false
 ```
-
 
 ```base
 filters:
@@ -411,7 +408,6 @@ views:
     indentProperties: false
 ```
 
-
 ```base
 filters:
   and:
@@ -517,7 +513,6 @@ views:
     indentProperties: false
 
 ```
-
 
 ```base
 filters:
@@ -632,7 +627,6 @@ views:
 
 ```
 
-
 ```base
 filters:
   and:
@@ -741,7 +735,6 @@ views:
 
 ```
 
-
 ```base
 filters:
   and:
@@ -828,7 +821,6 @@ views:
     indentProperties: false
 
 ```
-
 
 
 </div></div>
