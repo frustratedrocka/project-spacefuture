@@ -1,28 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T08:01:24.776-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"]}}
+{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T08:40:50.421-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"]}}
 ---
 
 # Session 00: Origins
-
-```base
-filters:
-  and:
-    - this.Attending.contains(file.name)
-properties:
-  file.name:
-    displayName: PC
-views:
-  - type: table
-    name: Attending
-    order:
-      - file.name
-    image: Portrait
-    imageAspectRatio: 0.65
-    cardSize: 160
-    indentProperties: false
-    imageFit: cover
-
-```
+## Present
+[[Player Characters/August Grier\|August Grier]],[[Player Characters/Lane Gable\|Lane Gable]],[[Player Characters/Menodora Thaliana\|Menodora Thaliana]],[[Player Characters/Vergen Koni\|Vergen Koni]]
 # The Opening Crawl
 Before we start, I would just like to impress on everyone how _absolutely fucked_ the situation you've all lived through is. The Moondrop and [[the Ground War \|the Ground War ]]are without question or exaggeration the worst things that have ever happened, and I can prove it with four words:  
 
