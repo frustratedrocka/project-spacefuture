@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/the-belt/","tags":["glossary"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-02T04:59:07.814-04:00","dg-note-properties":{"tags":["glossary"]}}
+{"dg-publish":true,"permalink":"/database/glossary/the-belt/","tags":["lore","location"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-04T10:54:23.285-04:00","dg-note-properties":{"tags":["lore","location"]}}
 ---
 
 

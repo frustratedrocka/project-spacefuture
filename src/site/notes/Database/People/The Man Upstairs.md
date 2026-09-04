@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-04T10:17:42.653-04:00","dg-note-properties":{"tags":["npc","character"],"NPC_Name":"The Man Upstairs","Portrait":"Admin/Attachments/Onassis.jpg","Faction":"Apsis","Rank":0,"Strain":6,"Consequences":["Mild","Moderate","Severe"],"Concept":"Power-Hungry Expert Shipping Magnate","Relationship":null,"Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`"],"Stunts":[[null]],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
+{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-04T10:23:29.396-04:00","dg-note-properties":{"tags":["npc","character"],"NPC_Name":"The Man Upstairs","Portrait":"Admin/Attachments/Onassis.jpg","Faction":"Apsis","Origin":"Ceres","Assoc":["Jupiter"],"Rank":0,"Strain":6,"Consequences":["Mild","Moderate","Severe"],"Concept":"Power-Hungry Expert Shipping Magnate","Relationship":null,"Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`"],"Stunts":[[null]],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
 ---
 
 > [!infobox|left wsmall]
@@ -48,6 +48,7 @@ filters:
         - Attending.contains(this.file.name)
         - NPCs.contains(this.file.name)
         - Location.contains(this.file.name)
+        - Mechs.containsAny(this.file.name, this.aliases)
 properties:
   file.name:
     displayName: Session
@@ -59,12 +60,15 @@ properties:
     displayName: Part
 views:
   - type: table
-    name: Table
+    name: Appearances
     order:
       - file.name
-      - SESH_Name
-      - SESH_Date
       - Scenario
       - Scenario_Index
+      - SESH_Name
+      - SESH_Date
+    sort:
+      - property: Scenario_Index
+        direction: ASC
 
 ```

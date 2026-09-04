@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-03T23:35:51.649-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-04T10:55:24.424-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
@@ -12,7 +12,7 @@
 > As infection spreads, [[Database/History/The Hive Mind\|The Hive Mind]] starts to realize what's happening and accrete into a single unified political entity. Fear and general human shittiness lead to quarantines, crackdowns, atrocities
 
 >[!TIMELINE|t-l color-red] EC 0076
-> Open violence erupts as [[Database/Places/Earth\|Earth]], [[Database/Places/Mars\|Mars]], [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], and[[Database/Places/The Belt\|The Belt]] all start fighting over what to do about the Hive situation. At this point, the violence is still largely internal, if widespread.
+> Open violence erupts as [[Database/Places/Earth\|Earth]], [[Database/Places/Mars\|Mars]], [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], and[[Database/Glossary/The Belt\|The Belt]] all start fighting over what to do about the Hive situation. At this point, the violence is still largely internal, if widespread.
 
 >[!TIMELINE|color-white] **[[Database/History/The Ground War\|THE GROUND WAR]]**
 

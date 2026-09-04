@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-03T23:30:03.771-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Independent","Control":"Under The Radar","Faction_Presence":["Republic Of Mars"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-04T10:42:11.620-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Independent","Control":"Under The Radar","Faction_Presence":["Republic Of Mars"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
 ---
 
 > [!INFOBOX|ws-med] Theseus
@@ -25,22 +25,60 @@
 > [!cite|bg-c-blue] [[Admin/Player/Mike\|Mike]]
 > I think Theseus plays nice in attempt to appease Apsis to keep the food flowing, and its probably a bit too small for Apsis to worry about them enough to keep a close eye on them. I think they play nice enough to not piss off Apsis, and provide just enough value in trade- material mining- that cutting them off has, at least, thus far been deemed 'too much paperwork for now, deal with them later'
 
+
 ```base
 filters:
-  or:
-    - and:
-        - '!file.inFolder("Player Characters/Archive")'
-        - or:
-            - Origin == "Theseus"
-            - Assoc.contains("Theseus")
+  and:
+    - file.hasTag("character")
+    - or:
+        - Origin==this.file.name
+        - Assoc.contains(this.file.name)
+    - '!file.inFolder("Player Characters/Archive")'
 views:
-  - type: list
-    name: Associated
+  - type: table
+    name: Associated Characters
     order:
       - file.name
-    image: Portrait
-    imageAspectRatio: 0.65
-    cardSize: 160
-    indentProperties: false
+      - Origin
+      - Assoc
+    columnSize:
+      file.name: 245
+      note.Origin: 108
+
+```
+
+
+
+```base
+filters:
+  and:
+    - file.hasTag("session")
+    - '!file.inFolder("Admin/Templates")'
+    - or:
+        - Attending.contains(this.file.name)
+        - NPCs.contains(this.file.name)
+        - Location.contains(this.file.name)
+        - Mechs.containsAny(this.file.name, this.aliases)
+properties:
+  file.name:
+    displayName: Session
+  note.SESH_Name:
+    displayName: Name
+  note.SESH_Date:
+    displayName: Date
+  note.Scenario_Index:
+    displayName: Part
+views:
+  - type: table
+    name: Appearances
+    order:
+      - file.name
+      - Scenario
+      - Scenario_Index
+      - SESH_Name
+      - SESH_Date
+    sort:
+      - property: Scenario_Index
+        direction: ASC
 
 ```

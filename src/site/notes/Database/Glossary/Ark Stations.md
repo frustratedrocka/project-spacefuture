@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/ark-stations/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T11:17:00.000-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/glossary/ark-stations/","tags":["lore"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T10:53:54.018-04:00","dg-note-properties":{"tags":["lore"]}}
 ---
 
 After the dropping of [[Luna\|Luna]] on during [[Database/History/The Ground War\|The Ground War]], priority one was rescuing the [[Seed Vaults\|Seed Vaults]]. Priority two was establishing a pipeline to extract soil, minerals, atmosphere, and other resources on an industrial scale. Priority three was people. 

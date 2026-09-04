@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-03T23:36:46.378-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Armada Ejecta","Mindful Eyes","Hive Cult","Republic Of Mars"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg","aliases":["Luna"]}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-04T10:41:57.104-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Apsis","Control":"No Man's Land","Faction_Presence":["Armada Ejecta","Mindful Eyes","Hive Cult","Republic Of Mars"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg","aliases":["Luna"]}}
 ---
 
 > [!INFOBOX] Earth
@@ -21,19 +21,60 @@ Many of the displaced survivors who couldn't or wouldn't assimilate elsewhere to
 
 Fortunately for everyone, Luna fragmented on the way down, and not all of it actually hit the planet. So, nuclear winter, yes. Practically uninhabitable without dedicated equipment, yes. Pieces of it still landing and keeping the dust in the atmosphere from settling, yes. Volcanic hellscape with no resources left to extract, no. 
 
+
 ```base
 filters:
-  or:
-    - Origin == "Earth"
-    - Assoc.contains("Earth")
+  and:
+    - file.hasTag("character")
+    - or:
+        - Origin==this.file.name
+        - Assoc.contains(this.file.name)
     - '!file.inFolder("Player Characters/Archive")'
 views:
-  - type: list
-    name: Associated
+  - type: table
+    name: Associated Characters
     order:
       - file.name
-    image: note.Portrait
-    imageAspectRatio: 0.65
-    cardSize: 160
-    indentProperties: false
+      - Origin
+      - Assoc
+    columnSize:
+      file.name: 245
+      note.Origin: 108
+
+```
+
+
+
+```base
+filters:
+  and:
+    - file.hasTag("session")
+    - '!file.inFolder("Admin/Templates")'
+    - or:
+        - Attending.contains(this.file.name)
+        - NPCs.contains(this.file.name)
+        - Location.contains(this.file.name)
+        - Mechs.containsAny(this.file.name, this.aliases)
+properties:
+  file.name:
+    displayName: Session
+  note.SESH_Name:
+    displayName: Name
+  note.SESH_Date:
+    displayName: Date
+  note.Scenario_Index:
+    displayName: Part
+views:
+  - type: table
+    name: Appearances
+    order:
+      - file.name
+      - Scenario
+      - Scenario_Index
+      - SESH_Name
+      - SESH_Date
+    sort:
+      - property: Scenario_Index
+        direction: ASC
+
 ```

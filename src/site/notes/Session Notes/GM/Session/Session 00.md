@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T10:07:27.178-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"]}}
+{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T10:31:11.247-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"],"Locations":null,"NPCs":null,"Mechs":null}}
 ---
 
 # Session 00: Origins
+2026-09-01T00:00:00.000-04:00
 ## Present
 [[Player Characters/August Grier\|August Grier]],[[Player Characters/Lane Gable\|Lane Gable]],[[Player Characters/Menodora Thaliana\|Menodora Thaliana]],[[Player Characters/Vergen Koni\|Vergen Koni]]
 # The Opening Crawl

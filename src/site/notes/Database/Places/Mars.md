@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-04T09:08:58.145-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Republic Of Mars","Control":"Semi-Occupied Territory","Faction_Presence":["Apsis"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-04T10:42:02.313-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Republic Of Mars","Control":"Semi-Occupied Territory","Faction_Presence":["Apsis"],"Portrait":null}}
 ---
 
 
@@ -19,13 +19,14 @@ The new breadbasket now that [[Database/Places/Earth\|Earth]] is gone. *Official
 
 Mars as a political entity consists largely of farmers and farmer interests.
 
+
 ```base
 filters:
   and:
-    - or:
-        - Origin == "Mars"
-        - Assoc.contains("Mars")
     - file.hasTag("character")
+    - or:
+        - Origin==this.file.name
+        - Assoc.contains(this.file.name)
     - '!file.inFolder("Player Characters/Archive")'
 views:
   - type: table
@@ -34,10 +35,45 @@ views:
       - file.name
       - Origin
       - Assoc
-    sort: []
-    image: note.Portrait
-    imageAspectRatio: 0.65
-    cardSize: 200
-    indentProperties: false
+    columnSize:
+      file.name: 245
+      note.Origin: 108
 
 ```
+
+
+
+```base
+filters:
+  and:
+    - file.hasTag("session")
+    - '!file.inFolder("Admin/Templates")'
+    - or:
+        - Attending.contains(this.file.name)
+        - NPCs.contains(this.file.name)
+        - Location.contains(this.file.name)
+        - Mechs.containsAny(this.file.name, this.aliases)
+properties:
+  file.name:
+    displayName: Session
+  note.SESH_Name:
+    displayName: Name
+  note.SESH_Date:
+    displayName: Date
+  note.Scenario_Index:
+    displayName: Part
+views:
+  - type: table
+    name: Appearances
+    order:
+      - file.name
+      - Scenario
+      - Scenario_Index
+      - SESH_Name
+      - SESH_Date
+    sort:
+      - property: Scenario_Index
+        direction: ASC
+
+```
+

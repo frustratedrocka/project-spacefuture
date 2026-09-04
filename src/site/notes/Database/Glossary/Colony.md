@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","glossary"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-02T05:46:24.833-04:00","dg-note-properties":{"tags":["index","glossary"]}}
+{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-04T10:54:02.239-04:00","dg-note-properties":{"tags":["index","lore"]}}
 ---
 
 ![Stanford.jpg\|right ws-med](/img/user/Admin/Attachments/Stanford.jpg)
@@ -46,7 +46,7 @@ Congratulations, you now have one gigantic clusterfuck repeated dozens of times,
 Ships either dock with the (static) internal hub of the wheel, or match speed with the asteroid and "park" as close as is feasible, with colony longshoremen in mobile suits loading and unloading containers.
 
 # Governance
-Each colony is its own independent polity, so government structures vary wildly between them. See [[Database/Glossary/The Belt\|The Belt]] and individual colony pages for details. 
+Each colony is its own independent polity, so government structures vary wildly between them. See [[Database/Glossary/The Belt\|Database/Glossary/The Belt]] and individual colony pages for details. 
 
 ```base
 filters:
