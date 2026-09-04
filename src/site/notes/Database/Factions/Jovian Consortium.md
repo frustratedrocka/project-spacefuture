@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-31T16:21:14.959-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-04T09:58:02.036-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders"]}}
 ---
 
 
@@ -29,11 +29,12 @@ With that attitude as a baseline, it came as something of a shock to outside obs
 
 Jovian culture firmly believes that nothing worth doing happens quickly. Which, considering that it takes each [[Database/Things/Charun\|Charun]] ferry a month and change to travel from [[Database/Places/The Belt\|The Belt]] to [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] and another month for it to get back, and 43 minutes for a message sent at the speed of light to travel the distance to Sol and another 43 minutes for the response to come in, is understandable. `REDACTED`
 
+
 ```base
 filters:
   and:
     - file.hasTag("character")
-    - Faction == "Jovian Consortium"
+    - Faction.contains(this.file.name)
 views:
   - type: list
     name: Known Members
@@ -45,60 +46,52 @@ views:
     sort:
       - property: Rank
         direction: ASC
-    separator: " - "
     markers: none
-    image: note.Portrait
-    imageAspectRatio: 0.5
-    cardSize: 160
-    indentProperties: false
+    separator: " - "
+
 ```
-{ #FactionTable}
+
 
 
 ```base
 filters:
   and:
-    - file.tags.contains("location")
+    - file.hasTag("location")
     - or:
-        - Faction == "Jovian Consortium"
-        - Faction_Presence.contains("Jovian Consortium")
+        - Faction.contains(this.file.name)
+        - Faction_Presence.contains(this.file.name)
+    - '!file.inFolder("Admin/Templates")'
 properties:
-  note.file.name:
-    displayName: Location
-  note.faction_Control:
-    displayName: Leadership
-  note.faction_Presence:
-    displayName: Other Factions
-  note.control:
-    displayName: Status
+  note.Faction_Presence:
+    displayName: Other Presence
 views:
   - type: table
     name: Associated Locations
     order:
       - file.name
+      - Type
       - Faction
       - Control
       - Faction_Presence
-    indentProperties: false
+
 ```
+
+
 
 ```base
 filters:
   and:
-    - Faction.contains("Jovian Consortium")
-    - file.tags.contains("Mech")
-    - file.folder != "Database/Mechs/Sample"
-properties:
-  file.name:
-    displayName: Mech
+    - file.hasTag("Mech")
+    - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Database/Mechs/Sample")'
+    - Faction.contains(this.file.name)
 views:
   - type: cards
     name: Mobile Suits
     order:
       - file.name
-    indentProperties: false
-    imageAspectRatio: 0.5
-    image: MECH_Portrait
     cardSize: 160
+    image: note.MECH_Portrait
+    imageAspectRatio: 0.5
 
 ```

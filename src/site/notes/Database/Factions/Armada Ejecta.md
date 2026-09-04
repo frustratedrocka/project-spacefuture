@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-03T23:34:21.658-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Armada Ejecta","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors","Space Pirates"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T09:58:14.012-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Armada Ejecta","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors","Space Pirates"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
 ---
 
 
@@ -23,11 +23,12 @@ Space pirates. Also refugees, displaced survivors of [[Database/Places/Earth\|Ea
 
 The Armada is defined by shared identity and broadly accepted practices, rather than ideology. Ships and flotillas are independent entities bound together by voluntary articles and personal loyalty, inspired by the formal pirate codes of old Earth. The King is looked up to as an exemplar of what it means to be a pirate and why being one matters; he's also very aware he would be airlocked immediately if he ever tried to leverage that give a ship not under his command an order they were strongly against.
 
+
 ```base
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains("Armada Ejecta")
+    - Faction.contains(this.file.name)
 views:
   - type: list
     name: Known Members
@@ -39,61 +40,52 @@ views:
     sort:
       - property: Rank
         direction: ASC
-    separator: " - "
     markers: none
-    image: note.Portrait
-    imageAspectRatio: 0.5
-    cardSize: 160
-    indentProperties: false
+    separator: " - "
 
 ```
-{ #FactionTable}
+
 
 
 ```base
 filters:
   and:
-    - file.tags.contains("location")
+    - file.hasTag("location")
     - or:
-        - Faction == "Armada Ejecta"
-        - Faction_Presence.contains("Armada Ejecta")
+        - Faction.contains(this.file.name)
+        - Faction_Presence.contains(this.file.name)
+    - '!file.inFolder("Admin/Templates")'
 properties:
-  note.file.name:
-    displayName: Location
-  note.faction_Control:
-    displayName: Leadership
-  note.faction_Presence:
-    displayName: Other Factions
-  note.control:
-    displayName: Status
+  note.Faction_Presence:
+    displayName: Other Presence
 views:
   - type: table
     name: Associated Locations
     order:
       - file.name
+      - Type
       - Faction
       - Control
       - Faction_Presence
-    indentProperties: false
+
 ```
+
+
 
 ```base
 filters:
   and:
-    - Faction.contains("Armada Ejecta")
-    - file.tags.contains("Mech")
-    - file.folder != "Database/Mechs/Sample"
-properties:
-  file.name:
-    displayName: Mech
+    - file.hasTag("Mech")
+    - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Database/Mechs/Sample")'
+    - Faction.contains(this.file.name)
 views:
   - type: cards
     name: Mobile Suits
     order:
       - file.name
-    indentProperties: false
     cardSize: 160
+    image: note.MECH_Portrait
     imageAspectRatio: 0.5
-    image: MECH_Portrait
 
 ```

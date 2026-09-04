@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-03T23:36:59.989-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.jpg","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-04T09:57:53.156-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.jpg","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
 ---
 
 
@@ -37,11 +37,12 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 
 `REDACTED`
 
+
 ```base
 filters:
   and:
     - file.hasTag("character")
-    - Faction == "Republic Of Mars"
+    - Faction.contains(this.file.name)
 views:
   - type: list
     name: Known Members
@@ -53,63 +54,52 @@ views:
     sort:
       - property: Rank
         direction: ASC
-    separator: " - "
     markers: none
-    image: note.Portrait
-    imageAspectRatio: 0.5
-    cardSize: 160
-    indentProperties: false
+    separator: " - "
+
 ```
-{ #FactionTable}
+
 
 
 ```base
 filters:
   and:
-    - file.tags.contains("location")
+    - file.hasTag("location")
     - or:
-        - Faction == "Republic Of Mars"
-        - Faction_Presence.contains("Republic Of Mars")
+        - Faction.contains(this.file.name)
+        - Faction_Presence.contains(this.file.name)
+    - '!file.inFolder("Admin/Templates")'
 properties:
-  note.file.name:
-    displayName: Location
-  note.Faction:
-    displayName: Leadership
   note.Faction_Presence:
-    displayName: Other Factions
-  note.control:
-    displayName: Status
+    displayName: Other Presence
 views:
   - type: table
     name: Associated Locations
     order:
       - file.name
+      - Type
       - Faction
       - Control
       - Faction_Presence
-    sort:
-      - property: Faction
-        direction: DESC
-    indentProperties: false
 
 ```
+
+
 
 ```base
 filters:
   and:
-    - Faction.contains("Mars")
-    - file.tags.contains("Mech")
-    - file.folder != "Database/Mechs/Sample"
-properties:
-  file.name:
-    displayName: Mech
+    - file.hasTag("Mech")
+    - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Database/Mechs/Sample")'
+    - Faction.contains(this.file.name)
 views:
   - type: cards
     name: Mobile Suits
     order:
       - file.name
-    indentProperties: false
+    cardSize: 160
+    image: note.MECH_Portrait
     imageAspectRatio: 0.5
-    image: MECH_Portrait
-    imageFit: cover
+
 ```

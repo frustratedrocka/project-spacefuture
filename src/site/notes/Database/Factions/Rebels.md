@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-04T02:30:45.674-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":["This Cannot Continue"],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-04T09:57:29.291-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":["This Cannot Continue"],"Paragon":"","Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!INFOBOX|ws-med]
@@ -69,51 +69,46 @@ views:
 { #FactionTable}
 
 
+
 ```base
 filters:
   and:
-    - file.tags.contains("location")
+    - file.hasTag("location")
     - or:
-        - Faction == "Rebels"
-        - Faction_Presence.contains("Rebels")
+        - Faction.contains(this.file.name)
+        - Faction_Presence.contains(this.file.name)
+    - '!file.inFolder("Admin/Templates")'
 properties:
-  note.file.name:
-    displayName: Location
-  note.faction_Control:
-    displayName: Leadership
-  note.faction_Presence:
-    displayName: Other Factions
-  note.control:
-    displayName: Status
+  note.Faction_Presence:
+    displayName: Other Presence
 views:
   - type: table
     name: Associated Locations
     order:
       - file.name
+      - Type
       - Faction
       - Control
       - Faction_Presence
-    indentProperties: false
+
 ```
+
+
 
 ```base
 filters:
   and:
-    - Faction.contains("Rebels")
-    - file.tags.contains("Mech")
-    - file.folder != "Database/Mechs/Sample"
-    - '!file.hasTag("archive")'
-properties:
-  file.name:
-    displayName: Mech
+    - file.hasTag("Mech")
+    - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Database/Mechs/Sample")'
+    - Faction.contains(this.file.name)
 views:
   - type: cards
     name: Mobile Suits
     order:
       - file.name
-    indentProperties: false
     cardSize: 160
+    image: note.MECH_Portrait
     imageAspectRatio: 0.5
-    image: MECH_Portrait
 
 ```
