@@ -110,10 +110,19 @@ filters:
   and:
     - file.hasTag("session")
     - '!file.inFolder("Admin/Templates")'
-    - Attending.contains(this.file.name)
+    - or:
+        - Attending.contains(this.file.name)
+        - NPCs.contains(this.file.name)
+        - Location.contains(this.file.name)
 properties:
   file.name:
     displayName: Session
+  note.SESH_Name:
+    displayName: Name
+  note.SESH_Date:
+    displayName: Date
+  note.Scenario_Index:
+    displayName: Part
 views:
   - type: table
     name: Table

@@ -156,6 +156,39 @@ One of three colonies in [[Database/Places/The Belt\|The Belt]] that helped kick
 
 `REDACTED`
 
+# Appearances
+
+```base
+filters:
+  and:
+    - file.hasTag("session")
+    - '!file.inFolder("Admin/Templates")'
+    - or:
+        - Attending.contains(this.file.name)
+        - NPCs.contains(this.file.name)
+        - Location.contains(this.file.name)
+properties:
+  file.name:
+    displayName: Session
+  note.SESH_Name:
+    displayName: Name
+  note.SESH_Date:
+    displayName: Date
+  note.Scenario_Index:
+    displayName: Part
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - SESH_Name
+      - SESH_Date
+      - Scenario
+      - Scenario_Index
+
+```
+
+
 </div></div>
 
 > 

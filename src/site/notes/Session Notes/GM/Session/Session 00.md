@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T08:40:50.421-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"]}}
+{"dg-publish":true,"permalink":"/session-notes/gm/session/session-00/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T10:07:27.178-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"]}}
 ---
 
 # Session 00: Origins
@@ -56,21 +56,19 @@ Faction: [[Database/Factions/Mindful Eyes\|Mindful Eyes]]
 
   
 
-Got involved in mobile suit gladiator fighting with [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]] With word of the rebellion decided to join up because maybe it would help her find out who was responsible for the Moondrop.
+Got involved in mobile suit [[gladiator\|gladiator]] fighting with [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]] With word of the rebellion decided to join up because maybe it would help her find out who was responsible for the Moondrop.
 
 #### Phase One Aspect: It’s good to be underestimated
 
 ### Phase Two: Crossing Paths
 
-[[Player Characters/Vergen Koni\|Vergen Koni]] had pinged a connection with the hive from Menodora. Finding another Hive-Linked individual, He and her seem to be Kindred spirits.
+[[Player Characters/Vergen Koni\|Vergen Koni]] had pinged a connection with [[Database/History/The Hive Mind\|The Hive Mind]] from Menodora. Finding another Hive-Linked individual, He and her seem to be Kindred spirits.
 
 #### Phase Two Aspect: I’ve got allies in strange places
 
-  
-
 ### Phase Three: Crossing Paths
 
-[[Player Characters/August Grier\|August Grier]] found his way to the fighting pits, not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.
+[[Player Characters/August Grier\|August Grier]] found his way to the [[fighting pits\|fighting pits]], not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.
 
 #### Phase Three Aspect: “There’s no such thing as a ‘Hard No’”
 
@@ -99,7 +97,7 @@ An [[Database/Factions/Apsis\|Apsis]] cargo of goods being quickly intercepted b
 
 ### Phase Three: Crossing Paths
 
-During the standoff with Mindful Eyes and Rebellion, [[Player Characters/Lane Gable\|Lane Gable]] recognized Verg’s suit and managed to talk them down from the standoff, and convince them of cooperation.
+During the standoff with Mindful Eyes and Rebellion, [[Player Characters/Lane Gable\|Lane Gable]] recognized [[Database/Mobile Suits/Hoplite Custom\|Verg's suit]] and managed to talk them down from the standoff, and convince them of cooperation.
 
 #### Phase Three Aspect: We aren’t alone here.
 
