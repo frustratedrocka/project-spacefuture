@@ -89,6 +89,9 @@ filters:
 views:
   - type: cards
     name: Mobile Suits
+    order:
+      - file.name
+      - Known_Users
     cardSize: 160
     image: note.MECH_Portrait
     imageAspectRatio: 0.5

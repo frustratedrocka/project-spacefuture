@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-08-31T12:18:05.900-04:00","dg-note-properties":{"tags":["Tracker","index"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T09:27:09.025-04:00","dg-note-properties":{"tags":["Tracker","index"]}}
 ---
 
 
@@ -159,11 +159,15 @@ Their recent actions have pushed the system past the breaking point. In response
 A major wrinkle in any attempt to permanently deal with Apsis is that they are, currently, indispensable. In no small part because they've gone very far out of their way to ensure they *remain* indispensable.
 
 `REDACTED`
+
+# Test Embed Bases
+
+
 ```base
 filters:
   and:
     - file.hasTag("character")
-    - Faction == "Apsis"
+    - Faction.contains(this.file.name)
 views:
   - type: list
     name: Known Members
@@ -175,31 +179,24 @@ views:
     sort:
       - property: Rank
         direction: ASC
-    separator: " - "
     markers: none
-    image: note.Portrait
-    imageAspectRatio: 0.5
-    cardSize: 160
-    indentProperties: false
+    separator: " - "
 
 ```
+
+
 
 ```base
 filters:
   and:
-    - file.tags.contains("location")
+    - file.hasTag("location")
     - or:
-        - Faction == "Apsis"
-        - Faction_Presence.contains("Apsis")
+        - Faction.contains(this.file.name)
+        - Faction_Presence.contains(this.file.name)
+    - '!file.inFolder("Admin/Templates")'
 properties:
-  note.file.name:
-    displayName: Location
-  note.faction_Control:
-    displayName: Leadership
-  note.faction_Presence:
-    displayName: Other Factions
-  note.control:
-    displayName: Status
+  note.Faction_Presence:
+    displayName: Other Presence
 views:
   - type: table
     name: Associated Locations
@@ -208,29 +205,32 @@ views:
       - Faction
       - Control
       - Faction_Presence
-    indentProperties: false
+
 ```
+
+
 
 ```base
 filters:
   and:
-    - Faction.contains("Apsis")
-    - file.tags.contains("Mech")
-    - file.folder != "Database/Mechs/Sample"
-properties:
-  file.name:
-    displayName: Mech
+    - file.hasTag("Mech")
+    - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Database/Mechs/Sample")'
+    - Faction.contains(this.file.name)
 views:
   - type: cards
     name: Mobile Suits
     order:
       - file.name
-    indentProperties: false
+      - Known_Users
     cardSize: 160
+    image: note.MECH_Portrait
     imageAspectRatio: 0.5
-    image: MECH_Portrait
 
 ```
+
+
+
 
 </div></div>
 

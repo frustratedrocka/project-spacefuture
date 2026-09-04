@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-03T23:33:12.249-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Republic Of Mars","Control":"Semi-Occupied Territory","Faction_Presence":["Apsis"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-04T09:08:58.145-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Republic Of Mars","Control":"Semi-Occupied Territory","Faction_Presence":["Apsis"],"Portrait":null}}
 ---
 
 
@@ -21,17 +21,23 @@ Mars as a political entity consists largely of farmers and farmer interests.
 
 ```base
 filters:
-  or:
-    - Origin == "Mars"
-    - Assoc.contains("Mars")
+  and:
+    - or:
+        - Origin == "Mars"
+        - Assoc.contains("Mars")
+    - file.hasTag("character")
     - '!file.inFolder("Player Characters/Archive")'
 views:
-  - type: list
-    name: Associated
+  - type: table
+    name: Associated Characters
     order:
       - file.name
-    image: Portrait
+      - Origin
+      - Assoc
+    sort: []
+    image: note.Portrait
     imageAspectRatio: 0.65
-    cardSize: 160
+    cardSize: 200
     indentProperties: false
+
 ```
