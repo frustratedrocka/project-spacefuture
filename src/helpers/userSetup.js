@@ -851,6 +851,7 @@ function getHostProperty(
     host.env,
     propertyName
   );
+}
 
 
 /*
