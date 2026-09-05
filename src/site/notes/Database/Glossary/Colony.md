@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-05T08:18:28.808-04:00","dg-note-properties":{"tags":["index","lore"]}}
+{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-05T08:21:11.146-04:00","dg-note-properties":{"tags":["index","lore"]}}
 ---
 
 > [!infobox|ws-med]
@@ -53,7 +53,7 @@ Each colony is its own independent polity, so government structures vary wildly 
 filters:
   and:
     - file.tags.contains("location")
-    - Type == "Colony"
+    - Type == this.file.name
 properties:
   note.file.name:
     displayName: Location
