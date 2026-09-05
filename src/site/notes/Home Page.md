@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T02:32:49.134-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-05T08:08:20.929-04:00","dg-note-properties":{}}
 ---
 
 # Next Session
-**Combat Sim (Tutorial)** - September 15 2026
+[[Pregame Setup\|Pregame Setup]] Part 2 - **Combat Sim (Tutorial)** - September 15 2026
 
 ```base
 filters:
