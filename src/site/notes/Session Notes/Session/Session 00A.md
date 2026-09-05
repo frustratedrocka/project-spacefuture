@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-05T05:42:24.136-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"],"Locations":null,"NPCs":null,"Mechs":null}}
+{"dg-publish":true,"permalink":"/session-notes/session/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-05T07:33:55.356-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"],"Locations":null,"NPCs":null,"Mechs":null}}
 ---
 
 Raw bare: `=SESH_Date` Raw this: 2026-09-01T00:00:00.000-04:00 Type bare: null Type this: date Formatted this: 2026-09-01 Explicit date: 2026-09-01T00:00:00.000-04:00
 
 # Session 00A: Origins
-2026-09-01T00:00:00.000-04:00
+`=dateformat(this.SESH_Date, \"MM-dd-yyyy)`
 ## Present
 [[Player Characters/August Grier\|August Grier]],[[Player Characters/Lane Gable\|Lane Gable]],[[Player Characters/Menodora Thaliana\|Menodora Thaliana]],[[Player Characters/Vergen Koni\|Vergen Koni]]
 # The Opening Crawl
