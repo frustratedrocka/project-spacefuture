@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-04T10:54:02.239-04:00","dg-note-properties":{"tags":["index","lore"]}}
+{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-05T08:18:28.808-04:00","dg-note-properties":{"tags":["index","lore"]}}
 ---
 
-![Stanford.jpg\|right ws-med](/img/user/Admin/Attachments/Stanford.jpg)
+> [!infobox|ws-med]
+>![Stanford.jpg\|right](/img/user/Admin/Attachments/Stanford.jpg)
 
 # Orientation
 "Down" is a *very* fluid concept on most asteroid colonies.
