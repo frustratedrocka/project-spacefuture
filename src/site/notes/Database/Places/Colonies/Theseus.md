@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-04T10:42:11.620-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Independent","Control":"Under The Radar","Faction_Presence":["Republic Of Mars"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-05T08:19:35.334-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Independent","Control":"Under The Radar","Faction_Presence":["Republic Of Mars"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
 ---
 
 > [!INFOBOX|ws-med] Theseus
@@ -22,7 +22,7 @@
 > 
 > The reason why they haven't been picked out is because they're cautious and calm minded. With that being said, it's a breeding ground of paranoia and subtle selfishness, because news of colonies getting cut off has people thinking they might be the next everyday.
 
-> [!cite|bg-c-blue] [[Admin/Player/Mike\|Mike]]
+> [!cite|bg-c-blue]  [[Player Characters/August Grier\|August Grier]]
 > I think Theseus plays nice in attempt to appease Apsis to keep the food flowing, and its probably a bit too small for Apsis to worry about them enough to keep a close eye on them. I think they play nice enough to not piss off Apsis, and provide just enough value in trade- material mining- that cutting them off has, at least, thus far been deemed 'too much paperwork for now, deal with them later'
 
 
