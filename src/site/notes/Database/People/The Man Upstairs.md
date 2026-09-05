@@ -68,6 +68,8 @@ views:
       - SESH_Name
       - SESH_Date
     sort:
+      - property: file.name
+        direction: ASC
       - property: Scenario_Index
         direction: ASC
 
