@@ -16,7 +16,7 @@
 >
 >|||
 >|--|--|
->|**PARAGON**|[[|]]|
+>|**PARAGON**||
 >|**BELIEFS**|"This Cannot Continue"|
 >
 >|SKILL|RANK|
