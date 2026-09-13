@@ -5,14 +5,16 @@
     "Locations Hub",
     "Rules Hub",
     "Mech Catalog",
+    "Solar Map",
     "Admin",
     "Database",
     "Player Characters",
-    "Rules"
+    "Rules",
+    "Session Notes",
+    "ED_Map"
   ],
   "/Admin": [
-    "Player Intake Form",
-    "Tech Test"
+    "Player Intake Form"
   ],
   "/Database": [
     "Factions",
@@ -31,8 +33,7 @@
     "Jovian Consortium",
     "Mindful Eyes",
     "Rebels",
-    "Republic Of Mars",
-    "Storm's Eye Heavy Industries"
+    "Republic Of Mars"
   ],
   "/Database/Glossary": [
     "Ark Stations",
@@ -47,14 +48,16 @@
     "The Hive Mind"
   ],
   "/Database/Mobile Suits": [
-    "Gundam Theseus",
-    "Not The Dag Doll",
     "SE-832 Akoni",
     "SE-832-E Akoni Command Type",
-    "TC-01 Gundam Descolada"
+    "Elegant Sky",
+    "GS-79 Gundam Descolada",
+    "Hoplite Custom",
+    "Hyper Seeker CQC",
+    "Kerbstomp",
+    "UT-F-08 Hoplite"
   ],
   "/Database/People": [
-    "Test",
     "The CEO",
     "The Man Upstairs",
     "The Mother And The Father",
@@ -62,19 +65,18 @@
     "The Queen",
     "Vantrin Almeyer"
   ],
-  "/Database/People/Test": [
-    "Test Secret Pilot"
-  ],
   "/Database/Places": [
     "Colonies",
     "Jupiter Sphere",
-    "Earth"
+    "Earth",
+    "Mars"
   ],
   "/Database/Places/Colonies": [
     "Brisbane",
     "Cairo",
     "Ceres",
-    "Mumbai"
+    "Mumbai",
+    "Theseus"
   ],
   "/Database/Places/Jupiter Sphere": [
     "Jupiter"
@@ -83,14 +85,14 @@
     "Ark Stations",
     "Brynhildr",
     "Charun",
-    "Fishbone"
+    "Fishbone",
+    "Storm's Eye Heavy Industries"
   ],
   "/Player Characters": [
-    "Pregen"
-  ],
-  "/Player Characters/Pregen": [
-    "Kamille Bidan End",
-    "Kamille Bidan Start"
+    "August Grier",
+    "Lane Gable",
+    "Menodora Thaliana",
+    "Vergen Koni"
   ],
   "/Rules": [
     "Categories",
@@ -115,5 +117,11 @@
     "Fate Accelerated (UNEDITED SRD)",
     "Fate Condensed (UNEDITED SRD)",
     "Fate Core (UNEDITED SRD)"
+  ],
+  "/Session Notes": [
+    "Session"
+  ],
+  "/Session Notes/Session": [
+    "Session 00A"
   ]
 }
