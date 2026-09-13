@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-04T10:42:02.313-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Republic Of Mars","Control":"Semi-Occupied Territory","Faction_Presence":["Apsis"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-13T05:16:25.580-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Republic Of Mars","Control":"Semi-Occupied Territory","Faction_Presence":["Apsis"],"Portrait":"Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png"}}
 ---
 
 
 
 > [!INFOBOX] Mars
 > # Mars
-> `=embed(link(this.Portrait))`
+> ![Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png\|Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png](/img/user/Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png)
 > 
 > | | |
 > |--|--|
