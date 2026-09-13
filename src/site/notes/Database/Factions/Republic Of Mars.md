@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-04T09:57:53.156-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.jpg","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-06T02:58:53.153-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.jpg","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
 ---
 
 
@@ -36,6 +36,8 @@ While ROM has taken no public position, most Martians believe Apsis is intention
 And then there's the refugee problem. Mars was the first stop for most of those who fled Luna and [[Database/Places/Earth\|Earth]] during and after [[Database/History/The Ground War\|The Ground War]]. The explosion in population, combined with the near-total cessation of food imports from Earth that Mars was already reliant on, turned the Red Planet into ground zero for the Malthusian collapse that would quickly spread through the entire solar system. This has understandably led to some extremely contentious and fractured politics, which show no signs of cooling down any time soon even as the "temporary" arrangements start to solidify into permanent infrastructure.
 
 `REDACTED`
+
+
 
 
 ```base
