@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","Tracker"],"noteIcon":"","updated":"2026-09-13T21:50:38.070-04:00","dg-note-properties":{"tags":["index","Tracker"]}}
+{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","Tracker"],"noteIcon":"","updated":"2026-09-13T21:53:55.723-04:00","dg-note-properties":{"tags":["index","Tracker"]}}
 ---
 
 ```base
@@ -37,6 +37,8 @@ formulas:
 views:
   - type: cards
     name: NPCs
+    order:
+      - file.name
     cardSize: 160
     image: note.Portrait
     imageAspectRatio: 0.6
@@ -52,6 +54,8 @@ formulas:
 views:
   - type: cards
     name: Mobile Suits
+    order:
+      - file.name
     cardSize: 160
     image: note.MECH_Portrait
     imageAspectRatio: 0.6
