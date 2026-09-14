@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/independent/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-04T09:59:07.020-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Independent","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":null}}
+{"dg-publish":true,"permalink":"/database/factions/independent/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-13T23:12:48.731-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Independent","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":null}}
 ---
 
 
@@ -13,6 +13,9 @@ filters:
   and:
     - file.hasTag("npc")
     - Faction == "Independent"
+    - or:
+        - Faction == link("Independent")
+        - Faction.isEmpty()
 views:
   - type: list
     name: Unaligned NPCs

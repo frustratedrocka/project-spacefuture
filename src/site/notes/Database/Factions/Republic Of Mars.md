@@ -45,6 +45,7 @@ filters:
   and:
     - file.hasTag("character")
     - Faction.containsAny(link(this.file.name))
+    - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
     name: Known Members

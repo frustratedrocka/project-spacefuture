@@ -54,7 +54,7 @@ views:
 filters:
   and:
     - file.hasTag("npc")
-    - Faction.contains(link("Rebels"))
+    - Faction.containsAny(link(this.file.name))
 views:
   - type: list
     name: Known Members
@@ -162,6 +162,7 @@ filters:
   and:
     - file.hasTag("character")
     - Faction.containsAny(link(this.file.name))
+    - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
     name: Known Members
@@ -268,6 +269,7 @@ filters:
   and:
     - file.hasTag("character")
     - Faction.containsAny(link(this.file.name))
+    - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
     name: Known Members
@@ -382,6 +384,7 @@ filters:
   and:
     - file.hasTag("character")
     - Faction.containsAny(link(this.file.name))
+    - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
     name: Known Members
@@ -480,6 +483,7 @@ filters:
   and:
     - file.hasTag("character")
     - Faction.containsAny(link(this.file.name))
+    - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
     name: Known Members
@@ -582,11 +586,13 @@ Force: Not the forefront, but not slacked. If ever needed, they rely on small, e
 
 The Eyes are still processing the idea that the Moondrop and the Ground War all stemmed from an attempt to wipe _them, specifically_, off the face of the solar system; it's one of the biggest things they collectively don't know how to feel about. Being part of the Hive Mind does not mean you don't get to have your own emotions and point of view on things, just that you also have access to everyone else's. This comes mostly in the form of vague emotional connotations and flashes, especially since there's far fewer of them now than there were at the peak of the fungal spread and the connection has weakened proportionately to their numbers.
 
+
 ```base
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains("Mindful Eyes")
+    - Faction.containsAny(link(this.file.name))
+    - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
     name: Known Members
@@ -598,62 +604,56 @@ views:
     sort:
       - property: Rank
         direction: ASC
-    separator: " - "
     markers: none
-    image: note.Portrait
-    imageAspectRatio: 0.5
-    cardSize: 160
-    indentProperties: false
+    separator: " - "
 
 ```
+
+
 
 ```base
 filters:
   and:
-    - file.tags.contains("location")
+    - file.hasTag("location")
     - or:
-        - Faction == "Mindful Eyes"
-        - Faction_Presence.contains("Mindful Eyes")
+        - Faction == link(this.file.name)
+        - Faction_Presence.contains(link(this.file.name))
+    - '!file.inFolder("Admin/Templates")'
 properties:
-  note.file.name:
-    displayName: Location
-  note.faction_Control:
-    displayName: Leadership
-  note.faction_Presence:
-    displayName: Other Factions
-  note.control:
-    displayName: Status
+  note.Faction_Presence:
+    displayName: Other Presence
 views:
   - type: table
     name: Associated Locations
     order:
       - file.name
+      - Type
       - Faction
       - Control
       - Faction_Presence
-    indentProperties: false
+
 ```
+
+
 
 ```base
 filters:
   and:
-    - Faction.contains("Mindful Eyes")
-    - file.tags.contains("Mech")
-    - file.folder != "Database/Mechs/Sample"
-properties:
-  file.name:
-    displayName: Mech
+    - file.hasTag("Mech")
+    - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Database/Mechs/Sample")'
+    - Faction.contains(link(this.file.name))
 views:
   - type: cards
     name: Mobile Suits
     order:
       - file.name
-    indentProperties: false
-    imageAspectRatio: 0.5
-    image: MECH_Portrait
     cardSize: 160
+    image: note.MECH_Portrait
+    imageAspectRatio: 0.5
 
 ```
+
 
 </div></div>
 
@@ -690,11 +690,13 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 
 
 
+
 ```base
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains("Hive Cult")
+    - Faction.containsAny(link(this.file.name))
+    - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
     name: Known Members
@@ -706,62 +708,56 @@ views:
     sort:
       - property: Rank
         direction: ASC
-    separator: " - "
     markers: none
-    image: note.Portrait
-    imageAspectRatio: 0.5
-    cardSize: 160
-    indentProperties: false
+    separator: " - "
 
 ```
+
+
 
 ```base
 filters:
   and:
-    - file.tags.contains("location")
+    - file.hasTag("location")
     - or:
-        - Faction == "Hive Cult"
-        - Faction_Presence.contains("Hive Cult")
+        - Faction == link(this.file.name)
+        - Faction_Presence.contains(link(this.file.name))
+    - '!file.inFolder("Admin/Templates")'
 properties:
-  note.file.name:
-    displayName: Location
-  note.faction_Control:
-    displayName: Leadership
-  note.faction_Presence:
-    displayName: Other Factions
-  note.control:
-    displayName: Status
+  note.Faction_Presence:
+    displayName: Other Presence
 views:
   - type: table
     name: Associated Locations
     order:
       - file.name
+      - Type
       - Faction
       - Control
       - Faction_Presence
-    indentProperties: false
+
 ```
+
+
 
 ```base
 filters:
   and:
-    - Faction.contains("Hive Cult")
-    - file.tags.contains("Mech")
-    - file.folder != "Database/Mechs/Sample"
-properties:
-  file.name:
-    displayName: Mech
+    - file.hasTag("Mech")
+    - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Database/Mechs/Sample")'
+    - Faction.contains(link(this.file.name))
 views:
   - type: cards
     name: Mobile Suits
     order:
       - file.name
-    indentProperties: false
-    imageAspectRatio: 0.5
-    image: MECH_Portrait
-    imageFit: cover
     cardSize: 160
+    image: note.MECH_Portrait
+    imageAspectRatio: 0.5
+
 ```
+
 
 </div></div>
 
@@ -784,6 +780,9 @@ filters:
   and:
     - file.hasTag("npc")
     - Faction == "Independent"
+    - or:
+        - Faction == link("Independent")
+        - Faction.isEmpty()
 views:
   - type: list
     name: Unaligned NPCs

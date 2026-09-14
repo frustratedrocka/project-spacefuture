@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-05T08:19:35.334-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Independent","Control":"Under The Radar","Faction_Presence":["Republic Of Mars"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-13T23:08:16.966-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":"[[Database/Factions/Independent]]","Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
 ---
 
 > [!INFOBOX|ws-med] Theseus

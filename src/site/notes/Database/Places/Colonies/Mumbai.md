@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/mumbai/","tags":["location"],"noteIcon":"","updated":"2026-09-05T08:23:01.930-04:00","dg-note-properties":{"tags":["location"],"Type":"Colony","Faction":"Rebels","Control":"Contested","Faction_Presence":"Martians -","Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/colonies/mumbai/","tags":["location"],"noteIcon":"","updated":"2026-09-13T23:05:49.092-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":"[[Database/Factions/Rebels]]","Control":"Contested","Faction_Presence":["[[Database/Factions/Republic Of Mars|ROM]]"],"Portrait":null}}
 ---
 
 
@@ -12,7 +12,7 @@
 > |Body|[[Database/Glossary/Colony\|Colony]]|
 > |Leadership|[[Database/Factions/Rebels\|Rebels]]|
 > |Status|Contested|
-> |Interest|[[Martians -\|Martians -]]|
+> |Interest|[[Database/Factions/Republic Of Mars\|ROM]]|
 
 One of three colonies in [[Database/Glossary/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.
 

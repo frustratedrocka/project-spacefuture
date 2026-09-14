@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-09-13T22:16:26.275-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":"[[Database/Factions/Apsis]]","Control":"Home / Headquarters","faction_Presence":[""],"Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-09-13T23:06:18.448-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":"[[Database/Factions/Apsis]]","Faction_Presence":null,"Control":"Home / Headquarters","faction_Presence":null,"Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg"}}
 ---
 
 

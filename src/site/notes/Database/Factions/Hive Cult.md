@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-08-30T07:26:12.209-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Hive Cult","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[Database/People/The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"aliases":["Cult"]}}
+{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-13T23:13:43.015-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Hive Cult","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[Database/People/The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"aliases":["Cult"]}}
 ---
 
 
@@ -28,11 +28,13 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 
 
 
+
 ```base
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains("Hive Cult")
+    - Faction.containsAny(link(this.file.name))
+    - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
     name: Known Members
@@ -44,61 +46,52 @@ views:
     sort:
       - property: Rank
         direction: ASC
-    separator: " - "
     markers: none
-    image: note.Portrait
-    imageAspectRatio: 0.5
-    cardSize: 160
-    indentProperties: false
+    separator: " - "
 
 ```
-{ #FactionTable}
+
 
 
 ```base
 filters:
   and:
-    - file.tags.contains("location")
+    - file.hasTag("location")
     - or:
-        - Faction == "Hive Cult"
-        - Faction_Presence.contains("Hive Cult")
+        - Faction == link(this.file.name)
+        - Faction_Presence.contains(link(this.file.name))
+    - '!file.inFolder("Admin/Templates")'
 properties:
-  note.file.name:
-    displayName: Location
-  note.faction_Control:
-    displayName: Leadership
-  note.faction_Presence:
-    displayName: Other Factions
-  note.control:
-    displayName: Status
+  note.Faction_Presence:
+    displayName: Other Presence
 views:
   - type: table
     name: Associated Locations
     order:
       - file.name
+      - Type
       - Faction
       - Control
       - Faction_Presence
-    indentProperties: false
+
 ```
+
+
 
 ```base
 filters:
   and:
-    - Faction.contains("Hive Cult")
-    - file.tags.contains("Mech")
-    - file.folder != "Database/Mechs/Sample"
-properties:
-  file.name:
-    displayName: Mech
+    - file.hasTag("Mech")
+    - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Database/Mechs/Sample")'
+    - Faction.contains(link(this.file.name))
 views:
   - type: cards
     name: Mobile Suits
     order:
       - file.name
-    indentProperties: false
-    imageAspectRatio: 0.5
-    image: MECH_Portrait
-    imageFit: cover
     cardSize: 160
+    image: note.MECH_Portrait
+    imageAspectRatio: 0.5
+
 ```
