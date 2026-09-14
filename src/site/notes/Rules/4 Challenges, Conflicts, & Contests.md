@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T07:14:59.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T07:46:04.529-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Challenges
@@ -42,6 +42,13 @@ Alternatively, someone whose approach places them earlier in the round may still
 ### Surprise
 When surprise is relevant (e.g. a successful ambush), surprised conflict participants declare and act only after all other participants have completed their turns.
 
+## Zones & Movement
+#TODO concepts fairly solid pending playtest, prose is not pending actually explaining it to players
+- Zones = vibes and back-of-the-napkin mouse-art minimum-LOD sketch.
+- Unless there's a reason it wouldn't be, moving one zone is free as part of your turn. If obstructed, may need Overcome, but still lets you act. Moving multiple is the turn and requires Overcome vs. number of zones crossed.
+- Anything in your zone is melee-able.
+- Anything in a zone next to you is shootable by default, unless obstructed (e.g. there's a solid wall; you can stand in the door of the Kitchen zone and shoot bad guys in the Back Alley zone).
+    - Aspects (e.g. sniper rifle, artillery w/ forward target-painting pointman) can grant permission to loosen or ignore this as appropriate
 
 ## Taking Harm
 When an attack is successful, the defender must absorb the blow and suffers harm equal to **THE NUMBER OF HITS** the attack exceeded the defense by. You can **PUSH THROUGH** harm by marking **STRAIN** boxes or by suffering **CONSEQUENCES**. 

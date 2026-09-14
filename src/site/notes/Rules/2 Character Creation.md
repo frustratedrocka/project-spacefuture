@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-27T21:55:36.364-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T08:05:45.526-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Pilot Creation
@@ -24,7 +24,7 @@ Aspects can describe anything and everything about your character, including but
 - The character’s background or profession (*"Educated at the Academy of Blades"*, *"Born a Spacer"*, *"Cybernetic Street Thief"*). 
 - An important possession or noticeable feature (*"My Father’s Bloodstained Sword"*, *"Dressed to the Nines,"* *"Sharp Eyed Veteran"*). 
 - Relationships to people and organizations (*"In League with the Twisting Hand"*, *"The King’s Favor"*, *"Proud Member of the Company of Lords"*). 
-- Problems, goals, or issues the character is dealing with (A Price on My Head, The King Must Die, Fear of Heights). 
+- Problems, goals, or issues the character is dealing with ("*A Price on My Head*", "*The King Must Die*", "*Fear of Heights*"). 
 - Titles, reputations, or obligations the character may have (*"Self-Important Merchant Guildmaster"*, "*Silver-Tongued Scoundrel*", *"Honor-Bound to Avenge My Brother"*).
 
 The best aspects overlap across a few of these categories, which gives you more ways to bring you into play.
