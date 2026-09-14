@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T21:58:19.750-04:00","dg-note-properties":{"tags":["index","Tracker"]}}
+{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T21:59:49.806-04:00","dg-note-properties":{"tags":["index","Tracker"]}}
 ---
 
+# Summary
+A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
 # Vitals
 ```base
 filters:
@@ -82,25 +84,3 @@ views:
     imageAspectRatio: 0.6
 
 ```
-```base
-filters:
-  and:
-    - file.hasTag("faction")
-    - formula.matchingSessions.length > 0
-formulas:
-  matchingSessions: file.backlinks.filter(value.asFile().hasTag("session") && value.asFile().properties.scenario == this.file.name && list(value.asFile().properties.Locations).contains(file))
-views:
-  - type: table
-    name: Locations
-    order:
-      - file.name
-      - Type
-      - Faction
-      - Control
-    cardSize: 160
-    image: note.MECH_Portrait
-    imageAspectRatio: 0.6
-
-```
-# Summary
-A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
