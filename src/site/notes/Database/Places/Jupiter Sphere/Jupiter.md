@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T10:41:50.601-04:00","dg-note-properties":{"tags":["location"],"type":"[[Locations Hub|Planet]]","Faction":"Jovian Consortium","Control":"Home / Headquarters","Faction_Presence":"Apsis","Portrait":"Admin/Attachments/Jupiter_OPAL_2024-1.png"}}
+{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T22:17:30.413-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"[[Database/Factions/Jovian Consortium]]","Control":"Home / Headquarters","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Jupiter_OPAL_2024-1.png"}}
 ---
 
 
@@ -26,8 +26,8 @@ filters:
   and:
     - file.hasTag("character")
     - or:
-        - Origin==this.file.name
-        - Assoc.contains(this.file.name)
+        - Origin==link(this.file.name)
+        - Assoc.contains(link(this.file.name))
     - '!file.inFolder("Player Characters/Archive")'
 views:
   - type: table
@@ -50,10 +50,10 @@ filters:
     - file.hasTag("session")
     - '!file.inFolder("Admin/Templates")'
     - or:
-        - Attending.contains(this.file.name)
-        - NPCs.contains(this.file.name)
-        - Location.contains(this.file.name)
-        - Mechs.containsAny(this.file.name, this.aliases)
+        - Attending.contains(link(this.file.name))
+        - NPCs.contains(link(this.file.name))
+        - Location.contains(link(this.file.name))
+        - Mechs.containsAny(link(this.file.name), this.aliases)
 properties:
   file.name:
     displayName: Session

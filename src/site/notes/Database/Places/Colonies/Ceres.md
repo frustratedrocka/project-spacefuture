@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-09-04T10:55:11.555-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":"Apsis","Control":"Home / Headquarters","faction_Presence":[[null]],"Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-09-13T22:16:26.275-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":"[[Database/Factions/Apsis]]","Control":"Home / Headquarters","faction_Presence":[""],"Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg"}}
 ---
 
 
@@ -29,8 +29,8 @@ filters:
   and:
     - file.hasTag("character")
     - or:
-        - Origin==this.file.name
-        - Assoc.contains(this.file.name)
+        - Origin==link(this.file.name)
+        - Assoc.contains(link(this.file.name))
     - '!file.inFolder("Player Characters/Archive")'
 views:
   - type: table
@@ -53,10 +53,10 @@ filters:
     - file.hasTag("session")
     - '!file.inFolder("Admin/Templates")'
     - or:
-        - Attending.contains(this.file.name)
-        - NPCs.contains(this.file.name)
-        - Location.contains(this.file.name)
-        - Mechs.containsAny(this.file.name, this.aliases)
+        - Attending.contains(link(this.file.name))
+        - NPCs.contains(link(this.file.name))
+        - Location.contains(link(this.file.name))
+        - Mechs.containsAny(link(this.file.name), this.aliases)
 properties:
   file.name:
     displayName: Session

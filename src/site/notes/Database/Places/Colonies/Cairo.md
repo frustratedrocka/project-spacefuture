@@ -22,8 +22,8 @@ filters:
   and:
     - file.hasTag("character")
     - or:
-        - Origin==this.file.name
-        - Assoc.contains(this.file.name)
+        - Origin==link(this.file.name)
+        - Assoc.contains(link(this.file.name))
     - '!file.inFolder("Player Characters/Archive")'
 views:
   - type: table
@@ -46,10 +46,10 @@ filters:
     - file.hasTag("session")
     - '!file.inFolder("Admin/Templates")'
     - or:
-        - Attending.contains(this.file.name)
-        - NPCs.contains(this.file.name)
-        - Location.contains(this.file.name)
-        - Mechs.containsAny(this.file.name, this.aliases)
+        - Attending.contains(link(this.file.name))
+        - NPCs.contains(link(this.file.name))
+        - Location.contains(link(this.file.name))
+        - Mechs.containsAny(link(this.file.name), this.aliases)
 properties:
   file.name:
     displayName: Session

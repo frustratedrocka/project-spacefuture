@@ -81,8 +81,8 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(this.file.name)
-        - Faction_Presence.contains(this.file.name)
+        - Faction.contains(link(this.file.name))
+        - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
   note.Faction_Presence:
@@ -107,7 +107,7 @@ filters:
     - file.hasTag("Mech")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: cards
     name: Mobile Suits
@@ -161,7 +161,7 @@ A major wrinkle in any attempt to permanently deal with Apsis is that they are, 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: list
     name: Known Members
@@ -185,8 +185,8 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(this.file.name)
-        - Faction_Presence.contains(this.file.name)
+        - Faction.contains(link(this.file.name))
+        - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
   note.Faction_Presence:
@@ -211,7 +211,7 @@ filters:
     - file.hasTag("Mech")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: cards
     name: Mobile Suits
@@ -267,7 +267,7 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: list
     name: Known Members
@@ -291,8 +291,8 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(this.file.name)
-        - Faction_Presence.contains(this.file.name)
+        - Faction.contains(link(this.file.name))
+        - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
   note.Faction_Presence:
@@ -317,7 +317,7 @@ filters:
     - file.hasTag("Mech")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: cards
     name: Mobile Suits
@@ -381,7 +381,7 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: list
     name: Known Members
@@ -405,8 +405,8 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(this.file.name)
-        - Faction_Presence.contains(this.file.name)
+        - Faction.contains(link(this.file.name))
+        - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
   note.Faction_Presence:
@@ -431,7 +431,7 @@ filters:
     - file.hasTag("Mech")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: cards
     name: Mobile Suits
@@ -479,7 +479,7 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: list
     name: Known Members
@@ -503,8 +503,8 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(this.file.name)
-        - Faction_Presence.contains(this.file.name)
+        - Faction.contains(link(this.file.name))
+        - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
   note.Faction_Presence:
@@ -529,7 +529,7 @@ filters:
     - file.hasTag("Mech")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: cards
     name: Mobile Suits
@@ -809,8 +809,8 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(this.file.name)
-        - Faction_Presence.contains(this.file.name)
+        - Faction.contains(link(this.file.name))
+        - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
   note.Faction_Presence:
@@ -835,7 +835,7 @@ filters:
     - file.hasTag("Mech")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: cards
     name: Mobile Suits

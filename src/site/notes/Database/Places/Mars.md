@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-13T05:16:25.580-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"Republic Of Mars","Control":"Semi-Occupied Territory","Faction_Presence":["Apsis"],"Portrait":"Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png"}}
+{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-13T22:17:39.497-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":"[[Database/Factions/Republic Of Mars]]","Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png"}}
 ---
 
 
@@ -25,8 +25,8 @@ filters:
   and:
     - file.hasTag("character")
     - or:
-        - Origin==this.file.name
-        - Assoc.contains(this.file.name)
+        - Origin==link(this.file.name)
+        - Assoc.contains(link(this.file.name))
     - '!file.inFolder("Player Characters/Archive")'
 views:
   - type: table
@@ -49,10 +49,10 @@ filters:
     - file.hasTag("session")
     - '!file.inFolder("Admin/Templates")'
     - or:
-        - Attending.contains(this.file.name)
-        - NPCs.contains(this.file.name)
-        - Location.contains(this.file.name)
-        - Mechs.containsAny(this.file.name, this.aliases)
+        - Attending.contains(link(this.file.name))
+        - NPCs.contains(link(this.file.name))
+        - Location.contains(link(this.file.name))
+        - Mechs.containsAny(link(this.file.name), this.aliases)
 properties:
   file.name:
     displayName: Session

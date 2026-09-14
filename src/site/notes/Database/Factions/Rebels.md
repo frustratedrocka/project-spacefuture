@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-13T05:00:45.589-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Rebels","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-13T22:21:49.552-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!INFOBOX|ws-med]
@@ -75,8 +75,8 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(this.file.name)
-        - Faction_Presence.contains(this.file.name)
+        - Faction.contains(link(this.file.name))
+        - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
   note.Faction_Presence:
@@ -101,7 +101,7 @@ filters:
     - file.hasTag("Mech")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: cards
     name: Mobile Suits

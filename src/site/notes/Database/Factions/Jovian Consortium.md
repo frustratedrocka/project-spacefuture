@@ -34,7 +34,7 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: list
     name: Known Members
@@ -58,8 +58,8 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(this.file.name)
-        - Faction_Presence.contains(this.file.name)
+        - Faction.contains(link(this.file.name))
+        - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
   note.Faction_Presence:
@@ -84,7 +84,7 @@ filters:
     - file.hasTag("Mech")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(this.file.name)
+    - Faction.contains(link(this.file.name))
 views:
   - type: cards
     name: Mobile Suits
