@@ -28,7 +28,7 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list

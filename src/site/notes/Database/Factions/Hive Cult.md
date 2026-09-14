@@ -33,7 +33,7 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list

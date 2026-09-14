@@ -34,7 +34,7 @@ A major wrinkle in any attempt to permanently deal with Apsis is that they are, 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T05:55:43.379-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
+{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T05:57:48.450-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
 ---
 
 # Summary
@@ -35,6 +35,8 @@ views:
 > | ![Admin/Attachments/PCShip.webp\|PCShip.webp](/img/user/Admin/Attachments/PCShip.webp)     | [[Database/Things/Fishbone\|Fishbone]] |
 > 
 { .block-language-dataview}
+
+
 ## Mobile Suits
 > [!cards|dataview 4]
 >  | Portrait                                                                | Mobile Suit                                                     |

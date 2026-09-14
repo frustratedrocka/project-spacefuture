@@ -38,7 +38,7 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list

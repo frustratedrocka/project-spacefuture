@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-13T03:47:36.168-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.jpg","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-14T06:42:38.694-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.jpg","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
 ---
 
 
@@ -7,21 +7,17 @@
 ># Republic Of Mars
 >![Admin/Attachments/RFGuerillaPropPoster1.jpg\|RFGuerillaPropPoster1.jpg](/img/user/Admin/Attachments/RFGuerillaPropPoster1.jpg)
 >
-> 
+>|||
+>|--|--|
+>|**PARAGON**|`=link(this.Paragon)`|
+>|**BELIEFS**|"We Deserve Self-Determination,"<br>"Delay Is Complicity"|
 >
 >|SKILL|RANK|
 >|--|:--:|
->|Fealty|4|
->|Fellowship|8|
->|Force|6|
->|Fraternity|2|
->
->
->**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><span>We Deserve Self-Determination</span></li><li><span>Delay Is Complicity</span></li></ul></div>
->
-> **PARAGON**
->`=link(this.Paragon)`
+>|**FEALTY**|4|
+>|**FELLOWSHIP**|8|
+>|**FORCE**|6|
+>|**FRATERNITY**|2|
 
 *Officially*, [[Database/History/The Ground War\|The Ground War]] ended with no winner, and the [[Database/Places/Colonies/Ceres\|Ceres]] accords established [[Database/Factions/Apsis\|Apsis]] as an unaligned, neutral administration.
 
@@ -44,7 +40,7 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list

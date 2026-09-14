@@ -34,7 +34,7 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list

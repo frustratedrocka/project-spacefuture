@@ -161,7 +161,7 @@ A major wrinkle in any attempt to permanently deal with Apsis is that they are, 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
@@ -268,7 +268,7 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
@@ -346,21 +346,17 @@ views:
 ># Republic Of Mars
 >![Admin/Attachments/RFGuerillaPropPoster1.jpg\|RFGuerillaPropPoster1.jpg](/img/user/Admin/Attachments/RFGuerillaPropPoster1.jpg)
 >
-> 
+>|||
+>|--|--|
+>|**PARAGON**|`=link(this.Paragon)`|
+>|**BELIEFS**|"We Deserve Self-Determination,"<br>"Delay Is Complicity"|
 >
 >|SKILL|RANK|
 >|--|:--:|
->|Fealty|4|
->|Fellowship|8|
->|Force|6|
->|Fraternity|2|
->
->
->**BELIEFS**
-><div><ul class="dataview list-view-ul"><li><span>We Deserve Self-Determination</span></li><li><span>Delay Is Complicity</span></li></ul></div>
->
-> **PARAGON**
->`=link(this.Paragon)`
+>|**FEALTY**|4|
+>|**FELLOWSHIP**|8|
+>|**FORCE**|6|
+>|**FRATERNITY**|2|
 
 *Officially*, [[Database/History/The Ground War\|The Ground War]] ended with no winner, and the [[Database/Places/Colonies/Ceres\|Ceres]] accords established [[Database/Factions/Apsis\|Apsis]] as an unaligned, neutral administration.
 
@@ -383,7 +379,7 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
@@ -482,7 +478,7 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
@@ -591,7 +587,7 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
@@ -695,7 +691,7 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 filters:
   and:
     - file.hasTag("character")
-    - Faction.containsAny(link(this.file.name))
+    - Faction.contains(link(this.file.name))
     - '!file.folder.contains("Player Characters/Archive")'
 views:
   - type: list
