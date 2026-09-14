@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/6-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-09T18:36:05.937-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/6-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T08:20:22.209-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # SETUP
@@ -343,7 +343,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **BRIGIT** I take out the tires right as they're angling into the alley, so instead of turning all the way in and following us, the car flips and wedges itself in the entrance. So now they're stuck, and nobody else can get in behind them.
 
-**GM** Fantastic! Alright, so, as we start the next round...
+**GM** Fantastic! Alright, so, as we head into Alex's turn proper at the bottom of the round...
 
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >And the chase continues from here.

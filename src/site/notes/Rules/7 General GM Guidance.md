@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T08:30:33.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T08:57:26.192-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -26,7 +26,7 @@ Running a role-playing game, in nearly any system that uses a GM at all, boils d
 2. What are you trying to accomplish?
 3. How do you try to accomplish it? 
 4. Resolution:
-	1. Do mechanics take over to resolve uncertainty?
+	1. Do mechanics take over?
 	2. What could explain this result? 
 5. What are the natural and/or dramatically appropriate consequences of what just happened?
 6. Integrate 5 into the fiction, then return to 1.
@@ -195,9 +195,9 @@ Put simply: for all that characters in the Mad Max films frequently talk up the 
 
 This has caveats and conditions, the first one that comes to mind being characters dying or otherwise permanently exiting the story because the mechanics demand it. Setting aside for the moment the increasing number of games that leave the decision of whether a character lives or dies when defeated entirely up to the player, the first assumption would be that death obviously and permanently cuts off one character's decision-making capability and should therefore be avoided. But that's not where I see the question of whether uncertainty protects the possibility space or collapses it applying. The possibility space I want to preserve is *campaign and group level*. If a detective fingers the wrong suspect because they misinterpreted a clue or stopped digging too soon, that's on them. If a fantasy adventuring party all die in a fight they chose to take on, that's on them. That's a fair outcome, and the possibility of that outcome is one of the things that made their choices meaningful in the first place. Everyone agreed to those outcomes being possible as part of the social contract made when they signed up to play the game that included them.
 
-If that same detective misses a critical clue because they asked the right questions and you allowed the dice to declare that they couldn't get the answer they sought, or that party wipes because you decided to roll on a table for what enemy attacked their dinky little rowboat in the middle of a lake and let the result stand when the dice came up uber-kraken? That's on you. 
+If that same detective misses a critical clue because they asked the right questions and you allowed the dice to declare that they couldn't get the answer they sought, or that party wipes because you decided to roll on a table for what attacked their dinky little rowboat in the middle of a lake and let the result stand when the dice came up "Uber-Kraken"? That's on you. 
 
-Preserve the dramatic questions your campaign benefits from asking the players, even when those questions can lead to catastrophe. Don't leave questions to the dice when one answer would cut off the campaign everyone agreed to play.
+Preserve the dramatic questions your campaign benefits from asking the players, even when those questions can lead to catastrophe. Don't allow the dice to provide answers that would cut off the campaign everyone agreed to play.
 
 I'll talk more about dramatic questions later on in [[Rules/7 General GM Guidance#Tone, Atmosphere, & Mood\|#Tone, Atmosphere, & Mood]].
 

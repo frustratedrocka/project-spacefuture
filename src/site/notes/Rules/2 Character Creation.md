@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T08:05:45.526-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T10:04:01.770-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Pilot Creation
@@ -183,7 +183,7 @@ Breakthroughs occur at the **END OF A SCENARIO**. They are more significant than
 - Choose one:
 	- Increase the rating of one skill by 1.
 	- Add a new skill to your sheet at Adequate (1) rating.
-	- Unlock one box of armor for your mech.
+	- Unlock two boxes of armor for your mech.
 - Replace your mech completely.
 
 >[!aside] 

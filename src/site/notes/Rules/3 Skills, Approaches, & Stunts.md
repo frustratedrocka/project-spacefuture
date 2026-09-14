@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T07:36:06.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T10:05:39.330-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -64,9 +64,11 @@ Remember that **MECHANICS FOLLOW THE FICTION**.  How you describe your character
 If you're ever in doubt, confused, or struggling to figure out which approach the action you have in mind might fall under, just remember this rule: **SAY WHAT YOU'RE DOING. THE GM WILL TELL YOU WHAT TO ROLL.** 
 
 ## Order of Operations
-You may notice that the above list is ordered strangely. That's because this doubles as the initiative order: whenever multiple characters act simultaneously, such as in a [[Rules/4 Challenges, Conflicts, & Contests\|4 Challenges, Conflicts, & Contests]], whoever's approaching the task Quickly goes first. Then anyone approaching Boldly, then Forcefully, and so on. If multiple characters are using the same approach, whoever has the higher value goes first; if that's tied, compare the value of the skills they're using. If that's also tied, roll off if the tied characters are opposed, or choose an order if they're allies.
+You may notice that the above list is ordered strangely. That's because this doubles as the initiative order: whenever multiple characters act simultaneously, such as in a [[Rules/4 Challenges, Conflicts, & Contests\|4 Challenges, Conflicts, & Contests]], whoever's approaching the task Quickly goes first. Then anyone approaching Boldly, then Forcefully, and so on. 
 
 Defend actions occur simultaneously with and as a result of someone else attacking or creating an advantage, so they exist outside of the initiative order and use whatever approach makes sense based on your narration.
+
+If multiple characters are using the same approach, they resolve in this order: hostile [[Rules/5 Running The Game#Major NPCs\|5 Running The Game#Major NPCs]] first, then PCs and their allies, then all other NPCs before moving to the next approach .Allied characters using the same approach may freely decide their action order between themselves.
 
 > [!callout|bg-c-red no-icon ]+ EXAMPLE OF PLAY: LONG SHOTS
 Two characters are engaged in a sniper duel. Let's say they both use the same tactics - in this case, each one sticks to the sturdiest and best-camouflaged cover they can find that still offers a line of fire, then waits, only occasionally poking their head up to scan the distance through their scopes. This means they're both Shooting Carefully, so they'll compare their Carefully values, then their Shoot values if those are tied, then roll off if both of those are also tied. Or, one character could try to get the drop on their opponent with a rapid potshot at where they think their enemy is (Shoot Quickly), or attempt a trick shot (Shoot Cleverly), potentially at the price of a higher opposition, using an approach they're weaker in, or a different cost if things go wrong.
