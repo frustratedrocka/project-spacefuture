@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-14T04:11:45.976-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":"[[Database/Factions/Independent]]","Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-14T04:29:52.989-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":"[[Database/Factions/Independent]]","Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
 ---
 
 > [!INFOBOX|ws-med] Theseus
@@ -13,6 +13,7 @@
 > |Status|Under The Radar|
 > |Interest|[[Database/Factions/Republic Of Mars\|Republic Of Mars]]|
 
+# Discord Genesis
 >[!cite|bg-c-red] [[Player Characters/Vergen Koni\|Vergen Koni]]
 > I think Theseus is under the radar when it comes to [[Database/Factions/Apsis\|Apsis]] selective food deliveries, meaning they haven't got cut yet. 
 > 
@@ -37,6 +38,7 @@
 >[!cite|bg-c-red] [[Player Characters/Vergen Koni\|Vergen Koni]]
 > sounds about right
 
+`REDACTED`
 
 
 ```base

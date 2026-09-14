@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T23:21:05.740-04:00","dg-note-properties":{"tags":["index","Tracker"]}}
+{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T04:36:17.387-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
 ---
 
 # Summary
