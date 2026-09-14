@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T22:04:23.749-04:00","dg-note-properties":{"tags":["index","Tracker"]}}
+{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T23:15:48.026-04:00","dg-note-properties":{"tags":["index","Tracker"]}}
 ---
 
 # Summary
@@ -9,7 +9,7 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 filters:
   and:
     - file.hasTag("session")
-    - Scenario == this.file.name
+    - Scenario == link(this.file.name)
 properties:
   note.Scenario_Index:
     displayName: Part
