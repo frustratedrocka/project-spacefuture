@@ -34,7 +34,7 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(link(this.file.name))
+    - Faction.containsAny(link(this.file.name))
 views:
   - type: list
     name: Known Members

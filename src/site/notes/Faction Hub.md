@@ -33,7 +33,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 ```base
 filters:
   and:
-    - Faction.contains("Rebels")
+    - Faction.contains(link("Rebels"))
     - file.hasTag("PC")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Player Characters/Archive")'
@@ -54,7 +54,7 @@ views:
 filters:
   and:
     - file.hasTag("npc")
-    - Faction.contains("Rebels")
+    - Faction.contains(link("Rebels"))
 views:
   - type: list
     name: Known Members
@@ -161,7 +161,7 @@ A major wrinkle in any attempt to permanently deal with Apsis is that they are, 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(link(this.file.name))
+    - Faction.containsAny(link(this.file.name))
 views:
   - type: list
     name: Known Members
@@ -267,7 +267,7 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(link(this.file.name))
+    - Faction.containsAny(link(this.file.name))
 views:
   - type: list
     name: Known Members
@@ -381,7 +381,7 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(link(this.file.name))
+    - Faction.containsAny(link(this.file.name))
 views:
   - type: list
     name: Known Members
@@ -479,7 +479,7 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(link(this.file.name))
+    - Faction.containsAny(link(this.file.name))
 views:
   - type: list
     name: Known Members

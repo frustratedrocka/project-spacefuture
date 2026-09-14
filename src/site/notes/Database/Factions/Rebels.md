@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-13T22:21:49.552-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-13T22:52:20.086-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!INFOBOX|ws-med]
@@ -25,7 +25,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 ```base
 filters:
   and:
-    - Faction.contains("Rebels")
+    - Faction.contains(link("Rebels"))
     - file.hasTag("PC")
     - '!file.inFolder("Admin/Templates")'
     - '!file.inFolder("Player Characters/Archive")'
@@ -46,7 +46,7 @@ views:
 filters:
   and:
     - file.hasTag("npc")
-    - Faction.contains("Rebels")
+    - Faction.contains(link("Rebels"))
 views:
   - type: list
     name: Known Members

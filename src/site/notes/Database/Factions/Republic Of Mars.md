@@ -44,7 +44,7 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(link(this.file.name))
+    - Faction.containsAny(link(this.file.name))
 views:
   - type: list
     name: Known Members

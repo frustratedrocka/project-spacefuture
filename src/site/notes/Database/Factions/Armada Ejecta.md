@@ -28,7 +28,7 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 filters:
   and:
     - file.hasTag("character")
-    - Faction.contains(link(this.file.name))
+    - Faction.containsAny(link(this.file.name))
 views:
   - type: list
     name: Known Members
