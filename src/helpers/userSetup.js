@@ -1352,6 +1352,133 @@ function rewriteExpression(
   return result;
 }
 
+/*
+ * ------------------------------------------------
+ * NORMALIZE BASE PROPERTY DISPLAY NAMES
+ * ------------------------------------------------
+ *
+ * Obsidian treats:
+ *
+ *     Scenario_Index
+ *
+ * and:
+ *
+ *     note.Scenario_Index
+ *
+ * as references to the same note property.
+ *
+ * Digital Garden currently does not normalize those names when
+ * looking up:
+ *
+ *     properties:
+ *       note.Scenario_Index:
+ *         displayName: Part
+ *
+ * If the view's order uses the bare name, DG misses the displayName.
+ *
+ * Mirror displayName configuration between the bare and note.*
+ * spellings so either representation works.
+ */
+function normalizePropertyDisplayNames(base) {
+  if (
+    !base ||
+    !base.properties ||
+    typeof base.properties !== "object" ||
+    Array.isArray(base.properties)
+  ) {
+    return;
+  }
+
+  const properties = base.properties;
+
+  /*
+   * Snapshot the original entries so aliases we add during this pass
+   * don't themselves get processed again.
+   */
+  const entries =
+    Object.entries(properties);
+
+  function addDisplayAlias(
+    alias,
+    displayName
+  ) {
+    if (!alias) {
+      return;
+    }
+
+    const existing =
+      properties[alias];
+
+    /*
+     * Never overwrite an explicitly configured displayName.
+     */
+    if (
+      existing &&
+      typeof existing === "object" &&
+      existing.displayName !== undefined
+    ) {
+      return;
+    }
+
+    properties[alias] = {
+      ...(
+        existing &&
+        typeof existing === "object"
+          ? existing
+          : {}
+      ),
+      displayName,
+    };
+  }
+
+
+  for (
+    const [propertyName, config]
+    of entries
+  ) {
+    if (
+      !config ||
+      typeof config !== "object" ||
+      config.displayName === undefined
+    ) {
+      continue;
+    }
+
+    const displayName =
+      config.displayName;
+
+
+    /*
+     * note.Property -> Property
+     */
+    if (
+      propertyName.startsWith("note.")
+    ) {
+      addDisplayAlias(
+        propertyName.slice(5),
+        displayName
+      );
+
+      continue;
+    }
+
+
+    /*
+     * Property -> note.Property
+     *
+     * Do NOT do this for actual file.* or formula.* properties.
+     */
+    if (
+      !propertyName.startsWith("file.") &&
+      !propertyName.startsWith("formula.")
+    ) {
+      addDisplayAlias(
+        "note." + propertyName,
+        displayName
+      );
+    }
+  }
+}
 
 /*
  * ------------------------------------------------
@@ -1461,6 +1588,11 @@ function rewriteBaseYaml(
     return source;
   }
 
+  /*
+   * Make Obsidian's note.Property / Property display-name equivalence
+   * explicit for Digital Garden.
+   */
+  normalizePropertyDisplayNames(base);
 
   /*
    * Global filters.
