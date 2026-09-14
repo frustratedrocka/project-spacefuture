@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T05:20:31.600-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
+{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T05:55:43.379-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
 ---
 
 # Summary
@@ -49,23 +49,10 @@ views:
 { .block-language-dataview}
 
 ## Locations
-```base
-filters:
-  and:
-    - file.hasTag("location")
-    - formula.matchingSessions.length > 0
-formulas:
-  matchingSessions: file.backlinks.filter(value.asFile().hasTag("session") && value.asFile().properties.scenario == this.file.name && list(value.asFile().properties.Locations).contains(file))
-views:
-  - type: table
-    name: Locations
-    order:
-      - file.name
-      - Type
-      - Faction
-      - Control
-    cardSize: 160
-    image: note.MECH_Portrait
-    imageAspectRatio: 0.6
+| File Name                                        | Type                                    | Faction                                           | Control         | Presence                                                                                                                      |
+| ------------------------------------------------ | --------------------------------------- | ------------------------------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[Database/Places/Colonies/Mumbai\|Mumbai]]   | [[Database/Glossary/Colony\|Colony]] | [[Database/Factions/Rebels\|Rebels]]           | Contested       | <ul><li>[[Database/Factions/Republic Of Mars\|ROM]]</li></ul>                                                             |
+| [[Database/Places/Colonies/Theseus\|Theseus]] | [[Database/Glossary/Colony\|Colony]] | [[Database/Factions/Independent\|Independent]] | Under The Radar | <ul><li>[[Database/Factions/Republic Of Mars\|Republic Of Mars]]</li><li>[[Database/Factions/Apsis\|Apsis]]</li></ul> |
+| [[Database/Things/Fishbone\|Fishbone]]        | [[Ship\|Ship]]                          | [[Database/Factions/Rebels\|Rebels]]           | \-              | <ul><li>\-</li></ul>                                                                                                          |
 
-```
+{ .block-language-dataview}
