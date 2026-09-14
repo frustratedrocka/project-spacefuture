@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-05T07:35:02.476-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["Menodora Thaliana","Vergen Koni","August Grier","Lane Gable"],"Locations":null,"NPCs":null,"Mechs":null}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T21:15:24.981-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"Locations":null,"NPCs":null,"Mechs":null}}
 ---
 
 # Session 00A: Origins
