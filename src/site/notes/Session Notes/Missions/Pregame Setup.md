@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","Tracker"],"noteIcon":"","updated":"2026-09-13T21:53:55.723-04:00","dg-note-properties":{"tags":["index","Tracker"]}}
+{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T21:57:08.473-04:00","dg-note-properties":{"tags":["index","Tracker"]}}
 ---
 
+# Vitals
 ```base
 filters:
   and:
@@ -81,3 +82,25 @@ views:
     imageAspectRatio: 0.6
 
 ```
+```base
+filters:
+  and:
+    - file.hasTag("faction")
+    - formula.matchingSessions.length > 0
+formulas:
+  matchingSessions: file.backlinks.filter(value.asFile().hasTag("session") && value.asFile().properties.scenario == this.file.name && list(value.asFile().properties.Locations).contains(file))
+views:
+  - type: table
+    name: Locations
+    order:
+      - file.name
+      - Type
+      - Faction
+      - Control
+    cardSize: 160
+    image: note.MECH_Portrait
+    imageAspectRatio: 0.6
+
+```
+# Summary
+Initial 
