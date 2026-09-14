@@ -3,7 +3,7 @@
 ---
 
 # Next Session
-[[Pregame Setup\|Pregame Setup]] Part 2 - **Combat Sim (Tutorial)** - September 15 2026
+[[Admin/Templates/Pregame Setup\|Pregame Setup]] Part 2 - **Combat Sim (Tutorial)** - September 15 2026
 
 ```base
 filters:

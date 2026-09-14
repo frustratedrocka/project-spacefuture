@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/templates/pregame-setup/","tags":["index","Tracker"],"noteIcon":"","updated":"2026-09-13T21:31:49.240-04:00","dg-note-properties":{"tags":["index","Tracker"]}}
+{"dg-publish":true,"permalink":"/admin/templates/pregame-setup/","tags":["index","Tracker"],"noteIcon":"","updated":"2026-09-13T21:32:50.153-04:00","dg-note-properties":{"tags":["index","Tracker"]}}
 ---
 
 ```base
@@ -12,7 +12,7 @@ properties:
     displayName: Part
 views:
   - type: table
-    name: Table
+    name: Sessions
     order:
       - file.name
       - Scenario_Index
@@ -28,5 +28,13 @@ views:
 
 ```
 ```base
+filters:
+  and:
+    - file.hasTag("npc")
+views:
+  - type: cards
+    name: NPCs
+    cardSize: 100
+    image: note.Portrait
 
 ```

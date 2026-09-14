@@ -3,7 +3,7 @@
 ---
 
 # Session 00A: Origins
-09-01-2026 - [[Pregame Setup\|Pregame Setup]], Part 1
+09-01-2026 - [[Admin/Templates/Pregame Setup\|Pregame Setup]], Part 1
 ## Present
 [[Player Characters/August Grier\|August Grier]],[[Player Characters/Lane Gable\|Lane Gable]],[[Player Characters/Menodora Thaliana\|Menodora Thaliana]],[[Player Characters/Vergen Koni\|Vergen Koni]]
 # The Opening Crawl

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T21:14:03.982-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","Scenario":"Pregame Setup","Scenario_Index":2,"Attending":[[["Vergen Koni"]],[["August Grier"]],[["Lane Gable"]]],"NPCs":[null],"Locations":[[["Fishbone"]]],"Mechs":[[["Hyper Seeker CQC"]],[["Hoplite Custom"]],[["Elegant Sky"]],[["Akoni"]],[["Hoplite"]]]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T21:26:18.735-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","Scenario":"Pregame Setup","Scenario_Index":2,"Attending":["[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"NPCs":[null],"Locations":[[["Fishbone"]]],"Mechs":[[["Hyper Seeker CQC"]],[["Hoplite Custom"]],[["Elegant Sky"]],[["Akoni"]],[["Hoplite"]]]}}
 ---
 
 # Session 00B: Training Sim
-09-15-2026 - [[Pregame Setup\|Pregame Setup]], Part 2
+09-15-2026 - [[Admin/Templates/Pregame Setup\|Pregame Setup]], Part 2
 ## Present
 [[Player Characters/August Grier\|August Grier]],[[Player Characters/Lane Gable\|Lane Gable]],[[Player Characters/Vergen Koni\|Vergen Koni]]
 
