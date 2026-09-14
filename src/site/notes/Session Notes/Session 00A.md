@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T21:15:24.981-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"Locations":null,"NPCs":null,"Mechs":null}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T21:47:47.472-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Scenario":"Pregame Setup","Scenario_Index":1,"Attending":["[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Things/Fishbone]]"],"NPCs":["[[Database/People/The Pirate King]]","[[Database/People/The Man Upstairs]]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
 ---
 
 # Session 00A: Origins
-09-01-2026 - [[Admin/Templates/Pregame Setup\|Pregame Setup]], Part 1
+09-01-2026 - [[Session Notes/Missions/Pregame Setup\|Pregame Setup]], Part 1
 ## Present
 [[Player Characters/August Grier\|August Grier]],[[Player Characters/Lane Gable\|Lane Gable]],[[Player Characters/Menodora Thaliana\|Menodora Thaliana]],[[Player Characters/Vergen Koni\|Vergen Koni]]
 # The Opening Crawl

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-05T08:08:20.929-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T21:52:17.746-04:00","dg-note-properties":{}}
 ---
 
 # Next Session
-[[Admin/Templates/Pregame Setup\|Pregame Setup]] Part 2 - **Combat Sim (Tutorial)** - September 15 2026
+[[Session Notes/Missions/Pregame Setup\|Pregame Setup]] Part 2 - **Combat Sim (Tutorial)** - September 15 2026
 
 ```base
 filters:
@@ -53,6 +53,7 @@ For more, see the [[Faction Hub\|Faction Hub]], or click through the links to go
 # Links & Resources
 [Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)
 [Player Survey](https://forms.gle/7rJCA6hLio846xia7)
+[[Admin/Player/Lines & Veils\|Lines & Veils]] (Anonymized)
 ## Rules
 See the [[Rules Hub\|Rules Hub]] or use the file navigator to the left.
 
