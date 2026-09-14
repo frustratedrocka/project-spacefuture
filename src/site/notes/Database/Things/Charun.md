@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/charun/","tags":["location","lore"],"noteIcon":"","updated":"2026-09-13T14:53:41.301-04:00","dg-note-properties":{"tags":["location","lore"],"Type":"[[Locations Hub|Ferry]]","Faction":"Independent","Control":"Semi-Extraterritorial","Faction_Presence":["Jovian Consortium"],"Portrait":[["Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif"]]}}
+{"dg-publish":true,"permalink":"/database/things/charun/","tags":["location","lore"],"noteIcon":"","updated":"2026-09-14T04:07:26.452-04:00","dg-note-properties":{"tags":["location","lore"],"Type":"[[Locations Hub|Ferry]]","Faction":"[[Database/Factions/Independent]]","Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":[["Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif"]]}}
 ---
 
 
