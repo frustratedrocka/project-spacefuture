@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T04:36:17.387-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
+{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T05:16:53.780-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
 ---
 
 # Summary
@@ -27,6 +27,13 @@ views:
     rowHeight: medium
 
 ```
+>[!cards|dataview]
+>  | NPC                                       | Portrait                                            |
+> | ----------------------------------------- | --------------------------------------------------- |
+> | [[Database/People/The XO\|The XO]]     | ![Admin/Attachments/Saul_Tigh.jpg\|Saul_Tigh.jpg](/img/user/Admin/Attachments/Saul_Tigh.jpg) |
+> | [[Database/Things/Fishbone\|Fishbone]] | ![Admin/Attachments/PCShip.webp\|PCShip.webp](/img/user/Admin/Attachments/PCShip.webp)     |
+> 
+{ .block-language-dataview}
 ```base
 filters:
   and:
