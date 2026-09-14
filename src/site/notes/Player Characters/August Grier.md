@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["PC","character"],"noteIcon":"","updated":"2026-09-13T22:21:33.959-04:00","dg-note-properties":{"tags":["PC","character"],"Player":"Mike","SESH_Start":"Session 01","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"Admin/Attachments/Auggie_SQ.png","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Mars]]","Assoc":["[[Database/Places/Colonies/Theseus]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"MECH_Name":"Hoplite Custom","MECH_Model":["[[Database/Mobile Suits/Hoplite Custom]]"],"MECH_Portrait":"Admin/Attachments/HopliteCustom_SQ.png","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Relationship":"My Coffin","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Boldly",[null]],"skill_2":["Shoot","Move",[null],[null]],"approach_2":["Carefully","Quickly"],"skill_1":["Fight","Operate","Tend",[null]],"approach_1":["Cleverly","Forcefully","Subtly"],"aliases":["Auggie"]}}
+{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["PC","character"],"noteIcon":"","updated":"2026-09-13T22:38:20.137-04:00","dg-note-properties":{"tags":["PC","character"],"Player":"Mike","SESH_Start":"Session 01","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"Admin/Attachments/Auggie_SQ.png","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Mars]]","Assoc":["[[Database/Places/Colonies/Theseus]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"MECH_Name":"Hoplite Custom","MECH_Model":["[[Database/Mobile Suits/Hoplite Custom]]"],"MECH_Portrait":"Admin/Attachments/HopliteCustom_SQ.png","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Relationship":"My Coffin","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Boldly",[null]],"skill_2":["Shoot","Move",[null],[null]],"approach_2":["Carefully","Quickly"],"skill_1":["Fight","Operate","Tend",[null]],"approach_1":["Cleverly","Forcefully","Subtly"],"aliases":["Auggie"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -106,17 +106,20 @@ Shot down during combat against Rebel forces. Captured, then turned to the resis
 [[Player Characters/Menodora Thaliana\|Menodora Thaliana]] was interested in joining the rebellion, and heard August was someone who may have an in. She cannot take no for an answer.
 
 # Sessions
+
 ```base
 filters:
   and:
     - file.hasTag("session")
-    - Attending.contains("August Grier")
     - '!file.inFolder("Admin/Templates")'
+    - or:
+        - Attending.containsAny(link(this.file.name))
+        - NPCs.containsAny(link(this.file.name))
+        - Location.containsAny(link(this.file.name))
+        - Mechs.containsAny(link(this.file.name), this.aliases)
 properties:
   file.name:
     displayName: Session
-  note.SeshDate:
-    displayName: Session Date
   note.SESH_Name:
     displayName: Name
   note.SESH_Date:
@@ -125,28 +128,17 @@ properties:
     displayName: Part
 views:
   - type: table
-    name: Sessions Present
+    name: Appearances
     order:
       - file.name
-      - SESH_Name
       - Scenario
       - Scenario_Index
+      - SESH_Name
       - SESH_Date
     sort:
-      - property: Mission
-        direction: ASC
       - property: file.name
         direction: ASC
-      - property: SESH_Date
+      - property: Scenario_Index
         direction: ASC
-      - property: SeshDate
-        direction: ASC
-    image: Portrait
-    imageAspectRatio: 0.65
-    cardSize: 160
-    indentProperties: false
-    imageFit: cover
-    markers: bullet
-    separator: ""
 
 ```

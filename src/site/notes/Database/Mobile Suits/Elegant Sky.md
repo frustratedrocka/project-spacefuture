@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/elegant-sky/","tags":["Mech"],"noteIcon":"","updated":"2026-09-13T21:19:36.576-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Elegant Sky","MECH_Model":"Elegant Sky","MECH_Portrait":"Admin/Attachments/DagDoll_SQ.webp","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Known_Users":[[["Lane Gable"]]],"Faction":[[["Rebels"]],[["Armada Ejecta"]]],"Variants":[null]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/elegant-sky/","tags":["Mech"],"noteIcon":"","updated":"2026-09-13T22:47:19.962-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Elegant Sky","MECH_Model":"[[Database/Mobile Suits/Elegant Sky]]","MECH_Portrait":"Admin/Attachments/DagDoll_SQ.webp","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Known_Users":[[["Lane Gable"]]],"Faction":[[["Rebels"]],[["Armada Ejecta"]]],"Variants":[null]}}
 ---
 
 
@@ -46,9 +46,9 @@ filters:
     - file.hasTag("session")
     - '!file.inFolder("Admin/Templates")'
     - or:
-        - Attending.contains(link(this.file.name))
-        - NPCs.contains(link(this.file.name))
-        - Location.contains(link(this.file.name))
+        - Attending.containsAny(link(this.file.name))
+        - NPCs.containsAny(link(this.file.name))
+        - Location.containsAny(link(this.file.name))
         - Mechs.containsAny(link(this.file.name), this.aliases)
 properties:
   file.name:

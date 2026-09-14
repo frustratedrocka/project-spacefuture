@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/se-832-e-akoni-command-type/","tags":["Mech"],"noteIcon":"","updated":"2026-09-04T10:28:10.298-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":null,"MECH_Model":"SE-832-E Akoni","MECH_Portrait":"Admin/Attachments/Akoni-E_SQ.png","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Concept":"Apsis's First Line Of Offense, Enhanced","MECH_Trouble":"Designed To Punch Down","MECH_Relationship":null,"MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mobile suits.","`REDACTED`"],"Faction":["Apsis"],"Variants":null,"Base":["SE-832 Akoni"],"Known_Users":["Vantrin Almeyer"],"aliases":["Akoni-E"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/se-832-e-akoni-command-type/","tags":["Mech"],"noteIcon":"","updated":"2026-09-13T22:40:55.223-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":null,"MECH_Model":"SE-832-E Akoni","MECH_Portrait":"Admin/Attachments/Akoni-E_SQ.png","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Concept":"Apsis's First Line Of Offense, Enhanced","MECH_Trouble":"Designed To Punch Down","MECH_Relationship":null,"MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mobile suits.","`REDACTED`"],"Faction":["[[Database/Factions/Apsis]]"],"Assoc":["[[Database/Things/Brynhildr]]"],"Variants":null,"Base":["[[Database/Mobile Suits/SE-832 Akoni]]"],"Known_Users":["[[Database/People/Vantrin Almeyer]]"],"aliases":["Akoni-E"]}}
 ---
 
 
@@ -48,9 +48,9 @@ filters:
     - file.hasTag("session")
     - '!file.inFolder("Admin/Templates")'
     - or:
-        - Attending.contains(link(this.file.name))
-        - NPCs.contains(link(this.file.name))
-        - Location.contains(link(this.file.name))
+        - Attending.containsAny(link(this.file.name))
+        - NPCs.containsAny(link(this.file.name))
+        - Location.containsAny(link(this.file.name))
         - Mechs.containsAny(link(this.file.name), this.aliases)
 properties:
   file.name:

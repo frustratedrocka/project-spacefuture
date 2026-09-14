@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["Mech"],"noteIcon":"","updated":"2026-09-05T05:40:08.170-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Kerbstomp","MECH_Model":"BSB-001 Kerbstomp","MECH_Portrait":"Admin/Attachments/Theseus_SQ.webp","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Once per combat, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage."],"Known_Users":["Menodora Thaliana"],"Faction":["Rebels","Mindful Eyes"],"Variants":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["Mech"],"noteIcon":"","updated":"2026-09-13T22:49:31.605-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Kerbstomp","MECH_Model":"[[BSB-001 Kerbstomp]]","MECH_Portrait":"Admin/Attachments/Theseus_SQ.webp","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Once per combat, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage."],"Known_Users":["[[Player Characters/Menodora Thaliana]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Variants":null}}
 ---
 
 
@@ -46,9 +46,9 @@ filters:
     - file.hasTag("session")
     - '!file.inFolder("Admin/Templates")'
     - or:
-        - Attending.contains(link(this.file.name))
-        - NPCs.contains(link(this.file.name))
-        - Location.contains(link(this.file.name))
+        - Attending.containsAny(link(this.file.name))
+        - NPCs.containsAny(link(this.file.name))
+        - Location.containsAny(link(this.file.name))
         - Mechs.containsAny(link(this.file.name), this.aliases)
 properties:
   file.name:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/hoplite-custom/","tags":["Mech"],"noteIcon":"","updated":"2026-09-04T10:57:07.744-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Custom","MECH_Model":["UT-F-08 Hoplite"],"MECH_Portrait":"Admin/Attachments/HopliteCustom_SQ.png","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Known_Users":["August Grier"],"Faction":["Rebels"],"Variants":["UT-F-08 Hoplite"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/hoplite-custom/","tags":["Mech"],"noteIcon":"","updated":"2026-09-13T22:48:39.516-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Custom","MECH_Model":["[[Database/Mobile Suits/Hoplite Custom]]"],"MECH_Portrait":"Admin/Attachments/HopliteCustom_SQ.png","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Known_Users":["[[Player Characters/August Grier]]"],"Faction":["[[Database/Factions/Rebels]]"],"Variants":null,"Base":["[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
 ---
 
 
@@ -12,7 +12,7 @@
 > |**FACTION**| [[Database/Factions/Rebels\|Rebels]]|
 > |**KNOWN PILOTS**|[[Player Characters/August Grier\|August Grier]]|
 > |**ARMOR**|`REDACTED`|
-> |**VARIANTS**|[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]
+> |**BASE**|[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]
 > 
 > 
 
@@ -46,9 +46,9 @@ filters:
     - file.hasTag("session")
     - '!file.inFolder("Admin/Templates")'
     - or:
-        - Attending.contains(link(this.file.name))
-        - NPCs.contains(link(this.file.name))
-        - Location.contains(link(this.file.name))
+        - Attending.containsAny(link(this.file.name))
+        - NPCs.containsAny(link(this.file.name))
+        - Location.containsAny(link(this.file.name))
         - Mechs.containsAny(link(this.file.name), this.aliases)
 properties:
   file.name:

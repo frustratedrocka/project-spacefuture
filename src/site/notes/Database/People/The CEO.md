@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-13T14:43:27.211-04:00","dg-note-properties":{"tags":["npc","character"],"NPC_Name":"The CEO","Portrait":"Admin/Attachments/GenericFeddie_SQ.png","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.png]]","Faction":"Jovian Consortium","Origin":"Jupiter","Assoc":[null],"Rank":0,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[[null]],"Stunts":[[null]],"skill_5":[null],"approach_5":[[null]],"skill_4":["Acquire"],"approach_4":["Sway"],"skill_3":["Know"],"approach_3":["Boldly","Cleverly"],"skill_2":["Skill","Skill"],"approach_2":["Subtly","Approach"],"skill_1":["Tinker","Skill","Skill"],"approach_1":["Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-13T22:45:48.026-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"Admin/Attachments/GenericFeddie_SQ.png","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.png]]","Faction":"[[Database/Factions/Jovian Consortium]]","Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":[null],"Rank":0,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[[null]],"Stunts":[[null]],"skill_5":[null],"approach_5":[[null]],"skill_4":["Acquire"],"approach_4":["Sway"],"skill_3":["Know"],"approach_3":["Boldly","Cleverly"],"skill_2":["Skill","Skill"],"approach_2":["Subtly","Approach"],"skill_1":["Tinker","Skill","Skill"],"approach_1":["Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -43,9 +43,9 @@ filters:
     - file.hasTag("session")
     - '!file.inFolder("Admin/Templates")'
     - or:
-        - Attending.contains(link(this.file.name))
-        - NPCs.contains(link(this.file.name))
-        - Location.contains(link(this.file.name))
+        - Attending.containsAny(link(this.file.name))
+        - NPCs.containsAny(link(this.file.name))
+        - Location.containsAny(link(this.file.name))
         - Mechs.containsAny(link(this.file.name), this.aliases)
 properties:
   file.name:
