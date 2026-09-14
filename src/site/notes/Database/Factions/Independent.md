@@ -43,7 +43,7 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction == link(this.file.name)
+        - Faction.contains(link(this.file.name))
         - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
@@ -58,6 +58,9 @@ views:
       - Faction
       - Control
       - Faction_Presence
+    sort:
+      - property: Control
+        direction: ASC
 
 ```
 

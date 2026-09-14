@@ -51,10 +51,10 @@ views:
 { .block-language-dataview}
 
 ## Locations
-| File Name                                        | Type                                    | Faction                                                    | Control               | Presence                                                                                                                      |
-| ------------------------------------------------ | --------------------------------------- | ---------------------------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [[Database/Places/Colonies/Mumbai\|Mumbai]]   | [[Database/Glossary/Colony\|Colony]] | [[Database/Factions/Rebels\|Rebels]]                    | Contested             | <ul><li>[[Database/Factions/Republic Of Mars\|ROM]]</li></ul>                                                             |
-| [[Database/Places/Colonies/Theseus\|Theseus]] | [[Database/Glossary/Colony\|Colony]] | [[Database/Factions/Independent\|Independent]]          | Under The Radar       | <ul><li>[[Database/Factions/Republic Of Mars\|Republic Of Mars]]</li><li>[[Database/Factions/Apsis\|Apsis]]</li></ul> |
-| [[Database/Things/Fishbone\|Fishbone]]        | [[Ship\|Ship]]                          | <ul><li>[[Database/Factions/Rebels\|Rebels]]</li></ul> | Closest Thing To Home | <ul><li>\-</li></ul>                                                                                                          |
+| File Name                                        | Type                                    | Faction                                                              | Control               | Presence                                                                                                                      |
+| ------------------------------------------------ | --------------------------------------- | -------------------------------------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[Database/Places/Colonies/Mumbai\|Mumbai]]   | [[Database/Glossary/Colony\|Colony]] | <ul><li>[[Database/Factions/Rebels\|Rebels]]</li></ul>           | Contested             | <ul><li>[[Database/Factions/Republic Of Mars\|ROM]]</li></ul>                                                             |
+| [[Database/Places/Colonies/Theseus\|Theseus]] | [[Database/Glossary/Colony\|Colony]] | <ul><li>[[Database/Factions/Independent\|Independent]]</li></ul> | Under The Radar       | <ul><li>[[Database/Factions/Republic Of Mars\|Republic Of Mars]]</li><li>[[Database/Factions/Apsis\|Apsis]]</li></ul> |
+| [[Database/Things/Fishbone\|Fishbone]]        | [[Ship\|Ship]]                          | <ul><li>[[Database/Factions/Rebels\|Rebels]]</li></ul>           | Closest Thing To Home | <ul><li>\-</li></ul>                                                                                                          |
 
 { .block-language-dataview}

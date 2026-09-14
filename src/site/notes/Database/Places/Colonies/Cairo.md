@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/cairo/","tags":["location"],"noteIcon":"","updated":"2026-09-13T23:04:32.224-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":"[[Database/Factions/Rebels]]","Control":"Contested","Faction_Presence":["[[Database/Factions/Armada Ejecta]]"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/colonies/cairo/","tags":["location"],"noteIcon":"","updated":"2026-09-14T07:27:09.858-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Armada Ejecta]]"],"Portrait":null}}
 ---
 
 
