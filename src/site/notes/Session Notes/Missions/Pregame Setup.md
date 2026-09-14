@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T05:16:53.780-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
+{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T05:20:31.600-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
 ---
 
 # Summary
@@ -27,43 +27,28 @@ views:
     rowHeight: medium
 
 ```
->[!cards|dataview]
->  | NPC                                       | Portrait                                            |
-> | ----------------------------------------- | --------------------------------------------------- |
-> | [[Database/People/The XO\|The XO]]     | ![Admin/Attachments/Saul_Tigh.jpg\|Saul_Tigh.jpg](/img/user/Admin/Attachments/Saul_Tigh.jpg) |
-> | [[Database/Things/Fishbone\|Fishbone]] | ![Admin/Attachments/PCShip.webp\|PCShip.webp](/img/user/Admin/Attachments/PCShip.webp)     |
+## NPCs
+> [!cards|dataview 4]
+>  | Portrait                                            | NPC                                       |
+> | --------------------------------------------------- | ----------------------------------------- |
+> | ![Admin/Attachments/Saul_Tigh.jpg\|Saul_Tigh.jpg](/img/user/Admin/Attachments/Saul_Tigh.jpg) | [[Database/People/The XO\|The XO]]     |
+> | ![Admin/Attachments/PCShip.webp\|PCShip.webp](/img/user/Admin/Attachments/PCShip.webp)     | [[Database/Things/Fishbone\|Fishbone]] |
 > 
 { .block-language-dataview}
-```base
-filters:
-  and:
-    - file.hasTag("npc")
-    - formula.matchingSessions.length > 0
-formulas:
-  matchingSessions: file.backlinks.filter(value.asFile().hasTag("session") && value.asFile().properties.scenario == this.file.name && list(value.asFile().properties.npcs).contains(file))
-views:
-  - type: cards
-    name: NPCs
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.6
+## Mobile Suits
+> [!cards|dataview 4]
+>  | Portrait                                                                | Mobile Suit                                                     |
+> | ----------------------------------------------------------------------- | --------------------------------------------------------------- |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]           |
+> | ![Admin/Attachments/HopliteCustom_SQ.png\|HopliteCustom_SQ.png](/img/user/Admin/Attachments/HopliteCustom_SQ.png)       | [[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]     |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | [[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]] |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                 | [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]               |
+> | ![Admin/Attachments/Akoni_SQ.png\|Akoni_SQ.png](/img/user/Admin/Attachments/Akoni_SQ.png)                       | [[Database/Mobile Suits/SE-832 Akoni\|Akoni]]                |
+> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png)                   | [[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]   |
+> 
+{ .block-language-dataview}
 
-```
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - formula.matchingSessions.length > 0
-formulas:
-  matchingSessions: file.backlinks.filter(value.asFile().hasTag("session") && value.asFile().properties.scenario == this.file.name && list(value.asFile().properties.Mechs).contains(file))
-views:
-  - type: cards
-    name: Mobile Suits
-    cardSize: 160
-    image: note.MECH_Portrait
-    imageAspectRatio: 0.6
-
-```
+## Locations
 ```base
 filters:
   and:
