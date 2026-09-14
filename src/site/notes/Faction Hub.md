@@ -81,7 +81,7 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(link(this.file.name))
+        - Faction == link(this.file.name)
         - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
@@ -185,7 +185,7 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(link(this.file.name))
+        - Faction == link(this.file.name)
         - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
@@ -291,7 +291,7 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(link(this.file.name))
+        - Faction == link(this.file.name)
         - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
@@ -405,7 +405,7 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(link(this.file.name))
+        - Faction == link(this.file.name)
         - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
@@ -503,7 +503,7 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(link(this.file.name))
+        - Faction == link(this.file.name)
         - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
@@ -809,7 +809,7 @@ filters:
   and:
     - file.hasTag("location")
     - or:
-        - Faction.contains(link(this.file.name))
+        - Faction == link(this.file.name)
         - Faction_Presence.contains(link(this.file.name))
     - '!file.inFolder("Admin/Templates")'
 properties:
