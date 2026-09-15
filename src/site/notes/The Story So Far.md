@@ -12,17 +12,9 @@
 A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
 
 ### Impact
-```base
-filters:
-  and:
-    - Scenario == this.file.name
-    - "!Impact.isEmpty()"
-views:
-  - type: list
-    name: Impact
-    order:
-      - Impact
-```
+- This is a test, you should be able to read this
+
+{ .block-language-dataview}
 
 
 </div></div>

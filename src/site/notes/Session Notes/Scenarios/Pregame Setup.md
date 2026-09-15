@@ -1,22 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T18:09:30.294-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T18:42:21.855-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
 ---
 
 ## Summary
 A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
 
 ### Impact
-```base
-filters:
-  and:
-    - Scenario == this.file.name
-    - "!Impact.isEmpty()"
-views:
-  - type: list
-    name: Impact
-    order:
-      - Impact
-```
+- This is a test, you should be able to read this
+
+{ .block-language-dataview}
 
 ## Sessions
 ```base
