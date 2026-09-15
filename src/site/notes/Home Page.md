@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T09:15:50.310-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T09:31:10.743-04:00","dg-note-properties":{}}
 ---
 
 # Next Session
@@ -30,6 +30,16 @@ views:
 
 ```
 
+# Campaign Aspects
+## Current Issues
+- "What Will You Compromise For A Righteous Cause?"
+- "Finally, Barely, Enough To Go Around"
+- "Disparate & Unstable Rebel Coalition"
+## Impending Issues
+- "Old Conflicts Dormant, Not Dead"
+- "Lurking Shadow Of The [[Database/Factions/Hive Cult\|Hive Cult]]"
+- "Who Gets To Write The Future?"
+
 # Fiction Primer
 It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]], and...
 
@@ -46,16 +56,6 @@ The [[Database/Factions/Rebels\|Rebels]] are a motley assortment of defectors, p
 The question is not whether you should be fighting. The question is what you're willing to let the war cost, and how much you'll compromise to keep up the good fight. Not everyone with you or backing you is doing it for what you see as the right reasons, and staying afloat will require finding ways to navigate that. 
 
 Remember: hang together, or hang separately.
-
-# Campaign Aspects
-## Current Issues
-- "What Will You Compromise For A Righteous Cause?"
-- "Finally, Barely, Enough To Go Around"
-- "Disparate & Unstable Rebel Coalition"
-## Impending Issues
-- "Old Conflicts Dormant, Not Dead"
-- "Lurking Shadow Of The [[Database/Factions/Hive Cult\|Hive Cult]]"
-- "Who Gets To Write The Future?"
 
 # Links & Resources
 [Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)
