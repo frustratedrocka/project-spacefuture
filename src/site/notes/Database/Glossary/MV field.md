@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/database/glossary/mv-field/","tags":["lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-15T12:39:36.326-04:00","dg-note-properties":{"tags":["lore"]}}
+---
+
+MV Field = "why don't [[Database/Glossary/Ship\|warships]] just blast the hell out of each other with missiles and beams and cannons from miles away?" Basically, MV fields make long range targeting unreliable enough not to be worth investing in. That invention has defined most of the [[Database/History/Emergent Century\|Emergent Century]]'s naval combat doctrine even before mobile suits entered the picture - close engagements dominated by strike craft and, later, [[Database/Glossary/Mobile Suit\|MSs]] that can maneuver to target enemy weak points, while the ships focus on point defense and evasive maneuvers.

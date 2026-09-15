@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T09:50:39.220-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","Scenario":"[[Session Notes/Missions/Pregame Setup]]","Scenario_Index":2,"Logline":"Second Wing hits the combat sim during downtime between operations.","Attending":["[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"NPCs":["[[Database/People/The XO]]","[[Database/Things/Fishbone]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T11:46:22.725-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":2,"Logline":"Second Wing hits the combat sim during downtime between operations.","Attending":["[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"NPCs":["[[Database/People/The XO]]","[[Database/Things/Fishbone]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
 ---
 
 # Session 00B: Training Sim
-09-15-2026 - [[Session Notes/Missions/Pregame Setup\|Pregame Setup]], Part 2
+09-15-2026 - [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]], Part 2
 ## Present
 [[Player Characters/August Grier\|August Grier]],[[Player Characters/Lane Gable\|Lane Gable]],[[Player Characters/Vergen Koni\|Vergen Koni]]
 

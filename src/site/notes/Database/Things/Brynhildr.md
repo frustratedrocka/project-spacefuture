@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/brynhildr/","tags":["npc","ship","weird"],"noteIcon":"","updated":"2026-09-14T07:24:45.137-04:00","dg-note-properties":{"tags":["npc","ship","weird"],"Portrait":"Admin/Attachments/Brynhildr.webp","Faction":["[[Database/Factions/Apsis]]"],"Class":"Valkyrie-class cruiser","Scale":5,"Rank":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Apsis pursuit cruiser","Aspects":["Scourge of the deep belt","One battle, one Brynhildr",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Name":null,"MECH_Model":null,"MECH_Portrait":"Admin/Attachments/GM-II-AEUG_SQ.png","Armor":8,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High Concept","MECH_Trouble":"Trouble","MECH_Relationship":"Relationship","MECH_Gear":[null,null],"MECH_Stunts":["**STUNT** Description","**STUNT** Description"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill",[null]],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/things/brynhildr/","tags":["npc","location","ship","weird"],"noteIcon":"","updated":"2026-09-15T12:37:50.136-04:00","dg-note-properties":{"tags":["npc","location","ship","weird"],"Portrait":"Admin/Attachments/Brynhildr.webp","Faction":["[[Database/Factions/Apsis]]"],"Type":["[[Database/Glossary/Ship]]"],"Class":"[[Database/Glossary/Ship|Valkyrie-class cruiser]]","Scale":5,"Rank":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Apsis pursuit cruiser","Aspects":["Scourge of the deep belt","One battle, one Brynhildr",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Name":null,"MECH_Model":null,"MECH_Portrait":"Admin/Attachments/GM-II-AEUG_SQ.png","Armor":8,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High Concept","MECH_Trouble":"Trouble","MECH_Relationship":"Relationship","MECH_Gear":[null,null],"MECH_Stunts":["**STUNT** Description","**STUNT** Description"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill",[null]],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -9,8 +9,7 @@
 > |  |  |
 > |--|--|
 > |**FACTION**| [[Database/Factions/Apsis\|Apsis]]|
-> |**CLASS**|Valkyrie-class cruiser|
-> |**SCALE**|5|
+> |**CLASS**|[[Database/Glossary/Ship\|Valkyrie-class cruiser]]|
 > |**ARMOR**|`REDACTED`|
 > 
 > |HARM|BREAKDOWN|

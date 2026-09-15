@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-05T08:21:54.121-04:00","dg-note-properties":{"tags":["index","lore"]}}
+{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-15T12:34:47.609-04:00","dg-note-properties":{"tags":["index","lore"]}}
 ---
 
 > [!infobox|ws-med]
@@ -54,8 +54,8 @@ filters:
   and:
     - file.tags.contains("location")
     - or:
-      - Type == this.file.name
-      - Type.contains("Colony")
+      - Type == link(this.file.name)
+      - Type.contains(link(this.file.name))
 properties:
   note.file.name:
     displayName: Location
