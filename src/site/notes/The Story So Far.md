@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-story-so-far/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T15:53:31.318-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/the-story-so-far/","tags":["index","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T17:01:00.788-04:00","dg-note-properties":{"tags":["index","tracker"]}}
 ---
 
 # Mission 0: Pregame Setup
@@ -8,7 +8,7 @@
 
 
 
-# Summary
+## Summary
 A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
 
 
@@ -53,35 +53,6 @@ views:
 ### Impact
 
 
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - Scenario == link(this.file.name)
-properties:
-  note.Scenario_Index:
-    displayName: Part
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-views:
-  - type: table
-    name: Sessions
-    order:
-      - file.name
-      - SESH_Name
-      - Attending
-      - Logline
-    sort:
-      - property: Scenario_Index
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 85
-      note.Attending: 256
-    rowHeight: medium
-
-```
 
 </div></div>
 
