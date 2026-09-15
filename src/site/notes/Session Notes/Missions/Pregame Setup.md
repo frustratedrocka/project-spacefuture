@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T05:57:48.450-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
+{"dg-publish":true,"permalink":"/session-notes/missions/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T09:49:45.845-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
 ---
 
 # Summary
@@ -13,6 +13,10 @@ filters:
 properties:
   note.Scenario_Index:
     displayName: Part
+  file.name:
+    displayName: Session
+  note.SESH_Name:
+    displayName: Name
 views:
   - type: table
     name: Sessions
@@ -20,6 +24,7 @@ views:
       - file.name
       - SESH_Name
       - Attending
+      - Logline
     sort:
       - property: Scenario_Index
         direction: ASC
