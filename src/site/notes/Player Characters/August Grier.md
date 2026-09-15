@@ -115,7 +115,7 @@ filters:
     - or:
         - Attending.containsAny(link(this.file.name))
         - NPCs.containsAny(link(this.file.name))
-        - Location.containsAny(link(this.file.name))
+        - Locations.contains(link(this.file.name))
         - Mechs.containsAny(link(this.file.name), this.aliases)
 properties:
   file.name:
