@@ -44,7 +44,7 @@ filters:
     - Scenario == this.file.name
     - "!Impact.isEmpty()"
 formulas:
-  Impact: Impact.join("; ")
+  Impact: Impact.join("<br>")
 views:
   - type: list
     name: Impact
