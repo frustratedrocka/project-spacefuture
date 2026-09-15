@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["ship","character","npc","weird","location"],"noteIcon":"","updated":"2026-09-15T12:39:09.084-04:00","dg-note-properties":{"tags":["ship","character","npc","weird","location"],"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Closest Thing To Home","Faction_Presence":[null],"Rank":5,"Strain":8,"Consequences":["","","",""],"Concept":"Rebel Destroyer, Courtesy Of ???","Relationship":"Relationship","Aspects":["Improved Point Defenses",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["ship","character","npc","weird","location"],"noteIcon":"","updated":"2026-09-15T15:30:43.738-04:00","dg-note-properties":{"tags":["ship","character","npc","weird","location"],"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Closest Thing To Home","Faction_Presence":[null],"Rank":5,"Strain":8,"Consequences":["","","",""],"Concept":"Rebel Destroyer, Courtesy Of ???","Relationship":"Relationship","Aspects":["Improved Point Defenses",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -92,5 +92,23 @@ views:
         direction: ASC
       - property: Scenario_Index
         direction: ASC
+
+```
+
+
+```base
+filters:
+  and:
+    - Impact.join("\n").contains(this.file.name + "]]")
+    - '!file.inFolder("Admin/Templates")'
+formulas:
+  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
+views:
+  - type: table
+    name: Events
+    order:
+      - file.name
+      - formula.Impact
+    rowHeight: medium
 
 ```
