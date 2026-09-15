@@ -1,6 +1,7 @@
 {
   "/": [
     "Home Page",
+    "The Story So Far",
     "Faction Hub",
     "Locations Hub",
     "Rules Hub",
@@ -10,11 +11,11 @@
     "Database",
     "Player Characters",
     "Rules",
-    "Session Notes",
-    "ED_Map"
+    "Session Notes"
   ],
   "/Admin": [
-    "Player Intake Form"
+    "Player Intake Form",
+    "Lines & Veils"
   ],
   "/Database": [
     "Factions",
@@ -39,7 +40,9 @@
     "Ark Stations",
     "Colony",
     "Mobile Suit",
-    "The Belt"
+    "The Belt",
+    "MV field",
+    "Ship"
   ],
   "/Database/History": [
     "Emergent Century",
@@ -63,7 +66,8 @@
     "The Mother And The Father",
     "The Pirate King",
     "The Queen",
-    "Vantrin Almeyer"
+    "Vantrin Almeyer",
+    "The XO"
   ],
   "/Database/Places": [
     "Colonies",
@@ -72,11 +76,11 @@
     "Mars"
   ],
   "/Database/Places/Colonies": [
-    "Brisbane",
-    "Cairo",
     "Ceres",
-    "Mumbai",
-    "Theseus"
+    "Theseus",
+    "Arjuna",
+    "Geb",
+    "Kelly"
   ],
   "/Database/Places/Jupiter Sphere": [
     "Jupiter"
@@ -119,9 +123,11 @@
     "Fate Core (UNEDITED SRD)"
   ],
   "/Session Notes": [
-    "Session"
+    "Scenarios",
+    "Session 00A",
+    "Session 00B"
   ],
-  "/Session Notes/Session": [
-    "Session 00A"
+  "/Session Notes/Scenarios": [
+    "Pregame Setup"
   ]
 }
