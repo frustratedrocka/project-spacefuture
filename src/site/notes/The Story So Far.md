@@ -16,16 +16,16 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 filters:
   and:
     - Scenario == this.file.name
+    - "!Impact.isEmpty()"
 views:
   - type: list
-    name: Table
+    name: Impact
     order:
       - Impact
 
 ```
-- If you can read this, [[Database/People/The Man Upstairs\|The Man Upstairs]] will come burn your colony down.
 
-{ .block-language-dataview}
+
 
 ```base
 filters:
@@ -53,6 +53,8 @@ views:
     rowHeight: medium
 
 ```
+
+
 
 </div></div>
 
