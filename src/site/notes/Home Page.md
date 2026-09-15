@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T18:47:39.770-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 00B]]"}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T18:56:52.861-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 00B]]"}}
 ---
 
 # Next Session
@@ -63,10 +63,12 @@ The question is not whether you should be fighting. The question is what you're 
 Remember: hang together, or hang separately.
 
 # Links & Resources
-[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)
-[Player Survey](https://forms.gle/7rJCA6hLio846xia7)
-[[Admin/Lines & Veils\|Lines & Veils]] (Anonymized)
-[[Faction Hub\|Faction Hub]] (Faction master page including associated NPCs, mobile suits, and locations)
+> [!cards|3]
+>[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)
+> 
+>[[Faction Hub\|Faction Hub]]
+>
+> [[Admin/Lines & Veils\|Lines & Veils]]
 ## Rules
 See the [[Rules Hub\|Rules Hub]] or use the file navigator to the left.
 
