@@ -30,22 +30,8 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 
 ### Impact
-```base
-filters:
-  and:
-    - Scenario == this.file.name
-    - "!Impact.isEmpty()"
-formulas:
-  Impact: Impact.join("<br>")
-views:
-  - type: list
-    name: Impact
-    order:
-      - formula.Impact
-    indentProperties: false
-    markers: none
 
-```
+{ .block-language-dataview}
 
 
 </div></div>

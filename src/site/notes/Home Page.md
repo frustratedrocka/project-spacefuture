@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T18:09:08.124-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 00B]]"}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T18:47:39.770-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 00B]]"}}
 ---
 
 # Next Session
@@ -12,7 +12,9 @@ Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Thing
 Hitting the combat sim to get some training and practice in as you await orders from [[Rebel Command\|Rebel Command]] and try to stay ahead of the pursuing [[Database/Things/Brynhildr\|Brynhildr]].
 
 # Previously On Zero Sum
-![[Session Notes/Scenarios/Pregame Setup#Impact\|Pregame Setup.md#Impact]]
+- This is a test, you should be able to read this
+
+{ .block-language-dataview}
 
 ```base
 filters:
