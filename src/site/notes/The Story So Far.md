@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-story-so-far/","tags":["index","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T17:01:00.788-04:00","dg-note-properties":{"tags":["index","tracker"]}}
+{"dg-publish":true,"permalink":"/the-story-so-far/","tags":["index","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T17:38:46.194-04:00","dg-note-properties":{"tags":["index","tracker"]}}
 ---
 
 # Mission 0: Pregame Setup
@@ -11,17 +11,19 @@
 ## Summary
 A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
 
+### Impact
+- If you can read this, [[Database/People/The Man Upstairs\|The Man Upstairs]] will come burn your colony down.
 
-
-
-</div></div>
+{ .block-language-dataview}
 
 ```base
 filters:
   and:
     - file.hasTag("session")
-    - Scenario == link("Pregame Setup")
+    - Scenario == link(this.file.name)
 properties:
+  note.Scenario_Index:
+    displayName: Part
   file.name:
     displayName: Session
   note.SESH_Name:
@@ -41,6 +43,9 @@ views:
 
 ```
 
+</div></div>
+
+
 # Mission 1
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -53,22 +58,21 @@ views:
 ### Impact
 
 
-
-</div></div>
-
 ```base
 filters:
   and:
     - file.hasTag("session")
-    - Scenario == link("[[Mission 01]]")
+    - Scenario == link(this.file.name)
 properties:
+  note.Scenario_Index:
+    displayName: Part
   file.name:
     displayName: Session
   note.SESH_Name:
     displayName: Name
 views:
   - type: table
-    name: Table
+    name: Sessions
     order:
       - file.name
       - SESH_Name
@@ -78,4 +82,8 @@ views:
         direction: ASC
     columnSize: {}
     rowHeight: medium
+
 ```
+
+</div></div>
+

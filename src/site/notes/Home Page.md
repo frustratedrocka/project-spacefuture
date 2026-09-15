@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T11:18:08.860-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T17:33:45.711-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 00B]]"}}
 ---
 
 # Next Session
-[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] Part 2 - **Combat Sim (Tutorial)** - September 15 2026
+**[[Session Notes/Session 00B\|Session 00B]]** - [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] Part 2 - 2026-09-15T00:00:00.000-04:00
 
 ## Where Are You
 Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], serving as Second Wing. 
@@ -11,7 +11,8 @@ Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Thing
 ## What Are You Doing
 Hitting the combat sim to get some training and practice in as you await orders from [[Rebel Command\|Rebel Command]] and try to stay ahead of the pursuing [[Database/Things/Brynhildr\|Brynhildr]].
 
-
+# Previously On Zero Sum
+![[Session Notes/Scenarios/Pregame Setup#Impact\|Pregame Setup.md#Impact]]
 
 ```base
 filters:
