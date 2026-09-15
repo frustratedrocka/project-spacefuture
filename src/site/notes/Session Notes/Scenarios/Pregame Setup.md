@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T11:47:06.743-04:00","dg-note-properties":{"tags":["index","mission","Tracker"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T12:44:04.820-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
 ---
 
 # Summary
@@ -66,3 +66,7 @@ views:
 | [[Database/Things/Fishbone\|Fishbone]]        | [[Database/Glossary/Ship\|Ship]]     | [[Database/Factions/Rebels\|Rebels]]                     | Closest Thing To Home   | <ul><li>\-</li></ul>                                                                                                                                                                                                                                              |
 
 { .block-language-dataview}
+
+|Previous|Next|
+|:---|---:|
+|None|[[Session Notes/Scenarios/Mission 01\|Mission 01]]|
