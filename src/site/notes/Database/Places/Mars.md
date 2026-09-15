@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-14T07:30:05.535-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png"}}
+{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-15T17:47:04.938-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png"}}
 ---
 
 
@@ -79,3 +79,21 @@ views:
 
 ```
 
+
+
+```base
+filters:
+  and:
+    - Impact.join("\n").contains(this.file.name + "]]")
+    - '!file.inFolder("Admin/Templates")'
+formulas:
+  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
+views:
+  - type: table
+    name: Events
+    order:
+      - file.name
+      - formula.Impact
+    rowHeight: medium
+
+```

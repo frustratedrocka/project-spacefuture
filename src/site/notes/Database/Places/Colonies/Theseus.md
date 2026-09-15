@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-15T16:43:24.506-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-15T17:46:36.869-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
 ---
 
 > [!INFOBOX|ws-med] Theseus
@@ -97,5 +97,24 @@ views:
         direction: ASC
       - property: Scenario_Index
         direction: ASC
+
+```
+
+
+
+```base
+filters:
+  and:
+    - Impact.join("\n").contains(this.file.name + "]]")
+    - '!file.inFolder("Admin/Templates")'
+formulas:
+  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
+views:
+  - type: table
+    name: Events
+    order:
+      - file.name
+      - formula.Impact
+    rowHeight: medium
 
 ```

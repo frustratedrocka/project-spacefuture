@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location"],"noteIcon":"","updated":"2026-09-14T07:27:05.240-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null}}
+{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location"],"noteIcon":"","updated":"2026-09-15T17:46:17.067-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null}}
 ---
 
 
@@ -73,5 +73,24 @@ views:
         direction: ASC
       - property: Scenario_Index
         direction: ASC
+
+```
+
+
+
+```base
+filters:
+  and:
+    - Impact.join("\n").contains(this.file.name + "]]")
+    - '!file.inFolder("Admin/Templates")'
+formulas:
+  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
+views:
+  - type: table
+    name: Events
+    order:
+      - file.name
+      - formula.Impact
+    rowHeight: medium
 
 ```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-14T07:21:55.535-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.png]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":[null],"Rank":1,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[[null]],"Stunts":[[null]],"skill_5":[null],"approach_5":[[null]],"skill_4":["Acquire"],"approach_4":["Sway"],"skill_3":["Know"],"approach_3":["Boldly","Cleverly"],"skill_2":["Skill","Skill"],"approach_2":["Subtly","Approach"],"skill_1":["Tinker","Skill","Skill"],"approach_1":["Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-15T17:44:54.717-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.png]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":[null],"Rank":1,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[[null]],"Stunts":[[null]],"skill_5":[null],"approach_5":[[null]],"skill_4":["Acquire"],"approach_4":["Sway"],"skill_3":["Know"],"approach_3":["Boldly","Cleverly"],"skill_2":["Skill","Skill"],"approach_2":["Subtly","Approach"],"skill_1":["Tinker","Skill","Skill"],"approach_1":["Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -35,7 +35,7 @@
 
 `REDACTED`
 
-# Appearances
+## Appearances
 
 ```base
 filters:
@@ -70,5 +70,23 @@ views:
         direction: ASC
       - property: Scenario_Index
         direction: ASC
+
+```
+
+
+```base
+filters:
+  and:
+    - Impact.join("\n").contains(this.file.name + "]]")
+    - '!file.inFolder("Admin/Templates")'
+formulas:
+  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
+views:
+  - type: table
+    name: Events
+    order:
+      - file.name
+      - formula.Impact
+    rowHeight: medium
 
 ```

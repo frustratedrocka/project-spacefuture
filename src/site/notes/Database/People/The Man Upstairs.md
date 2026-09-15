@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-15T17:42:09.412-04:00","dg-note-properties":{"tags":["npc","character"],"NPC_Name":"The Man Upstairs","Portrait":"[[Admin/Attachments/Onassis.jpg]]","Faction":["[[Database/Factions/Apsis]]"],"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Rank":0,"Strain":6,"Consequences":["Mild","Moderate","Severe"],"Concept":"Power-Hungry Expert Shipping Magnate","Relationship":null,"Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`"],"Stunts":[[null]],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
+{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-15T17:44:41.374-04:00","dg-note-properties":{"tags":["npc","character"],"NPC_Name":"The Man Upstairs","Portrait":"[[Admin/Attachments/Onassis.jpg]]","Faction":["[[Database/Factions/Apsis]]"],"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Rank":0,"Strain":6,"Consequences":["Mild","Moderate","Severe"],"Concept":"Power-Hungry Expert Shipping Magnate","Relationship":null,"Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`"],"Stunts":[[null]],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
 ---
 
 > [!infobox|left wsmall]
@@ -33,11 +33,12 @@
 # Notes
 `REDACTED`
 
-# Quotes
+## Quotes
 - "Our inquiry has determined that the adjusted allocation remained appropriate to the needs of the colonies, and that any shortfall resulted from failure to comply with Apsis best practices." - on the [[Database/Places/Colonies/Geb\|Geb]] / [[Database/Places/Colonies/Kelly\|Kelly]] / [[Database/Places/Colonies/Arjuna\|Arjuna]] situation.
 
 `REDACTED`
-# Appearances
+
+## Appearances
 
 ```base
 filters:

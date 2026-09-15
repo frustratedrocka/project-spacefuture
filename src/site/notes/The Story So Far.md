@@ -12,6 +12,17 @@
 A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
 
 ### Impact
+```base
+filters:
+  and:
+    - Scenario == this.file.name
+views:
+  - type: list
+    name: Table
+    order:
+      - Impact
+
+```
 - If you can read this, [[Database/People/The Man Upstairs\|The Man Upstairs]] will come burn your colony down.
 
 { .block-language-dataview}

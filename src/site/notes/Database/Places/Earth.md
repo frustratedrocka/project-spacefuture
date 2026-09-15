@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-14T07:30:00.316-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"No Man's Land","Faction_Presence":["[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Mindful Eyes]]","[[Database/Factions/Hive Cult]]","[[Database/Factions/Republic Of Mars]]"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg","aliases":["Luna"]}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-15T17:47:00.716-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"No Man's Land","Faction_Presence":["[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Mindful Eyes]]","[[Database/Factions/Hive Cult]]","[[Database/Factions/Republic Of Mars]]"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg","aliases":["Luna"]}}
 ---
 
 > [!INFOBOX] Earth
@@ -78,5 +78,24 @@ views:
         direction: ASC
       - property: Scenario_Index
         direction: ASC
+
+```
+
+
+
+```base
+filters:
+  and:
+    - Impact.join("\n").contains(this.file.name + "]]")
+    - '!file.inFolder("Admin/Templates")'
+formulas:
+  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
+views:
+  - type: table
+    name: Events
+    order:
+      - file.name
+      - formula.Impact
+    rowHeight: medium
 
 ```

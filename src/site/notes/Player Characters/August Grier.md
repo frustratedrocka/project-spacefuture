@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-15T10:56:43.576-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Mike]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Auggie_SQ.png]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Mars]]","Assoc":["[[Database/Places/Colonies/Theseus]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"MECH_Name":"Hoplite Custom","MECH_Model":"[[Database/Mobile Suits/Hoplite Custom]]","MECH_Portrait":"Admin/Attachments/HopliteCustom_SQ.png","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Relationship":"My Coffin","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Boldly",[null]],"skill_2":["Shoot","Move",[null],[null]],"approach_2":["Carefully","Quickly"],"skill_1":["Fight","Operate","Tend",[null]],"approach_1":["Cleverly","Forcefully","Subtly"],"aliases":["Auggie"]}}
+{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-15T17:47:41.374-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Mike]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Auggie_SQ.png]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Mars]]","Assoc":["[[Database/Places/Colonies/Theseus]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"MECH_Name":"Hoplite Custom","MECH_Model":"[[Database/Mobile Suits/Hoplite Custom]]","MECH_Portrait":"Admin/Attachments/HopliteCustom_SQ.png","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Relationship":"My Coffin","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Boldly",[null]],"skill_2":["Shoot","Move",[null],[null]],"approach_2":["Carefully","Quickly"],"skill_1":["Fight","Operate","Tend",[null]],"approach_1":["Cleverly","Forcefully","Subtly"],"aliases":["Auggie"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -140,5 +140,46 @@ views:
         direction: ASC
       - property: Scenario_Index
         direction: ASC
+
+```
+
+
+```base
+filters:
+  and:
+    - Impact.join("\n").contains(this.file.name + "]]")
+    - '!file.inFolder("Admin/Templates")'
+formulas:
+  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
+views:
+  - type: table
+    name: Events
+    order:
+      - file.name
+      - formula.Impact
+    rowHeight: medium
+
+```
+
+
+# Changelog
+
+```base
+filters:
+  and:
+    - Impact.join("\n").contains(this.file.name + "]]")
+    - '!file.inFolder("Admin/Templates")'
+formulas:
+  Impact: Changelog.filter(value.toString().contains(this.file.name)).join("<br>")
+properties:
+  formula.Impact:
+    displayName: Change
+views:
+  - type: table
+    name: Events
+    order:
+      - file.name
+      - formula.Impact
+    rowHeight: medium
 
 ```
