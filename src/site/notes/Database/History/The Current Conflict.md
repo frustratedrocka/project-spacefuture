@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/the-current-conflict/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T10:55:21.170-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/the-current-conflict/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T16:43:24.483-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
@@ -13,7 +13,7 @@ Players:
 
 11 years since the end of [[Database/History/The Ground War\|The Ground War]] 
 
-Inciting Incident: [[Database/Factions/Apsis\|Apsis]] punishes three [[Database/Glossary/The Belt\|The Belt]] colonies - [[Database/Places/Colonies/Brisbane\|Brisbane]], [[Database/Places/Colonies/Cairo\|Cairo]], [[Database/Places/Colonies/Mumbai\|Mumbai]] - for protest and dissidence by intentionally cutting food distribution below starvation levels.
+Inciting Incident: [[Database/Factions/Apsis\|Apsis]] punishes three [[Database/Glossary/The Belt\|The Belt]] colonies - [[Database/Places/Colonies/Geb\|Geb]], [[Database/Places/Colonies/Kelly\|Kelly]], [[Database/Places/Colonies/Arjuna\|Arjuna]] - for protest and dissidence by intentionally cutting food distribution below starvation levels.
 
 `REDACTED`
 

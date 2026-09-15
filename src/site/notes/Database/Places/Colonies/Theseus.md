@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-15T10:06:53.152-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-15T16:43:24.506-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
 ---
 
 > [!INFOBOX|ws-med] Theseus
@@ -33,7 +33,7 @@
 > I feel like it's much like an adaptation. I believe that Theseus at some point in time did have enough drive to start being a thorn in their side. Much like the flowing waves that used to be on earth, they shift around
 
 >[!cite|bg-c-grey] GM
-> Ok, so Theseus was maybe gearing up to join in on the spreading protests, then [[Database/Factions/Apsis\|Apsis]] cutting off the [[Database/Places/Colonies/Mumbai\|three]] [[Database/Places/Colonies/Cairo\|loudest]] [[Database/Places/Colonies/Brisbane\|colonies]] stopped them cold? Or am I misunderstanding what you were going for?
+> Ok, so Theseus was maybe gearing up to join in on the spreading protests, then [[Database/Factions/Apsis\|Apsis]] cutting off the [[Database/Places/Colonies/Arjuna\|three]] [[Database/Places/Colonies/Kelly\|loudest]] [[Database/Places/Colonies/Geb\|colonies]] stopped them cold? Or am I misunderstanding what you were going for?
 
 >[!cite|bg-c-red] [[Player Characters/Vergen Koni\|Vergen Koni]]
 > sounds about right
