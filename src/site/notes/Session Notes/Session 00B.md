@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T11:46:22.725-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":2,"Logline":"Second Wing hits the combat sim during downtime between operations.","Attending":["[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"NPCs":["[[Database/People/The XO]]","[[Database/Things/Fishbone]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T12:48:26.033-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","SESH_Next":"[[Session Notes/Session 01]]","SESH_Prev":"[[Session Notes/Session 00A]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":2,"Logline":"Second Wing hits the combat sim during downtime between operations.","Attending":["[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"NPCs":["[[Database/People/The XO]]","[[Database/Things/Fishbone]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
 ---
 
 # Session 00B: Training Sim
@@ -24,3 +24,7 @@
 # Conflict
 - IMPORTANT: Conflict does not mean "we have now entered combat mode," it means "too much is happening at once for normal procedures to keep track of, and part of that includes conflicting objectives." With one exception (group actions), anything you can do outside a conflict can be done in one, and vice versa.
 `REDACTED`
+
+|Previous|Next|
+|:---|---:|
+|[[Session Notes/Session 00A\|Session 00A]] - Origins|[[Session Notes/Session 01\|Session 01]] - And So It Begins|

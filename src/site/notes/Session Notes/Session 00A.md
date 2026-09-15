@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T10:03:50.761-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Attending":["[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Places/Colonies/Vesta]]","[[Database/Places/Colonies/Mumbai]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T12:47:39.601-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"None","Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Attending":["[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Places/Colonies/Vesta]]","[[Database/Places/Colonies/Mumbai]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
 ---
 
 # Session 00A: Origins
@@ -160,3 +160,7 @@ Attempted to pirate a [[Database/Factions/Jovian Consortium\|Jovian Consortium]]
 What started as a race for goods, quickly became a cooperative hit on another supply run. Where Lanes suit faltered from previous damage, [[Player Characters/Vergen Koni\|Verg]] helped pick up the slack.
 
 #### Phase Three Aspect: “Can solve problems without violence”
+
+|Previous|Next|
+|:---|---:|
+|None|[[Session Notes/Session 00B\|Session 00B]] - Training Sim|
