@@ -22,38 +22,7 @@ views:
     name: Impact
     order:
       - Impact
-
 ```
-
-
-
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - Scenario == link(this.file.name)
-properties:
-  note.Scenario_Index:
-    displayName: Part
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-views:
-  - type: table
-    name: Sessions
-    order:
-      - file.name
-      - SESH_Name
-      - Logline
-    sort:
-      - property: Scenario_Index
-        direction: ASC
-    columnSize: {}
-    rowHeight: medium
-
-```
-
 
 
 </div></div>
@@ -69,34 +38,23 @@ views:
 
 
 ### Impact
-
-
 ```base
 filters:
   and:
-    - file.hasTag("session")
-    - Scenario == link(this.file.name)
-properties:
-  note.Scenario_Index:
-    displayName: Part
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
+    - Scenario == this.file.name
+    - "!Impact.isEmpty()"
+formulas:
+  Impact: Impact.join("; ")
 views:
-  - type: table
-    name: Sessions
+  - type: list
+    name: Impact
     order:
-      - file.name
-      - SESH_Name
-      - Logline
-    sort:
-      - property: Scenario_Index
-        direction: ASC
-    columnSize: {}
-    rowHeight: medium
+      - formula.Impact
+    indentProperties: false
+    markers: none
 
 ```
+
 
 </div></div>
 

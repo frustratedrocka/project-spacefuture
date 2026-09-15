@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T17:33:45.711-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 00B]]"}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T18:09:08.124-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 00B]]"}}
 ---
 
 # Next Session
