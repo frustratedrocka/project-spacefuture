@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T08:57:26.192-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T12:27:05.267-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -99,7 +99,7 @@ Knowing when to commit to the bit and when to pivot is one of the harder parts o
 > [!note|s-t]+ Player Authorship Mechanics
 > If your game has a mechanic to allow players to inject details into the fiction that exist outside their character's actions, like Fate, Blades in the Dark, Fabula Ultima, the 2d20 system, and many others do, then respect those rules. The ones outlined in this game's [[Rules/1 Core Rules#Declaring a Story Detail\|1 Core Rules#Declaring a Story Detail]] option are about as permissive as I've seen in any game that still has a GM at all, but I don't know and can't account for every system on the market. Regardless, if the players are empowered to author parts of the world, then treat the things they author as established truth, just like you do for your own facts. 
 
-> [!callout|bg-red c-plain no-icon ]+ EXAMPLE: HOW TRUE IS TRUE?
+> [!callout|bg-c-red no-icon ]+ EXAMPLE: HOW TRUE IS TRUE?
 >The more established truth flows from a fact in your prep, the closer that fact itself comes to being fully established.
 >
 > Let's say that your prep notes contain the following facts:

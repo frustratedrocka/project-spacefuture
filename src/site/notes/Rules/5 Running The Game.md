@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-24T06:56:20.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T08:54:24.597-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Most of this game's rules apply to everyone, but if you're the GM, there's a few additional ones you need to know about that cover your additional responsibilities.
@@ -48,6 +48,10 @@ NPCs who aren't expected to be major recurring characters, but are worth enough 
 
 ## Major NPCs 
 NPCs who become especially important to the story, typically by showing up repeatedly or being at the center of something critical to the PC's goals, should be statted out just like a PC. Sometimes, they should have *better* stats than your PCs - if someone's meant to be a boss-level threat or some other kind of major obstacle, give them higher skill and approach ranks, more stunts, and whatever else it takes to make them appropriately dangerous. 
+
+Unless there's a specific reason not to, each major NPC should have an aspect slot reserved for a Relationship with the PCs, or the PCs' relationship to them. This should be left blank until the NPC actually appears or otherwise becomes directly relevant; do not prescribe or presume the nature of the relationship before it actually exists.
+
+Examples: "*The Ultimate Opponent We Must Overcome,*" "*Determined To Bring Us To Justice*," "*Owes Us A Life-Debt,*" "*We Keep Wrecking His Cabbage Stand,*" "*Barely Cares We Exist,*" "*Stuck His Neck Out For Us And Regrets It.*"
 
 A word of caution: friendly NPCs should never outshine the PCs. This isn't to say they can't be stronger, smarter, more influential or otherwise more important *in the world*, but they should never be more important *to the story* that emerges at the table - don't let them take over situations and solve the PCs' problems for them. Your players are at your table, at least in part, because they want to be the ones to solve those problems and make those choices; letting an NPC do it for them cheats them out of that fun. Remember, the PCs are the stars of the show and the people the game is actually about; an NPC, no matter how big a deal they are, is ultimately part of the supporting cast.
 

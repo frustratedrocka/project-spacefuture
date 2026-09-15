@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T21:52:17.746-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T09:15:50.310-04:00","dg-note-properties":{}}
 ---
 
 # Next Session
 [[Session Notes/Missions/Pregame Setup\|Pregame Setup]] Part 2 - **Combat Sim (Tutorial)** - September 15 2026
+
+## Where Are You
+Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], serving as Second Wing. 
+
+## What Are You Doing
+Hitting the combat sim to get some training and practice in as you await orders from [[Rebel Command\|Rebel Command]] and try to stay ahead of the pursuing [[Database/Things/Brynhildr\|Brynhildr]].
 
 ```base
 filters:
@@ -24,12 +30,6 @@ views:
 
 ```
 
-# Where Are You
-Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], serving as Second Wing. 
-
-# What Are You Doing
-Awaiting orders from [[Rebel Command\|Rebel Command]] and staying ahead of the [[Database/Things/Brynhildr\|Brynhildr]]
-
 # Fiction Primer
 It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]], and...
 
@@ -47,13 +47,21 @@ The question is not whether you should be fighting. The question is what you're 
 
 Remember: hang together, or hang separately.
 
-## Factions
-For more, see the [[Faction Hub\|Faction Hub]], or click through the links to go directly to each faction's page.
+# Campaign Aspects
+## Current Issues
+- "What Will You Compromise For A Righteous Cause?"
+- "Finally, Barely, Enough To Go Around"
+- "Disparate & Unstable Rebel Coalition"
+## Impending Issues
+- "Old Conflicts Dormant, Not Dead"
+- "Lurking Shadow Of The [[Database/Factions/Hive Cult\|Hive Cult]]"
+- "Who Gets To Write The Future?"
 
 # Links & Resources
 [Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)
 [Player Survey](https://forms.gle/7rJCA6hLio846xia7)
 [[Admin/Lines & Veils\|Lines & Veils]] (Anonymized)
+[[Faction Hub\|Faction Hub]] (Faction master page including associated NPCs, mobile suits, and locations)
 ## Rules
 See the [[Rules Hub\|Rules Hub]] or use the file navigator to the left.
 
