@@ -47,12 +47,41 @@ views:
 
 
 
-# Summary
+## Summary
 
 
-## Impact
+### Impact
 
 
+```base
+filters:
+  and:
+    - file.hasTag("session")
+    - Scenario == link(this.file.name)
+properties:
+  note.Scenario_Index:
+    displayName: Part
+  file.name:
+    displayName: Session
+  note.SESH_Name:
+    displayName: Name
+views:
+  - type: table
+    name: Sessions
+    order:
+      - file.name
+      - SESH_Name
+      - Attending
+      - Logline
+    sort:
+      - property: Scenario_Index
+        direction: ASC
+    columnSize:
+      note.SESH_Name: 85
+      note.Attending: 256
+    rowHeight: medium
+
+```
 
 </div></div>
 
