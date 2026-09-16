@@ -16,10 +16,10 @@
       "order": 70
     },
     "dg-filetree": {
-      "order": 10
+      "order": 20
     },
     "blockquote-continuity": {
-      "order": 20
+      "order": 10
     },
     "dg-link-preview": {
       "order": 30
