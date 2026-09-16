@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T14:20:03.843-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":"[[Session Notes/Session 02]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T17:42:41.285-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
 ---
 
 ## Summary
 
 
 ### Impact
+- Original command staff and first wing of the [[Database/Things/Fishbone\|Fishbone]] KIA
+- [[Database/People/The XO\|The XO]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]]
+- [[Database/Things/The Ace\|The Ace]] in critical condition
 
 { .block-language-dataview}
 
@@ -68,4 +71,4 @@ views:
 
 |Previous|Next|
 |:---|---:|
-|[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]|[[Session Notes/Session 02\|Session 02]]|
+|[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]|`=link(this.SCEN_Next)`|

@@ -30,6 +30,9 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 
 ### Impact
+- Original command staff and first wing of the [[Database/Things/Fishbone\|Fishbone]] KIA
+- [[Database/People/The XO\|The XO]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]]
+- [[Database/Things/The Ace\|The Ace]] in critical condition
 
 { .block-language-dataview}
 

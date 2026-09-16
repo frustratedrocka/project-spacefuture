@@ -73,4 +73,4 @@ See [[Rules/1 Core Rules\|1 Core Rules]] and, **seriously read this in full if y
 
 |Previous|Next|
 |:---|---:|
-|[[Session Notes/Session 00A\|Session 00A]] - Origins|[[Session Notes/Session 01\|Session 01]] `=choice(this.SESH_Next.dg-publish = true, " - " + this.SESH_Next.SESH_Name, "")`|
+|[[Session Notes/Session 00A\|Session 00A]] - Origins|[[Session Notes/Session 01\|Session 01]]  - And So It Begins|
