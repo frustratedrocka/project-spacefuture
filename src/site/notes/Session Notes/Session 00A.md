@@ -16,7 +16,8 @@ filters:
 views:
   - type: cards
     name: Attending
-    order: []
+    order:
+      - aliases
     imageAspectRatio: 2.5
     image: note.Portrait
     cardSize: 50
