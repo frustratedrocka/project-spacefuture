@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T18:12:43.890-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T19:13:16.460-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
 ---
 
 > [!infobox|wsmall]
@@ -9,15 +9,21 @@
 > **[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]], Part 1**
 > 09-01-2026 
 >
->> [!cards|dataview sban notion 1 img-micro img-p-micro-headfix]
->>  | Portrait                                                                | Player Character                                              |
->> | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
->> | ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)                     | [[Player Characters/August Grier\|August Grier]]           |
->> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                       | [[Player Characters/Lane Gable\|Lane Gable]]               |
->> | ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)                 | [[Player Characters/Menodora Thaliana\|Menodora Thaliana]] |
->> | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | [[Player Characters/Vergen Koni\|Vergen Koni]]             |
->> 
-{ .block-language-dataview}
+```base
+filters:
+  and:
+    - this.Attending.contains(file.name)
+views:
+  - type: cards
+    name: Attending
+    order: []
+    imageAspectRatio: 2.5
+    image: note.Portrait
+    cardSize: 50
+
+```
+
+>
 > ## Appearing
 >  | NPCs |
 > | ---- |
