@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T17:42:41.285-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T18:05:25.849-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
 ---
 
 ## Summary
@@ -41,7 +41,7 @@ views:
 
 ```
 ## NPCs
-> [!cards|dataview 4]
+> [!cards|dataview notion 4 img-tiny] 
 >  | Portrait                                              | NPC                                                     |
 > | ----------------------------------------------------- | ------------------------------------------------------- |
 > | ![Admin/Attachments/Saul_Tigh.jpg\|Saul_Tigh.jpg](/img/user/Admin/Attachments/Saul_Tigh.jpg)   | [[Database/People/The XO\|The XO]]                   |
@@ -49,7 +49,7 @@ views:
 > 
 { .block-language-dataview}
 ## Mobile Suits
-> [!cards|dataview 4]
+> [!cards|dataview notion 4 img-tiny]
 >  | Portrait                                                                | Mobile Suit                                                       |
 > | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]             |
