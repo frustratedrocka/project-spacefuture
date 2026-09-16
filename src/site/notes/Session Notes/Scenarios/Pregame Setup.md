@@ -51,14 +51,14 @@ views:
 
 ## Mobile Suits
 > [!cards|dataview 4]
->  | Portrait                                                                | Mobile Suit                                                     |
-> | ----------------------------------------------------------------------- | --------------------------------------------------------------- |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]           |
-> | ![Admin/Attachments/HopliteCustom_SQ.png\|HopliteCustom_SQ.png](/img/user/Admin/Attachments/HopliteCustom_SQ.png)       | [[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]     |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | [[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]] |
-> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                 | [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]               |
-> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png)                   | [[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]   |
-> | \-                                                                      | [[UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]          |
+>  | Portrait                                                                | Mobile Suit                                                                 |
+> | ----------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+> | ![Admin/Attachments/GM-II-AEUG_SQ.png\|GM-II-AEUG_SQ.png](/img/user/Admin/Attachments/GM-II-AEUG_SQ.png)             | [[Database/Factions/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]] |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]                       |
+> | ![Admin/Attachments/HopliteCustom_SQ.png\|HopliteCustom_SQ.png](/img/user/Admin/Attachments/HopliteCustom_SQ.png)       | [[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]                 |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | [[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]             |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                 | [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]                           |
+> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png)                   | [[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]               |
 > 
 { .block-language-dataview}
 
