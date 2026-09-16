@@ -94,7 +94,7 @@ views:
     order:
       - file.name
     cardSize: 160
-    image: note.MECH_Portrait
+    image: note.Portrait
     imageAspectRatio: 0.5
 
 ```

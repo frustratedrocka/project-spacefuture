@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/se-832-e-akoni-command-type/","tags":["Mech"],"noteIcon":"","updated":"2026-09-14T06:52:31.982-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Akoni-E Command Type","MECH_Model":"[[SE-832-E Akoni]]","MECH_Portrait":"[[Admin/Attachments/Akoni-E_SQ.png]]","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Concept":"Apsis's First Line Of Offense, Enhanced","MECH_Trouble":"Designed To Punch Down","MECH_Relationship":null,"MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mobile suits.","`REDACTED`"],"Faction":["[[Database/Factions/Apsis]]"],"Assoc":["[[Database/Things/Brynhildr]]"],"Variants":null,"Base":["[[Database/Mobile Suits/SE-832 Akoni]]"],"Known_Users":["[[Database/People/Vantrin Almeyer]]"],"aliases":["Akoni-E"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/se-832-e-akoni-command-type/","tags":["Mech"],"noteIcon":"","updated":"2026-09-16T14:19:06.100-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Akoni-E","MECH_Model":"[[SE-832-E Akoni]]","Portrait":"[[Admin/Attachments/Akoni-E_SQ.png]]","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Concept":"Apsis's First Line Of Offense, Enhanced","MECH_Trouble":"Designed To Punch Down","MECH_Relationship":null,"MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mobile suits.","`REDACTED`"],"Faction":["[[Database/Factions/Apsis]]"],"Assoc":["[[Database/Things/Brynhildr]]"],"Variants":null,"Base":["[[Database/Mobile Suits/SE-832 Akoni]]"],"Known_Users":["[[Database/People/Vantrin Almeyer]]"],"aliases":["Akoni-E"]}}
 ---
 
 
@@ -11,10 +11,8 @@
 > |--|--|
 > |**FACTIONS**|[[Database/Factions/Apsis\|Apsis]]|
 > |**KNOWN PILOTS**|[[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]|
+> |**VARIANTS**||
 > |**BASE MODEL**|[[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]|
-> |**ARMOR**|`REDACTED`|
-> 
-> 
 
 | Suit Aspects                            |
 | --------------------------------------- |
@@ -72,8 +70,6 @@ views:
       - SESH_Date
     sort:
       - property: file.name
-        direction: ASC
-      - property: Scenario_Index
         direction: ASC
 
 ```

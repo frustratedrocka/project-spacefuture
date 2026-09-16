@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-16T00:27:40.509-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Vantrin_SQ.png]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"[[Database/Places/Colonies/Interamnia]]","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[null,null,null],"Concept":"Strategic & Skilled Field Commander","Relationship":null,"Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Name":"Akoni-E","MECH_Model":"[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","MECH_Portrait":"[[Admin/Attachments/Akoni-E_SQ.png]]","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Concept":"Apsis's First Line Of Offense, Enhanced","MECH_Trouble":"Designed To Punch Down","MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mechs","`REDACTED`"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Quickly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Cleverly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"],"aliases":["Vantrin"]}}
+{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-16T14:20:31.077-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Vantrin_SQ.png]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"[[Database/Places/Colonies/Interamnia]]","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[null,null,null],"Concept":"Strategic & Skilled Field Commander","Relationship":null,"Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Quickly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Cleverly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"],"aliases":["Vantrin"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -58,10 +58,10 @@
 >
 `REDACTED`
 
-| Mech Stunts                                                                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mechs |
-| `REDACTED`                                                                                                                                                                                      |
+| Mech Stunts                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mobile suits. |
+| `REDACTED`                                                                                                                                                                                              |
 
 { .block-language-dataview}
 
@@ -107,8 +107,6 @@ views:
     sort:
       - property: file.name
         direction: ASC
-      - property: Scenario_Index
-        direction: ASC
 
 ```
 
@@ -127,5 +125,26 @@ views:
       - file.name
       - formula.Impact
     rowHeight: medium
+
+```
+
+
+```base
+filters:
+  and:
+    - Changelog.join("\n").contains(this.file.name + "]]")
+    - '!file.inFolder("Admin/Templates")'
+formulas:
+  Impact: Changelog.filter(value.toString().containsAny(this.file.name)).join("\n")
+properties:
+  formula.Impact:
+    displayName: Change
+views:
+  - type: table
+    name: Changelog
+    order:
+      - file.name
+      - formula.Impact
+    rowHeight: tall
 
 ```

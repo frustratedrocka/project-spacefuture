@@ -75,8 +75,6 @@ views:
     sort:
       - property: file.name
         direction: ASC
-      - property: Scenario_Index
-        direction: ASC
 
 ```
 

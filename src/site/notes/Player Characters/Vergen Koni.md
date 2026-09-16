@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-15T23:55:33.833-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.png]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Name":"Hyper Seeker","MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","MECH_Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.png]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Move",[null],[null],[null]],"approach_3":["Quickly",[null]],"skill_2":["Fight","Shoot",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker",[null]],"approach_1":["Carefully","Forcefully","Subtly"],"aliases":["Verg"]}}
+{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-16T14:20:06.781-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.png]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Move",[null],[null],[null]],"approach_3":["Quickly",[null]],"skill_2":["Fight","Shoot",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker",[null]],"approach_1":["Carefully","Forcefully","Subtly"],"aliases":["Verg"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -11,13 +11,13 @@
 > |  |  |
 > |--|--|
 > |**ORIGIN**|[[Database/Places/Colonies/Theseus\|Theseus]]|
-> |**FACTIONS**| [[Database/Factions/Rebels\|Rebels]]<br>[[Database/Factions/Mindful Eyes\|Mindful Eyes]]|
+> |**ASSOC.**|`=join(link(this.Assoc),"<br>")
+> |**FACTIONS**| [[Database/Factions/Rebels\|Rebels]],<br>[[Database/Factions/Mindful Eyes\|Mindful Eyes]]|
 > | **STRAIN**| 5 |
 >  
 > |HARM|CONSEQUENCE|
 > |----|-----|
 > |2 Mild|Mild|
-> |2 Mild|Locked - Persevere 5|
 > |4 Mod|Moderate|
 > |6 Svr|Severe|
 
@@ -58,6 +58,7 @@
 
 { .block-language-dataview}
 
+
 | Gear Aspects   |
 | -------------- |
 | Heat Sword     |
@@ -76,6 +77,7 @@
 |  |  | Shoot | Fight | **2** | **Good**       | Boldly | Cleverly  |                       |
 |  | Tinker | Persevere | Notice | **1** | **Adequate**   | Carefully | Forcefully  | Subtly |
 
+
 | Stunts                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire. |
@@ -84,6 +86,7 @@
 
 { .block-language-dataview}
 
+
 | Mech Stunts                                                                                                                                                                                                                                                                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition. |
@@ -91,20 +94,6 @@
 
 { .block-language-dataview}
 
-
-# Notes
-
-## Phase Trio
-### Phase One: Inciting Incident
-An [[Database/Factions/Apsis\|Apsis]] cargo of goods being quickly intercepted by one suit successfully outside of colony control
-
-### Phase Two: Crossing Paths
-[[Database/Factions/Mindful Eyes\|Mindful Eyes]]and [[Database/Factions/Rebels\|Rebels]] forces ran into each other and found themselves in a tense standoff. Verg and [[Player Characters/August Grier\|Auggie]] faced off on opposite sides of the firing line.
-
-### Phase Three: Crossing Paths
-During the standoff with [[Database/Factions/Mindful Eyes\|Mindful Eyes]] and Rebellion, [[Player Characters/Lane Gable\|Lane Gable]] recognized Verg’s suit and managed to talk them down from the standoff, and convince them of cooperation.
-
-# Sessions
 
 ```base
 filters:
@@ -137,11 +126,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
-      - property: Scenario_Index
-        direction: ASC
 
 ```
-
 
 
 ```base
@@ -162,24 +148,35 @@ views:
 ```
 
 
-# Changelog
-
 ```base
 filters:
   and:
     - Changelog.join("\n").contains(this.file.name + "]]")
     - '!file.inFolder("Admin/Templates")'
 formulas:
-  Impact: Changelog.filter(value.toString().contains(this.file.name)).join("\n")
+  Impact: Changelog.filter(value.toString().containsAny(this.file.name)).join("\n")
 properties:
   formula.Impact:
     displayName: Change
 views:
   - type: table
-    name: Events
+    name: Changelog
     order:
       - file.name
       - formula.Impact
     rowHeight: tall
 
 ```
+
+
+# Notes
+
+## Phase Trio
+### Phase One: Inciting Incident
+An [[Database/Factions/Apsis\|Apsis]] cargo of goods being quickly intercepted by one suit successfully outside of colony control
+
+### Phase Two: Crossing Paths
+[[Database/Factions/Mindful Eyes\|Mindful Eyes]]and [[Database/Factions/Rebels\|Rebels]] forces ran into each other and found themselves in a tense standoff. Verg and [[Player Characters/August Grier\|Auggie]] faced off on opposite sides of the firing line.
+
+### Phase Three: Crossing Paths
+During the standoff with [[Database/Factions/Mindful Eyes\|Mindful Eyes]] and Rebellion, [[Player Characters/Lane Gable\|Lane Gable]] recognized Verg’s suit and managed to talk them down from the standoff, and convince them of cooperation.
