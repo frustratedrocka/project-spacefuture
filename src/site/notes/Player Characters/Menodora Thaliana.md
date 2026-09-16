@@ -170,10 +170,10 @@ views:
 ```base
 filters:
   and:
-    - Impact.join("\n").contains(this.file.name + "]]")
+    - Changelog.join("\n").contains(this.file.name + "]]")
     - '!file.inFolder("Admin/Templates")'
 formulas:
-  Impact: Changelog.filter(value.toString().contains(this.file.name)).join("<br>")
+  Impact: Changelog.filter(value.toString().contains(this.file.name)).join("\n")
 properties:
   formula.Impact:
     displayName: Change
@@ -183,6 +183,6 @@ views:
     order:
       - file.name
       - formula.Impact
-    rowHeight: medium
+    rowHeight: tall
 
 ```

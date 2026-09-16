@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-15T19:56:35.702-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Nestor]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Lane_Full.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":["[[Database/Places/Colonies/Arjuna]]"],"Strain":4,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2."],"MECH_Name":"Elegant Sky","MECH_Model":"[[Database/Mobile Suits/Elegant Sky]]","MECH_Portrait":"Admin/Attachments/DagDoll_SQ.webp","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Relationship":"My Last Piece Of Earth","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Notice",[null],[null],[null]],"approach_3":["Subtly",[null]],"skill_2":["Shoot","Interface",[null],[null]],"approach_2":["Cleverly","Quickly"],"skill_1":["Lead","Operate","Sway",[null]],"approach_1":["Boldly","Carefully","Forcefully"],"aliases":["Lane"]}}
+{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-15T23:46:41.604-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Nestor]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Lane_Full.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":["[[Database/Places/Colonies/Arjuna]]"],"Strain":4,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke."],"MECH_Name":"Elegant Sky","MECH_Model":"[[Database/Mobile Suits/Elegant Sky]]","MECH_Portrait":"Admin/Attachments/DagDoll_SQ.webp","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Relationship":"My Last Piece Of Earth","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Notice",[null],[null],[null]],"approach_3":["Subtly",[null]],"skill_2":["Shoot","Interface",[null],[null]],"approach_2":["Cleverly","Quickly"],"skill_1":["Lead","Operate","Sway",[null]],"approach_1":["Boldly","Carefully","Forcefully"],"aliases":["Lane"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -80,13 +80,13 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round. |
 | **JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.                                                                                                                                                        |
-| **RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2.                                                      |
+| **LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke.                                                                                                                                                                                            |
 
 { .block-language-dataview}
 
 | Mech Stunts                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------- |
-| **FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you.                                     |
+| **COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.        |
 | **ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely. |
 
 { .block-language-dataview}
@@ -166,10 +166,10 @@ views:
 ```base
 filters:
   and:
-    - Impact.join("\n").contains(this.file.name + "]]")
+    - Changelog.join("\n").contains(this.file.name + "]]")
     - '!file.inFolder("Admin/Templates")'
 formulas:
-  Impact: Changelog.filter(value.toString().contains(this.file.name)).join("<br>")
+  Impact: Changelog.filter(value.toString().contains(this.file.name)).join("\n")
 properties:
   formula.Impact:
     displayName: Change
@@ -179,6 +179,6 @@ views:
     order:
       - file.name
       - formula.Impact
-    rowHeight: medium
+    rowHeight: tall
 
 ```
