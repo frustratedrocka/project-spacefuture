@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T00:33:14.710-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":"[[Session Notes/Session 02]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T00:36:54.992-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":"[[Session Notes/Session 02]]"}}
 ---
 
 ## Summary
@@ -39,12 +39,10 @@ views:
 ```
 ## NPCs
 > [!cards|dataview 4]
->  | Portrait                                                                                                                    | NPC                                                     |
-> | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-> | ![Admin/Attachments/GenericFeddie_SQ.png\|GenericFeddie_SQ.png](/img/user/Admin/Attachments/GenericFeddie_SQ.png)                                                           | [[Database/People/Delbrau Enger\|Delbrau Enger]]     |
-> | ![Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.jpg\|naomi-nagata-the-expanse-character-1682599804.jpg](/img/user/Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.jpg) | [[Database/People/Gen Bashaba\|Gen Bashaba]]         |
-> | ![Admin/Attachments/Saul_Tigh.jpg\|Saul_Tigh.jpg](/img/user/Admin/Attachments/Saul_Tigh.jpg)                                                                         | [[Database/People/The XO\|The XO]]                   |
-> | ![Admin/Attachments/Vantrin_SQ.png\|Vantrin_SQ.png](/img/user/Admin/Attachments/Vantrin_SQ.png)                                                                       | [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] |
+>  | Portrait                                              | NPC                                                     |
+> | ----------------------------------------------------- | ------------------------------------------------------- |
+> | ![Admin/Attachments/Saul_Tigh.jpg\|Saul_Tigh.jpg](/img/user/Admin/Attachments/Saul_Tigh.jpg)   | [[Database/People/The XO\|The XO]]                   |
+> | ![Admin/Attachments/Vantrin_SQ.png\|Vantrin_SQ.png](/img/user/Admin/Attachments/Vantrin_SQ.png) | [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] |
 > 
 { .block-language-dataview}
 ## Mobile Suits
