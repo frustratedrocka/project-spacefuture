@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-16T15:04:50.672-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-16T15:25:53.603-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!INFOBOX|ws-med]
@@ -25,7 +25,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 >[!blank|wfull]
 
 
->[!cards|dataview 4]
+>[!cards|dataview 4 notion]
 >  | Portrait                                                                | Player Character                                              |
 > | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
 > | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | [[Player Characters/Vergen Koni\|Vergen Koni]]             |
@@ -94,7 +94,7 @@ views:
 
 
 
->[!cards|dataview 4]
+>[!cards|dataview 4 notion]
 >  | Portrait                                                                | Mobile Suit                                                     |
 > | ----------------------------------------------------------------------- | --------------------------------------------------------------- |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]           |

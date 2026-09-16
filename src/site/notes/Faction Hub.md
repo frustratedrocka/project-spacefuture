@@ -33,7 +33,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 >[!blank|wfull]
 
 
->[!cards|dataview 4]
+>[!cards|dataview 4 notion]
 >  | Portrait                                                                | Player Character                                              |
 > | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
 > | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | [[Player Characters/Vergen Koni\|Vergen Koni]]             |
@@ -100,7 +100,7 @@ views:
 
 
 
->[!cards|dataview 4]
+>[!cards|dataview 4 notion]
 >  | Portrait                                                                | Mobile Suit                                                     |
 > | ----------------------------------------------------------------------- | --------------------------------------------------------------- |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]           |
