@@ -88,6 +88,9 @@ views:
     order:
       - file.name
       - formula.Impact
+    sort:
+      - property: formula.Impact
+        direction: ASC
     rowHeight: medium
 
 ```
