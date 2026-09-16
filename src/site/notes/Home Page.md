@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-15T18:56:52.861-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 00B]]"}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T00:05:32.752-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]"}}
 ---
 
 # Next Session
-**[[Session Notes/Session 00B\|Session 00B]]** - [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] Part 2 - 2026-09-15T00:00:00.000-04:00
+**[[Session Notes/Session 01\|Session 01]]** - [[Session Notes/Scenarios/Mission 01\|Mission 01]] Part 1 - Sep 29, 2026
 
 ## Where Are You
 Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], serving as Second Wing. 
