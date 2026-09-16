@@ -1,0 +1,9 @@
+{
+  "id": "blockquote-continuity",
+  "name": "Blockquote Continuity Fix",
+  "version": "1.0.0",
+  "description": "Repairs blockquote depth lost when Digital Garden expands Dataview, note transclusions, and Base embeds.",
+  "author": "Ben Forde",
+  "hooks": "index.js",
+  "noteSettings": ["dgBqFix"]
+}
