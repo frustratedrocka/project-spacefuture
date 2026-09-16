@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T17:13:18.356-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","SESH_Next":"[[Session Notes/Session 01]]","SESH_Prev":"[[Session Notes/Session 00A]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":2,"Logline":"Second Wing hits the combat sim during downtime between operations.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/The XO]]","[[Database/Things/Fishbone]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/UT-F-08 Hoplite]]","[[Database/Factions/UT-F-08S Hoplite Striker]]"],"Impact":["This is a test, you should be able to read this"],"Changelog":["[[Lane Gable]] Stunt rewrite: **RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2. **→** **LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke.","[[Elegant Sky]] Stunt rewrite: **FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you. **→** **COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile."]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T17:27:07.000-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","SESH_Next":"[[Session Notes/Session 01]]","SESH_Prev":"[[Session Notes/Session 00A]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":2,"Logline":"Second Wing hits the combat sim during downtime between operations.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/The XO]]","[[Database/Things/Fishbone]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/UT-F-08 Hoplite]]","[[Database/Factions/UT-F-08S Hoplite Striker]]"],"Impact":["This is a test, you should be able to read this"],"Changelog":["[[Lane Gable]] Stunt rewrite: **RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2. **→** **LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke.","[[Elegant Sky]] Stunt rewrite: **FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you. **→** **COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile."]}}
 ---
 
 
@@ -42,7 +42,7 @@
 
 
 # Session 00B: Training Sim
-Second Wing hits the combat sim during downtime between operations.
+*Second Wing hits the combat sim during downtime between operations.*
 
 # Basic Training
 - The core mechanic 
@@ -73,4 +73,4 @@ See [[Rules/1 Core Rules\|1 Core Rules]] and, **seriously read this in full if y
 
 |Previous|Next|
 |:---|---:|
-|[[Session Notes/Session 00A\|Session 00A]] - Origins|[[Session Notes/Session 01\|Session 01]] - And So It Begins|
+|[[Session Notes/Session 00A\|Session 00A]] - Origins|[[Session Notes/Session 01\|Session 01]] `=choice(this.SESH_Next.dg-publish = true, " - " + this.SESH_Next.SESH_Name, "")`|

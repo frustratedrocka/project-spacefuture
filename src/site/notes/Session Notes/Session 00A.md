@@ -1,11 +1,50 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T14:23:42.126-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T17:15:18.854-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]","[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
 ---
 
+> [!infobox|wsmall]
+> # Vitals
+>> [!blank]
+> 
+> **[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]], Part 1**
+> 09-01-2026 
+>
+>> [!cards|dataview sban notion 1 img-micro img-p-micro-headfix]
+>>  | Portrait                                                                | Player Character                                              |
+>> | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
+>> | ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)                     | [[Player Characters/August Grier\|August Grier]]           |
+>> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                       | [[Player Characters/Lane Gable\|Lane Gable]]               |
+>> | ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)                 | [[Player Characters/Menodora Thaliana\|Menodora Thaliana]] |
+>> | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | [[Player Characters/Vergen Koni\|Vergen Koni]]             |
+>> 
+{ .block-language-dataview}
+> ## Appearing
+>  | NPCs |
+> | ---- |
+> 
+{ .block-language-dataview}
+>  | Mobile Suits                                                    |
+> | --------------------------------------------------------------- |
+> | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]           |
+> | [[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]     |
+> | [[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]] |
+> | [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]               |
+> 
+{ .block-language-dataview}
+>  | Locations                                        |
+> | ------------------------------------------------ |
+> | [[Database/Places/Colonies/Arjuna\|Arjuna]]   |
+> | [[Database/Things/Charun\|Charun]]            |
+> | [[Database/Places/Earth\|Earth]]              |
+> | [[Database/Places/Mars\|Mars]]                |
+> | [[Database/Places/Colonies/Theseus\|Theseus]] |
+> 
+{ .block-language-dataview}
+
+
 # Session 00A: Origins
-09-01-2026 - [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]], Part 1
-## Present
-[[Player Characters/August Grier\|August Grier]],[[Player Characters/Lane Gable\|Lane Gable]],[[Player Characters/Menodora Thaliana\|Menodora Thaliana]],[[Player Characters/Vergen Koni\|Vergen Koni]]
+*Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.*
+
 # The Opening Crawl
 Before we start, I would just like to impress on everyone how _absolutely fucked_ the situation you've all lived through is. The Moondrop and [[Database/History/The Ground War\|the Ground War]] are without question or exaggeration the worst things that have ever happened, and I can prove it with four words:  
 
