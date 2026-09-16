@@ -12,7 +12,26 @@
         "src/plugins/image-lightbox/garden-plugin.json",
         "src/plugins/image-lightbox/styles/lightbox.scss",
         "src/plugins/image-lightbox/templates/lightbox.njk"
-      ]
+      ],
+      "order": 70
+    },
+    "dg-filetree": {
+      "order": 10
+    },
+    "blockquote-continuity": {
+      "order": 20
+    },
+    "dg-link-preview": {
+      "order": 30
+    },
+    "dg-math": {
+      "order": 40
+    },
+    "dg-search": {
+      "order": 50
+    },
+    "dg-timestamps": {
+      "order": 60
     }
   }
 }
