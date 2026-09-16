@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T16:07:09.042-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]"}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T19:12:17.086-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]"}}
 ---
 
 # Next Session
@@ -16,16 +16,26 @@ Hitting the combat sim to get some training and practice in as you await orders 
 
 { .block-language-dataview}
 
+```base
+filters:
+  and:
+    - file.hasTag("PC")
+    - '!file.inFolder("Admin/Templates")'
+    - '!file.inFolder("Player Characters/Archive")'
+views:
+  - type: cards
+    name: Player Characters
+    order:
+      - file.name
+    image: Portrait
+    imageAspectRatio: 0.5
+    cardSize: 160
+    indentProperties: false
+    imageFit: cover
 
->[!cards|dataview 4 notion]
->  | Portrait                                                                | Player Character                                              |
-> | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
-> | ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)                     | [[Player Characters/August Grier\|August Grier]]           |
-> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                       | [[Player Characters/Lane Gable\|Lane Gable]]               |
-> | ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)                 | [[Player Characters/Menodora Thaliana\|Menodora Thaliana]] |
-> | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | [[Player Characters/Vergen Koni\|Vergen Koni]]             |
-> 
-{ .block-language-dataview}
+```
+
+
 
 # Campaign Aspects
 ## Current Issues
