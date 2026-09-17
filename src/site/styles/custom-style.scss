@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Russo+One&display=swap');
 
+/* ===========================================================
+   HUMAN-FUCKUPABLE THEME / STYLE / GRAPHIC SETTINGS
+   =========================================================== */
+
 /*Font & Color*/
 body {
   h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1{
@@ -165,11 +169,27 @@ body {
   font-weight: 600;
 }
 
-/*=======================================
-   OTHER MANUAL STYLE FIXES
-  ======================================*/
+/* =========================================================
+   CUSTOM SIZE TOKENS
+   Match local Obsidian snippet behavior
+   ========================================================= */
 
-/* DG: make explicit 4-column callouts actually fit four children */
+img[alt~="ht-sm"] {
+    height: 150px !important;
+    max-height: none !important;
+}
+
+img[alt~="wt-sm"] {
+    width: 25% !important;
+    max-width: 25% !important;
+}
+
+
+/* =========================================================
+   FOUR-COLUMN CALLOUT COMPATIBILITY
+   DG currently wraps this 3 + 1 instead of keeping 4 across
+   ========================================================= */
+
 .callout[data-callout="columns"][data-callout-metadata~="4"]
 > .callout-content {
     display: grid !important;
@@ -177,7 +197,7 @@ body {
     gap: 2px !important;
 }
 
-/* Nested cards must be allowed to shrink below ITS infobox defaults */
+/* Allow the nested cards to actually shrink into those columns. */
 .callout[data-callout="columns"][data-callout-metadata~="4"]
 > .callout-content
 > .callout {
@@ -187,7 +207,30 @@ body {
     margin: 0 !important;
 }
 
-/* END MANUAL ENTRY */
+/* =========================================================
+            uuuuuuuuuuuuuuuuuuuu
+          u" uuuuuuuuuuuuuuuuuu "u
+        u" u$$$$$$$$$$$$$$$$$$$$u "u
+      u" u$$$$$$$$$$$$$$$$$$$$$$$$u "u
+    u" u$$$$$$$$$$$$$$$$$$$$$$$$$$$$u "u
+  u" u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$u "u
+u" u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$u "u
+$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $
+$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $
+$ $$$" ... "$...  ...$" ... "$$$  ... "$$$ $
+$ $$$u `"$$$$$$$  $$$  $$$$$  $$  $$$  $$$ $
+$ $$$$$$uu "$$$$  $$$  $$$$$  $$  """ u$$$ $
+$ $$$""$$$  $$$$  $$$u "$$$" u$$  $$$$$$$$ $
+$ $$$$....,$$$$$..$$$$$....,$$$$..$$$$$$$$ $
+$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $
+"u "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" u"
+  "u "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" u"
+    "u "$$$$$$$$$$$$$$$$$$$$$$$$$$$$" u"
+      "u "$$$$$$$$$$$$$$$$$$$$$$$$" u"
+        "u "$$$$$$$$$$$$$$$$$$$$" u"
+          "u """""""""""""""""" u"
+            """"""""""""""""""""
+============================================================ */
 
 /*Image Adjustments*/
 
