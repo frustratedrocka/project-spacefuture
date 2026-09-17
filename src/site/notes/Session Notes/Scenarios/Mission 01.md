@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T03:41:17.665-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T03:52:40.528-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
 ---
 
 ## Summary
@@ -64,8 +64,9 @@ views:
 { .block-language-dataview}
 
 ## Locations
-| File Name | Type | Faction | Control | Presence |
-| --------- | ---- | ------- | ------- | -------- |
+| File Name                                 | Type                                | Faction                                 | Control               | Presence             |
+| ----------------------------------------- | ----------------------------------- | --------------------------------------- | --------------------- | -------------------- |
+| [[Database/Things/Fishbone\|Fishbone]] | [[Database/Glossary/Ship\|Ship]] | [[Database/Factions/Rebels\|Rebels]] | Closest Thing To Home | <ul><li>\-</li></ul> |
 
 { .block-language-dataview}
 
