@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T04:04:08.741-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T04:07:06.596-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
 ---
 
 ## Summary
@@ -40,30 +40,21 @@ views:
 
 ## NPCs
 > [!cards|dataview collapse 4 img-tiny]
->  | Portrait                                          | NPC                                                         |
-> | ------------------------------------------------- | ----------------------------------------------------------- |
-> | ![Admin/Attachments/Saul_Tigh.jpg\|sban cover](/img/user/Admin/Attachments/Saul_Tigh.jpg)  | **[[Database/People/The XO\|The XO]]**                   |
-> | ![Admin/Attachments/Vantrin_SQ.png\|sban cover](/img/user/Admin/Attachments/Vantrin_SQ.png) | **[[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]** |
+>  | Portrait | NPC |
+> | -------- | --- |
 > 
 { .block-language-dataview}
 
 ## Mobile Suits
 > [!cards|dataview collapse 6 img-tiny]
->  | Portrait                                                   | Mobile Suit                                                           |
-> | ---------------------------------------------------------- | --------------------------------------------------------------------- |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)         | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**             |
-> | ![Admin/Attachments/HopliteCustom_SQ.png\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.png)    | **[[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]**       |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker]]**       |
-> | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)         | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                 |
-> | ![Admin/Attachments/Akoni_SQ.png\|sban cover](/img/user/Admin/Attachments/Akoni_SQ.png)            | **[[Database/Mobile Suits/SE-832 Akoni\|Akoni]]**                  |
-> | ![Admin/Attachments/Akoni-E_SQ.png\|sban cover](/img/user/Admin/Attachments/Akoni-E_SQ.png)          | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|Akoni-E]]** |
+>  | Portrait | Mobile Suit |
+> | -------- | ----------- |
 > 
 { .block-language-dataview}
 
 ## Locations
-| File Name                                 | Type                                | Faction                                 | Control               | Presence             |
-| ----------------------------------------- | ----------------------------------- | --------------------------------------- | --------------------- | -------------------- |
-| [[Database/Things/Fishbone\|Fishbone]] | [[Database/Glossary/Ship\|Ship]] | [[Database/Factions/Rebels\|Rebels]] | Closest Thing To Home | <ul><li>\-</li></ul> |
+| File Name | Type | Faction | Control | Presence |
+| --------- | ---- | ------- | ------- | -------- |
 
 { .block-language-dataview}
 
