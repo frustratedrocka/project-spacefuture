@@ -41,10 +41,9 @@ views:
 
 ## NPCs
 > [!cards|dataview 4]
->  | Portrait                                            | NPC                                       |
-> | --------------------------------------------------- | ----------------------------------------- |
-> | ![Admin/Attachments/Saul_Tigh.jpg\|Saul_Tigh.jpg](/img/user/Admin/Attachments/Saul_Tigh.jpg) | [[Database/People/The XO\|The XO]]     |
-> | ![Admin/Attachments/PCShip.webp\|PCShip.webp](/img/user/Admin/Attachments/PCShip.webp)     | [[Database/Things/Fishbone\|Fishbone]] |
+>  | Portrait                                        | NPC                                       |
+> | ----------------------------------------------- | ----------------------------------------- |
+> | ![Admin/Attachments/PCShip.webp\|PCShip.webp](/img/user/Admin/Attachments/PCShip.webp) | [[Database/Things/Fishbone\|Fishbone]] |
 > 
 { .block-language-dataview}
 ## Mobile Suits
