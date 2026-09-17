@@ -35,12 +35,12 @@ The current mission is simple: Intercept excess food shipments and redirect them
 
 
 >[!cards|dataview 4 collapse img-tiny]
->  | Portrait                                                                | Player Character                                                  |
-> | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
-> | ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)                     | **[[Player Characters/August Grier\|August Grier]]**           |
-> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                       | **[[Player Characters/Lane Gable\|Lane Gable]]**               |
-> | ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)                 | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** |
-> | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | **[[Player Characters/Vergen Koni\|Vergen Koni]]**             |
+>  | Portrait                                                                | Player Character                                                  | Concept                       |
+> | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------- |
+> | ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)                     | **[[Player Characters/August Grier\|August Grier]]**           | No-Longer-A-Child Soldier     |
+> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                       | **[[Player Characters/Lane Gable\|Lane Gable]]**               | Pirate Turned Freedom Fighter |
+> | ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)                 | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** | Hive-Linked Lunarian Refugee  |
+> | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | **[[Player Characters/Vergen Koni\|Vergen Koni]]**             | Mind's Eye Protector          |
 > 
 { .block-language-dataview}
 
@@ -316,9 +316,10 @@ views:
 
 
 >[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                          | Name                                                              |
-> | ----------------------------------------------------- | ----------------------------------------------------------------- |
-> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png) | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]** |
+>  | Mobile Suits                                                            | Name                                                                                |
+> | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png)                   | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
+> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]** |
 > 
 { .block-language-dataview}
 

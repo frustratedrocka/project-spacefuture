@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ut-f-08-s-hoplite-striker/","tags":["Mech"],"noteIcon":"","updated":"2026-09-17T05:33:42.728-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Striker","MECH_Model":"[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]","Portrait":"[[Admin/Attachments/Hoplite_Striker_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Heavy Assault Line Mech","MECH_Trouble":"Lacks Fine Control","MECH_Gear":["Shoulder Missle Rack","Shotgun"],"MECH_Stunts":["**STUNT** Description","**STUNT** Description"],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Armada Ejecta]]"],"Variants":[null],"Base":["[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ut-f-08-s-hoplite-striker/","tags":["Mech"],"noteIcon":"","updated":"2026-09-17T15:52:27.676-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Striker","MECH_Model":"[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]","Portrait":"[[Admin/Attachments/Hoplite_Striker_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Heavy Assault Line Mech","MECH_Trouble":"Lacks Fine Control","MECH_Gear":["Shoulder Missle Rack","Shotgun"],"MECH_Stunts":["**STUNT** Description","**STUNT** Description"],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Jovian Consortium]]"],"Variants":[null],"Base":["[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
 ---
 
 
@@ -9,7 +9,7 @@
 > 
 > |  |  |
 > |--|--|
-> |**FACTION**| [[United Terran Sphere Navy\|United Terran Sphere Navy]]<br>[[Database/Factions/Armada Ejecta\|Armada Ejecta]]|
+> |**FACTION**| [[United Terran Sphere Navy\|United Terran Sphere Navy]]<br>[[Database/Factions/Armada Ejecta\|Armada Ejecta]]<br>[[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
 > |**KNOWN PILOTS**|\-|
 > |**BASE MODEL**|[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]|
 
