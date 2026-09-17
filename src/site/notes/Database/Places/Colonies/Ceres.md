@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-09-15T17:46:14.372-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Faction_Presence":null,"Control":"Home / Headquarters","faction_Presence":null,"Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-09-17T13:53:24.737-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Faction_Presence":null,"Control":"Home / Headquarters","Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null]}}
 ---
 
 
@@ -13,6 +13,14 @@
 > |Leadership|[[Database/Factions/Apsis\|Apsis]]|
 > |Status|Home / Headquarters|
 > |Interest||
+
+| Aspects                         |
+| ------------------------------- |
+| Nerve Center of the Sol System  |
+| As Awful As It Is Indispensable |
+
+{ .block-language-dataview}
+
 
 Humanity's oldest colony in [[Database/Glossary/The Belt\|The Belt]]. The decade following [[Database/History/The Ground War\|The Ground War]] has seen it largely taken over by [[Database/Factions/Apsis\|Apsis]]. What was once the farthest into the frontier humanity had ever reached is now the core logistical and manufacturing hub that keeps the calories flowing and the solar system fed. 
 

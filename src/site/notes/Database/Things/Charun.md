@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/charun/","tags":["location","lore"],"noteIcon":"","updated":"2026-09-14T07:25:00.727-04:00","dg-note-properties":{"tags":["location","lore"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":[["Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif"]]}}
+{"dg-publish":true,"permalink":"/database/things/charun/","tags":["location","lore"],"noteIcon":"","updated":"2026-09-17T13:45:31.433-04:00","dg-note-properties":{"tags":["location","lore"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":[["Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif"]]}}
 ---
 
 
@@ -27,6 +27,8 @@
 Getting to and from the [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] sphere is not a fast process. It's hardly impossible, but it's a commitment, especially depending on where you happen to be relative to its 12-year solar orbit. 
 
 A sufficiently powerful ship can make the trip on its own; many do. For everyone else, there's the Charun-class ferries. These gargantuan transports never actually stop, they just slow down to turn around and let smaller ships dock and undock in / near [[Database/Glossary/The Belt\|The Belt]], then redirect their momentum back out towards Jupiter. Jovebound ships undock close enough to maneuver and slow down on their own, beltbound ships dock on the second half of the approach, then the ferry swings around the night side of the gas giant, is refuelled in motion by a dedicated platform, and slingshots back towards the sun. 
+
+There are five of them, all on staggered schedules. A charun arrives at Jupiter or somewhere in the Belt *roughly* every two weeks.
 
 
 

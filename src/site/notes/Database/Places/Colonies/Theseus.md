@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-15T17:46:36.869-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.jpg"}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-17T13:49:33.439-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.jpg","Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 > [!INFOBOX|ws-med] Theseus
@@ -12,6 +12,11 @@
 > |Leadership|[[Database/Factions/Independent\|Independent]]|
 > |Status|Under The Radar|
 > |Interest|[[Database/Factions/Republic Of Mars\|Republic Of Mars]], [[Database/Factions/Apsis\|Apsis]]|
+
+| Aspects |
+| ------- |
+
+{ .block-language-dataview}
 
 # Discord Genesis
 >[!cite|bg-c-red] [[Player Characters/Vergen Koni\|Vergen Koni]]

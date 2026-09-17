@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T13:02:51.437-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T13:34:23.252-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
@@ -8,8 +8,10 @@
 ## Where Are You
 Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], serving as Second Wing. 
 
+**[[Database/Things/Fishbone\|Fishbone]]** - Rebel Destroyer, Courtesy Of Jupiter
+
 ## What Are You Doing
-Hitting the combat sim to get some training and practice in as you await orders from [[Rebel Command\|Rebel Command]] and try to stay ahead of the pursuing [[Database/Things/Brynhildr\|Brynhildr]].
+Something every soldier's familiar with: "Hurry up and wait." Pending orders from [[Rebel Command\|Rebel Command]] and try to stay ahead of the pursuing [[Database/Things/Brynhildr\|Brynhildr]]. 
 
 # Previously On Zero Sum
 - This is a test, you should be able to read this
@@ -29,15 +31,19 @@ Hitting the combat sim to get some training and practice in as you await orders 
 { .block-language-dataview}
 
 # Campaign Aspects
-## Current Issues
-- "What Will You Compromise For A Righteous Cause?"
-- "Finally, Barely, Enough To Go Around"
-- "Disparate & Unstable Rebel Coalition"
-- "Affiliation Is Not Allegiance"
-## Impending Issues
-- "Old Conflicts Dormant, Not Dead"
-- "Lurking Shadow Of The [[Database/Factions/Hive Cult\|Hive Cult]]"
-- "Who Gets To Write The Future?"
+
+>[!columns|2 no-t]
+>
+>> ## Current Issues
+>> - "What Will You Compromise For A Righteous Cause?"
+>> - "Finally, Barely, Enough To Go Around"
+>> - "Disparate & Unstable Rebel Coalition"
+>> - "Affiliation Is Not Allegiance"
+>
+>> ## Impending Issues
+>> - "Old Conflicts Dormant, Not Dead"
+>> - "Lurking Shadow Of The [[Database/Factions/Hive Cult\|Hive Cult]]"
+>> - "Who Gets To Write The Future?"
 
 # Links & OVERVIEWS
 > [!cards|4]

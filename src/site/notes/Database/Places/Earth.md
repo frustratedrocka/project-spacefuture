@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-15T17:47:00.716-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"No Man's Land","Faction_Presence":["[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Mindful Eyes]]","[[Database/Factions/Hive Cult]]","[[Database/Factions/Republic Of Mars]]"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg","aliases":["Luna"]}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-17T13:48:58.700-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"No Man's Land","Faction_Presence":["[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Mindful Eyes]]","[[Database/Factions/Hive Cult]]","[[Database/Factions/Republic Of Mars]]"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg","Concept":"Humanity's Cradle Turned Life Support","Trouble":"Nuclear Winter","Aspects":["Being Strip-Mined For Fertile Soil","Access Restricted By Apsis"],"aliases":["Luna"]}}
 ---
 
 > [!INFOBOX] Earth
@@ -12,6 +12,17 @@
 > |Leadership|[[Database/Factions/Apsis\|Apsis]]|
 > |Status|No Man's Land|
 > |Interest|[[Database/Factions/Armada Ejecta\|Armada Ejecta]],[[Database/Factions/Mindful Eyes\|Mindful Eyes]],[[Database/Factions/Hive Cult\|Hive Cult]],[[Database/Factions/Republic Of Mars\|Republic Of Mars]]|
+
+| Aspects                               |
+| ------------------------------------- |
+| Humanity's Cradle Turned Life Support |
+| Nuclear Winter                        |
+| Being Strip-Mined For Fertile Soil    |
+| Access Restricted By Apsis            |
+
+{ .block-language-dataview}
+
+
 
 Earth is effectively gone - was the breadbasket, now effectively a non-player in solar politics after [[Database/History/The Ground War\|The Ground War]]. 
 

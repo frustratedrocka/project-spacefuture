@@ -95,13 +95,18 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - Type
+      - Concept
       - Faction
       - Control
       - Faction_Presence
     sort:
       - property: Control
         direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.Concept: 198
+      note.Faction: 175
+      note.Control: 140
 
 ```
 
@@ -207,13 +212,18 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - Type
+      - Concept
       - Faction
       - Control
       - Faction_Presence
     sort:
       - property: Control
         direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.Concept: 198
+      note.Faction: 175
+      note.Control: 140
 
 ```
 
@@ -317,13 +327,18 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - Type
+      - Concept
       - Faction
       - Control
       - Faction_Presence
     sort:
       - property: Control
         direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.Concept: 198
+      note.Faction: 175
+      note.Control: 140
 
 ```
 
@@ -431,13 +446,18 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - Type
+      - Concept
       - Faction
       - Control
       - Faction_Presence
     sort:
       - property: Control
         direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.Concept: 198
+      note.Faction: 175
+      note.Control: 140
 
 ```
 
@@ -533,13 +553,18 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - Type
+      - Concept
       - Faction
       - Control
       - Faction_Presence
     sort:
       - property: Control
         direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.Concept: 198
+      note.Faction: 175
+      note.Control: 140
 
 ```
 
@@ -645,13 +670,18 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - Type
+      - Concept
       - Faction
       - Control
       - Faction_Presence
     sort:
       - property: Control
         direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.Concept: 198
+      note.Faction: 175
+      note.Control: 140
 
 ```
 
@@ -752,13 +782,18 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - Type
+      - Concept
       - Faction
       - Control
       - Faction_Presence
     sort:
       - property: Control
         direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.Concept: 198
+      note.Faction: 175
+      note.Control: 140
 
 ```
 
@@ -843,13 +878,18 @@ views:
     name: Associated Locations
     order:
       - file.name
-      - Type
+      - Concept
       - Faction
       - Control
       - Faction_Presence
     sort:
       - property: Control
         direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.Concept: 198
+      note.Faction: 175
+      note.Control: 140
 
 ```
 
