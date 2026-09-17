@@ -199,11 +199,27 @@ img[alt~="wt-sm"] {
 }
 
 
-/* DG inserts a whitespace-only paragraph before nested Columns items.
-   Don't let that consume column 1. */
+// /* DG inserts a whitespace-only paragraph before nested Columns items.
+//    Don't let that consume column 1. */
+// .callout[data-callout*="column"]
+// > .callout-content
+// > p:first-child:not(:has(*)):has(+ .callout) {
+//     display: none !important;
+// }
+
+/* DG may insert an empty paragraph before Columns content. */
 .callout[data-callout*="column"]
 > .callout-content
-> p:first-child:not(:has(*)):has(+ .callout) {
+> p:first-child:not(:has(*)):has(+ :is(blockquote, .callout)) {
+    display: none !important;
+}
+
+
+/* DG may insert an empty paragraph after Columns content. */
+.callout[data-callout*="column"]
+> .callout-content
+> :is(blockquote, .callout)
++ p:last-child:not(:has(*)) {
     display: none !important;
 }
 
