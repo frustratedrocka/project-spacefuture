@@ -277,6 +277,16 @@ img[alt~="wt-sm"] {
     border-radius: var(--callout-cards-notion-radius);
     box-shadow: var(--callout-cards-notion-shadow);
 }
+
+
+/* DG wraps optimized Dataview images in <picture>.
+   Prevent its <source>/whitespace content from creating an empty line. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content
+table td > picture {
+    display: block;
+    line-height: 0;
+}
 /* =========================================================
             uuuuuuuuuuuuuuuuuuuu
           u" uuuuuuuuuuuuuuuuuu "u
