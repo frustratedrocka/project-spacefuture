@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T19:12:17.086-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]"}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T20:59:46.942-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
@@ -36,6 +36,33 @@ views:
 ```
 
 
+
+> [!columns|4 no-t]
+> 
+>> [!infobox|wfull no-t] 
+>> # [[Player Characters/August Grier\|Auggie]]
+>> ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)
+>>> [!caption]
+>>> No-Longer-A-Child Soldier
+>> [[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]
+>
+>> [!infobox|wfull no-t] 
+>> # [[Player Characters/Lane Gable\|Lane]]
+>> ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)
+>>> [!caption]
+>>> Pirate Turned Freedom Fighter
+>
+>> [!infobox|wfull no-t] 
+>> # [[Player Characters/Menodora Thaliana\|Mena]]
+>> ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)
+>>> [!caption]
+>>> Hive-Linked Lunarian Refugee
+>
+>> [!infobox|wfull no-t] 
+>> # [[Player Characters/Vergen Koni\|Verg]]
+>> ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png)
+>>> [!caption]
+>>> Mind's Eye Protector
 
 # Campaign Aspects
 ## Current Issues
