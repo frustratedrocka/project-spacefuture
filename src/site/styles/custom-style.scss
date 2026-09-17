@@ -92,82 +92,82 @@ body {
    ITS-style Dataview card grids on Digital Garden
    ================================================================ */
 
-.callout[data-callout="cards"] {
-  background: transparent;
-  border: 0;
-  padding: 0;
-}
+// .callout[data-callout="cards"] {
+//   background: transparent;
+//   border: 0;
+//   padding: 0;
+// }
 
-.callout[data-callout="cards"] > .callout-title {
-  display: none;
-}
+// .callout[data-callout="cards"] > .callout-title {
+//   display: none;
+// }
 
-.callout[data-callout="cards"] .callout-content {
-  padding: 0;
-}
+// .callout[data-callout="cards"] .callout-content {
+//   padding: 0;
+// }
 
-/* Dataview has already been compiled into an ordinary Markdown table
-   by the time Digital Garden renders the page. */
-.callout[data-callout="cards"] table {
-  display: block;
-  width: 100%;
-  margin: 0;
-}
+// /* Dataview has already been compiled into an ordinary Markdown table
+//    by the time Digital Garden renders the page. */
+// .callout[data-callout="cards"] table {
+//   display: block;
+//   width: 100%;
+//   margin: 0;
+// }
 
-.callout[data-callout="cards"] thead {
-  display: none;
-}
+// .callout[data-callout="cards"] thead {
+//   display: none;
+// }
 
-.callout[data-callout="cards"] tbody {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, 160px);
-  gap: 0.8rem;
-  width: 100%;
-  justify-content: start;
-}
+// .callout[data-callout="cards"] tbody {
+//   display: grid;
+//   grid-template-columns: repeat(auto-fill, 160px);
+//   gap: 0.8rem;
+//   width: 100%;
+//   justify-content: start;
+// }
 
-.callout[data-callout="cards"] tr {
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
+// .callout[data-callout="cards"] tr {
+//   display: flex;
+//   flex-direction: column;
+//   overflow: hidden;
 
-  border: 1px solid var(--background-modifier-border);
-  border-radius: 8px;
+//   border: 1px solid var(--background-modifier-border);
+//   border-radius: 8px;
 
-  background: var(--background-secondary);
-}
+//   background: var(--background-secondary);
+// }
 
-.callout[data-callout="cards"] td {
-  display: block;
-  width: auto;
-  padding: 0.4rem 0.6rem;
-  border: 0;
-  text-align: center;
-}
+// .callout[data-callout="cards"] td {
+//   display: block;
+//   width: auto;
+//   padding: 0.4rem 0.6rem;
+//   border: 0;
+//   text-align: center;
+// }
 
-/* Portrait/image cell */
-.callout[data-callout="cards"] td:first-child {
-  padding: 0;
-}
+// /* Portrait/image cell */
+// .callout[data-callout="cards"] td:first-child {
+//   padding: 0;
+// }
 
-.callout[data-callout="cards"] td:first-child img {
-  display: block;
-  width: 100%;
-  max-width: none;
+// .callout[data-callout="cards"] td:first-child img {
+//   display: block;
+//   width: 100%;
+//   max-width: none;
 
-  aspect-ratio: 1.6 / 1;
-  object-fit: cover;
-  object-position: center;
+//   aspect-ratio: 1.6 / 1;
+//   object-fit: cover;
+//   object-position: center;
   
 
-  margin: 0;
-}
+//   margin: 0;
+// }
 
-/* Name underneath portrait */
-.callout[data-callout="cards"] td:last-child {
-  padding: 0.55rem;
-  font-weight: 600;
-}
+// /* Name underneath portrait */
+// .callout[data-callout="cards"] td:last-child {
+//   padding: 0.55rem;
+//   font-weight: 600;
+// }
 
 /* =========================================================
    CUSTOM SIZE TOKENS
@@ -184,32 +184,23 @@ img[alt~="wt-sm"] {
     max-width: 25% !important;
 }
 
-
 /* =========================================================
-   FOUR-COLUMN CALLOUT COMPATIBILITY
-   DG currently wraps this 3 + 1 instead of keeping 4 across
+   DG / ITS LAYOUT COMPATIBILITY
    ========================================================= */
 
-.callout[data-callout="columns"][data-callout-metadata~="4"]
-> .callout-content {
-    display: grid !important;
-    grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
-    gap: 2px !important;
-}
-
-/* Allow the nested cards to actually shrink into those columns. */
-.callout[data-callout="columns"][data-callout-metadata~="4"]
+/* Nested layout items must be allowed to shrink with their grid track. */
+.callout:is(
+    [data-callout*="column"],
+    [data-callout~="cards"]
+)
 > .callout-content
 > .callout {
     min-width: 0 !important;
-    width: auto !important;
-    max-width: none !important;
-    margin: 0 !important;
 }
 
-/* DG inserts a whitespace-only paragraph before nested callouts.
-   Don't let it consume a grid cell. */
-.callout[data-callout="columns"]
+/* DG inserts a whitespace-only paragraph before nested Columns items.
+   Don't let that consume column 1. */
+.callout[data-callout*="column"]
 > .callout-content
 > p:first-child:not(:has(*)):has(+ .callout) {
     display: none !important;
