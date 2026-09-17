@@ -198,16 +198,19 @@ img[alt~="wt-sm"] {
     min-width: 0 !important;
 }
 
+
 /* DG may insert a whitespace-only paragraph before nested layout items.
    Don't let it consume the first grid cell in Columns or ordinary Cards. */
-.callout:is(
-    [data-callout*="column"],
-    [data-callout~="cards"]:not([data-callout-metadata~="dataview"])
-)
+.callout[data-callout*="column"]
 > .callout-content
-> p:first-child:not(:has(*)):has(+ .callout) {
+> p:first-child:not(:has(*)):has(+ .callout),
+
+.callout[data-callout~="cards"]:not([data-callout-metadata~="dataview"])
+> .callout-content
+> p:first-child:not(:has(*)):has(+ p:has(*)) {
     display: none !important;
 }
+
 
 /* ================================================================
    DG → ITS DATAVIEW CARDS ADAPTER
