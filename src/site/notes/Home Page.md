@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T14:05:50.493-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T14:16:23.069-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
@@ -8,7 +8,7 @@
 ## Where Are You
 Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], serving as Second Wing. 
 
-| Location                                  | Concept                              | Faction                                 | Control               | Faction_Presence     |
+| Place                                     | Concept                              | Faction                                 | Control               | Presence             |
 | ----------------------------------------- | ------------------------------------ | --------------------------------------- | --------------------- | -------------------- |
 | [[Database/Things/Fishbone\|Fishbone]] | Rebel Destroyer, Courtesy Of Jupiter | [[Database/Factions/Rebels\|Rebels]] | Closest Thing To Home | <ul><li>\-</li></ul> |
 
@@ -39,7 +39,6 @@ Something every soldier's familiar with: "Hurry up and wait." Pending orders fro
 # Campaign Aspects
 
 >[!columns|2 no-t]
->
 >> ## Current Issues
 >> - "What Will You Compromise For A Righteous Cause?"
 >> - "Finally, Barely, Enough To Go Around"
