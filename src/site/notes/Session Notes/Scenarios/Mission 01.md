@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T02:51:36.711-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T03:35:00.429-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
 ---
 
 ## Summary
@@ -42,12 +42,10 @@ views:
 ```
 ## NPCs
 > [!cards|dataview collapse 4 img-tiny]
->  | Portrait                                                                             | NPC                                                         |
-> | ------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-> | ![Admin/Attachments/GenericFeddie_SQ.png\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.png)                              | **[[Database/People/Delbrau Enger\|Delbrau Enger]]**     |
-> | ![Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.jpg\|sban cover](/img/user/Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.jpg) | **[[Database/People/Gen Bashaba\|Gen Bashaba]]**         |
-> | ![Admin/Attachments/Saul_Tigh.jpg\|sban cover](/img/user/Admin/Attachments/Saul_Tigh.jpg)                                     | **[[Database/People/The XO\|The XO]]**                   |
-> | ![Admin/Attachments/Vantrin_SQ.png\|sban cover](/img/user/Admin/Attachments/Vantrin_SQ.png)                                    | **[[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]** |
+>  | Portrait                                          | NPC                                                         |
+> | ------------------------------------------------- | ----------------------------------------------------------- |
+> | ![Admin/Attachments/Saul_Tigh.jpg\|sban cover](/img/user/Admin/Attachments/Saul_Tigh.jpg)  | **[[Database/People/The XO\|The XO]]**                   |
+> | ![Admin/Attachments/Vantrin_SQ.png\|sban cover](/img/user/Admin/Attachments/Vantrin_SQ.png) | **[[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]** |
 > 
 { .block-language-dataview}
 
