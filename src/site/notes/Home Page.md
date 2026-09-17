@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T12:54:07.231-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T12:57:42.532-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
@@ -56,10 +56,12 @@ The question is not whether you should be fighting. The question is what you're 
 Remember: hang together, or hang separately.
 
 # Links & Resources
-> [!cards|3]
+> [!cards|4]
 >**[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)**
 > 
 >**[[Rules Hub\|Rules Hub]]**
+>
+>**[[Admin/Player Intake Form\|Player Survey]]**
 > 
 > **[[Admin/Lines & Veils\|Lines & Veils]]**
 > 
@@ -67,7 +69,11 @@ Remember: hang together, or hang separately.
 >
 >**[[The Story So Far\|The Story So Far]]**
 >
+>**[[Database/History/Emergent Century\|EC Timeline]]**
+>
 >**[[Solar Map\|Solar Map]]**
+>
+>
 
 ## Rules
 The rules for this specific game are still under construction. For anything not yet present (i.e. marked with a #TODO tag), please check the SRDs (included). Start with [[Rules/Fate SRD/Fate Condensed (UNEDITED SRD)\|Fate Condensed (UNEDITED SRD)]], if that doesn't have what you're looking for try [[Rules/Fate SRD/Fate Core (UNEDITED SRD)\|Fate Core (UNEDITED SRD)]], if you're still stuck check [[Rules/Fate SRD/Fate Accelerated (UNEDITED SRD)\|Fate Accelerated (UNEDITED SRD)]], and if none of those have what you need, then ask the GM to hurry up and write the rules already please and thank you.
