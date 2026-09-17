@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T14:19:59.828-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T21:47:52.484-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
 ---
 
 ## Summary
@@ -47,23 +47,21 @@ views:
 > | ![Admin/Attachments/PCShip.webp\|PCShip.webp](/img/user/Admin/Attachments/PCShip.webp)     | [[Database/Things/Fishbone\|Fishbone]] |
 > 
 { .block-language-dataview}
-
-
 ## Mobile Suits
 > [!cards|dataview 4]
->  | Portrait                                                                | Mobile Suit                                                                 |
-> | ----------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-> | ![Admin/Attachments/GM-II-AEUG_SQ.png\|GM-II-AEUG_SQ.png](/img/user/Admin/Attachments/GM-II-AEUG_SQ.png)             | [[Database/Factions/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]] |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]                       |
-> | ![Admin/Attachments/HopliteCustom_SQ.png\|HopliteCustom_SQ.png](/img/user/Admin/Attachments/HopliteCustom_SQ.png)       | [[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]                 |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | [[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]             |
-> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                 | [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]                           |
-> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png)                   | [[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]               |
+>  | Portrait                                                                | Mobile Suit                                                                     |
+> | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]                           |
+> | ![Admin/Attachments/HopliteCustom_SQ.png\|HopliteCustom_SQ.png](/img/user/Admin/Attachments/HopliteCustom_SQ.png)       | [[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]                     |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | [[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]                 |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                 | [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]                               |
+> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png)                   | [[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]                   |
+> | ![Admin/Attachments/GM-II-AEUG_SQ.png\|GM-II-AEUG_SQ.png](/img/user/Admin/Attachments/GM-II-AEUG_SQ.png)             | [[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]] |
 > 
 { .block-language-dataview}
 
 ## Locations
-| Name                                             | Type                                    | Faction                                                     | Control                 | Presence                                                                                                                                                                                                                                                          |
+| File Name                                        | Type                                    | Faction                                                     | Control                 | Presence                                                                                                                                                                                                                                                          |
 | ------------------------------------------------ | --------------------------------------- | ----------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Database/Places/Colonies/Arjuna\|Arjuna]]   | [[Database/Glossary/Colony\|Colony]] | [[Database/Factions/Rebels\|Rebels]]                     | Contested               | <ul><li>[[Database/Factions/Republic Of Mars\|ROM]]</li></ul>                                                                                                                                                                                                 |
 | [[Database/Places/Colonies/Theseus\|Theseus]] | [[Database/Glossary/Colony\|Colony]] | [[Database/Factions/Independent\|Independent]]           | Under The Radar         | <ul><li>[[Database/Factions/Republic Of Mars\|Republic Of Mars]]</li><li>[[Database/Factions/Apsis\|Apsis]]</li></ul>                                                                                                                                     |
