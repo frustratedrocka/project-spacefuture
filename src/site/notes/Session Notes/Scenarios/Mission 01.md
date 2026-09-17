@@ -57,7 +57,7 @@ views:
 > | ---------------------------------------------------------- | --------------------------------------------------------------------- |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)         | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**             |
 > | ![Admin/Attachments/HopliteCustom_SQ.png\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.png)    | **[[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]**       |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]**   |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker]]**       |
 > | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)         | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                 |
 > | ![Admin/Attachments/Akoni_SQ.png\|sban cover](/img/user/Admin/Attachments/Akoni_SQ.png)            | **[[Database/Mobile Suits/SE-832 Akoni\|Akoni]]**                  |
 > | ![Admin/Attachments/Akoni-E_SQ.png\|sban cover](/img/user/Admin/Attachments/Akoni-E_SQ.png)          | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|Akoni-E]]** |
