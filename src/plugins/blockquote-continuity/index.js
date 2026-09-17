@@ -3,20 +3,18 @@
 /*
  * Digital Garden Blockquote Continuity Fix
  *
- * Repairs publisher-generated blocks that escape from the blockquote/callout
- * containing the embed or query that generated them.
+ * Repairs two related classes of publisher damage:
  *
- * IMPORTANT:
- * This hook is candidate-gated, not note-setting-gated.
+ *   1. DG-generated blocks (Dataview markers, expanded note embeds, Base
+ *      embeds) that lose the blockquote depth of the source line they replaced.
  *
- * Digital Garden exposes plugin noteSettings to template rendering, but does
- * not document them as resolved per-note values inside setupMarkdown hooks.
- * Requiring a per-note flag here caused the hook to load successfully and then
- * silently skip every page.
+ *   2. Naked blank lines left between quoted regions. In CommonMark, those
+ *      blank lines close the current blockquote, so the next `>` starts a new
+ *      blockquote even when nothing actually occurred outside the quote.
  *
- * Instead, the plugin itself is the global on/off switch. On each Markdown
- * render it performs only three cheap substring checks first. Pages containing
- * none of the known broken generated structures return immediately.
+ * The plugin is globally enabled when enabled in Digital Garden's plugin menu,
+ * but candidate-gated: pages containing none of the relevant structures return
+ * immediately after a few cheap substring checks.
  */
 
 const MAX_REPAIR_PASSES = 12;
@@ -25,14 +23,19 @@ const DATAVIEW_MARKER =
   /^\s*\{\s*\.block-language-dataview\s*\}\s*$/;
 
 function looksLikeRepairCandidate(source) {
-  if (typeof source !== "string" || source.length === 0) {
+  if (
+    typeof source !== "string" ||
+    source.length === 0
+  ) {
     return false;
   }
 
   return (
     source.includes(".block-language-dataview") ||
     source.includes("transclusion internal-embed is-loaded") ||
-    source.includes("```base")
+    source.includes("```base") ||
+    source.includes("\n>\n") ||
+    source.includes("\n> \n")
   );
 }
 
@@ -44,7 +47,9 @@ function splitQuotePrefix(line) {
   const input = String(line);
   let index = 0;
 
-  /* CommonMark permits up to three spaces before a blockquote marker. */
+  /*
+   * CommonMark permits up to three spaces before a blockquote marker.
+   */
   while (
     index < input.length &&
     index < 3 &&
@@ -149,6 +154,18 @@ function addQuoteLevels(
 
 function contentWithoutQuotePrefix(line) {
   return splitQuotePrefix(line).content;
+}
+
+function isCalloutDeclaration(line) {
+  const parsed =
+    splitQuotePrefix(line);
+
+  return (
+    parsed.depth > 0 &&
+    /^\s*\[![^\]]+\]/.test(
+      parsed.content
+    )
+  );
 }
 
 function isTransclusionOpen(line) {
@@ -287,7 +304,11 @@ function addQuoteLevelsToRange(
   }
 }
 
-function repairOnePass(lines) {
+/*
+ * Repair one known DG-generated block whose immediately preceding quoted
+ * placeholder tells us the quote depth it should have inherited.
+ */
+function repairGeneratedBlocksOnePass(lines) {
   let repairs = 0;
 
   for (
@@ -295,11 +316,6 @@ function repairOnePass(lines) {
     i < lines.length;
     i++
   ) {
-    /*
-     * DG leaves behind a quoted blank placeholder immediately before the
-     * generated block. That line tells us the quote depth the generated block
-     * should have inherited.
-     */
     const targetDepth =
       quoteOnlyDepth(
         lines[i - 1]
@@ -329,7 +345,7 @@ function repairOnePass(lines) {
       );
 
     /*
-     * 1. Dataview's generated trailing attribute marker escapes the quote.
+     * 1. Dataview's generated trailing attribute marker.
      */
     if (
       DATAVIEW_MARKER.test(content)
@@ -345,11 +361,7 @@ function repairOnePass(lines) {
     }
 
     /*
-     * 2. Expanded note transclusion escapes the quote.
-     *
-     * Repair the complete wrapper so embedded ordinary prose, callouts,
-     * tables, Bases, Dataview, and nested transclusions all inherit the
-     * missing outer quote depth.
+     * 2. Expanded note transclusion.
      */
     if (
       isTransclusionOpen(
@@ -377,9 +389,7 @@ function repairOnePass(lines) {
     }
 
     /*
-     * 3. A .base embed is expanded to a naked ```base fence.
-     *
-     * Repair the whole fence, not only its opening line.
+     * 3. A .base embed expanded to a naked ```base fence.
      */
     const fenceLength =
       getBaseFenceLength(
@@ -410,6 +420,126 @@ function repairOnePass(lines) {
   return repairs;
 }
 
+/*
+ * Repair naked blank-line runs between quoted regions.
+ *
+ * Example after repairing a generated Base:
+ *
+ *     > ```
+ *
+ *     > ## Appearing
+ *
+ * CommonMark sees the naked blank line as the end of the first blockquote, so
+ * the heading begins a brand-new blockquote. If NOTHING except blank lines lies
+ * between two quoted regions, preserve their shared quote ancestry instead.
+ *
+ * The inserted depth is the shallower of the two sides:
+ *
+ *     >> child content
+ *
+ *     > parent content
+ *
+ * becomes:
+ *
+ *     >> child content
+ *     >
+ *     > parent content
+ *
+ * which closes only the child quote and keeps the parent quote alive.
+ *
+ * Exception: a callout declaration at the same-or-shallower depth intentionally
+ * starts a new callout, so do not bridge into it.
+ */
+function repairBlankContinuityOnePass(lines) {
+  let repairs = 0;
+  let i = 1;
+
+  while (i < lines.length - 1) {
+    if (lines[i].trim() !== "") {
+      i++;
+      continue;
+    }
+
+    const runStart = i;
+
+    while (
+      i < lines.length &&
+      lines[i].trim() === ""
+    ) {
+      i++;
+    }
+
+    const runEnd = i - 1;
+
+    if (
+      runStart === 0 ||
+      i >= lines.length
+    ) {
+      continue;
+    }
+
+    const previous =
+      splitQuotePrefix(
+        lines[runStart - 1]
+      );
+
+    const next =
+      splitQuotePrefix(
+        lines[i]
+      );
+
+    if (
+      previous.depth === 0 ||
+      next.depth === 0
+    ) {
+      continue;
+    }
+
+    const continuityDepth =
+      Math.min(
+        previous.depth,
+        next.depth
+      );
+
+    if (continuityDepth === 0) {
+      continue;
+    }
+
+    /*
+     * Same-level (or shallower) [!callout] means "new callout", exactly the
+     * explicit boundary we do not want to erase.
+     *
+     * A deeper callout is nested inside the existing quote, so preserving the
+     * outer depth is still correct.
+     */
+    if (
+      isCalloutDeclaration(
+        lines[i]
+      ) &&
+      next.depth <= previous.depth
+    ) {
+      continue;
+    }
+
+    const marker =
+      ">".repeat(
+        continuityDepth
+      );
+
+    for (
+      let j = runStart;
+      j <= runEnd;
+      j++
+    ) {
+      lines[j] = marker;
+    }
+
+    repairs++;
+  }
+
+  return repairs;
+}
+
 function repairBlockquoteContinuity(source) {
   const input =
     String(source);
@@ -422,25 +552,38 @@ function repairBlockquoteContinuity(source) {
   const lines =
     input.split(/\r?\n/);
 
-  let totalRepairs = 0;
+  let generatedRepairs = 0;
+  let continuityRepairs = 0;
 
   /*
-   * Repeating to stability lets a repaired outer transclusion expose a nested
-   * broken quote depth on the next pass without special recursive code.
+   * Repeat to stability. Repairing an outer generated block can expose a nested
+   * generated block or a continuity gap that becomes repairable on the next
+   * pass.
    */
   for (
     let pass = 0;
     pass < MAX_REPAIR_PASSES;
     pass++
   ) {
-    const repairedThisPass =
-      repairOnePass(lines);
+    const generatedThisPass =
+      repairGeneratedBlocksOnePass(
+        lines
+      );
 
-    totalRepairs +=
-      repairedThisPass;
+    const continuityThisPass =
+      repairBlankContinuityOnePass(
+        lines
+      );
+
+    generatedRepairs +=
+      generatedThisPass;
+
+    continuityRepairs +=
+      continuityThisPass;
 
     if (
-      repairedThisPass === 0
+      generatedThisPass === 0 &&
+      continuityThisPass === 0
     ) {
       break;
     }
@@ -450,36 +593,23 @@ function repairBlockquoteContinuity(source) {
     source:
       lines.join(newline),
 
-    repairs:
-      totalRepairs,
+    generatedRepairs,
+    continuityRepairs,
   };
 }
 
 module.exports = {
   setupMarkdown(md) {
     console.log(
-      "[blockquote-continuity] Markdown hook loaded (v1.0.3; global candidate-gated mode)."
+      "[blockquote-continuity] Markdown hook loaded (v1.0.4; generated-block + blank-continuity mode)."
     );
 
-    /*
-     * Run after Markdown-It's source normalization but before block parsing.
-     * At this point the malformed generated Markdown still exists as text and
-     * can be corrected before Markdown-It turns the accidental depth changes
-     * into separate blockquotes.
-     */
     md.core.ruler.before(
       "block",
       "blockquote-continuity-fix",
       function blockquoteContinuityRule(
         state
       ) {
-        /*
-         * This is the performance gate.
-         *
-         * Every unaffected note returns after three substring checks.
-         * We do not split into lines or run repair passes unless one of the
-         * exact DG-generated structures we know about is present.
-         */
         if (
           !looksLikeRepairCandidate(
             state.src
@@ -494,13 +624,16 @@ module.exports = {
           );
 
         if (
-          result.repairs > 0
+          result.generatedRepairs > 0 ||
+          result.continuityRepairs > 0
         ) {
           state.src =
             result.source;
 
           console.log(
-            `[blockquote-continuity] Repaired ${result.repairs} generated block(s).`
+            "[blockquote-continuity] " +
+            `Repaired ${result.generatedRepairs} generated block(s) and ` +
+            `${result.continuityRepairs} blank continuity gap(s).`
           );
         }
       }
