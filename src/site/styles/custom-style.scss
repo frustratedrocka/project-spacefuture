@@ -207,6 +207,14 @@ img[alt~="wt-sm"] {
     margin: 0 !important;
 }
 
+/* DG inserts a whitespace-only paragraph before nested callouts.
+   Don't let it consume a grid cell. */
+.callout[data-callout="columns"]
+> .callout-content
+> p:first-child:not(:has(*)):has(+ .callout) {
+    display: none !important;
+}
+
 /* =========================================================
             uuuuuuuuuuuuuuuuuuuu
           u" uuuuuuuuuuuuuuuuuu "u
