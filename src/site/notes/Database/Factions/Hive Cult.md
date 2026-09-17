@@ -69,18 +69,21 @@ properties:
 views:
   - type: table
     name: Associated Locations
-    groupBy:
-      property: Faction
-      direction: ASC
     order:
       - file.name
       - Concept
+      - Faction
       - Control
       - Faction_Presence
     sort:
       - property: file.name
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Concept: 218
+      note.Faction: 133
+      note.Control: 136
+      note.Faction_Presence: 251
+    rowHeight: medium
 
 ```
 

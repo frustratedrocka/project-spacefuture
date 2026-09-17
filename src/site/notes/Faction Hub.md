@@ -31,27 +31,18 @@ The [[Database/Factions/Rebels\|Rebels]] are a motley assortment of defectors, p
 The current mission is simple: Intercept excess food shipments and redirect them from the Jupiter sphere towards the places where they're most needed. That said, the questions of who gets to define "excess" and what counts as "most needed" are matters of significant internal debate.
 
 >[!blank|wfull]
-```base
-filters:
-  and:
-    - Faction.contains(link("Rebels"))
-    - file.hasTag("PC")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Player Characters/Archive")'
-views:
-  - type: cards
-    name: PCs
-    order:
-      - file.name
-      - concept
-    image: note.Portrait
-    imageAspectRatio: 0.5
-    cardSize: 160
-    indentProperties: false
-
-```
 
 
+
+>[!cards|dataview 4 collapse img-tiny]
+>  | Portrait                                                                | Player Character                                                  |
+> | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
+> | ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)                     | **[[Player Characters/August Grier\|August Grier]]**           |
+> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                       | **[[Player Characters/Lane Gable\|Lane Gable]]**               |
+> | ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)                 | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** |
+> | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | **[[Player Characters/Vergen Koni\|Vergen Koni]]**             |
+> 
+{ .block-language-dataview}
 
 ```base
 filters:
@@ -95,18 +86,21 @@ properties:
 views:
   - type: table
     name: Associated Locations
-    groupBy:
-      property: Faction
-      direction: ASC
     order:
       - file.name
       - Concept
+      - Faction
       - Control
       - Faction_Presence
     sort:
       - property: file.name
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Concept: 218
+      note.Faction: 133
+      note.Control: 136
+      note.Faction_Presence: 251
+    rowHeight: medium
 
 ```
 
@@ -212,18 +206,21 @@ properties:
 views:
   - type: table
     name: Associated Locations
-    groupBy:
-      property: Faction
-      direction: ASC
     order:
       - file.name
       - Concept
+      - Faction
       - Control
       - Faction_Presence
     sort:
       - property: file.name
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Concept: 218
+      note.Faction: 133
+      note.Control: 136
+      note.Faction_Presence: 251
+    rowHeight: medium
 
 ```
 
@@ -327,18 +324,21 @@ properties:
 views:
   - type: table
     name: Associated Locations
-    groupBy:
-      property: Faction
-      direction: ASC
     order:
       - file.name
       - Concept
+      - Faction
       - Control
       - Faction_Presence
     sort:
       - property: file.name
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Concept: 218
+      note.Faction: 133
+      note.Control: 136
+      note.Faction_Presence: 251
+    rowHeight: medium
 
 ```
 
@@ -446,18 +446,21 @@ properties:
 views:
   - type: table
     name: Associated Locations
-    groupBy:
-      property: Faction
-      direction: ASC
     order:
       - file.name
       - Concept
+      - Faction
       - Control
       - Faction_Presence
     sort:
       - property: file.name
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Concept: 218
+      note.Faction: 133
+      note.Control: 136
+      note.Faction_Presence: 251
+    rowHeight: medium
 
 ```
 
@@ -553,18 +556,21 @@ properties:
 views:
   - type: table
     name: Associated Locations
-    groupBy:
-      property: Faction
-      direction: ASC
     order:
       - file.name
       - Concept
+      - Faction
       - Control
       - Faction_Presence
     sort:
       - property: file.name
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Concept: 218
+      note.Faction: 133
+      note.Control: 136
+      note.Faction_Presence: 251
+    rowHeight: medium
 
 ```
 
@@ -670,18 +676,21 @@ properties:
 views:
   - type: table
     name: Associated Locations
-    groupBy:
-      property: Faction
-      direction: ASC
     order:
       - file.name
       - Concept
+      - Faction
       - Control
       - Faction_Presence
     sort:
       - property: file.name
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Concept: 218
+      note.Faction: 133
+      note.Control: 136
+      note.Faction_Presence: 251
+    rowHeight: medium
 
 ```
 
@@ -782,18 +791,21 @@ properties:
 views:
   - type: table
     name: Associated Locations
-    groupBy:
-      property: Faction
-      direction: ASC
     order:
       - file.name
       - Concept
+      - Faction
       - Control
       - Faction_Presence
     sort:
       - property: file.name
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Concept: 218
+      note.Faction: 133
+      note.Control: 136
+      note.Faction_Presence: 251
+    rowHeight: medium
 
 ```
 
@@ -878,18 +890,21 @@ properties:
 views:
   - type: table
     name: Associated Locations
-    groupBy:
-      property: Faction
-      direction: ASC
     order:
       - file.name
       - Concept
+      - Faction
       - Control
       - Faction_Presence
     sort:
       - property: file.name
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Concept: 218
+      note.Faction: 133
+      note.Control: 136
+      note.Faction_Presence: 251
+    rowHeight: medium
 
 ```
 
