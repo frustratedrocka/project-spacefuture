@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-17T15:25:57.184-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-17T15:36:26.085-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!INFOBOX|ws-med]
@@ -99,25 +99,12 @@ views:
 ```
 
 
- 
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
- 
- 
-
-
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits                                                            | Name                                                                |
+> | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**           |
+> | ![Admin/Attachments/HopliteCustom_SQ.png\|HopliteCustom_SQ.png](/img/user/Admin/Attachments/HopliteCustom_SQ.png)       | **[[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]**     |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]** |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                 | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**               |
+> 
+{ .block-language-dataview}

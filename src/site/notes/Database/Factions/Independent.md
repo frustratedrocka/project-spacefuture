@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/independent/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-13T23:12:48.731-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Independent","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":null}}
+{"dg-publish":true,"permalink":"/database/factions/independent/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-17T15:38:35.065-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Independent","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":null}}
 ---
 
 
@@ -73,21 +73,9 @@ views:
 ```
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits                                          | Name                                                              |
+> | ----------------------------------------------------- | ----------------------------------------------------------------- |
+> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png) | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]** |
+> 
+{ .block-language-dataview}

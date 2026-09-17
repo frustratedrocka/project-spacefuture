@@ -105,29 +105,15 @@ views:
 ```
 
 
- 
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
- 
- 
-
-
-
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits                                                            | Name                                                                |
+> | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**           |
+> | ![Admin/Attachments/HopliteCustom_SQ.png\|HopliteCustom_SQ.png](/img/user/Admin/Attachments/HopliteCustom_SQ.png)       | **[[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]**     |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]** |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                 | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**               |
+> 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -225,27 +211,13 @@ views:
 ```
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
-
-
-
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits                                          | Name                                                                                      |
+> | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/Akoni_SQ.png\|Akoni_SQ.png](/img/user/Admin/Attachments/Akoni_SQ.png)     | **[[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]**                               |
+> | ![Admin/Attachments/Akoni-E_SQ.png\|Akoni-E_SQ.png](/img/user/Admin/Attachments/Akoni-E_SQ.png) | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]** |
+> 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -343,25 +315,12 @@ views:
 ```
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
-
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits                                          | Name                                                              |
+> | ----------------------------------------------------- | ----------------------------------------------------------------- |
+> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png) | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]** |
+> 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -465,25 +424,11 @@ views:
 ```
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
-
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits | Name |
+> | ------------ | ---- |
+> 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -575,25 +520,15 @@ views:
 ```
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
-
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits                                                            | Name                                                                                |
+> | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**                           |
+> | ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)             | **[[Database/Mobile Suits/GS-79 Gundam Descolada\|GS-79 Gundam Descolada]]**     |
+> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png)                   | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
+> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]** |
+> 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -695,25 +630,13 @@ views:
 ```
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
-
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits                                                            | Name                                                                |
+> | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]** |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                 | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**               |
+> 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -810,25 +733,11 @@ views:
 ```
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
-
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits | Name |
+> | ------------ | ---- |
+> 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -909,24 +818,11 @@ views:
 ```
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
-
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits                                          | Name                                                              |
+> | ----------------------------------------------------- | ----------------------------------------------------------------- |
+> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png) | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]** |
+> 
+{ .block-language-dataview}
 
 </div></div>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-04T09:58:14.012-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Armada Ejecta","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors","Space Pirates"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T15:38:05.439-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Armada Ejecta","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors","Space Pirates"],"Portrait":"Admin/Attachments/CV_Recolor.webp"}}
 ---
 
 
@@ -83,21 +83,12 @@ views:
 ```
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits                                                            | Name                                                                                |
+> | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**                           |
+> | ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)             | **[[Database/Mobile Suits/GS-79 Gundam Descolada\|GS-79 Gundam Descolada]]**     |
+> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png)                   | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
+> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]** |
+> 
+{ .block-language-dataview}

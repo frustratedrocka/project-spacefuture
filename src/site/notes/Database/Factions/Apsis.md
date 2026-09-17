@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-16T14:20:58.597-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-17T15:37:11.420-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 
@@ -89,23 +89,10 @@ views:
 ```
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Database/Mechs/Sample")'
-    - Faction.contains(link(this.file.name))
-views:
-  - type: cards
-    name: Mobile Suits
-    order:
-      - file.name
-    cardSize: 160
-    image: note.Portrait
-    imageAspectRatio: 0.5
-
-```
-
-
+>[!cards|dataview 4 collapse img-tiny]
+>  | Mobile Suits                                          | Name                                                                                      |
+> | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/Akoni_SQ.png\|Akoni_SQ.png](/img/user/Admin/Attachments/Akoni_SQ.png)     | **[[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]**                               |
+> | ![Admin/Attachments/Akoni-E_SQ.png\|Akoni-E_SQ.png](/img/user/Admin/Attachments/Akoni-E_SQ.png) | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]** |
+> 
+{ .block-language-dataview}
