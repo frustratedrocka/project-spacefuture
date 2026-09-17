@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-16T20:59:46.942-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T02:27:11.620-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
@@ -16,53 +16,17 @@ Hitting the combat sim to get some training and practice in as you await orders 
 
 { .block-language-dataview}
 
-```base
-filters:
-  and:
-    - file.hasTag("PC")
-    - '!file.inFolder("Admin/Templates")'
-    - '!file.inFolder("Player Characters/Archive")'
-views:
-  - type: cards
-    name: Player Characters
-    order:
-      - file.name
-    image: Portrait
-    imageAspectRatio: 0.5
-    cardSize: 160
-    indentProperties: false
-    imageFit: cover
-
-```
 
 
-
-> [!columns|4 no-t]
+>[!cards|dataview 4 collapse img-tiny]
+>  | Portrait                                                                | Player Character                                                  |
+> | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
+> | ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)                     | **[[Player Characters/August Grier\|August Grier]]**           |
+> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                       | **[[Player Characters/Lane Gable\|Lane Gable]]**               |
+> | ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)                 | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** |
+> | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | **[[Player Characters/Vergen Koni\|Vergen Koni]]**             |
 > 
->> [!infobox|wfull no-t] 
->> # [[Player Characters/August Grier\|Auggie]]
->> ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)
->>> [!caption]
->>> No-Longer-A-Child Soldier
->> [[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]
->
->> [!infobox|wfull no-t] 
->> # [[Player Characters/Lane Gable\|Lane]]
->> ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)
->>> [!caption]
->>> Pirate Turned Freedom Fighter
->
->> [!infobox|wfull no-t] 
->> # [[Player Characters/Menodora Thaliana\|Mena]]
->> ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)
->>> [!caption]
->>> Hive-Linked Lunarian Refugee
->
->> [!infobox|wfull no-t] 
->> # [[Player Characters/Vergen Koni\|Verg]]
->> ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png)
->>> [!caption]
->>> Mind's Eye Protector
+{ .block-language-dataview}
 
 # Campaign Aspects
 ## Current Issues

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T01:14:19.979-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T02:19:51.053-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
 ---
 
 ## Summary
@@ -40,7 +40,7 @@ views:
 
 
 ## NPCs
-> [!cards|dataview notion 4 c-t]
+> [!cards|dataview collapse 4 img-tiny]
 >  | Portrait                                       | NPC                                           |
 > | ---------------------------------------------- | --------------------------------------------- |
 > | ![Admin/Attachments/PCShip.webp\|sban cover](/img/user/Admin/Attachments/PCShip.webp) | **[[Database/Things/Fishbone\|Fishbone]]** |
@@ -48,7 +48,7 @@ views:
 { .block-language-dataview}
 
 ## Mobile Suits
-> [!cards|dataview collapse 6]
+> [!cards|dataview collapse 6 img-tiny]
 >  | Portrait                                                   | Mobile Suit                                                                         |
 > | ---------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)         | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**                           |
