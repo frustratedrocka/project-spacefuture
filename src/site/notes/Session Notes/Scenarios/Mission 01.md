@@ -1,14 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T03:54:50.905-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T04:04:08.741-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
 ---
 
 ## Summary
-
+`REDACTED`
 
 ### Impact
-- Original command staff and first wing of the [[Database/Things/Fishbone\|Fishbone]] KIA
-- [[Database/People/The XO\|The XO]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]]
-- [[Database/Things/The Ace\|The Ace]] in critical condition
 
 { .block-language-dataview}
 
@@ -64,8 +61,9 @@ views:
 { .block-language-dataview}
 
 ## Locations
-| File Name | Type | Faction | Control | Presence |
-| --------- | ---- | ------- | ------- | -------- |
+| File Name                                 | Type                                | Faction                                 | Control               | Presence             |
+| ----------------------------------------- | ----------------------------------- | --------------------------------------- | --------------------- | -------------------- |
+| [[Database/Things/Fishbone\|Fishbone]] | [[Database/Glossary/Ship\|Ship]] | [[Database/Factions/Rebels\|Rebels]] | Closest Thing To Home | <ul><li>\-</li></ul> |
 
 { .block-language-dataview}
 
