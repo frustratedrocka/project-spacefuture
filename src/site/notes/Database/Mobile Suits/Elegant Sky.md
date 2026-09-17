@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/elegant-sky/","tags":["Mech"],"noteIcon":"","updated":"2026-09-17T00:56:18.464-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Elegant Sky","MECH_Model":"[[Database/Mobile Suits/Elegant Sky]]","Portrait":"[[Admin/Attachments/DagDoll_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Known_Users":["[[Player Characters/Lane Gable]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Variants":[null]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/elegant-sky/","tags":["Mech"],"noteIcon":"","updated":"2026-09-17T00:57:24.268-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Elegant Sky","MECH_Model":"[[Database/Mobile Suits/Elegant Sky]]","Portrait":"[[Admin/Attachments/DagDoll_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Known_Users":["[[Player Characters/Lane Gable]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Variants":[null]}}
 ---
 
 
@@ -11,7 +11,6 @@
 > |--|--|
 > |**FACTION**| [[Database/Factions/Rebels\|Rebels]],[[Database/Factions/Armada Ejecta\|Armada Ejecta]],<br>|
 > |**KNOWN PILOTS**|[[Player Characters/Lane Gable\|Lane Gable]]|
-> |**VARIANTS**||
 > |**ARMOR**|`REDACTED`|
 > 
 > 
@@ -32,7 +31,7 @@
 
 | Mech Stunts                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------- |
-| **FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you.                                     |
+| **COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.        |
 | **ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely. |
 
 { .block-language-dataview}

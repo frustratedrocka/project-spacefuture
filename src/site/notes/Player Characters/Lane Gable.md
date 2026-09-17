@@ -89,7 +89,7 @@
 
 | Mech Stunts                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------- |
-| **FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you.                                     |
+| **COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.        |
 | **ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely. |
 
 { .block-language-dataview}

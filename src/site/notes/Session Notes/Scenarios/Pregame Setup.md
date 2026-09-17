@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T00:53:20.285-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T01:10:09.853-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
 ---
 
 ## Summary
@@ -40,23 +40,23 @@ views:
 
 
 ## NPCs
-> [!cards|dataview collapse 4 c-t]
->  | Portrait                                        | NPC                                           |
-> | ----------------------------------------------- | --------------------------------------------- |
-> | ![Admin/Attachments/PCShip.webp\|PCShip.webp](/img/user/Admin/Attachments/PCShip.webp) | **[[Database/Things/Fishbone\|Fishbone]]** |
+> [!cards|dataview notion 4 c-t]
+>  | Portrait                                       | NPC                                           |
+> | ---------------------------------------------- | --------------------------------------------- |
+> | ![Admin/Attachments/PCShip.webp\|sban cover](/img/user/Admin/Attachments/PCShip.webp) | **[[Database/Things/Fishbone\|Fishbone]]** |
 > 
 { .block-language-dataview}
 
 ## Mobile Suits
-> [!cards|dataview collapse 4]
->  | Portrait                                                                | Mobile Suit                                                                         |
-> | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**                           |
-> | ![Admin/Attachments/HopliteCustom_SQ.png\|HopliteCustom_SQ.png](/img/user/Admin/Attachments/HopliteCustom_SQ.png)       | **[[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]**                     |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]**                 |
-> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                 | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                               |
-> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png)                   | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
-> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]** |
+> [!cards|dataview notion 4]
+>  | Portrait                                                   | Mobile Suit                                                                         |
+> | ---------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)         | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**                           |
+> | ![Admin/Attachments/HopliteCustom_SQ.png\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.png)    | **[[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]**                     |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]**                 |
+> | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)         | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                               |
+> | ![Admin/Attachments/Hoplite_SQ.png\|sban cover](/img/user/Admin/Attachments/Hoplite_SQ.png)          | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
+> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]** |
 > 
 { .block-language-dataview}
 
