@@ -165,6 +165,28 @@ body {
   font-weight: 600;
 }
 
+/*=======================================
+   OTHER MANUAL STYLE FIXES
+  ======================================*/
+
+/* DG: make explicit 4-column callouts actually fit four children */
+.callout[data-callout="columns"][data-callout-metadata~="4"]
+> .callout-content {
+    display: grid !important;
+    grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+    gap: 2px !important;
+}
+
+/* Nested cards must be allowed to shrink below ITS infobox defaults */
+.callout[data-callout="columns"][data-callout-metadata~="4"]
+> .callout-content
+> .callout {
+    min-width: 0 !important;
+    width: auto !important;
+    max-width: none !important;
+    margin: 0 !important;
+}
+
 /* END MANUAL ENTRY */
 
 /*Image Adjustments*/
