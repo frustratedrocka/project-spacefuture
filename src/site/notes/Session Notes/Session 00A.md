@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T03:26:26.679-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T03:48:29.438-04:00","dg-note-properties":{"tags":["session"],"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
 ---
 
 > [!infobox|ws-med]
@@ -52,7 +52,7 @@
 
 
 # Session 00A: Origins
-*`=choice(!contains(this.Logline, "`REDACTED`") and "__DG_PUBLISH__" != "__DG_PUBLISH__"), this.Logline, "REDACTED")`*
+*Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.*
 
 # The Opening Crawl
 Before we start, I would just like to impress on everyone how _absolutely fucked_ the situation you've all lived through is. The Moondrop and [[Database/History/The Ground War\|the Ground War]] are without question or exaggeration the worst things that have ever happened, and I can prove it with four words:  
