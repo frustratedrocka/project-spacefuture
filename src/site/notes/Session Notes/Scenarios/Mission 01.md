@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T04:42:10.549-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T04:43:59.212-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
 ---
 
 ## Summary
@@ -11,8 +11,9 @@
 
 ## Sessions
 
-| Session | Name | Logline |
-| ------- | ---- | ------- |
+| Session                                     | Name             | Logline                                                                                                                                                                                                   |
+| ------------------------------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 01\|Session 01]] | And So It Begins | !r! [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] launches a surprise attack on the [[Database/Things/Fishbone\|Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship. !/r! |
 
 { .block-language-dataview}
 
