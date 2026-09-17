@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T02:19:51.053-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T05:58:12.112-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
 ---
 
 ## Summary
@@ -11,33 +11,13 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 { .block-language-dataview}
 
 ## Sessions
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - Scenario == link(this.file.name)
-properties:
-  note.Scenario_Index:
-    displayName: Part
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-views:
-  - type: table
-    name: Sessions
-    order:
-      - file.name
-      - SESH_Name
-      - Logline
-    sort:
-      - property: Scenario_Index
-        direction: ASC
-    columnSize: {}
-    rowHeight: medium
 
-```
+| Session                                       | Name | Logline                                                                                                  |
+| --------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 00A\|Session 00A]] | \-   | Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation. |
+| [[Session Notes/Session 00B\|Session 00B]] | \-   | Second Wing hits the combat sim during downtime between operations.                                      |
 
+{ .block-language-dataview}
 
 ## NPCs
 > [!cards|dataview collapse 4 img-tiny]
@@ -61,7 +41,7 @@ views:
 { .block-language-dataview}
 
 ## Locations
-| File Name                                        | Type                                    | Faction                                                     | Control                 | Presence                                                                                                                                                                                                                                                          |
+| Location                                         | Type                                    | Faction                                                     | Control                 | Presence                                                                                                                                                                                                                                                          |
 | ------------------------------------------------ | --------------------------------------- | ----------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Database/Places/Colonies/Arjuna\|Arjuna]]   | [[Database/Glossary/Colony\|Colony]] | [[Database/Factions/Rebels\|Rebels]]                     | Contested               | <ul><li>[[Database/Factions/Republic Of Mars\|ROM]]</li></ul>                                                                                                                                                                                                 |
 | [[Database/Places/Colonies/Theseus\|Theseus]] | [[Database/Glossary/Colony\|Colony]] | [[Database/Factions/Independent\|Independent]]           | Under The Radar         | <ul><li>[[Database/Factions/Republic Of Mars\|Republic Of Mars]]</li><li>[[Database/Factions/Apsis\|Apsis]]</li></ul>                                                                                                                                     |
