@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T14:16:23.069-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T14:27:53.807-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
@@ -8,13 +8,9 @@
 ## Where Are You
 Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], serving as Second Wing. 
 
-| Place                                     | Concept                              | Faction                                 | Control               | Presence             |
-| ----------------------------------------- | ------------------------------------ | --------------------------------------- | --------------------- | -------------------- |
-| [[Database/Things/Fishbone\|Fishbone]] | Rebel Destroyer, Courtesy Of Jupiter | [[Database/Factions/Rebels\|Rebels]] | Closest Thing To Home | <ul><li>\-</li></ul> |
 
-{ .block-language-dataview}
 
-**[[Database/Things/Fishbone\|Fishbone]]** - Rebel Destroyer, Courtesy Of Jupiter
+**[[Database/Things/Fishbone\|Fishbone]]** - Rebel Destroyer, Courtesy Of Jupiter. Control: [[Database/Factions/Rebels\|Rebels]], Closest Thing To Home
 
 ## What Are You Doing
 Something every soldier's familiar with: "Hurry up and wait." Pending orders from [[Rebel Command\|Rebel Command]] and try to stay ahead of the pursuing [[Database/Things/Brynhildr\|Brynhildr]]. 
