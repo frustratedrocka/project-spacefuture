@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T12:57:42.532-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T13:02:51.437-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
@@ -33,10 +33,29 @@ Hitting the combat sim to get some training and practice in as you await orders 
 - "What Will You Compromise For A Righteous Cause?"
 - "Finally, Barely, Enough To Go Around"
 - "Disparate & Unstable Rebel Coalition"
+- "Affiliation Is Not Allegiance"
 ## Impending Issues
 - "Old Conflicts Dormant, Not Dead"
 - "Lurking Shadow Of The [[Database/Factions/Hive Cult\|Hive Cult]]"
 - "Who Gets To Write The Future?"
+
+# Links & OVERVIEWS
+> [!cards|4]
+>**[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)**
+> 
+>**[[Rules Hub\|Rules Hub]]**
+>
+>**[[Admin/Player Intake Form\|Player Survey]]**
+> 
+> **[[Admin/Lines & Veils\|Lines & Veils]]**
+> 
+>**[[Faction Hub\|Faction Hub]]**
+>
+>**[[The Story So Far\|The Story So Far]]**
+>
+>**[[Database/History/Emergent Century\|EC Timeline]]**
+>
+>**[[Solar Map\|Solar Map]]**
 
 # Fiction Primer
 It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]], and...
@@ -55,26 +74,7 @@ The question is not whether you should be fighting. The question is what you're 
 
 Remember: hang together, or hang separately.
 
-# Links & Resources
-> [!cards|4]
->**[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)**
-> 
->**[[Rules Hub\|Rules Hub]]**
->
->**[[Admin/Player Intake Form\|Player Survey]]**
-> 
-> **[[Admin/Lines & Veils\|Lines & Veils]]**
-> 
->**[[Faction Hub\|Faction Hub]]**
->
->**[[The Story So Far\|The Story So Far]]**
->
->**[[Database/History/Emergent Century\|EC Timeline]]**
->
->**[[Solar Map\|Solar Map]]**
->
->
-
+# HOUSEKEEPING
 ## Rules
 The rules for this specific game are still under construction. For anything not yet present (i.e. marked with a #TODO tag), please check the SRDs (included). Start with [[Rules/Fate SRD/Fate Condensed (UNEDITED SRD)\|Fate Condensed (UNEDITED SRD)]], if that doesn't have what you're looking for try [[Rules/Fate SRD/Fate Core (UNEDITED SRD)\|Fate Core (UNEDITED SRD)]], if you're still stuck check [[Rules/Fate SRD/Fate Accelerated (UNEDITED SRD)\|Fate Accelerated (UNEDITED SRD)]], and if none of those have what you need, then ask the GM to hurry up and write the rules already please and thank you.
 
