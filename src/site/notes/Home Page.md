@@ -10,7 +10,7 @@ Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Thing
 
 
 
-**[[Database/Things/Fishbone\|Fishbone]]** - Rebel Destroyer, Courtesy Of Jupiter. Control: [[Database/Factions/Rebels\|Rebels]], Closest Thing To Home
+**[[Database/Things/Fishbone\|Fishbone]]** - Rebel Destroyer, Closest Thing To Home. Control: [[Database/Factions/Rebels\|Rebels]], Courtesy Of the Consortium
 
 ## What Are You Doing
 Something every soldier's familiar with: "Hurry up and wait." Pending orders from [[Rebel Command\|Rebel Command]] and try to stay ahead of the pursuing [[Database/Things/Brynhildr\|Brynhildr]]. 

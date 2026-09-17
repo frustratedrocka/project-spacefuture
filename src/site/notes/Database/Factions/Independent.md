@@ -49,23 +49,23 @@ filters:
 properties:
   note.Faction_Presence:
     displayName: Other Presence
+  file.name:
+    displayName: Name
 views:
   - type: table
     name: Associated Locations
+    groupBy:
+      property: Faction
+      direction: ASC
     order:
       - file.name
       - Concept
-      - Faction
       - Control
       - Faction_Presence
     sort:
-      - property: Control
+      - property: file.name
         direction: ASC
-    rowHeight: medium
-    columnSize:
-      note.Concept: 198
-      note.Faction: 175
-      note.Control: 140
+    columnSize: {}
 
 ```
 
