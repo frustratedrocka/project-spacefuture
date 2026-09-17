@@ -206,6 +206,77 @@ img[alt~="wt-sm"] {
     display: none !important;
 }
 
+/* ================================================================
+   DG → ITS DATAVIEW CARDS ADAPTER
+
+   Digital Garden renders Dataview TABLE results as ordinary tables.
+   Restore the table structure ITS expects for [!cards|dataview].
+   ================================================================ */
+
+
+/* ITS expects the Dataview table itself to become the card container. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content table {
+    display: grid;
+    margin-block-start: 0;
+}
+
+
+/* Native Dataview Cards hide the table header. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content table thead {
+    display: none;
+}
+
+
+/* Each table body becomes the card grid.
+   Column count and gap come from ITS's existing Cards variables. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content table tbody {
+    display: grid;
+    grid-template-columns:
+        repeat(
+            var(--callout-cards-columns),
+            minmax(0, 1fr)
+        );
+    grid-gap: calc(var(--callout-cards-gap) * 2);
+}
+
+
+/* Strip normal table appearance from rows/cells. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content table :is(td, tr) {
+    min-width: 0;
+    border: 0;
+    background: transparent;
+    padding: 0;
+}
+
+
+/* Each row is one card. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content table tbody > tr {
+    display: grid;
+    align-content: flex-start;
+    margin: 0;
+    padding: 10px;
+
+    border: 2px solid
+        var(--outline, var(--background-modifier-box-shadow));
+
+    box-shadow:
+        var(--shadow-ml, var(--input-shadow));
+}
+
+
+/* Bridge ITS's existing Notion variables onto DG's plain table rows. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"][data-callout-metadata~="notion"]
+> .callout-content table tbody > tr {
+    padding: 0;
+    border: 0;
+    border-radius: var(--callout-cards-notion-radius);
+    box-shadow: var(--callout-cards-notion-shadow);
+}
 /* =========================================================
             uuuuuuuuuuuuuuuuuuuu
           u" uuuuuuuuuuuuuuuuuu "u
