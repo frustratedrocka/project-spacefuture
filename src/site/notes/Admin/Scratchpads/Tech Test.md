@@ -75,13 +75,15 @@ views:
     name: Appearances
     order:
       - file.name
+      - SESH_Name
       - Scenario
       - Scenario_Index
-      - SESH_Name
       - SESH_Date
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      note.SESH_Name: 230
 
 ```
 
@@ -209,13 +211,15 @@ views:
     name: Appearances
     order:
       - file.name
+      - SESH_Name
       - Scenario
       - Scenario_Index
-      - SESH_Name
       - SESH_Date
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      note.SESH_Name: 230
 
 ```
 
@@ -363,13 +367,15 @@ views:
     name: Appearances
     order:
       - file.name
+      - SESH_Name
       - Scenario
       - Scenario_Index
-      - SESH_Name
       - SESH_Date
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      note.SESH_Name: 230
 
 ```
 

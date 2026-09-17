@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ut-f-08-s-hoplite-striker/","tags":["Mech"],"noteIcon":"","updated":"2026-09-16T21:48:13.321-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Striker","MECH_Model":"[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]","Portrait":"[[Admin/Attachments/GM-II-AEUG_SQ.png]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Heavy Assault Line Mech","MECH_Trouble":"Lacks Fine Control","MECH_Gear":["Shoulder Missle Rack","Shotgun"],"MECH_Stunts":["**STUNT** Description","**STUNT** Description"],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Armada Ejecta]]"],"Variants":[null],"Base":["[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ut-f-08-s-hoplite-striker/","tags":["Mech"],"noteIcon":"","updated":"2026-09-17T00:50:15.535-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Striker","MECH_Model":"[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]","Portrait":"[[Admin/Attachments/Hoplite_Striker_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Heavy Assault Line Mech","MECH_Trouble":"Lacks Fine Control","MECH_Gear":["Shoulder Missle Rack","Shotgun"],"MECH_Stunts":["**STUNT** Description","**STUNT** Description"],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Armada Ejecta]]"],"Variants":[null],"Base":["[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
 ---
 
 
 > [!infobox|left wsmall]
 > # Hoplite Striker
-> ![Admin/Attachments/GM-II-AEUG_SQ.png\|GM-II-AEUG_SQ.png](/img/user/Admin/Attachments/GM-II-AEUG_SQ.png)
+> ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp)
 > 
 > |  |  |
 > |--|--|
@@ -61,13 +61,15 @@ views:
     name: Appearances
     order:
       - file.name
+      - SESH_Name
       - Scenario
       - Scenario_Index
-      - SESH_Name
       - SESH_Date
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      note.SESH_Name: 230
 
 ```
 
