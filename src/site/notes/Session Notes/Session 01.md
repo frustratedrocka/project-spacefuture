@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-18T15:43:49.651-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Mission 01]]","Scenario_Index":1,"Logline":"`REDACTED`","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/The XO]]","[[Database/People/Delbrau Enger]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type|Akoni-E]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hyper Seeker CQC|Hyper Seeker]]","[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/Elegant Sky]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA","[[The XO]] brevets new command: Captain [[Gen Bashaba]]","[[The Ace]] in critical condition"],"Changelog":null}}
+{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-18T16:11:46.102-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Mission 01]]","Scenario_Index":1,"Logline":"`REDACTED`","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/The XO]]","[[Database/People/Delbrau Enger]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type|Akoni-E]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hyper Seeker CQC|Hyper Seeker]]","[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/Elegant Sky]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA","[[The XO]] brevets new command: Captain [[Gen Bashaba]]","[[The Ace]] in critical condition"],"Changelog":null}}
 ---
 
 > [!infobox|embed ws-med s-mg table wikipedia]
@@ -15,6 +15,7 @@
 > |[[Session Notes/Session 00B\|Session 00B]]|[[Session Notes/Session 02\|Session 02]] |
 > |Training Sim|\- |
 >
+>## Present
 >> [!cards|4 collapse]
 >> 
 >> ![Admin/Attachments/Auggie_SQ.png\|cover ht-sm](/img/user/Admin/Attachments/Auggie_SQ.png)
