@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-18T16:11:46.102-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Mission 01]]","Scenario_Index":1,"Logline":"`REDACTED`","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/The XO]]","[[Database/People/Delbrau Enger]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type|Akoni-E]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hyper Seeker CQC|Hyper Seeker]]","[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/Elegant Sky]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA","[[The XO]] brevets new command: Captain [[Gen Bashaba]]","[[The Ace]] in critical condition"],"Changelog":null}}
+{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-18T16:42:59.335-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Mission 01]]","Scenario_Index":1,"Logline":"`REDACTED`","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/The XO]]","[[Database/People/Delbrau Enger]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type|Akoni-E]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hyper Seeker CQC|Hyper Seeker]]","[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/Elegant Sky]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA","[[The XO]] brevets new command: Captain [[Gen Bashaba]]","[[The Ace]] in critical condition"],"Changelog":null}}
 ---
 
-> [!infobox|embed ws-med s-mg table wikipedia]
+> [!infobox|embed ws-med table wikipedia]
 > # Vitals
 >> [!blank]
 >
@@ -18,16 +18,16 @@
 >## Present
 >> [!cards|4 collapse]
 >> 
->> ![Admin/Attachments/Auggie_SQ.png\|cover ht-sm](/img/user/Admin/Attachments/Auggie_SQ.png)
+>> ![Admin/Attachments/Auggie_Zoom.png\|cover ht-sm](/img/user/Admin/Attachments/Auggie_Zoom.png)
 >>  **[[Player Characters/August Grier\|Auggie]]**
 >> 
->> ![Admin/Attachments/Lane_Sq.webp\|cover ht-sm](/img/user/Admin/Attachments/Lane_Sq.webp)
+>> ![Admin/Attachments/Lane_Zoom.png\|cover ht-sm](/img/user/Admin/Attachments/Lane_Zoom.png)
 >> **[[Player Characters/Lane Gable\|Lane]]**
 >> 
->> ![Admin/Attachments/Menodora_SQ.png\|cover ht-sm](/img/user/Admin/Attachments/Menodora_SQ.png)
+>> ![Admin/Attachments/Mena_Zoom.png\|cover ht-sm](/img/user/Admin/Attachments/Mena_Zoom.png)
 >> **[[Player Characters/Menodora Thaliana\|Mena]]**
 >> 
->> ![Admin/Attachments/Verg_Profile_pic_SQ.png\|cover ht-sm](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png)
+>> ![Admin/Attachments/Verg_Zoom.png\|cover ht-sm](/img/user/Admin/Attachments/Verg_Zoom.png)
 >> **[[Player Characters/Vergen Koni\|Verg]]**
 >
 >

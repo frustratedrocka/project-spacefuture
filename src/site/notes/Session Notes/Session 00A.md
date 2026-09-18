@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-18T16:12:22.989-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-18T16:41:22.854-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -18,16 +18,16 @@
 >## Present
 >> [!cards|4 collapse]
 >> 
->> ![Admin/Attachments/Auggie_SQ.png\|cover ht-sm](/img/user/Admin/Attachments/Auggie_SQ.png)
+>> ![Admin/Attachments/Auggie_Zoom.png\|cover ht-sm](/img/user/Admin/Attachments/Auggie_Zoom.png)
 >>  **[[Player Characters/August Grier\|Auggie]]**
 >> 
->> ![Admin/Attachments/Lane_Sq.webp\|cover ht-sm](/img/user/Admin/Attachments/Lane_Sq.webp)
+>> ![Admin/Attachments/Lane_Zoom.png\|cover ht-sm](/img/user/Admin/Attachments/Lane_Zoom.png)
 >> **[[Player Characters/Lane Gable\|Lane]]**
 >> 
->> ![Admin/Attachments/Menodora_SQ.png\|cover ht-sm](/img/user/Admin/Attachments/Menodora_SQ.png)
+>> ![Admin/Attachments/Mena_Zoom.png\|cover ht-sm](/img/user/Admin/Attachments/Mena_Zoom.png)
 >> **[[Player Characters/Menodora Thaliana\|Mena]]**
 >> 
->> ![Admin/Attachments/Verg_Profile_pic_SQ.png\|cover ht-sm](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png)
+>> ![Admin/Attachments/Verg_Zoom.png\|cover ht-sm](/img/user/Admin/Attachments/Verg_Zoom.png)
 >> **[[Player Characters/Vergen Koni\|Verg]]**
 >
 >----
