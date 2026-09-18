@@ -34,13 +34,13 @@ The current mission is simple: Intercept excess food shipments and redirect them
 
 
 
->[!cards|dataview 4 collapse img-tiny]
->  | Portrait                                                                | Player Character                                                  | Concept                       |
-> | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------- |
-> | ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)                     | **[[Player Characters/August Grier\|August Grier]]**           | No-Longer-A-Child Soldier     |
-> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                       | **[[Player Characters/Lane Gable\|Lane Gable]]**               | Pirate Turned Freedom Fighter |
-> | ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)                 | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** | Hive-Linked Lunarian Refugee  |
-> | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | **[[Player Characters/Vergen Koni\|Vergen Koni]]**             | Mind's Eye Protector          |
+>[!cards|dataview 4 collapse img-tiny txt-c]
+>  | Portrait                                                                | Player Character                                                  | "*"+Concept+"*"                 |
+> | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------- |
+> | ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)                     | **[[Player Characters/August Grier\|August Grier]]**           | *No-Longer-A-Child Soldier*     |
+> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                       | **[[Player Characters/Lane Gable\|Lane Gable]]**               | *Pirate Turned Freedom Fighter* |
+> | ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)                 | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** | *Hive-Linked Lunarian Refugee*  |
+> | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | **[[Player Characters/Vergen Koni\|Vergen Koni]]**             | *Mind's Eye Protector*          |
 > 
 { .block-language-dataview}
 
