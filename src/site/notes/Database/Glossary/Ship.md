@@ -16,7 +16,7 @@
 
 Electric mag-boots are standard; you turn them on via a belt switch when you want to stand in one spot or walk and off when you need to kick off something and float free. 
 
-[[Glossary/Lift Grip\|Lift Grip]] system handles movement through most hallways. This is physically tethered to your belt and slots into the wall to pull you around the ship.
+[[Database/Glossary/Lift Grip\|Lift Grip]] system handles movement through most hallways. This is physically tethered to your belt and slots into the wall to pull you around the ship.
 
 And, speaking of belt tethers, there is a reasonably high-powered emergency mag grapple, in case you find yourself floating free. Which is likeliest to happen in the hangar, but can occur just about anywhere if you get spun *just* the wrong way. 
 
