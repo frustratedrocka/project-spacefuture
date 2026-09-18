@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-18T15:46:26.346-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"No Man's Land","Faction_Presence":["[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Mindful Eyes]]","[[Database/Factions/Hive Cult]]","[[Database/Factions/Republic Of Mars]]"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.jpg","Concept":"Humanity's Cradle Turned Life Support","Trouble":"Nuclear Winter","Aspects":["Being Strip-Mined For Fertile Soil","Access Restricted By Apsis"],"aliases":["Luna"]}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-18T19:11:23.663-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"No Man's Land","Faction_Presence":["[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Mindful Eyes]]","[[Database/Factions/Hive Cult]]","[[Database/Factions/Republic Of Mars]]"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.webp","Concept":"Humanity's Cradle Turned Life Support","Trouble":"Nuclear Winter","Aspects":["Being Strip-Mined For Fertile Soil","Access Restricted By Apsis"],"aliases":["Luna"]}}
 ---
 
 > [!INFOBOX|ws-med embed] Earth
 > # Earth
-> ![Admin/Attachments/Earth_Post_Kaboom.jpg\|Earth_Post_Kaboom.jpg](/img/user/Admin/Attachments/Earth_Post_Kaboom.jpg)
+> ![Admin/Attachments/Earth_Post_Kaboom.webp\|Earth_Post_Kaboom.webp](/img/user/Admin/Attachments/Earth_Post_Kaboom.webp)
 > 
 > | | |
 > |--|--|

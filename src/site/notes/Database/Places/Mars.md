@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-18T15:46:14.272-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-18T19:11:58.520-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"]}}
 ---
 
 
 
 > [!INFOBOX|ws-med embed] Mars
 > # Mars
-> ![Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png\|Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png](/img/user/Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png)
+> ![Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp\|Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp](/img/user/Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp)
 > 
 > | | |
 > |--|--|

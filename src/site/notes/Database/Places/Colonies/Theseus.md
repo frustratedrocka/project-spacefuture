@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-18T15:47:03.486-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.jpg","Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-18T19:11:24.003-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.webp","Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 > [!INFOBOX|ws-med embed] Theseus
 > # Theseus
-> ![Admin/Attachments/Stanford.jpg\|Stanford.jpg](/img/user/Admin/Attachments/Stanford.jpg)
+> ![Admin/Attachments/Stanford.webp\|Stanford.webp](/img/user/Admin/Attachments/Stanford.webp)
 > 
 > | | |
 > |--|--|

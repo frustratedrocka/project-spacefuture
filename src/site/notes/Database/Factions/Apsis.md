@@ -90,9 +90,9 @@ views:
 
 
 >[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                          | Name                                                                                      |
-> | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/Akoni_SQ.png\|Akoni_SQ.png](/img/user/Admin/Attachments/Akoni_SQ.png)     | **[[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]**                               |
-> | ![Admin/Attachments/Akoni-E_SQ.png\|Akoni-E_SQ.png](/img/user/Admin/Attachments/Akoni-E_SQ.png) | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]** |
+>  | Mobile Suits                                            | Name                                                                                      |
+> | ------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/Akoni_SQ.webp\|Akoni_SQ.webp](/img/user/Admin/Attachments/Akoni_SQ.webp)     | **[[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]**                               |
+> | ![Admin/Attachments/Akoni-E_SQ.webp\|Akoni-E_SQ.webp](/img/user/Admin/Attachments/Akoni-E_SQ.webp) | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]** |
 > 
 { .block-language-dataview}

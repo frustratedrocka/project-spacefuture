@@ -35,12 +35,12 @@ The current mission is simple: Intercept excess food shipments and redirect them
 
 
 >[!cards|dataview 4 collapse img-tiny txt-c]
->  | Portrait                                                                | Player Character                                                  |
-> | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
-> | ![Admin/Attachments/Auggie_SQ.png\|Auggie_SQ.png](/img/user/Admin/Attachments/Auggie_SQ.png)                     | **[[Player Characters/August Grier\|August Grier]]**           |
-> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                       | **[[Player Characters/Lane Gable\|Lane Gable]]**               |
-> | ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)                 | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** |
-> | ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png) | **[[Player Characters/Vergen Koni\|Vergen Koni]]**             |
+>  | Portrait                                                                  | Player Character                                                  |
+> | ------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+> | ![Admin/Attachments/Auggie_SQ.webp\|Auggie_SQ.webp](/img/user/Admin/Attachments/Auggie_SQ.webp)                     | **[[Player Characters/August Grier\|August Grier]]**           |
+> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                         | **[[Player Characters/Lane Gable\|Lane Gable]]**               |
+> | ![Admin/Attachments/Menodora_SQ.webp\|Menodora_SQ.webp](/img/user/Admin/Attachments/Menodora_SQ.webp)                 | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** |
+> | ![Admin/Attachments/Verg_Profile_pic_SQ.webp\|Verg_Profile_pic_SQ.webp](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.webp) | **[[Player Characters/Vergen Koni\|Vergen Koni]]**             |
 > 
 { .block-language-dataview}
 
@@ -106,12 +106,12 @@ views:
 
 
 >[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                                            | Name                                                                |
-> | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**           |
-> | ![Admin/Attachments/HopliteCustom_SQ.png\|HopliteCustom_SQ.png](/img/user/Admin/Attachments/HopliteCustom_SQ.png)       | **[[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]**     |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]** |
-> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                 | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**               |
+>  | Mobile Suits                                                              | Name                                                                |
+> | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                   | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**           |
+> | ![Admin/Attachments/HopliteCustom_SQ.webp\|HopliteCustom_SQ.webp](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)       | **[[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]**     |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]** |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                   | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**               |
 > 
 { .block-language-dataview}
 
@@ -212,10 +212,10 @@ views:
 
 
 >[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                          | Name                                                                                      |
-> | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/Akoni_SQ.png\|Akoni_SQ.png](/img/user/Admin/Attachments/Akoni_SQ.png)     | **[[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]**                               |
-> | ![Admin/Attachments/Akoni-E_SQ.png\|Akoni-E_SQ.png](/img/user/Admin/Attachments/Akoni-E_SQ.png) | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]** |
+>  | Mobile Suits                                            | Name                                                                                      |
+> | ------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/Akoni_SQ.webp\|Akoni_SQ.webp](/img/user/Admin/Attachments/Akoni_SQ.webp)     | **[[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]**                               |
+> | ![Admin/Attachments/Akoni-E_SQ.webp\|Akoni-E_SQ.webp](/img/user/Admin/Attachments/Akoni-E_SQ.webp) | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]** |
 > 
 { .block-language-dataview}
 
@@ -318,7 +318,7 @@ views:
 >[!cards|dataview 4 collapse img-tiny]
 >  | Mobile Suits                                                            | Name                                                                                |
 > | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png)                   | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
+> | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp)                 | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
 > | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]** |
 > 
 { .block-language-dataview}
@@ -335,7 +335,7 @@ views:
 
 >[!infobox|embed ws-med]
 ># Republic Of Mars
->![Admin/Attachments/RFGuerillaPropPoster1.jpg\|RFGuerillaPropPoster1.jpg](/img/user/Admin/Attachments/RFGuerillaPropPoster1.jpg)
+>![Admin/Attachments/RFGuerillaPropPoster1.webp\|RFGuerillaPropPoster1.webp](/img/user/Admin/Attachments/RFGuerillaPropPoster1.webp)
 >
 >|||
 >|--|--|
@@ -526,7 +526,7 @@ views:
 > | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**                           |
 > | ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)             | **[[Database/Mobile Suits/GS-79 Gundam Descolada\|GS-79 Gundam Descolada]]**     |
-> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png)                   | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
+> | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp)                 | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
 > | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]** |
 > 
 { .block-language-dataview}
@@ -632,10 +632,10 @@ views:
 
 
 >[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                                            | Name                                                                |
-> | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]** |
-> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                 | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**               |
+>  | Mobile Suits                                                              | Name                                                                |
+> | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]** |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                   | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**               |
 > 
 { .block-language-dataview}
 
@@ -820,9 +820,9 @@ views:
 
 
 >[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                          | Name                                                              |
-> | ----------------------------------------------------- | ----------------------------------------------------------------- |
-> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png) | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]** |
+>  | Mobile Suits                                            | Name                                                              |
+> | ------------------------------------------------------- | ----------------------------------------------------------------- |
+> | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp) | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]** |
 > 
 { .block-language-dataview}
 

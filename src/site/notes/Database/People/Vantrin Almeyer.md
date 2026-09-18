@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-18T12:12:06.612-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/AI_Vantrin_2_SQ.png]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"[[Database/Places/Colonies/Interamnia]]","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[null,null,null],"Concept":"Strategic & Skilled Field Commander","Relationship":null,"Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Quickly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Cleverly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"],"aliases":["Vantrin"]}}
+{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-18T19:12:01.881-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/AI_Vantrin_2_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"[[Database/Places/Colonies/Interamnia]]","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[null,null,null],"Concept":"Strategic & Skilled Field Commander","Relationship":null,"Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Quickly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Cleverly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"],"aliases":["Vantrin"]}}
 ---
 
 > [!infobox|left wsmall]
 > # Vantrin Almeyer
-> ![Admin/Attachments/AI_Vantrin_2_SQ.png\|AI_Vantrin_2_SQ.png](/img/user/Admin/Attachments/AI_Vantrin_2_SQ.png)
+> ![Admin/Attachments/AI_Vantrin_2_SQ.webp\|AI_Vantrin_2_SQ.webp](/img/user/Admin/Attachments/AI_Vantrin_2_SQ.webp)
 > 
 > |  |  |
 > |--|--|
@@ -15,7 +15,7 @@
 
 > [!infobox|right wsmall]
 > # Akoni-E
-> ![Admin/Attachments/Akoni-E_SQ.png\|Akoni-E_SQ.png](/img/user/Admin/Attachments/Akoni-E_SQ.png)
+> ![Admin/Attachments/Akoni-E_SQ.webp\|Akoni-E_SQ.webp](/img/user/Admin/Attachments/Akoni-E_SQ.webp)
 > 
 > |  |  |
 > |--|--|

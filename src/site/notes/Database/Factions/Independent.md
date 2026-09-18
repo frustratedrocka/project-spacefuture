@@ -74,8 +74,8 @@ views:
 
 
 >[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                          | Name                                                              |
-> | ----------------------------------------------------- | ----------------------------------------------------------------- |
-> | ![Admin/Attachments/Hoplite_SQ.png\|Hoplite_SQ.png](/img/user/Admin/Attachments/Hoplite_SQ.png) | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]** |
+>  | Mobile Suits                                            | Name                                                              |
+> | ------------------------------------------------------- | ----------------------------------------------------------------- |
+> | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp) | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]** |
 > 
 { .block-language-dataview}

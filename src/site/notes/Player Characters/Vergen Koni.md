@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-18T16:41:17.291-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.png]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.png]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Move",[null],[null],[null]],"approach_3":["Quickly",[null]],"skill_2":["Fight","Shoot",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker",[null]],"approach_1":["Carefully","Forcefully","Subtly"],"aliases":["Verg"]}}
+{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-18T19:11:39.912-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Move",[null],[null],[null]],"approach_3":["Quickly",[null]],"skill_2":["Fight","Shoot",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker",[null]],"approach_1":["Carefully","Forcefully","Subtly"],"aliases":["Verg"]}}
 ---
 
 > [!infobox|left wsmall embed]
 > # Vergen Koni
-> ![Admin/Attachments/Verg_Profile_pic_SQ.png\|Verg_Profile_pic_SQ.png](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.png)
+> ![Admin/Attachments/Verg_Profile_pic_SQ.webp\|Verg_Profile_pic_SQ.webp](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.webp)
 > > [!caption] 
 > > 
 >
@@ -24,7 +24,7 @@
 
 > [!infobox|right wsmall embed]
 > # Hyper Seeker
-> ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png)
+> ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp)
 > 
 > |  |  |
 > |--|--|

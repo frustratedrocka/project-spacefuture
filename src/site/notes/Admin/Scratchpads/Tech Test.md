@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/admin/scratchpads/tech-test/","tags":[null],"noteIcon":"","updated":"2026-09-16T19:04:11.633-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/admin/scratchpads/tech-test/","tags":[null],"noteIcon":"","updated":"2026-09-18T19:12:20.894-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
 # Test Embed In Blockquote
 
 > Blockquote Line 1
-> ![KamillePortrait.png](/img/user/Admin/Attachments/KamillePortrait.png)
+> ![KamillePortrait.webp](/img/user/Admin/Attachments/KamillePortrait.webp)
 > 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/places/colonies/geb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -127,7 +127,7 @@ views:
 
 > [!infobox|left wsmall]
 > # The Pirate King
-> ![Admin/Attachments/Harlock.jpg\|Harlock.jpg](/img/user/Admin/Attachments/Harlock.jpg)
+> ![Admin/Attachments/Harlock.webp\|Harlock.webp](/img/user/Admin/Attachments/Harlock.webp)
 > 
 > |  |  |
 > |--|--|

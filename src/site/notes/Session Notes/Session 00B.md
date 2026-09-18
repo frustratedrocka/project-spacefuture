@@ -19,13 +19,13 @@
 >## Present
 >> [!cards|3 collapse]
 >> 
->> ![Admin/Attachments/Auggie_Zoom.png\|cover ht-sm](/img/user/Admin/Attachments/Auggie_Zoom.png)
+>> ![Admin/Attachments/Auggie_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Auggie_Zoom.webp)
 >>  **[[Player Characters/August Grier\|Auggie]]**
 >> 
->> ![Admin/Attachments/Lane_Zoom.png\|cover ht-sm](/img/user/Admin/Attachments/Lane_Zoom.png)
+>> ![Admin/Attachments/Lane_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Lane_Zoom.webp)
 >> **[[Player Characters/Lane Gable\|Lane]]**
 >> 
->> ![Admin/Attachments/Verg_Zoom.png\|cover ht-sm](/img/user/Admin/Attachments/Verg_Zoom.png)
+>> ![Admin/Attachments/Verg_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Verg_Zoom.webp)
 >> **[[Player Characters/Vergen Koni\|Verg]]**
 >> 
 >----
