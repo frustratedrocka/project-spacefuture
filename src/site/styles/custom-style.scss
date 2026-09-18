@@ -396,6 +396,19 @@ table td > picture {
     display: block;
     line-height: 0;
 }
+
+/* Respect ITS txt-c metadata on published callouts. */
+.callout[data-callout-metadata~="txt-c"]
+> .callout-content {
+    text-align: center !important;
+}
+
+/* DG table/card cells may carry their own alignment. */
+.callout[data-callout-metadata~="txt-c"]
+> .callout-content
+:is(td, th) {
+    text-align: center !important;
+}
 /* =========================================================
             uuuuuuuuuuuuuuuuuuuu
           u" uuuuuuuuuuuuuuuuuu "u
