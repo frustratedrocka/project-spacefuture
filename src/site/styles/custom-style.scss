@@ -6,160 +6,133 @@
    HUMAN-FUCKUPABLE THEME / STYLE / GRAPHIC SETTINGS
    =========================================================== */
 
-/* =======
-   MONOKAI
-   ======= */
+/* CROSSBONE */
+:root {
+    --font-family-header: "Russo One";
+    --font-family-body: "Quantico";
 
-// body {
-//   h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1{
-// 		text-transform: uppercase;
-// 		letter-spacing: 0.5px;
-// 	    color: hsl(345, 100%, 69%) !important;
-// 	    font-family: "Russo One" !important;
-	  
-// 	};
-// h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
-// 		text-transform: uppercase;		
-// 		letter-spacing: 0.5px;
-// 		color: hsl(45, 100%, 70%) !important;
-// 	    font-family: "Russo One" !important;
-// 	};
-// h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
-// 		color: hsl(26, 97%, 65%) !important;
-// 	    font-family: "Russo One" !important;
-// 		text-transform: uppercase;
-// 	};
-// h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
-// 		text-transform: uppercase;
-// 	    color: hsl(345, 100%, 69%) !important;
-// 	    font-family: "Russo One" !important;
-// 	};
-// p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
-// 		font-size: 11pt;
-// 		font-family: "Quantico" !important;
-// 		color: hsl(210, 3%, 89%) !important;
-// 	};
-// .callout-title-inner{
-//   		font-family:"Russo One";
-//   		text-transform:uppercase;
-// 		color: hsl(210, 3%, 89%) !important;
-// 	};
-// .internal-link:not(.is-unresolved), .external-link, .filename, .toc-active{
-// 		color: hsl(186, 71%, 69%) !important;
-// 	};
-// 	.obsidian-bases-single-view-name, .obsidian-base-table, .obsidian-base-table-wrapper, .obsidian-base-table.tbody, .obsidian-base-empty, .obsidian-bases-result-count, .obsidian-bases-toolbar, .obsidian-base-table td {
-//   font-size:11pt !important;
-// 	};
-// .markdown-embed {
-//   background-color:hsl(285, 5%, 17%);
-// }
-// }
-// .filename, .foldername {
-//   font-family:"Quantico" !important;
-// }
+    --font-size-h1: 18pt;
+    --font-size-h2: 15pt;
+    --font-size-h3: 12pt;
+    --font-size-body: 11pt;
 
-// body th, .markdown-rendered .table-view-table > thead > tr > th {
-//   font-family: "Russo One" !important;
-//   font-size: 11pt;
-//   text-transform: uppercase !important;
-//   background-color: #1a181b !important;
-//   color: #fc9a4f !important;
-// }
+    --font-color-h1: #c94033;
+    --font-color-h2: #f8982f;
+    --font-color-h3: #f2c049;
+    --font-color-body: #e1e2e3;
+    --font-color-link: #1dc383;
 
-// table td {
-//   font-size: 11pt !important;
-// }
+    --page-bg-color-default: #161620;
+    --page-bg-color-dark: #0d0d13;
+    --page-bg-color-light: #303046;
+}
 
-// /*Custom Colors*/
-// canvas, .filetree-sidebar, .filetree-wrapper{
-//   background-color: hsl(252, 8%, 12%)
-// }
+/* MONOKAI --UNUSED
+:root {
+    --font-family-header: "Russo One";
+    --font-family-body: "Quantico";
 
-// .search-button{
-// 	background-color: hsl(270, 4%, 10%)
-// }
+    --font-size-h1: 18pt;
+    --font-size-h2: 15pt;
+    --font-size-h3: 12pt;
+    --font-size-body: 11pt;
 
-// body {
-// 	background-color: hsl(285, 5%, 17%)
-// }
+    --font-color-body: #e2e3e4;
+    --font-color-h1: #ff6188;
+    --font-color-h2: #ffd966;
+    --font-color-h3: #fc9a4f;
+    --font-color-link: #78dde8;
 
-/* =========
-   CROSSBONE
-   ========= */
+    --page-bg-color-default: #2c292e;
+    --page-bg-color-dark: #1a181b;
+    --page-bg-color-light: #1d1c21;
+}
+---*/
+
+
+
+/* ================================
+   TEXT, COLOR, & THEME ADJUSTMENTS
+   ================================ */
 
 body {
   h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1{
-		text-transform: uppercase;
-		letter-spacing: 0.5px;
-	    color: #c94033 !important;
-	    font-family: "Russo One" !important;
-	};
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+      color: var(--font-color-h1) !important;
+      font-family: var(--font-family-header) !important;
+  };
 h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
-		text-transform: uppercase;		
-		letter-spacing: 0.5px;
-		color: #f8982f !important;
-		font-size: 15pt !important;
-	    font-family: "Russo One" !important;
-	};
+    text-transform: uppercase;    
+    letter-spacing: 0.5px;
+    color: var(--font-color-h2) !important;
+    font-size: var(--font-size-h2) !important;
+      font-family: var(--font-family-header) !important;
+  };
 h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
-		color: #f2c049 !important;
-		font-size: 12pt !important;
-	    font-family: "Russo One" !important;
-		text-transform: uppercase;
-	};
+    color: var(--font-color-h3) !important;
+    font-size: var(--font-size-h3) !important;
+      font-family: var(--font-family-header) !important;
+    text-transform: uppercase;
+  };
 h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
-		text-transform: uppercase;
-	    color: #c94033 !important;
-	    font-family: "Russo One" !important;
-		font-size: 11pt !important;
-	};
+    text-transform: uppercase;
+      color: var(--font-color-h1) !important;
+      font-family: var(--font-family-header) !important;
+    font-size: var(--font-size-body) !important;
+  };
 p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
-		font-size: 11pt;
-		font-family: "Quantico" !important;
-		color: #e2e3e4 !important;
-	};
+    font-size: var(--font-size-body);
+    font-family: var(--font-family-body) !important;
+    color: var(--font-color-body) !important;
+  };
 .callout-title-inner{
-  		font-family:"Russo One";
-  		text-transform:uppercase;
-		color: #e2e3e4 !important;
-	};
+      font-family: var(--font-family-header);
+      text-transform:uppercase;
+    color: var(--font-color-body) !important;
+  };
 .internal-link:not(.is-unresolved), .external-link, .filename, .toc-active{
-		color: #1dc383 !important;
-	};
-	.obsidian-bases-single-view-name, .obsidian-base-table, .obsidian-base-table-wrapper, .obsidian-base-table.tbody, .obsidian-base-empty, .obsidian-bases-result-count, .obsidian-bases-toolbar, .obsidian-base-table td {
-  font-size:11pt !important;
-	};
+    color: var(--font-color-link) !important;
+  };
+  .obsidian-bases-single-view-name, .obsidian-base-table, .obsidian-base-table-wrapper, .obsidian-base-table.tbody, .obsidian-base-empty, .obsidian-bases-result-count, .obsidian-bases-toolbar, .obsidian-base-table td {
+  font-size: var(--font-size-body) !important;
+  };
 .markdown-embed {
-  background-color:#161620;
+  background-color:var(--page-bg-color-default);
     }
 }
 .filename, .foldername {
-  font-family:"Quantico" !important;
+  font-family:var(--font-family-body) !important;
 }
 
 body th, .markdown-rendered .table-view-table > thead > tr > th {
-  font-family: "Russo One" !important;
-  font-size: 11pt;
+  font-family: var(--font-family-header) !important;
+  font-size: var(--font-size-body);
   text-transform: uppercase !important;
-  background-color: #0d0d13 !important;
-  color: #f2c049 !important;
+  background-color: var(--page-bg-color-dark) !important;
+  color: var(--font-color-h3) !important;
 }
 
 table td {
-  font-size: 11pt !important;
+  font-size: var(--font-size-body) !important;
 }
 
 /*Custom Colors*/
 canvas, .filetree-sidebar, .filetree-wrapper{
-  background-color: #0d0d13
+  background-color: var(--page-bg-color-dark)
 }
 
 .search-button{
-	background-color: #1a181b
+  background-color: var(--page-bg-color-default)
 }
 
 body {
-	background-color: #161620
+  background-color: var(--page-bg-color-default)
+}
+
+/* Infoboxes */
+.callout[data-callout~="infobox"] {
+    background-color: var(--page-bg-color-light) !important;
 }
 
 /*Logo Adjust*/
