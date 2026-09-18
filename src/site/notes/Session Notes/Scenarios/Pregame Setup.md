@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T13:43:09.484-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-18T14:19:08.546-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
 ---
 
 ## Summary
@@ -12,10 +12,10 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 ## Sessions
 
-| Session                                       | Name | Logline                                                                                                  |
-| --------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Session 00A\|Session 00A]] | \-   | Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation. |
-| [[Session Notes/Session 00B\|Session 00B]] | \-   | Second Wing hits the combat sim during downtime between operations.                                      |
+| Session                                       | Name         | Logline                                                                                                  |
+| --------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 00A\|Session 00A]] | Origins      | Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation. |
+| [[Session Notes/Session 00B\|Session 00B]] | Training Sim | Second Wing hits the combat sim during downtime between operations.                                      |
 
 { .block-language-dataview}
 
