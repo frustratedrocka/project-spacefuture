@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-18T13:54:05.552-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-18T16:24:07.100-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
@@ -34,13 +34,15 @@ Something every soldier's familiar with: "Hurry up and wait." Pending orders fro
 
 # Campaign Aspects
 
->[!columns|2 no-t]
+>[!columns|2 no-t ]
+>> [!blank]
 >> ## Current Issues
 >> - "What Will You Compromise For A Righteous Cause?"
 >> - "Finally, Barely, Enough To Go Around"
 >> - "Disparate & Unstable Rebel Coalition"
 >> - "Affiliation Is Not Allegiance"
 >
+>> [!blank]
 >> ## Impending Issues
 >> - "Old Conflicts Dormant, Not Dead"
 >> - "Lurking Shadow Of The [[Database/Factions/Hive Cult\|Hive Cult]]"
