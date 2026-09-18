@@ -125,7 +125,7 @@ views:
 
 
 
-> [!infobox|left wsmall table]
+> [!infobox|left wsmall]
 > # The Pirate King
 > ![Admin/Attachments/Harlock.jpg\|Harlock.jpg](/img/user/Admin/Attachments/Harlock.jpg)
 > 
@@ -140,7 +140,7 @@ views:
 > |4 Mod|Moderate|
 > |6 Svr|Severe|
 
-> [!infobox|right wsmall table]
+> [!infobox|right wsmall]
 > # Gundam Descolada
 > ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)
 > 
