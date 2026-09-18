@@ -14,7 +14,7 @@
 
 
 
-> [!INFOBOX] Geb
+> [!INFOBOX|ws-med embed] Geb
 > # Geb
 > `=embed(link(this.Portrait))`
 > 
@@ -313,7 +313,7 @@ Individual
 
 
 
-> [!INFOBOX] Geb
+> [!INFOBOX|ws-med embed] Geb
 > # Geb
 > `=embed(link(this.Portrait))`
 > 

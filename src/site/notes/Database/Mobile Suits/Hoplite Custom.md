@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/hoplite-custom/","tags":["Mech"],"noteIcon":"","updated":"2026-09-16T14:20:51.874-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Custom","MECH_Model":["[[Database/Mobile Suits/Hoplite Custom]]"],"Portrait":"[[Admin/Attachments/HopliteCustom_SQ.png]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Known_Users":["[[Player Characters/August Grier]]"],"Faction":["[[Database/Factions/Rebels]]"],"Variants":null,"Base":["[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/hoplite-custom/","tags":["Mech"],"noteIcon":"","updated":"2026-09-18T15:50:51.638-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Custom","MECH_Model":["[[Database/Mobile Suits/Hoplite Custom]]"],"Portrait":"[[Admin/Attachments/HopliteCustom_SQ.png]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Known_Users":["[[Player Characters/August Grier]]"],"Faction":["[[Database/Factions/Rebels]]"],"Variants":null,"Base":["[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
 ---
 
 
-> [!infobox|left wsmall]
+> [!infobox|embed left wsmall]
 > # Hoplite Custom
 > ![Admin/Attachments/HopliteCustom_SQ.png\|HopliteCustom_SQ.png](/img/user/Admin/Attachments/HopliteCustom_SQ.png)
 > 
@@ -11,7 +11,7 @@
 > |--|--|
 > |**FACTION**| [[Database/Factions/Rebels\|Rebels]]|
 > |**KNOWN PILOTS**|[[Player Characters/August Grier\|August Grier]]|
-> |**ARMOR**|`REDACTED`|
+> |**ARMOR**|4|
 > |**BASE**|[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]
 > 
 > 

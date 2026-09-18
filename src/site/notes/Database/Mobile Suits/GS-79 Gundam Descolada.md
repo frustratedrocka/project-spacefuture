@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/gs-79-gundam-descolada/","tags":["Mech"],"noteIcon":"","updated":"2026-09-17T12:10:56.815-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Gundam Descolada","MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Portrait":"Admin/Attachments/Descolada_SQ.webp","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Swashbuckling Space Duellist","MECH_Trouble":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"MECH_Stunts":["**BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.","**YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost.","`REDACTED`"],"Known_Users":["[[Database/People/The Pirate King]]"],"Faction":["[[Database/Factions/Armada Ejecta]]"],"Variants":null,"Aliases":["Descolada"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/gs-79-gundam-descolada/","tags":["Mech"],"noteIcon":"","updated":"2026-09-18T15:50:00.989-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Gundam Descolada","MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Portrait":"Admin/Attachments/Descolada_SQ.webp","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Swashbuckling Space Duellist","MECH_Trouble":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"MECH_Stunts":["**BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.","**YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost.","`REDACTED`"],"Known_Users":["[[Database/People/The Pirate King]]"],"Faction":["[[Database/Factions/Armada Ejecta]]"],"Variants":null,"Aliases":["Descolada"]}}
 ---
 
 
-> [!infobox|left wsmall]
+> [!infobox|embed left wsmall]
 > # GS-79 Gundam Descolada
 > ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)
 > 
@@ -11,7 +11,7 @@
 > |--|--|
 > |**FACTIONS**|[[Database/Factions/Armada Ejecta\|Armada Ejecta]]|
 > |**KNOWN PILOTS**|[[Database/People/The Pirate King\|The Pirate King]]|
-> 
+> | **ARMOR**|`REDACTED`|
 > 
 > 
 

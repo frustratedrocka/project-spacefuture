@@ -1,19 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-18T15:36:21.478-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Cynthia]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Menodora_SQ.png]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Things/Charun]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is actively harming you.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Ticket Out","MECH_Gear":["Mining Drill","Club"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Forcefully",[null]],"skill_2":["Fight","Network",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Tinker","Understand","Acquire",[null]],"approach_1":["Carefully","Quickly","Subtly"],"aliases":["Mena"]}}
+{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-18T15:45:15.515-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Cynthia]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Menodora_SQ.png]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Things/Charun]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is actively harming you.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Ticket Out","MECH_Gear":["Mining Drill","Club"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Forcefully",[null]],"skill_2":["Fight","Network",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Tinker","Understand","Acquire",[null]],"approach_1":["Carefully","Quickly","Subtly"],"aliases":["Mena"]}}
 ---
 
-> [!infobox|left wsmall collapse]
+> [!infobox|left wsmall embed]
 > # Menodora Thaliana
 > ![Admin/Attachments/Menodora_SQ.png\|Menodora_SQ.png](/img/user/Admin/Attachments/Menodora_SQ.png)
 > > [!caption] 
 > > 
-> 
-> |  |  |
-> |--|--|
-> |**ORIGIN**|[[Database/Places/Earth\|Luna]]|
-> |**ASSOC.**|[[Database/Glossary/The Belt\|The Belt]]<br>[[Database/Things/Charun\|Charun]]|
-> |**FACTIONS**| [[Database/Factions/Rebels\|Rebels]],<br>[[Database/Factions/Mindful Eyes\|Mindful Eyes]]|
-> | **STRAIN**| 7 |
+>
+>>[!table|table clean n-th] 
+>> |  |  |
+>> |--|--|
+>> |**ORIGIN**|[[Database/Places/Earth\|Luna]]|
+>> |**ASSOC.**|[[Database/Glossary/The Belt\|The Belt]]<br>[[Database/Things/Charun\|Charun]]|
+>> |**FACTIONS**| [[Database/Factions/Rebels\|Rebels]],<br>[[Database/Factions/Mindful Eyes\|Mindful Eyes]]|
+>> | **STRAIN**| 7 |
 >  
 > |HARM|CONSEQUENCE|
 > |----|-----|
@@ -21,14 +22,16 @@
 > |4 Mod|Moderate|
 > |6 Svr|Severe|
 
-> [!infobox|right wsmall collapse]
+> [!infobox|right wsmall embed]
 > # Kerbstomp
 > ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)
 > 
 > |  |  |
 > |--|--|
 > |**MODEL**|[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]|
+> |**BASE**|`=link(this.MECH_Model.Base)`|
 > | **ARMOR**| `counter 0`  **/**  4|
+> 
 > 
 > |HARM|BREAKDOWN|
 > |----|-----|

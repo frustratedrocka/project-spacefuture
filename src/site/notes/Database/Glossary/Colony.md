@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-15T12:34:47.609-04:00","dg-note-properties":{"tags":["index","lore"]}}
+{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-18T15:43:54.695-04:00","dg-note-properties":{"tags":["index","lore"]}}
 ---
 
-> [!infobox|ws-med]
+> [!infobox|embed ws-med]
 >![Stanford.jpg\|right](/img/user/Admin/Attachments/Stanford.jpg)
 
 # Orientation

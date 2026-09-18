@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-09-17T13:53:24.737-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Faction_Presence":null,"Control":"Home / Headquarters","Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-09-18T15:47:27.922-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Faction_Presence":null,"Control":"Home / Headquarters","Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null]}}
 ---
 
 
-> [!INFOBOX] Ceres
+> [!INFOBOX|ws-med embed] Ceres
 > # Ceres
 > ![Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg\|Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg](/img/user/Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg)
 > 

@@ -10,7 +10,7 @@
 
 
 
->[!INFOBOX|ws-med]
+>[!infobox|embed ws-med]
 ># Rebels
 >![Admin/Attachments/RebelInsignia.webp\|RebelInsignia.webp](/img/user/Admin/Attachments/RebelInsignia.webp)
 >
@@ -125,7 +125,7 @@ views:
 
 
 
->[!INFOBOX|ws-med]
+>[!infobox|s-med embed]
 ># Apsis
 >`=embed(link(this.Portrait))`
 >
@@ -229,7 +229,7 @@ views:
 
 
 
->[!INFOBOX|ws-med]
+>[!infobox|embed ws-med]
 ># Jovian Consortium
 >`=embed(link(this.Portrait))`
 >
@@ -333,7 +333,7 @@ views:
 
 
 
->[!INFOBOX|ws-med]
+>[!infobox|embed ws-med]
 ># Republic Of Mars
 >![Admin/Attachments/RFGuerillaPropPoster1.jpg\|RFGuerillaPropPoster1.jpg](/img/user/Admin/Attachments/RFGuerillaPropPoster1.jpg)
 >
@@ -441,7 +441,7 @@ views:
 
 
 
->[!INFOBOX|ws-med]
+>[!infobox|s-med embed]
 ># Armada Ejecta
 >![Admin/Attachments/CV_Recolor.webp\|CV_Recolor.webp](/img/user/Admin/Attachments/CV_Recolor.webp)
 >
@@ -541,7 +541,7 @@ views:
 
 
 
->[!INFOBOX|ws-med]
+>[!infobox|embed ws-med]
 ># Mindful Eyes
 >`=embed(link(this.Portrait))`
 >
@@ -649,7 +649,7 @@ views:
 
 
 
->[!INFOBOX|ws-med]
+>[!infobox|embed ws-med]
 ># Hive Cult
 >`=embed(link(this.Portrait))`
 >

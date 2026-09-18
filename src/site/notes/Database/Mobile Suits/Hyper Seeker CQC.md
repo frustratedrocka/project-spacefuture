@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/hyper-seeker-cqc/","tags":["Mech"],"noteIcon":"","updated":"2026-09-17T00:54:09.776-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hyper Seeker","MECH_Model":["[[Database/Mobile Suits/Hyper Seeker CQC]]"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.png]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Known_Users":["[[Player Characters/Vergen Koni]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Variants":[null]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/hyper-seeker-cqc/","tags":["Mech"],"noteIcon":"","updated":"2026-09-18T15:50:35.590-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hyper Seeker","MECH_Model":["[[Database/Mobile Suits/Hyper Seeker CQC]]"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.png]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Known_Users":["[[Player Characters/Vergen Koni]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Variants":[null]}}
 ---
 
 
-> [!infobox|left wsmall]
+> [!infobox|embed left wsmall]
 > # Hyper Seeker
 > ![Admin/Attachments/Hyper_Seeker_CQC_SQ.png\|Hyper_Seeker_CQC_SQ.png](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.png)
 > 
@@ -11,7 +11,7 @@
 > |--|--|
 > |**FACTION**| [[Database/Factions/Rebels\|Rebels]]<br>[[Database/Factions/Mindful Eyes\|Mindful Eyes]]|
 > |**KNOWN PILOTS**|[[Player Characters/Vergen Koni\|Vergen Koni]]|
-> |**ARMOR**|`REDACTED`|
+> |**ARMOR**|4|
 > 
 > 
 

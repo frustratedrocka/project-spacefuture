@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location"],"noteIcon":"","updated":"2026-09-17T13:51:00.437-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location"],"noteIcon":"","updated":"2026-09-18T15:47:23.779-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 
-> [!INFOBOX] Geb
+> [!INFOBOX|ws-med embed] Geb
 > # Geb
 > `=embed(link(this.Portrait))`
 > 
