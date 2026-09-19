@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-19T03:11:54.987-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-19T03:56:35.392-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"]}}
 ---
 
 
@@ -15,11 +15,6 @@
 > |Status|Semi-Occupied Territory|
 > |Interest|[[Database/Factions/Apsis\|Apsis]]|
 
-The new breadbasket now that [[Database/Places/Earth\|Earth]] is gone. *Officially* [[Database/History/The Ground War\|The Ground War]] ended in a stalemate and settled truce; unofficially, the terms strongly favored Jupiter.
-
-Mars as a political entity consists largely of farmers and farmer interests, with the [[Database/Factions/Republic Of Mars\|Republic Of Mars]] as the current form of its governing body.
-
-
 | Aspects                          |
 | -------------------------------- |
 | Unofficially Lost The Ground War |
@@ -28,30 +23,20 @@ Mars as a political entity consists largely of farmers and farmer interests, wit
 
 { .block-language-dataview}
 
+The new breadbasket now that [[Database/Places/Earth\|Earth]] is gone. *Officially* [[Database/History/The Ground War\|The Ground War]] ended in a stalemate and settled truce; unofficially, the terms strongly favored Jupiter.
 
-```base
-filters:
-  and:
-    - file.hasTag("character")
-    - or:
-        - Origin==link(this.file.name)
-        - Assoc.contains(link(this.file.name))
-    - '!file.inFolder("Player Characters/Archive")'
-views:
-  - type: table
-    name: Associated Characters
-    order:
-      - file.name
-      - Origin
-      - Assoc
-    columnSize:
-      file.name: 245
-      note.Origin: 108
-
-```
-
+Mars as a political entity consists largely of farmers and farmer interests, with the [[Database/Factions/Republic Of Mars\|Republic Of Mars]] as the current form of its governing body.
 
 ## Data
+
+| Character                                                        | Origin                              | Associations                                     |
+| ---------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------ |
+| [[Player Characters/August Grier\|August Grier]]              | [[Database/Places/Mars\|Mars]]   | [[Database/Places/Colonies/Theseus\|Theseus]] |
+| [[Database/People/Gen Bashaba\|Gen Bashaba]]                  | [[Database/Places/Mars\|Mars]]   | [[Database/Things/Fishbone\|Fishbone]]        |
+| [[Database/People/Test/Test Assoc Hide\|Test Assoc Hide]]     | [[Database/Places/Earth\|Earth]] | !h! [[Database/Places/Mars\|Mars]] !/h!                                |
+| [[Database/People/Test/Test Assoc Redact\|Test Assoc Redact]] | [[Database/Places/Earth\|Earth]] | !r! [[Database/Places/Mars\|Mars]] !/r!                                |
+
+{ .block-language-dataview}
 
 | Session                                       | Name    | Scenario                                                    | Part | Date               |
 | --------------------------------------------- | ------- | ----------------------------------------------------------- | ---- | ------------------ |
