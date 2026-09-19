@@ -24,7 +24,7 @@
 
 > [!infobox|right wsmall embed]
 > # Kerbstomp
-> ![Admin/Attachments/GM-II-AEUG_SQ.webp\|GM-II-AEUG_SQ.webp](/img/user/Admin/Attachments/GM-II-AEUG_SQ.webp)
+> ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)
 > 
 > |  |  |
 > |--|--|

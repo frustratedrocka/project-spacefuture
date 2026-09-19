@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-19T12:59:53.520-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.webp","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-19T14:15:23.872-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.webp","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
 ---
 
 
@@ -35,29 +35,8 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("character")
-    - Faction.contains(link(this.file.name))
-    - '!file.folder.contains("Player Characters/Archive")'
-views:
-  - type: list
-    name: Known Members
-    order:
-      - file.name
-      - Concept
-      - Relationship
-      - Loyalty
-    sort:
-      - property: Rank
-        direction: ASC
-    markers: none
-    separator: " - "
-
-```
-
+> [!blank|embed] FACTION CHARACTERS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 
 ```base
@@ -96,4 +75,7 @@ views:
 
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
+>  | Mobile Suits | Name |
+> | ------------ | ---- |
+> 
+{ .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T13:17:33.531-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T14:14:33.403-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 
@@ -69,4 +69,9 @@ views:
 
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/Akoni_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Akoni_SQ.webp?1789773045881"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/SE-832 Akoni.md" data-href="Database/Mobile Suits/SE-832 Akoni.md" href="Database/Mobile Suits/SE-832 Akoni.md" class="internal-link" target="_blank" rel="noopener nofollow">SE-832 Akoni</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Akoni-E_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Akoni-E_SQ.webp?1789773045908"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/SE-832-E Akoni Command Type.md" data-href="Database/Mobile Suits/SE-832-E Akoni Command Type.md" href="Database/Mobile Suits/SE-832-E Akoni Command Type.md" class="internal-link" target="_blank" rel="noopener nofollow">SE-832-E Akoni Command Type</a></strong></span></td></tr></tbody></table>
+>  | Mobile Suits                                            | Name                                                                                      |
+> | ------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/Akoni_SQ.webp\|Akoni_SQ.webp](/img/user/Admin/Attachments/Akoni_SQ.webp)     | **[[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]**                               |
+> | ![Admin/Attachments/Akoni-E_SQ.webp\|Akoni-E_SQ.webp](/img/user/Admin/Attachments/Akoni-E_SQ.webp) | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]** |
+> 
+{ .block-language-dataview}
