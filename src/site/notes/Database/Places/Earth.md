@@ -38,8 +38,8 @@ Fortunately for everyone, Luna fragmented on the way down, and not all of it act
 | ---------------------------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------- |
 | [[Player Characters/Lane Gable\|Lane Gable]]                  | [[Database/Places/Earth\|Earth]] | [[Database/Places/Colonies/Arjuna\|Arjuna]]                                     |
 | [[Player Characters/Menodora Thaliana\|Menodora Thaliana]]    | [[Database/Places/Earth\|Luna]]  | [[Database/Glossary/The Belt\|The Belt]], [[Database/Things/Charun\|Charun]] |
-| [[Database/People/Test/Test Assoc Hide\|Test Assoc Hide]]     | [[Database/Places/Earth\|Earth]] | !h! [[Database/Places/Mars\|Mars]] !/h!                                                                  |
-| [[Database/People/Test/Test Assoc Redact\|Test Assoc Redact]] | [[Database/Places/Earth\|Earth]] | !r! [[Database/Places/Mars\|Mars]] !/r!                                                                  |
+| [[Database/People/Test/Test Assoc Hide\|Test Assoc Hide]]     | [[Database/Places/Mars\|Mars]]   | !h! [[Database/Places/Earth\|Earth]] !/h!                                                                 |
+| [[Database/People/Test/Test Assoc Redact\|Test Assoc Redact]] | [[Database/Places/Mars\|Mars]]   | !r! [[Database/Places/Earth\|Earth]] !/r!                                                                 |
 | [[Database/People/The Pirate King\|The Pirate King]]          | [[Database/Places/Earth\|Earth]] | \-                                                                                 |
 
 { .block-language-dataview}

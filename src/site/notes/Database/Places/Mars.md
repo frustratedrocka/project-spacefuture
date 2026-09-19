@@ -29,12 +29,12 @@ Mars as a political entity consists largely of farmers and farmer interests, wit
 
 ## Data
 
-| Character                                                        | Origin                              | Associations                                     |
-| ---------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------ |
-| [[Player Characters/August Grier\|August Grier]]              | [[Database/Places/Mars\|Mars]]   | [[Database/Places/Colonies/Theseus\|Theseus]] |
-| [[Database/People/Gen Bashaba\|Gen Bashaba]]                  | [[Database/Places/Mars\|Mars]]   | [[Database/Things/Fishbone\|Fishbone]]        |
-| [[Database/People/Test/Test Assoc Hide\|Test Assoc Hide]]     | [[Database/Places/Earth\|Earth]] | !h! [[Database/Places/Mars\|Mars]] !/h!                                |
-| [[Database/People/Test/Test Assoc Redact\|Test Assoc Redact]] | [[Database/Places/Earth\|Earth]] | !r! [[Database/Places/Mars\|Mars]] !/r!                                |
+| Character                                                        | Origin                            | Associations                                     |
+| ---------------------------------------------------------------- | --------------------------------- | ------------------------------------------------ |
+| [[Player Characters/August Grier\|August Grier]]              | [[Database/Places/Mars\|Mars]] | [[Database/Places/Colonies/Theseus\|Theseus]] |
+| [[Database/People/Gen Bashaba\|Gen Bashaba]]                  | [[Database/Places/Mars\|Mars]] | [[Database/Things/Fishbone\|Fishbone]]        |
+| [[Database/People/Test/Test Assoc Hide\|Test Assoc Hide]]     | [[Database/Places/Mars\|Mars]] | !h! [[Database/Places/Earth\|Earth]] !/h!                               |
+| [[Database/People/Test/Test Assoc Redact\|Test Assoc Redact]] | [[Database/Places/Mars\|Mars]] | !r! [[Database/Places/Earth\|Earth]] !/r!                               |
 
 { .block-language-dataview}
 
