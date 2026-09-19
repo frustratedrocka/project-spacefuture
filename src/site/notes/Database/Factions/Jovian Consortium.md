@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T14:15:17.216-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T17:01:10.794-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian"]}}
 ---
 
 
@@ -32,41 +32,8 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 > [!blank|embed] FACTION CHARACTERS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/Things/Storm's Eye Heavy Industries.md" data-href="Database/Things/Storm's Eye Heavy Industries.md" href="Database/Things/Storm's Eye Heavy Industries.md" class="internal-link" target="_blank" rel="noopener nofollow">Storm's Eye Heavy Industries</a></span></td><td><span>Key Mobile Suit Manufacturer - Sells To Everyone, Including You - One Hand On The Tiller</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The XO.md" data-href="Database/People/The XO.md" href="Database/People/The XO.md" class="internal-link" target="_blank" rel="noopener nofollow">The XO</a></span></td><td><span>Hard Times Make Hard Asses - - - -</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The CEO.md" data-href="Database/People/The CEO.md" href="Database/People/The CEO.md" class="internal-link" target="_blank" rel="noopener nofollow">The CEO</a></span></td><td><span>CEO of <a data-href="Storm's Eye Heavy Industries" href="Storm's Eye Heavy Industries" class="internal-link" target="_blank" rel="noopener nofollow">Storm's Eye Heavy Industries</a> - Relationship - When You Think Jovians, You Think CEO</span></td></tr></tbody></table>
 
-
-```base
-filters:
-  and:
-    - file.hasTag("location")
-    - or:
-        - Faction.contains(link(this.file.name))
-        - Faction_Presence.contains(link(this.file.name))
-    - '!file.inFolder("Admin/Templates")'
-properties:
-  note.Faction_Presence:
-    displayName: Other Presence
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Associated Locations
-    order:
-      - file.name
-      - Concept
-      - Faction
-      - Control
-      - Faction_Presence
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.Concept: 218
-      note.Faction: 133
-      note.Control: 136
-      note.Faction_Presence: 251
-    rowHeight: medium
-
-```
-
+> [!blank|embed] SCRIPT
+> <table class="dataview table-view-table"><thead><tr><th>Location</th><th>Concept</th><th>Faction</th><th>Control</th><th>Other Presence</th></tr></thead><tbody><tr><td>Charun</td><td></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Independent.md" data-href="Database/Factions/Independent.md" href="Database/Factions/Independent.md" class="internal-link" target="_blank" rel="noopener nofollow">Independent</a></span></td><td>Semi-Extraterritorial</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td>Fishbone</td><td><span>Rebel Destroyer, Closest Thing To Home</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Courtesy Of the Consortium</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td>Geb</td><td></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Contested</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td>Jupiter</td><td><span>Industrial Center Of Sol</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td><td>Home / Headquarters</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td></tr></tbody></table>
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
 >  | Mobile Suits                                                            | Name                                                                                |

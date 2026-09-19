@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-19T14:14:51.760-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-09-19T17:01:25.674-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!infobox|embed ws-med]
@@ -63,41 +63,8 @@ views:
 { #FactionTable}
 
 
-
-```base
-filters:
-  and:
-    - file.hasTag("location")
-    - or:
-        - Faction.contains(link(this.file.name))
-        - Faction_Presence.contains(link(this.file.name))
-    - '!file.inFolder("Admin/Templates")'
-properties:
-  note.Faction_Presence:
-    displayName: Other Presence
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Associated Locations
-    order:
-      - file.name
-      - Concept
-      - Faction
-      - Control
-      - Faction_Presence
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.Concept: 218
-      note.Faction: 133
-      note.Control: 136
-      note.Faction_Presence: 251
-    rowHeight: medium
-
-```
-
+> [!blank|embed] SCRIPT
+> <table class="dataview table-view-table"><thead><tr><th>Location</th><th>Concept</th><th>Faction</th><th>Control</th><th>Other Presence</th></tr></thead><tbody><tr><td>Fishbone</td><td><span>Rebel Destroyer, Closest Thing To Home</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Courtesy Of the Consortium</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td>Geb</td><td></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Contested</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td>Kelly</td><td></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Contested</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta.md" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span></td></tr></tbody></table>
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
 >  | Mobile Suits                                                              | Name                                                                |

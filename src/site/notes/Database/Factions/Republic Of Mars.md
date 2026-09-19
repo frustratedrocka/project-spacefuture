@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-19T14:15:23.872-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.webp","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-19T17:01:34.453-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.webp","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
 ---
 
 
@@ -38,41 +38,8 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 > [!blank|embed] FACTION CHARACTERS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
-
-```base
-filters:
-  and:
-    - file.hasTag("location")
-    - or:
-        - Faction.contains(link(this.file.name))
-        - Faction_Presence.contains(link(this.file.name))
-    - '!file.inFolder("Admin/Templates")'
-properties:
-  note.Faction_Presence:
-    displayName: Other Presence
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Associated Locations
-    order:
-      - file.name
-      - Concept
-      - Faction
-      - Control
-      - Faction_Presence
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.Concept: 218
-      note.Faction: 133
-      note.Control: 136
-      note.Faction_Presence: 251
-    rowHeight: medium
-
-```
-
+> [!blank|embed] SCRIPT
+> <table class="dataview table-view-table"><thead><tr><th>Location</th><th>Concept</th><th>Faction</th><th>Control</th><th>Other Presence</th></tr></thead><tbody><tr><td>Earth</td><td><span>Humanity's Cradle Turned Life Support</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td><td>No Man's Land</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta.md" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Mindful Eyes.md" data-href="Database/Factions/Mindful Eyes.md" href="Database/Factions/Mindful Eyes.md" class="internal-link" target="_blank" rel="noopener nofollow">Mindful Eyes</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Hive Cult.md" data-href="Database/Factions/Hive Cult.md" href="Database/Factions/Hive Cult.md" class="internal-link" target="_blank" rel="noopener nofollow">Hive Cult</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span></td></tr><tr><td>Mars</td><td><span>Unofficially Lost The Ground War</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span></td><td>Semi-Occupied Territory</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td></tr><tr><td>Theseus</td><td></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Independent.md" data-href="Database/Factions/Independent.md" href="Database/Factions/Independent.md" class="internal-link" target="_blank" rel="noopener nofollow">Independent</a></span></td><td>Under The Radar</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td></tr></tbody></table>
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
 >  | Mobile Suits | Name |

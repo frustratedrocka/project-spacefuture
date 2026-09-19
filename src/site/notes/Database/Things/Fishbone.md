@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["ship","character","weird","location"],"noteIcon":"","updated":"2026-09-19T12:59:54.660-04:00","dg-note-properties":{"tags":["ship","character","weird","location"],"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Strain":8,"Consequences":["","","",""],"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["ship","character","weird","location"],"noteIcon":"","updated":"2026-09-19T17:04:41.782-04:00","dg-note-properties":{"tags":["ship","character","weird","location"],"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Strain":8,"Consequences":["","","",""],"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|embed left wsmall]
@@ -10,7 +10,8 @@
 > 
 > |  |  |
 > |--|--|
-> |**FACTION**| [[Database/Factions/Rebels\|Rebels]]|
+> |**FACTION**|> [!blank|embed] SCRIPT
+> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/script.js' or 'Admin/Scripts/script/view.js'.</pre>|
 > | **ARMOR**| `REDACTED` |
 > 
 >  
@@ -30,30 +31,10 @@
 
 # Notes
 
-
-```base
-filters:
-  and:
-    - file.hasTag("character")
-    - or:
-        - Origin==link(this.file.name)
-        - Assoc.contains(link(this.file.name))
-    - '!file.inFolder("Player Characters/Archive")'
-views:
-  - type: table
-    name: Associated Characters
-    order:
-      - file.name
-      - Origin
-      - Assoc
-    columnSize:
-      file.name: 245
-      note.Origin: 108
-
-```
-
-
 ## Data
+
+> [!blank|embed] SCRIPT
+> <table class="dataview table-view-table"><thead><tr><th>Character</th><th>Origin</th><th>Associations</th></tr></thead><tbody><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The XO.md" data-href="Database/People/The XO.md" href="Database/People/The XO.md" class="internal-link" target="_blank" rel="noopener nofollow">The XO</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Jupiter Sphere/Jupiter.md" data-href="Database/Places/Jupiter Sphere/Jupiter.md" href="Database/Places/Jupiter Sphere/Jupiter.md" class="internal-link" target="_blank" rel="noopener nofollow">Jupiter</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone.md" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span></td></tr></tbody></table>
 
 > [!blank|embed]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00B.md" data-href="Session Notes/Session 00B.md" href="Session Notes/Session 00B.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00B</a> - Training Sim</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup.md" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>2</td><td>September 15, 2026</td></tr></tbody></table>
