@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T12:42:17.852-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T13:17:33.531-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 
@@ -29,36 +29,8 @@ A major wrinkle in any attempt to permanently deal with Apsis is that they are, 
 
 `REDACTED`
 
-
-```base
-filters:
-  and:
-    - file.hasTag("character")
-    - Faction.contains(link(this.file.name))
-    - '!file.folder.contains("Player Characters/Archive")'
-views:
-  - type: list
-    name: Known Members
-    order:
-      - file.name
-      - Concept
-      - Relationship
-      - Loyalty
-    sort:
-      - property: Rank
-        direction: ASC
-    markers: none
-    separator: " - "
-
-```
-
-
-| Character                                                 | Aspects                                                    |
-| --------------------------------------------------------- | ---------------------------------------------------------- |
-| [[Database/People/The Man Upstairs\|The Man Upstairs]] | Power-Hungry Expert Shipping Magnate \- \- \- \`REDACTED\` |
-| [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]   | Strategic & Skilled Field Commander \- \- \- \`REDACTED\`  |
-
-{ .block-language-dataview}
+> [!blank|embed] FACTION CHARACTERS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The Man Upstairs.md" data-href="Database/People/The Man Upstairs.md" href="Database/People/The Man Upstairs.md" class="internal-link" target="_blank" rel="noopener nofollow">The Man Upstairs</a></span></td><td><span>Power-Hungry Expert Shipping Magnate - - - <code>REDACTED</code></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/Vantrin Almeyer.md" data-href="Database/People/Vantrin Almeyer.md" href="Database/People/Vantrin Almeyer.md" class="internal-link" target="_blank" rel="noopener nofollow">Vantrin Almeyer</a></span></td><td><span>Strategic &amp; Skilled Field Commander - - - <code>REDACTED</code></span></td></tr></tbody></table>
 
 
 ```base

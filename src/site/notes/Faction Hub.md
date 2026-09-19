@@ -106,7 +106,7 @@ views:
 
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/DagDoll_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/DagDoll_SQ.webp?1789773051897"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Elegant Sky.md" data-href="Database/Mobile Suits/Elegant Sky.md" href="Database/Mobile Suits/Elegant Sky.md" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/HopliteCustom_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/HopliteCustom_SQ.webp?1789773046554"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hoplite Custom.md" data-href="Database/Mobile Suits/Hoplite Custom.md" href="Database/Mobile Suits/Hoplite Custom.md" class="internal-link" target="_blank" rel="noopener nofollow">Hoplite Custom</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Hyper_Seeker_CQC_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp?1789773046613"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hyper Seeker CQC.md" data-href="Database/Mobile Suits/Hyper Seeker CQC.md" href="Database/Mobile Suits/Hyper Seeker CQC.md" class="internal-link" target="_blank" rel="noopener nofollow">Hyper Seeker CQC</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/GM-II-AEUG_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/GM-II-AEUG_SQ.webp?1789773046390"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Kerbstomp.md" data-href="Database/Mobile Suits/Kerbstomp.md" href="Database/Mobile Suits/Kerbstomp.md" class="internal-link" target="_blank" rel="noopener nofollow">Kerbstomp</a></strong></span></td></tr></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/DagDoll_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/DagDoll_SQ.webp?1789773051897"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Elegant Sky.md" data-href="Database/Mobile Suits/Elegant Sky.md" href="Database/Mobile Suits/Elegant Sky.md" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/HopliteCustom_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/HopliteCustom_SQ.webp?1789773046554"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hoplite Custom.md" data-href="Database/Mobile Suits/Hoplite Custom.md" href="Database/Mobile Suits/Hoplite Custom.md" class="internal-link" target="_blank" rel="noopener nofollow">Hoplite Custom</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Hyper_Seeker_CQC_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp?1789773046613"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hyper Seeker CQC.md" data-href="Database/Mobile Suits/Hyper Seeker CQC.md" href="Database/Mobile Suits/Hyper Seeker CQC.md" class="internal-link" target="_blank" rel="noopener nofollow">Hyper Seeker CQC</a></strong></span></td></tr></tbody></table>
 
 </div></div>
 
@@ -144,36 +144,8 @@ A major wrinkle in any attempt to permanently deal with Apsis is that they are, 
 
 `REDACTED`
 
-
-```base
-filters:
-  and:
-    - file.hasTag("character")
-    - Faction.contains(link(this.file.name))
-    - '!file.folder.contains("Player Characters/Archive")'
-views:
-  - type: list
-    name: Known Members
-    order:
-      - file.name
-      - Concept
-      - Relationship
-      - Loyalty
-    sort:
-      - property: Rank
-        direction: ASC
-    markers: none
-    separator: " - "
-
-```
-
-
-| Character                                                 | Aspects                                                    |
-| --------------------------------------------------------- | ---------------------------------------------------------- |
-| [[Database/People/The Man Upstairs\|The Man Upstairs]] | Power-Hungry Expert Shipping Magnate \- \- \- \`REDACTED\` |
-| [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]   | Strategic & Skilled Field Commander \- \- \- \`REDACTED\`  |
-
-{ .block-language-dataview}
+> [!blank|embed] FACTION CHARACTERS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The Man Upstairs.md" data-href="Database/People/The Man Upstairs.md" href="Database/People/The Man Upstairs.md" class="internal-link" target="_blank" rel="noopener nofollow">The Man Upstairs</a></span></td><td><span>Power-Hungry Expert Shipping Magnate - - - <code>REDACTED</code></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/Vantrin Almeyer.md" data-href="Database/People/Vantrin Almeyer.md" href="Database/People/Vantrin Almeyer.md" class="internal-link" target="_blank" rel="noopener nofollow">Vantrin Almeyer</a></span></td><td><span>Strategic &amp; Skilled Field Commander - - - <code>REDACTED</code></span></td></tr></tbody></table>
 
 
 ```base
@@ -612,7 +584,7 @@ views:
 
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/Hyper_Seeker_CQC_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp?1789773046613"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hyper Seeker CQC.md" data-href="Database/Mobile Suits/Hyper Seeker CQC.md" href="Database/Mobile Suits/Hyper Seeker CQC.md" class="internal-link" target="_blank" rel="noopener nofollow">Hyper Seeker CQC</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/GM-II-AEUG_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/GM-II-AEUG_SQ.webp?1789773046390"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Kerbstomp.md" data-href="Database/Mobile Suits/Kerbstomp.md" href="Database/Mobile Suits/Kerbstomp.md" class="internal-link" target="_blank" rel="noopener nofollow">Kerbstomp</a></strong></span></td></tr></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/Hyper_Seeker_CQC_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp?1789773046613"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hyper Seeker CQC.md" data-href="Database/Mobile Suits/Hyper Seeker CQC.md" href="Database/Mobile Suits/Hyper Seeker CQC.md" class="internal-link" target="_blank" rel="noopener nofollow">Hyper Seeker CQC</a></strong></span></td></tr></tbody></table>
 
 </div></div>
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T11:43:00.738-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T12:59:53.627-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 

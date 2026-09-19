@@ -13,7 +13,7 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 ### Impact
 > [!blank|embed] SCENARIO IMPACT AGGREGATOR
-> <ul class="dataview list-view-ul"><li><span><a data-href="Elegant Sky" href="Elegant Sky" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a> This is a test, you should be able to read this</span></li><li><span><a data-href="Lane Gable" href="Lane Gable" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a> This is also a test, you should be able to read this too</span></li><li><span>If you can read this, <a data-href="The Man Upstairs" href="The Man Upstairs" class="internal-link" target="_blank" rel="noopener nofollow">The Man Upstairs</a> will come burn your colony down.</span></li><li><span>If this is on the same line as the previous, <a data-href="The Pirate King" href="The Pirate King" class="internal-link" target="_blank" rel="noopener nofollow">The Pirate King</a> will stab you.</span></li></ul>
+> <ul class="dataview list-view-ul"><li><span><a data-href="Elegant Sky" href="Elegant Sky" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a> This is a test, you should be able to read this</span></li><li><span><a data-href="Lane Gable" href="Lane Gable" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a> This is also a test, you should be able to read this too</span></li></ul>
 
 
 </div></div>
@@ -30,7 +30,7 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 ### Impact
 > [!blank|embed] SCENARIO IMPACT AGGREGATOR
-> <ul class="dataview list-view-ul"><li><span>Original command staff and first wing of the <a data-href="Fishbone" href="Fishbone" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a> KIA by <a data-tooltip-position="top" aria-label="Vantrin Almeyer" data-href="Vantrin Almeyer" href="Vantrin Almeyer" class="internal-link" target="_blank" rel="noopener nofollow">Vantrin</a> and the <a data-href="Brynhildr" href="Brynhildr" class="internal-link" target="_blank" rel="noopener nofollow">Brynhildr</a> team</span></li><li><span><a data-href="The XO" href="The XO" class="internal-link" target="_blank" rel="noopener nofollow">The XO</a> brevets new command: Captain <a data-href="Gen Bashaba" href="Gen Bashaba" class="internal-link" target="_blank" rel="noopener nofollow">Gen Bashaba</a></span></li><li><span><a data-href="The Ace" href="The Ace" class="internal-link" target="_blank" rel="noopener nofollow">The Ace</a> in critical condition</span></li></ul>
+> <div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for list query.</p></div>
 
 
 </div></div>

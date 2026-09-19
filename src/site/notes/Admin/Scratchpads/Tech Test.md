@@ -108,13 +108,13 @@ views:
 > |6 Doom|Doomed|
 
 > [!blank|embed] ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Flamboyant Living Symbol</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span>Exemplary Captain First, King Distant Second</span></td></tr><tr><td><span>!h! REAL concept: Calculated Flamboyant Living Symbol !/h!</span></td></tr><tr><td><span>Far Better To Live And Die Under The Brave Black Flag</span></td></tr><tr><td><span>!r!Prepare To Improvise!/r!</span></td></tr><tr><td><span>!r!Leading Into The Jaws Of Death!/r!</span></td></tr></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Flamboyant Living Symbol</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span>Exemplary Captain First, King Distant Second</span></td></tr><tr><td><span>Far Better To Live And Die Under The Brave Black Flag</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table>
 
 > [!blank|embed] MECH ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Swashbuckling Space Duellist</span></td></tr><tr><td><span>!r!Struggles With Swarms!/r!</span></td></tr><tr><td><span>!r!The Last Blade Of Terra!/r!</span></td></tr></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Swashbuckling Space Duellist</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table>
 
 > [!blank|embed] GEAR ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Composite Gunlance</span></td></tr><tr><td><span>Hooked Duelling Cape</span></td></tr><tr><td><span>!r!P.O.L.L.Y (Preposterous Ordnance Launcher Locked on You)!/r!</span></td></tr><tr><td><span>!r!Backup Pistols!/r!</span></td></tr></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Composite Gunlance</span></td></tr><tr><td><span>Hooked Duelling Cape</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table>
 
 >[!blank|static wfull]
 >
