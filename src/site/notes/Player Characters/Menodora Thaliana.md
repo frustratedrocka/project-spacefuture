@@ -24,7 +24,7 @@
 
 > [!infobox|right wsmall embed]
 > # Kerbstomp
-> ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)
+> ![Admin/Attachments/GM-II-AEUG_SQ.webp\|GM-II-AEUG_SQ.webp](/img/user/Admin/Attachments/GM-II-AEUG_SQ.webp)
 > 
 > |  |  |
 > |--|--|
@@ -93,6 +93,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **SMOKESCREEN** Once per combat, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers. |
 | **FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage.                                                                                                             |
+| **STUNT** Description                                                                                                                                                                                                          |
 
 { .block-language-dataview}
 
@@ -119,7 +120,7 @@ Got involved in mobile suit gladiator fighting with [[Database/Mobile Suits/Kerb
 
 { .block-language-dataview}
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
 | Session | Changelog |
 | ------- | --------- |

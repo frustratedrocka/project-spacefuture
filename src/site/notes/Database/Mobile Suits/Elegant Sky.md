@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/elegant-sky/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T02:39:32.716-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Elegant Sky","MECH_Model":"[[Database/Mobile Suits/Elegant Sky]]","Portrait":"[[Admin/Attachments/DagDoll_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Known_Users":["[[Player Characters/Lane Gable]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Variants":[null]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/elegant-sky/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T05:06:21.140-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Elegant Sky","MECH_Model":"[[Database/Mobile Suits/Elegant Sky]]","Portrait":"[[Admin/Attachments/DagDoll_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Known_Users":["[[Player Characters/Lane Gable]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Variants":[null]}}
 ---
 
 
@@ -48,11 +48,8 @@
 
 { .block-language-dataview}
 
-| Session                                       | Date       | Event                                           |
-| --------------------------------------------- | ---------- | ----------------------------------------------- |
-| [[Session Notes/Session 00B\|Session 00B]] | 0092-09-09 | This is a test, you should be able to read this |
 
-{ .block-language-dataview}
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00B.md" data-href="Session Notes/Session 00B.md" href="Session Notes/Session 00B.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00B</a></span></td><td><span>This is a test, you should be able to read this</span></td><td><span><a data-href="Elegant Sky" href="Elegant Sky" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a></span></td></tr></tbody></table></div>
 
 | Session                                       | Changelog                                                                                                                                                                                             |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

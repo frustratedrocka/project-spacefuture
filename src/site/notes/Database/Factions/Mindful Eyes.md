@@ -97,6 +97,5 @@ views:
 >  | Mobile Suits                                                              | Name                                                                |
 > | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 > | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]** |
-> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                   | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**               |
 > 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ut-f-08-hoplite/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T02:45:07.840-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"UT-F-08 Hoplite","MECH_Model":"[[Database/Mobile Suits/UT-F-08 Hoplite]]","Portrait":"[[Admin/Attachments/Hoplite_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Iconic Line Mech","MECH_Trouble":"Yesterday's News","MECH_Relationship":null,"MECH_Gear":["Machine Gun","Missile Launcher","Heat Hawk"],"MECH_Stunts":["**DUCT TAPE AND PRAYERS** You may Tinker to treat and rename a Hoplite's Breakdown using the normal rules for clearing consequences.","**HAMMER AND ANVIL** +1 when you Shoot Carefully to attack a target already engaged in combat with an ally."],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Jovian Consortium]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Independent]]"],"Variants":["[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ut-f-08-hoplite/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T05:06:17.315-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"UT-F-08 Hoplite","MECH_Model":"[[Database/Mobile Suits/UT-F-08 Hoplite]]","Portrait":"[[Admin/Attachments/Hoplite_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Iconic Line Mech","MECH_Trouble":"Yesterday's News","MECH_Relationship":null,"MECH_Gear":["Machine Gun","Missile Launcher","Heat Hawk"],"MECH_Stunts":["**DUCT TAPE AND PRAYERS** You may Tinker to treat and rename a Hoplite's Breakdown using the normal rules for clearing consequences.","**HAMMER AND ANVIL** +1 when you Shoot Carefully to attack a target already engaged in combat with an ally."],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Jovian Consortium]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Independent]]"],"Variants":["[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]"]}}
 ---
 
 
@@ -52,4 +52,5 @@ Remains frequently used by colonial militias, paramilitary groups, pirates, and 
 | [[Session Notes/Session 00B\|Session 00B]] | Training Sim | [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] | 2    | September 15, 2026 |
 
 { .block-language-dataview}
+
 

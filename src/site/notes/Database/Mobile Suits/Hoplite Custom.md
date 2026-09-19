@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/hoplite-custom/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T02:40:10.088-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Custom","MECH_Model":["[[Database/Mobile Suits/Hoplite Custom]]"],"Portrait":"[[Admin/Attachments/HopliteCustom_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Known_Users":["[[Player Characters/August Grier]]"],"Faction":["[[Database/Factions/Rebels]]"],"Variants":null,"Base":["[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/hoplite-custom/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T05:06:19.687-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Custom","MECH_Model":["[[Database/Mobile Suits/Hoplite Custom]]"],"Portrait":"[[Admin/Attachments/HopliteCustom_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Known_Users":["[[Player Characters/August Grier]]"],"Faction":["[[Database/Factions/Rebels]]"],"Variants":null,"Base":["[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
 ---
 
 
@@ -50,10 +50,8 @@
 
 { .block-language-dataview}
 
-| Session | Date | Event |
-| ------- | ---- | ----- |
 
-{ .block-language-dataview}
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
 | Session | Changelog |
 | ------- | --------- |
