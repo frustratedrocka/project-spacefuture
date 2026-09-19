@@ -32,6 +32,8 @@
 
 One of three colonies in [[Database/Glossary/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.
 
+>[!blank|wfull] END MANUAL ENTRY
+
 
 ```base
 filters:
@@ -191,6 +193,8 @@ Individual
 
 
 One of three colonies in [[Database/Glossary/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.
+
+>[!blank|wfull] END MANUAL ENTRY
 
 
 ```base

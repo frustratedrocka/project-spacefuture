@@ -13,7 +13,10 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 ### Impact
 > [!blank|embed] SCENARIO IMPACT AGGREGATOR
-> <ul class="dataview list-view-ul"><li><span><a data-href="Elegant Sky" href="Elegant Sky" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a> This is a test, you should be able to read this</span></li><li><span><a data-href="Lane Gable" href="Lane Gable" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a> This is also a test, you should be able to read this too</span></li></ul>
+> <p><span><ul>
+<li dir="auto"><a data-href="Elegant Sky" href="Elegant Sky" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a> This is a test, you should be able to read this</li>
+<li dir="auto"><a data-href="Lane Gable" href="Lane Gable" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a> This is also a test, you should be able to read this too</li>
+</ul></span></p>
 
 
 </div></div>
@@ -30,7 +33,7 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 ### Impact
 > [!blank|embed] SCENARIO IMPACT AGGREGATOR
-> <div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for list query.</p></div>
+> <p><span></span></p>
 
 
 </div></div>

@@ -7,7 +7,7 @@
 
 ### Impact
 > [!blank|embed] SCENARIO IMPACT AGGREGATOR
-> <div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for list query.</p></div>
+> <p><span></span></p>
 
 ## Sessions
 > [!blank|embed] SESSION AGGREGATOR

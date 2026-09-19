@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T12:59:53.406-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T13:37:04.236-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
 ---
 
 ## Summary
@@ -7,7 +7,10 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 ### Impact
 > [!blank|embed] SCENARIO IMPACT AGGREGATOR
-> <ul class="dataview list-view-ul"><li><span><a data-href="Elegant Sky" href="Elegant Sky" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a> This is a test, you should be able to read this</span></li><li><span><a data-href="Lane Gable" href="Lane Gable" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a> This is also a test, you should be able to read this too</span></li></ul>
+> <p><span><ul>
+<li dir="auto"><a data-href="Elegant Sky" href="Elegant Sky" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a> This is a test, you should be able to read this</li>
+<li dir="auto"><a data-href="Lane Gable" href="Lane Gable" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a> This is also a test, you should be able to read this too</li>
+</ul></span></p>
 
 ## Sessions
 > [!blank|embed] SESSION AGGREGATOR
@@ -29,3 +32,5 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 |Previous|Next|
 |:---|---:|
 |None|[[Session Notes/Scenarios/Mission 01\|Mission 01]]|
+
+%%force
