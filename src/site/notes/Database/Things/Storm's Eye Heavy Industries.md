@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/storm-s-eye-heavy-industries/","tags":["npc","org","weird","character"],"noteIcon":"","updated":"2026-09-19T02:27:54.180-04:00","dg-note-properties":{"tags":["npc","org","weird","character"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Rank":1,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Key Mobile Suit Manufacturer","Relationship":"Sells To Everyone, Including You","Loyalty":"One Hand On The Tiller","Aspects":["In War, Prepare For Peace"],"Stunts":[[null]],"skill_5":["Acquire"],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/things/storm-s-eye-heavy-industries/","tags":["npc","org","weird","character"],"noteIcon":"","updated":"2026-09-19T03:08:02.302-04:00","dg-note-properties":{"tags":["npc","org","weird","character"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Rank":1,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Key Mobile Suit Manufacturer","Relationship":"Sells To Everyone, Including You","Loyalty":"One Hand On The Tiller","Aspects":["In War, Prepare For Peace"],"Stunts":[[null]],"skill_5":["Acquire"],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -42,10 +42,7 @@ Led by [[Database/People/The CEO\|The CEO]].
 
 { .block-language-dataview}
 
-| Session | Date | Event |
-| ------- | ---- | ----- |
-
-{ .block-language-dataview}
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
 | Session | Changelog |
 | ------- | --------- |
