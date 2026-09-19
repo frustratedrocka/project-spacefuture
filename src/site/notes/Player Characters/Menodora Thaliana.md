@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-18T19:11:41.420-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Cynthia]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Things/Charun]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Ticket Out","MECH_Gear":["Mining Drill","Club"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Forcefully",[null]],"skill_2":["Fight","Network",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Tinker","Understand","Acquire",[null]],"approach_1":["Carefully","Quickly","Subtly"],"aliases":["Mena"]}}
+{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-19T02:28:28.426-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Cynthia]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Things/Charun]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Ticket Out","MECH_Gear":["Mining Drill","Club"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Forcefully",[null]],"skill_2":["Fight","Network",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Tinker","Understand","Acquire",[null]],"approach_1":["Carefully","Quickly","Subtly"],"aliases":["Mena"]}}
 ---
 
 > [!infobox|left wsmall embed]
@@ -96,86 +96,6 @@
 
 { .block-language-dataview}
 
-
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - '!file.inFolder("Admin/Templates")'
-    - or:
-        - Attending.containsAny(link(this.file.name))
-        - NPCs.containsAny(link(this.file.name))
-        - Locations.contains(link(this.file.name))
-        - Mechs.containsAny(link(this.file.name), this.aliases)
-properties:
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-  note.SESH_Date:
-    displayName: Date
-  note.Scenario_Index:
-    displayName: Part
-views:
-  - type: table
-    name: Appearances
-    order:
-      - file.name
-      - SESH_Name
-      - Scenario
-      - Scenario_Index
-      - SESH_Date
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 230
-
-```
-
-
-```base
-filters:
-  and:
-    - Impact.join("\n").contains(this.file.name + "]]")
-    - '!file.inFolder("Admin/Templates")'
-formulas:
-  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
-views:
-  - type: table
-    name: Events
-    order:
-      - file.name
-      - formula.Impact
-    sort:
-      - property: formula.Impact
-        direction: ASC
-    rowHeight: medium
-
-```
-
-
-```base
-filters:
-  and:
-    - Changelog.join("\n").contains(this.file.name + "]]")
-    - '!file.inFolder("Admin/Templates")'
-formulas:
-  Impact: Changelog.filter(value.toString().containsAny(this.file.name)).join("\n")
-properties:
-  formula.Impact:
-    displayName: Change
-views:
-  - type: table
-    name: Changelog
-    order:
-      - file.name
-      - formula.Impact
-    rowHeight: tall
-
-```
-
-
 # Notes
 
 ## Phase Trio
@@ -190,3 +110,21 @@ Got involved in mobile suit gladiator fighting with [[Database/Mobile Suits/Kerb
 ### Phase Three: Crossing Paths
 
 [[Player Characters/August Grier\|August Grier]] found his way to the fighting pits, not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.  
+
+## Data
+
+| Session                                       | Name    | Scenario                                                    | Part | Date               |
+| --------------------------------------------- | ------- | ----------------------------------------------------------- | ---- | ------------------ |
+| [[Session Notes/Session 00A\|Session 00A]] | Origins | [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] | 1    | September 01, 2026 |
+
+{ .block-language-dataview}
+
+| Session | Date | Event |
+| ------- | ---- | ----- |
+
+{ .block-language-dataview}
+
+| Session | Changelog |
+| ------- | --------- |
+
+{ .block-language-dataview}

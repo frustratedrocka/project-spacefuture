@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-18T19:11:26.681-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":null,"Rank":0,"Strain":5,"Consequences":["Mild","Moderate","Severe"],"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"skill_5":["Lead"],"approach_5":[[null]],"skill_4":["Fight","Notice"],"approach_4":["Cleverly"],"skill_3":["Move","Know"],"approach_3":["Boldly","Quickly"],"skill_2":["Acquire","Shoot","Network","Understand"],"approach_2":["Forcefully","Carefully"],"skill_1":["Persevere","Tend","Tinker","Sway"],"approach_1":["Subtly"]}}
+{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-19T02:35:39.705-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":null,"Rank":0,"Strain":5,"Consequences":["Mild","Moderate","Severe"],"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"skill_5":["Lead"],"approach_5":[[null]],"skill_4":["Fight","Notice"],"approach_4":["Cleverly"],"skill_3":["Move","Know"],"approach_3":["Boldly","Quickly"],"skill_2":["Acquire","Shoot","Network","Understand"],"approach_2":["Forcefully","Carefully"],"skill_1":["Persevere","Tend","Tinker","Sway"],"approach_1":["Subtly"]}}
 ---
 
 > [!infobox|left wsmall]
@@ -69,87 +69,6 @@
 `REDACTED`
 
 >[!blank|static wfull]
-
-
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - '!file.inFolder("Admin/Templates")'
-    - or:
-        - Attending.containsAny(link(this.file.name))
-        - NPCs.containsAny(link(this.file.name))
-        - Locations.contains(link(this.file.name))
-        - Mechs.containsAny(link(this.file.name), this.aliases)
-properties:
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-  note.SESH_Date:
-    displayName: Date
-  note.Scenario_Index:
-    displayName: Part
-views:
-  - type: table
-    name: Appearances
-    order:
-      - file.name
-      - SESH_Name
-      - Scenario
-      - Scenario_Index
-      - SESH_Date
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 230
-
-```
-
-
-```base
-filters:
-  and:
-    - Impact.join("\n").contains(this.file.name + "]]")
-    - '!file.inFolder("Admin/Templates")'
-formulas:
-  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
-views:
-  - type: table
-    name: Events
-    order:
-      - file.name
-      - formula.Impact
-    sort:
-      - property: formula.Impact
-        direction: ASC
-    rowHeight: medium
-
-```
-
-
-```base
-filters:
-  and:
-    - Changelog.join("\n").contains(this.file.name + "]]")
-    - '!file.inFolder("Admin/Templates")'
-formulas:
-  Impact: Changelog.filter(value.toString().containsAny(this.file.name)).join("\n")
-properties:
-  formula.Impact:
-    displayName: Change
-views:
-  - type: table
-    name: Changelog
-    order:
-      - file.name
-      - formula.Impact
-    rowHeight: tall
-
-```
-
-
 # Notes
 
 `REDACTED` before being drafted into the [[United Terran Sphere Navy\|United Terran Sphere Navy]] in the early days of [[Database/History/The Ground War\|The Ground War]]. `REDACTED` One of the most polarizing figures in the entire solar system. 
@@ -165,3 +84,20 @@ views:
 - `REDACTED`
 
 `REDACTED`
+
+## Data
+
+| Session | Name | Scenario | Part | Date |
+| ------- | ---- | -------- | ---- | ---- |
+
+{ .block-language-dataview}
+
+| Session | Date | Event |
+| ------- | ---- | ----- |
+
+{ .block-language-dataview}
+
+| Session | Changelog |
+| ------- | --------- |
+
+{ .block-language-dataview}

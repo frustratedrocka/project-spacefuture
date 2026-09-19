@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-09-18T19:11:24.680-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Faction_Presence":null,"Control":"Home / Headquarters","Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location"],"noteIcon":"","updated":"2026-09-19T02:34:12.267-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Faction_Presence":null,"Control":"Home / Headquarters","Portrait":"Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null]}}
 ---
 
 
@@ -53,62 +53,19 @@ views:
 
 ```
 
+## Data
 
+| Session | Name | Scenario | Part | Date |
+| ------- | ---- | -------- | ---- | ---- |
 
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - '!file.inFolder("Admin/Templates")'
-    - or:
-        - Attending.containsAny(link(this.file.name))
-        - NPCs.containsAny(link(this.file.name))
-        - Locations.contains(link(this.file.name))
-        - Mechs.containsAny(link(this.file.name), this.aliases)
-properties:
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-  note.SESH_Date:
-    displayName: Date
-  note.Scenario_Index:
-    displayName: Part
-views:
-  - type: table
-    name: Appearances
-    order:
-      - file.name
-      - SESH_Name
-      - Scenario
-      - Scenario_Index
-      - SESH_Date
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 230
+{ .block-language-dataview}
 
-```
+| Session | Date | Event |
+| ------- | ---- | ----- |
 
+{ .block-language-dataview}
 
+| Session | Changelog |
+| ------- | --------- |
 
-```base
-filters:
-  and:
-    - Impact.join("\n").contains(this.file.name + "]]")
-    - '!file.inFolder("Admin/Templates")'
-formulas:
-  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
-views:
-  - type: table
-    name: Events
-    order:
-      - file.name
-      - formula.Impact
-    sort:
-      - property: formula.Impact
-        direction: ASC
-    rowHeight: medium
-
-```
+{ .block-language-dataview}

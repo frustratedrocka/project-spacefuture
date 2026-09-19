@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-18T19:11:58.977-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Control":"Home / Headquarters","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Jupiter_OPAL_2024-1.webp","Concept":"Industrial Center Of Sol","Trouble":"Distance Necessitates Deliberation","Aspects":["Ruler Of The Heavens, In Fact And In Name","Wholly Owned & Incorporated"]}}
+{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T02:32:21.744-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Control":"Home / Headquarters","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Jupiter_OPAL_2024-1.webp","Concept":"Industrial Center Of Sol","Trouble":"Distance Necessitates Deliberation","Aspects":["Ruler Of The Heavens, In Fact And In Name","Wholly Owned & Incorporated"]}}
 ---
 
 
@@ -56,61 +56,19 @@ views:
 ```
 
 
+## Data
 
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - '!file.inFolder("Admin/Templates")'
-    - or:
-        - Attending.containsAny(link(this.file.name))
-        - NPCs.containsAny(link(this.file.name))
-        - Locations.contains(link(this.file.name))
-        - Mechs.containsAny(link(this.file.name), this.aliases)
-properties:
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-  note.SESH_Date:
-    displayName: Date
-  note.Scenario_Index:
-    displayName: Part
-views:
-  - type: table
-    name: Appearances
-    order:
-      - file.name
-      - SESH_Name
-      - Scenario
-      - Scenario_Index
-      - SESH_Date
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 230
+| Session | Name | Scenario | Part | Date |
+| ------- | ---- | -------- | ---- | ---- |
 
-```
+{ .block-language-dataview}
 
+| Session | Date | Event |
+| ------- | ---- | ----- |
 
+{ .block-language-dataview}
 
-```base
-filters:
-  and:
-    - Impact.join("\n").contains(this.file.name + "]]")
-    - '!file.inFolder("Admin/Templates")'
-formulas:
-  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
-views:
-  - type: table
-    name: Events
-    order:
-      - file.name
-      - formula.Impact
-    sort:
-      - property: formula.Impact
-        direction: ASC
-    rowHeight: medium
+| Session | Changelog |
+| ------- | --------- |
 
-```
+{ .block-language-dataview}

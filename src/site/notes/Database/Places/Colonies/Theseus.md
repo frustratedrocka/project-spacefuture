@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-18T19:11:24.003-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.webp","Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-19T02:33:36.351-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.webp","Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 > [!INFOBOX|ws-med embed] Theseus
@@ -68,61 +68,20 @@ views:
 ```
 
 
+## Data
 
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - '!file.inFolder("Admin/Templates")'
-    - or:
-        - Attending.containsAny(link(this.file.name))
-        - NPCs.containsAny(link(this.file.name))
-        - Locations.contains(link(this.file.name))
-        - Mechs.containsAny(link(this.file.name), this.aliases)
-properties:
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-  note.SESH_Date:
-    displayName: Date
-  note.Scenario_Index:
-    displayName: Part
-views:
-  - type: table
-    name: Appearances
-    order:
-      - file.name
-      - SESH_Name
-      - Scenario
-      - Scenario_Index
-      - SESH_Date
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 230
+| Session                                       | Name    | Scenario                                                    | Part | Date               |
+| --------------------------------------------- | ------- | ----------------------------------------------------------- | ---- | ------------------ |
+| [[Session Notes/Session 00A\|Session 00A]] | Origins | [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] | 1    | September 01, 2026 |
 
-```
+{ .block-language-dataview}
 
+| Session | Date | Event |
+| ------- | ---- | ----- |
 
+{ .block-language-dataview}
 
-```base
-filters:
-  and:
-    - Impact.join("\n").contains(this.file.name + "]]")
-    - '!file.inFolder("Admin/Templates")'
-formulas:
-  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
-views:
-  - type: table
-    name: Events
-    order:
-      - file.name
-      - formula.Impact
-    sort:
-      - property: formula.Impact
-        direction: ASC
-    rowHeight: medium
+| Session | Changelog |
+| ------- | --------- |
 
-```
+{ .block-language-dataview}

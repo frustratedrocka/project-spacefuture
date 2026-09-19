@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-18T19:11:39.912-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Move",[null],[null],[null]],"approach_3":["Quickly",[null]],"skill_2":["Fight","Shoot",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker",[null]],"approach_1":["Carefully","Forcefully","Subtly"],"aliases":["Verg"]}}
+{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-19T02:28:15.408-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Move",[null],[null],[null]],"approach_3":["Quickly",[null]],"skill_2":["Fight","Shoot",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker",[null]],"approach_1":["Carefully","Forcefully","Subtly"],"aliases":["Verg"]}}
 ---
 
 > [!infobox|left wsmall embed]
@@ -96,86 +96,6 @@
 
 { .block-language-dataview}
 
-
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - '!file.inFolder("Admin/Templates")'
-    - or:
-        - Attending.containsAny(link(this.file.name))
-        - NPCs.containsAny(link(this.file.name))
-        - Locations.contains(link(this.file.name))
-        - Mechs.containsAny(link(this.file.name), this.aliases)
-properties:
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-  note.SESH_Date:
-    displayName: Date
-  note.Scenario_Index:
-    displayName: Part
-views:
-  - type: table
-    name: Appearances
-    order:
-      - file.name
-      - SESH_Name
-      - Scenario
-      - Scenario_Index
-      - SESH_Date
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 230
-
-```
-
-
-```base
-filters:
-  and:
-    - Impact.join("\n").contains(this.file.name + "]]")
-    - '!file.inFolder("Admin/Templates")'
-formulas:
-  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
-views:
-  - type: table
-    name: Events
-    order:
-      - file.name
-      - formula.Impact
-    sort:
-      - property: formula.Impact
-        direction: ASC
-    rowHeight: medium
-
-```
-
-
-```base
-filters:
-  and:
-    - Changelog.join("\n").contains(this.file.name + "]]")
-    - '!file.inFolder("Admin/Templates")'
-formulas:
-  Impact: Changelog.filter(value.toString().containsAny(this.file.name)).join("\n")
-properties:
-  formula.Impact:
-    displayName: Change
-views:
-  - type: table
-    name: Changelog
-    order:
-      - file.name
-      - formula.Impact
-    rowHeight: tall
-
-```
-
-
 # Notes
 
 ## Phase Trio
@@ -187,3 +107,22 @@ An [[Database/Factions/Apsis\|Apsis]] cargo of goods being quickly intercepted b
 
 ### Phase Three: Crossing Paths
 During the standoff with [[Database/Factions/Mindful Eyes\|Mindful Eyes]] and Rebellion, [[Player Characters/Lane Gable\|Lane Gable]] recognized Verg’s suit and managed to talk them down from the standoff, and convince them of cooperation.
+
+## Data
+
+| Session                                       | Name         | Scenario                                                    | Part | Date               |
+| --------------------------------------------- | ------------ | ----------------------------------------------------------- | ---- | ------------------ |
+| [[Session Notes/Session 00A\|Session 00A]] | Origins      | [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] | 1    | September 01, 2026 |
+| [[Session Notes/Session 00B\|Session 00B]] | Training Sim | [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] | 2    | September 15, 2026 |
+
+{ .block-language-dataview}
+
+| Session | Date | Event |
+| ------- | ---- | ----- |
+
+{ .block-language-dataview}
+
+| Session | Changelog |
+| ------- | --------- |
+
+{ .block-language-dataview}

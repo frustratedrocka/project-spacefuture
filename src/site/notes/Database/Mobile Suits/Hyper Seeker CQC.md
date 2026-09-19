@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/hyper-seeker-cqc/","tags":["Mech"],"noteIcon":"","updated":"2026-09-18T19:12:21.985-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hyper Seeker","MECH_Model":["[[Database/Mobile Suits/Hyper Seeker CQC]]"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Known_Users":["[[Player Characters/Vergen Koni]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Variants":[null]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/hyper-seeker-cqc/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T02:40:19.735-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hyper Seeker","MECH_Model":["[[Database/Mobile Suits/Hyper Seeker CQC]]"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Known_Users":["[[Player Characters/Vergen Koni]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Variants":[null]}}
 ---
 
 
@@ -36,41 +36,24 @@
 
 { .block-language-dataview}
 
+>[!blank|wfull]
 # Notes
 
+## Data
 
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - '!file.inFolder("Admin/Templates")'
-    - or:
-        - Attending.containsAny(link(this.file.name))
-        - NPCs.containsAny(link(this.file.name))
-        - Locations.contains(link(this.file.name))
-        - Mechs.containsAny(link(this.file.name), this.aliases)
-properties:
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-  note.SESH_Date:
-    displayName: Date
-  note.Scenario_Index:
-    displayName: Part
-views:
-  - type: table
-    name: Appearances
-    order:
-      - file.name
-      - SESH_Name
-      - Scenario
-      - Scenario_Index
-      - SESH_Date
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 230
+| Session                                       | Name         | Scenario                                                    | Part | Date               |
+| --------------------------------------------- | ------------ | ----------------------------------------------------------- | ---- | ------------------ |
+| [[Session Notes/Session 00A\|Session 00A]] | Origins      | [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] | 1    | September 01, 2026 |
+| [[Session Notes/Session 00B\|Session 00B]] | Training Sim | [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] | 2    | September 15, 2026 |
 
-```
+{ .block-language-dataview}
+
+| Session | Date | Event |
+| ------- | ---- | ----- |
+
+{ .block-language-dataview}
+
+| Session | Changelog |
+| ------- | --------- |
+
+{ .block-language-dataview}

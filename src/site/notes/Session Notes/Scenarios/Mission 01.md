@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-18T20:31:16.815-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T01:44:34.596-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
 ---
 
 ## Summary
@@ -9,9 +9,9 @@
 
 { .block-language-dataview}
 
-| Session                                     | Name             | Logline    |
-| ------------------------------------------- | ---------------- | ---------- |
-| [[Session Notes/Session 01\|Session 01]] | And So It Begins | `REDACTED` |
+| Session                                     | Name | Logline    |
+| ------------------------------------------- | ---- | ---------- |
+| [[Session Notes/Session 01\|Session 01]] | \-   | `REDACTED` |
 
 { .block-language-dataview}
 

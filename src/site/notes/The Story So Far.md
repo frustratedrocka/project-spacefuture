@@ -13,13 +13,14 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 ### Impact
 - This is a test, you should be able to read this
+- This is also a test, you should be able to read this too
 
 { .block-language-dataview}
 
-| Session                                       | Name         | Logline                                                                                                  |
-| --------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Session 00A\|Session 00A]] | Origins      | Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation. |
-| [[Session Notes/Session 00B\|Session 00B]] | Training Sim | Second Wing hits the combat sim during downtime between operations.                                      |
+| Session                                       | Name | Logline                                                                                                  |
+| --------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 00A\|Session 00A]] | \-   | Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation. |
+| [[Session Notes/Session 00B\|Session 00B]] | \-   | Second Wing hits the combat sim during downtime between operations.                                      |
 
 { .block-language-dataview}
 
@@ -40,9 +41,9 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 { .block-language-dataview}
 
-| Session                                     | Name             | Logline    |
-| ------------------------------------------- | ---------------- | ---------- |
-| [[Session Notes/Session 01\|Session 01]] | And So It Begins | `REDACTED` |
+| Session                                     | Name | Logline    |
+| ------------------------------------------- | ---- | ---------- |
+| [[Session Notes/Session 01\|Session 01]] | \-   | `REDACTED` |
 
 { .block-language-dataview}
 

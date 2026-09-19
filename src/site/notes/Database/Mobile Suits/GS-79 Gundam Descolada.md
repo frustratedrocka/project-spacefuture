@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/gs-79-gundam-descolada/","tags":["Mech"],"noteIcon":"","updated":"2026-09-18T15:50:00.989-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Gundam Descolada","MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Portrait":"Admin/Attachments/Descolada_SQ.webp","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Swashbuckling Space Duellist","MECH_Trouble":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"MECH_Stunts":["**BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.","**YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost.","`REDACTED`"],"Known_Users":["[[Database/People/The Pirate King]]"],"Faction":["[[Database/Factions/Armada Ejecta]]"],"Variants":null,"Aliases":["Descolada"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/gs-79-gundam-descolada/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T02:40:00.626-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Gundam Descolada","MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Portrait":"Admin/Attachments/Descolada_SQ.webp","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Swashbuckling Space Duellist","MECH_Trouble":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"MECH_Stunts":["**BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.","**YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost.","`REDACTED`"],"Known_Users":["[[Database/People/The Pirate King]]"],"Faction":["[[Database/Factions/Armada Ejecta]]"],"Variants":null,"Aliases":["Descolada"]}}
 ---
 
 
@@ -40,39 +40,22 @@
 
 { .block-language-dataview}
 
+>[!blank|wfull]
+# Notes
 
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - '!file.inFolder("Admin/Templates")'
-    - or:
-        - Attending.containsAny(link(this.file.name))
-        - NPCs.containsAny(link(this.file.name))
-        - Locations.contains(link(this.file.name))
-        - Mechs.containsAny(link(this.file.name), this.aliases)
-properties:
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-  note.SESH_Date:
-    displayName: Date
-  note.Scenario_Index:
-    displayName: Part
-views:
-  - type: table
-    name: Appearances
-    order:
-      - file.name
-      - SESH_Name
-      - Scenario
-      - Scenario_Index
-      - SESH_Date
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 230
+## Data
 
-```
+| Session | Name | Scenario | Part | Date |
+| ------- | ---- | -------- | ---- | ---- |
+
+{ .block-language-dataview}
+
+| Session | Date | Event |
+| ------- | ---- | ----- |
+
+{ .block-language-dataview}
+
+| Session | Changelog |
+| ------- | --------- |
+
+{ .block-language-dataview}

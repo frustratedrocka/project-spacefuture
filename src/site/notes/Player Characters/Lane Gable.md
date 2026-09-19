@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-18T19:11:42.031-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Nestor]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Lane_Sq.webp]]","Portrait_Zoom":"[[Admin/Attachments/Lane_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":["[[Database/Places/Colonies/Arjuna]]"],"Strain":4,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke."],"MECH_Model":"[[Database/Mobile Suits/Elegant Sky]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Last Piece Of Earth","MECH_Gear":["Shield","Beam Rifle"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Notice",[null],[null],[null]],"approach_3":["Subtly",[null]],"skill_2":["Shoot","Interface",[null],[null]],"approach_2":["Cleverly","Quickly"],"skill_1":["Lead","Operate","Sway",[null]],"approach_1":["Boldly","Carefully","Forcefully"],"aliases":["Lane"]}}
+{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["PC","character","pilot"],"noteIcon":"","updated":"2026-09-19T02:28:49.269-04:00","dg-note-properties":{"tags":["PC","character","pilot"],"Player":"[[Admin/Player/Nestor]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Lane_Sq.webp]]","Portrait_Zoom":"[[Admin/Attachments/Lane_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":["[[Database/Places/Colonies/Arjuna]]"],"Strain":4,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke."],"MECH_Model":"[[Database/Mobile Suits/Elegant Sky]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Last Piece Of Earth","MECH_Gear":["Shield","Beam Rifle"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Notice",[null],[null],[null]],"approach_3":["Subtly",[null]],"skill_2":["Shoot","Interface",[null],[null]],"approach_2":["Cleverly","Quickly"],"skill_1":["Lead","Operate","Sway",[null]],"approach_1":["Boldly","Carefully","Forcefully"],"aliases":["Lane"]}}
 ---
 
 > [!infobox|left wsmall embed]
@@ -96,86 +96,6 @@
 
 { .block-language-dataview}
 
-
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - '!file.inFolder("Admin/Templates")'
-    - or:
-        - Attending.containsAny(link(this.file.name))
-        - NPCs.containsAny(link(this.file.name))
-        - Locations.contains(link(this.file.name))
-        - Mechs.containsAny(link(this.file.name), this.aliases)
-properties:
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-  note.SESH_Date:
-    displayName: Date
-  note.Scenario_Index:
-    displayName: Part
-views:
-  - type: table
-    name: Appearances
-    order:
-      - file.name
-      - SESH_Name
-      - Scenario
-      - Scenario_Index
-      - SESH_Date
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 230
-
-```
-
-
-```base
-filters:
-  and:
-    - Impact.join("\n").contains(this.file.name + "]]")
-    - '!file.inFolder("Admin/Templates")'
-formulas:
-  Impact: Impact.filter(value.toString().contains(this.file.name)).join("<br>")
-views:
-  - type: table
-    name: Events
-    order:
-      - file.name
-      - formula.Impact
-    sort:
-      - property: formula.Impact
-        direction: ASC
-    rowHeight: medium
-
-```
-
-
-```base
-filters:
-  and:
-    - Changelog.join("\n").contains(this.file.name + "]]")
-    - '!file.inFolder("Admin/Templates")'
-formulas:
-  Impact: Changelog.filter(value.toString().containsAny(this.file.name)).join("\n")
-properties:
-  formula.Impact:
-    displayName: Change
-views:
-  - type: table
-    name: Changelog
-    order:
-      - file.name
-      - formula.Impact
-    rowHeight: tall
-
-```
-
-
 # Notes
 ## Phase Trio
 ### Phase One: Inciting Incident
@@ -186,3 +106,24 @@ Attempted to pirate a [[Database/Factions/Jovian Consortium\|Jovian Consortium]]
 
 ### Phase Three: Crossing Paths
 What started as a race for goods, quickly became a cooperative hit on another supply run. Where Lane's suit faltered from previous damage, [[Player Characters/Vergen Koni\|Verg]] helped pick up the slack.
+
+## Data
+
+| Session                                       | Name         | Scenario                                                    | Part | Date               |
+| --------------------------------------------- | ------------ | ----------------------------------------------------------- | ---- | ------------------ |
+| [[Session Notes/Session 00A\|Session 00A]] | Origins      | [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] | 1    | September 01, 2026 |
+| [[Session Notes/Session 00B\|Session 00B]] | Training Sim | [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] | 2    | September 15, 2026 |
+
+{ .block-language-dataview}
+
+| Session                                       | Date       | Event                                                    |
+| --------------------------------------------- | ---------- | -------------------------------------------------------- |
+| [[Session Notes/Session 00B\|Session 00B]] | 0092-09-10 | This is also a test, you should be able to read this too |
+
+{ .block-language-dataview}
+
+| Session                                       | Changelog                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Session Notes/Session 00B\|Session 00B]] | **OLD:** **RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2.<br>**NEW:** **LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke. |
+
+{ .block-language-dataview}

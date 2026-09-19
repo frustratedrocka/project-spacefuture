@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["Mech"],"noteIcon":"","updated":"2026-09-18T16:16:30.020-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Kerbstomp","MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Portrait":"[[Admin/Attachments/Theseus_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Once per combat, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage."],"Known_Users":["[[Player Characters/Menodora Thaliana]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Variants":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T02:40:28.961-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Kerbstomp","MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Portrait":"[[Admin/Attachments/Theseus_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Once per combat, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage."],"Known_Users":["[[Player Characters/Menodora Thaliana]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Variants":null}}
 ---
 
 
@@ -37,41 +37,23 @@
 
 { .block-language-dataview}
 
+>[!blank|wfull]
 # Notes
 
+## Data
 
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - '!file.inFolder("Admin/Templates")'
-    - or:
-        - Attending.containsAny(link(this.file.name))
-        - NPCs.containsAny(link(this.file.name))
-        - Locations.contains(link(this.file.name))
-        - Mechs.containsAny(link(this.file.name), this.aliases)
-properties:
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-  note.SESH_Date:
-    displayName: Date
-  note.Scenario_Index:
-    displayName: Part
-views:
-  - type: table
-    name: Appearances
-    order:
-      - file.name
-      - SESH_Name
-      - Scenario
-      - Scenario_Index
-      - SESH_Date
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 230
+| Session                                       | Name    | Scenario                                                    | Part | Date               |
+| --------------------------------------------- | ------- | ----------------------------------------------------------- | ---- | ------------------ |
+| [[Session Notes/Session 00A\|Session 00A]] | Origins | [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] | 1    | September 01, 2026 |
 
-```
+{ .block-language-dataview}
+
+| Session | Date | Event |
+| ------- | ---- | ----- |
+
+{ .block-language-dataview}
+
+| Session | Changelog |
+| ------- | --------- |
+
+{ .block-language-dataview}

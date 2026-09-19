@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ut-f-08-s-hoplite-striker/","tags":["Mech"],"noteIcon":"","updated":"2026-09-18T15:48:59.965-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Striker","MECH_Model":"[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]","Portrait":"[[Admin/Attachments/Hoplite_Striker_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Heavy Assault Line Mech","MECH_Trouble":"Lacks Fine Control","MECH_Gear":["Shoulder Missle Rack","Shotgun"],"MECH_Stunts":["**STUNT** Description","**STUNT** Description"],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Jovian Consortium]]"],"Variants":[null],"Base":["[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ut-f-08-s-hoplite-striker/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T02:45:20.037-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Hoplite Striker","MECH_Model":"[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]","Portrait":"[[Admin/Attachments/Hoplite_Striker_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Heavy Assault Line Mech","MECH_Trouble":"Lacks Fine Control","MECH_Gear":["Shoulder Missle Rack","Shotgun"],"MECH_Stunts":["**STUNT** Description","**STUNT** Description"],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Jovian Consortium]]"],"Variants":[null],"Base":["[[Database/Mobile Suits/UT-F-08 Hoplite]]"]}}
 ---
 
 
@@ -34,43 +34,15 @@
 
 { .block-language-dataview}
 
+>[!blank|wfull]
 # Notes
 
 
-```base
-filters:
-  and:
-    - file.hasTag("session")
-    - '!file.inFolder("Admin/Templates")'
-    - or:
-        - Attending.containsAny(link(this.file.name))
-        - NPCs.containsAny(link(this.file.name))
-        - Locations.contains(link(this.file.name))
-        - Mechs.containsAny(link(this.file.name), this.aliases)
-properties:
-  file.name:
-    displayName: Session
-  note.SESH_Name:
-    displayName: Name
-  note.SESH_Date:
-    displayName: Date
-  note.Scenario_Index:
-    displayName: Part
-views:
-  - type: table
-    name: Appearances
-    order:
-      - file.name
-      - SESH_Name
-      - Scenario
-      - Scenario_Index
-      - SESH_Date
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.SESH_Name: 230
+## Data
 
-```
+| Session                                       | Name         | Scenario                                                    | Part | Date               |
+| --------------------------------------------- | ------------ | ----------------------------------------------------------- | ---- | ------------------ |
+| [[Session Notes/Session 00B\|Session 00B]] | Training Sim | [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]] | 2    | September 15, 2026 |
 
+{ .block-language-dataview}
 
