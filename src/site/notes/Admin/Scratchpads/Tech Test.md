@@ -23,7 +23,7 @@
 > |Body|[[Database/Glossary/Colony\|Colony]]|
 > |Leadership|[[Database/Factions/Rebels\|Rebels]]|
 > |Status|Contested|
-> |Interest|[[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
+> |Interest|<span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span>|
 
 > [!blank|embed] ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
@@ -84,7 +84,7 @@ views:
 > 
 > |  |  |
 > |--|--|
-> |**FACTION**| [[Database/Factions/Armada Ejecta\|Armada Ejecta]]|
+> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta.md" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span>|
 > | **STRAIN**| `REDACTED` |
 >  
 > |HARM|CONSEQUENCE|
@@ -185,7 +185,7 @@ Individual
 > |Body|[[Database/Glossary/Colony\|Colony]]|
 > |Leadership|[[Database/Factions/Rebels\|Rebels]]|
 > |Status|Contested|
-> |Interest|[[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
+> |Interest|<span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span>|
 
 > [!blank|embed] ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>

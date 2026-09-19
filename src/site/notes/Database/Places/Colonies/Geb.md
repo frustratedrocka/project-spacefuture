@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location"],"noteIcon":"","updated":"2026-09-19T13:29:52.824-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location"],"noteIcon":"","updated":"2026-09-19T16:08:40.014-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 
@@ -12,7 +12,7 @@
 > |Body|[[Database/Glossary/Colony\|Colony]]|
 > |Leadership|[[Database/Factions/Rebels\|Rebels]]|
 > |Status|Contested|
-> |Interest|[[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
+> |Interest|<span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span>|
 
 > [!blank|embed] ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/charun/","tags":["location","lore"],"noteIcon":"","updated":"2026-09-19T12:59:54.644-04:00","dg-note-properties":{"tags":["location","lore"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":[["Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif"]]}}
+{"dg-publish":true,"permalink":"/database/things/charun/","tags":["location","lore"],"noteIcon":"","updated":"2026-09-19T16:08:25.596-04:00","dg-note-properties":{"tags":["location","lore"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":[["Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif"]]}}
 ---
 
 
@@ -12,7 +12,7 @@
 > |Body|[[Locations Hub\|Ferry]]|
 > |Leadership|[[Database/Factions/Independent\|Independent]]|
 > |Status|Semi-Extraterritorial|
-> |Interest|[[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
+> |Interest|<span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span>|
 
 > [!cite] From Whence The Concept
 >> Not to be the fucker who is going to piss everyone off, but is there any "accounting for the sheer travel physics of space" tech in this universe?  

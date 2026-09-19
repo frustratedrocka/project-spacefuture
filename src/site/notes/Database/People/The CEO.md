@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-19T12:59:54.023-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":[null],"Rank":1,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[[null]],"Stunts":[[null]],"skill_5":[null],"approach_5":[[null]],"skill_4":["Acquire"],"approach_4":["Sway"],"skill_3":["Know"],"approach_3":["Boldly","Cleverly"],"skill_2":["Skill","Skill"],"approach_2":["Subtly","Approach"],"skill_1":["Tinker","Skill","Skill"],"approach_1":["Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-19T16:02:41.569-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":[null],"Rank":1,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[[null]],"Stunts":[[null]],"skill_5":[null],"approach_5":[[null]],"skill_4":["Acquire"],"approach_4":["Sway"],"skill_3":["Know"],"approach_3":["Boldly","Cleverly"],"skill_2":["Skill","Skill"],"approach_2":["Subtly","Approach"],"skill_1":["Tinker","Skill","Skill"],"approach_1":["Approach","Approach"]}}
 ---
 
 > [!infobox|embed left wsmall]
@@ -8,7 +8,7 @@
 > 
 > |  |  |
 > |--|--|
-> |**FACTION**| [[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
+> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span>|-display", {property: "Faction", published: "__DG_PUBLISH__" === "__DG_PUBLISH__"})`|
 > | **STRAIN**| `REDACTED` |
 >  
 > |HARM|CONSEQUENCE|

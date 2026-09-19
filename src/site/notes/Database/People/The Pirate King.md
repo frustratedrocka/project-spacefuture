@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-19T12:59:54.084-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":null,"Rank":0,"Strain":5,"Consequences":["Mild","Moderate","Severe"],"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"skill_5":["Lead"],"approach_5":[[null]],"skill_4":["Fight","Notice"],"approach_4":["Cleverly"],"skill_3":["Move","Know"],"approach_3":["Boldly","Quickly"],"skill_2":["Acquire","Shoot","Network","Understand"],"approach_2":["Forcefully","Carefully"],"skill_1":["Persevere","Tend","Tinker","Sway"],"approach_1":["Subtly"]}}
+{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-19T16:02:38.387-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":null,"Rank":0,"Strain":5,"Consequences":["Mild","Moderate","Severe"],"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"skill_5":["Lead"],"approach_5":[[null]],"skill_4":["Fight","Notice"],"approach_4":["Cleverly"],"skill_3":["Move","Know"],"approach_3":["Boldly","Quickly"],"skill_2":["Acquire","Shoot","Network","Understand"],"approach_2":["Forcefully","Carefully"],"skill_1":["Persevere","Tend","Tinker","Sway"],"approach_1":["Subtly"]}}
 ---
 
 > [!infobox|embed left wsmall]
@@ -8,7 +8,7 @@
 > 
 > |  |  |
 > |--|--|
-> |**FACTION**| [[Database/Factions/Armada Ejecta\|Armada Ejecta]]|
+> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta.md" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span>|
 > | **STRAIN**| `REDACTED` |
 >  
 > |HARM|CONSEQUENCE|

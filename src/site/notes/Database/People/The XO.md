@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-xo/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-19T12:59:54.127-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"[[Admin/Attachments/Saul_Tigh.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Jovian Consortium]]"],"Rank":3,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Hard Times Make Hard Asses","Relationship":null,"Loyalty":null,"Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/the-xo/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-19T16:02:35.875-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"[[Admin/Attachments/Saul_Tigh.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Jovian Consortium]]"],"Rank":3,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Hard Times Make Hard Asses","Relationship":null,"Loyalty":null,"Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|embed left wsmall]
@@ -8,7 +8,7 @@
 > 
 > |  |  |
 > |--|--|
-> |**FACTION**| [[Database/Factions/Rebels\|Rebels]],<br>[[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
+> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span>|
 > | **STRAIN**| `REDACTED` |
 >  
 > |HARM|CONSEQUENCE|

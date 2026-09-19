@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/test/test-origin-hide/","tags":["npc"],"noteIcon":"","updated":"2026-09-19T12:59:54.228-04:00","dg-note-properties":{"tags":["npc"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":null,"Rank":null,"Origin":"%% %%","Assoc":["[[Database/Places/Mars]]"],"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"High Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/test/test-origin-hide/","tags":["npc","character"],"noteIcon":"","updated":"2026-09-19T16:38:22.365-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":null,"Rank":null,"Origin":"%% %%","Assoc":["[[Database/Places/Mars]]"],"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"High Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|embed left wsmall]
@@ -8,7 +8,7 @@
 > 
 > |  |  |
 > |--|--|
-> |**FACTION**| \-|
+> |**FACTION**||
 > | **STRAIN**| `REDACTED` |
 >  
 > |HARM|CONSEQUENCE|
