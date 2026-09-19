@@ -16,6 +16,13 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 { .block-language-dataview}
 
+| Session                                       | Name         | Logline                                                                                                  |
+| --------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 00A\|Session 00A]] | Origins      | Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation. |
+| [[Session Notes/Session 00B\|Session 00B]] | Training Sim | Second Wing hits the combat sim during downtime between operations.                                      |
+
+{ .block-language-dataview}
+
 
 </div></div>
 
@@ -30,6 +37,12 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 `REDACTED`
 
 ### Impact
+
+{ .block-language-dataview}
+
+| Session                                     | Name             | Logline    |
+| ------------------------------------------- | ---------------- | ---------- |
+| [[Session Notes/Session 01\|Session 01]] | And So It Begins | `REDACTED` |
 
 { .block-language-dataview}
 
