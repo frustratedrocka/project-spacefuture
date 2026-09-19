@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-19T13:29:24.856-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.webp","Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-19T16:41:37.612-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.webp","Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 > [!INFOBOX|ws-med embed] Theseus
@@ -45,30 +45,10 @@
 
 >[!blank|wfull] END MANUAL ENTRY
 
-
-```base
-filters:
-  and:
-    - file.hasTag("character")
-    - or:
-        - Origin==link(this.file.name)
-        - Assoc.contains(link(this.file.name))
-    - '!file.inFolder("Player Characters/Archive")'
-views:
-  - type: table
-    name: Associated Characters
-    order:
-      - file.name
-      - Origin
-      - Assoc
-    columnSize:
-      file.name: 245
-      note.Origin: 108
-
-```
-
-
 ## Data
+
+> [!blank|embed] SCRIPT
+> <table class="dataview table-view-table"><thead><tr><th>Character</th><th>Origin</th><th>Associations</th></tr></thead><tbody><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/August Grier.md" data-href="Player Characters/August Grier.md" href="Player Characters/August Grier.md" class="internal-link" target="_blank" rel="noopener nofollow">August Grier</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Mars.md" data-href="Database/Places/Mars.md" href="Database/Places/Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Mars</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Theseus.md" data-href="Database/Places/Colonies/Theseus.md" href="Database/Places/Colonies/Theseus.md" class="internal-link" target="_blank" rel="noopener nofollow">Theseus</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/Vergen Koni.md" data-href="Player Characters/Vergen Koni.md" href="Player Characters/Vergen Koni.md" class="internal-link" target="_blank" rel="noopener nofollow">Vergen Koni</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Theseus.md" data-href="Database/Places/Colonies/Theseus.md" href="Database/Places/Colonies/Theseus.md" class="internal-link" target="_blank" rel="noopener nofollow">Theseus</a></span></td><td></td></tr></tbody></table>
 
 > [!blank|embed]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A.md" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a> - Origins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup.md" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>1</td><td>September 01, 2026</td></tr></tbody></table>

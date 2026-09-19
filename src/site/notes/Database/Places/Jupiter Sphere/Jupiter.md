@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T16:08:27.749-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Control":"Home / Headquarters","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Jupiter_OPAL_2024-1.webp","Concept":"Industrial Center Of Sol","Trouble":"Distance Necessitates Deliberation","Aspects":["Ruler Of The Heavens, In Fact And In Name","Wholly Owned & Incorporated"]}}
+{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T16:40:18.888-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Control":"Home / Headquarters","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Jupiter_OPAL_2024-1.webp","Concept":"Industrial Center Of Sol","Trouble":"Distance Necessitates Deliberation","Aspects":["Ruler Of The Heavens, In Fact And In Name","Wholly Owned & Incorporated"]}}
 ---
 
 
@@ -17,7 +17,7 @@
 > [!blank|embed] ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Industrial Center Of Sol</span></td></tr><tr><td><span>Distance Necessitates Deliberation</span></td></tr><tr><td><span>Ruler Of The Heavens, In Fact And In Name</span></td></tr><tr><td><span>Wholly Owned &amp; Incorporated</span></td></tr></tbody></table>
 
-
+# Description
 
 Ruler of the heavens, now in fact and not just in name. Governed by the [[Database/Factions/Jovian Consortium\|Jovian Consortium]] Corporate Council.
 
@@ -29,30 +29,10 @@ Most people who have business here, or who ever need to leave, rely on the regul
 
 >[!blank|wfull]
 
-
-```base
-filters:
-  and:
-    - file.hasTag("character")
-    - or:
-        - Origin==link(this.file.name)
-        - Assoc.contains(link(this.file.name))
-    - '!file.inFolder("Player Characters/Archive")'
-views:
-  - type: table
-    name: Associated Characters
-    order:
-      - file.name
-      - Origin
-      - Assoc
-    columnSize:
-      file.name: 245
-      note.Origin: 108
-
-```
-
-
 ## Data
+
+> [!blank|embed] SCRIPT
+> <table class="dataview table-view-table"><thead><tr><th>Character</th><th>Origin</th><th>Associations</th></tr></thead><tbody><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The CEO.md" data-href="Database/People/The CEO.md" href="Database/People/The CEO.md" class="internal-link" target="_blank" rel="noopener nofollow">The CEO</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Jupiter Sphere/Jupiter.md" data-href="Database/Places/Jupiter Sphere/Jupiter.md" href="Database/Places/Jupiter Sphere/Jupiter.md" class="internal-link" target="_blank" rel="noopener nofollow">Jupiter</a></span></td><td><span>-</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The Man Upstairs.md" data-href="Database/People/The Man Upstairs.md" href="Database/People/The Man Upstairs.md" class="internal-link" target="_blank" rel="noopener nofollow">The Man Upstairs</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Ceres.md" data-href="Database/Places/Colonies/Ceres.md" href="Database/Places/Colonies/Ceres.md" class="internal-link" target="_blank" rel="noopener nofollow">Ceres</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Jupiter Sphere/Jupiter.md" data-href="Database/Places/Jupiter Sphere/Jupiter.md" href="Database/Places/Jupiter Sphere/Jupiter.md" class="internal-link" target="_blank" rel="noopener nofollow">Jupiter</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The XO.md" data-href="Database/People/The XO.md" href="Database/People/The XO.md" class="internal-link" target="_blank" rel="noopener nofollow">The XO</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Jupiter Sphere/Jupiter.md" data-href="Database/Places/Jupiter Sphere/Jupiter.md" href="Database/Places/Jupiter Sphere/Jupiter.md" class="internal-link" target="_blank" rel="noopener nofollow">Jupiter</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone.md" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span></td></tr></tbody></table>
 
 > [!blank|embed]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
