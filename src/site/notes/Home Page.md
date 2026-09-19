@@ -16,6 +16,7 @@ Something every soldier's familiar with: "Hurry up and wait." Trying to stay ahe
 # Previously On Zero Sum
 - [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]] This is a test, you should be able to read this
 - [[Player Characters/Lane Gable\|Lane Gable]] This is also a test, you should be able to read this too
+- [[Database/People/The Pirate King\|The Pirate King]] and the [[Database/Mobile Suits/GS-79 Gundam Descolada\|Descolada]] demonstrate that you can, in fact, make a mobile suit dance
 
 { .block-language-dataview}
 

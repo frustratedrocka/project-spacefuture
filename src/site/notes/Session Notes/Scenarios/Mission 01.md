@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T12:59:53.393-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T13:55:08.625-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
 ---
 
 ## Summary
 `REDACTED`
 
 ### Impact
-> [!blank|embed] SCENARIO IMPACT AGGREGATOR
-> <p><span></span></p>
+
+{ .block-language-dataview}
 
 ## Sessions
 > [!blank|embed] SESSION AGGREGATOR
@@ -18,8 +18,12 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Portrait</span></th><th class="table-view-th"><span>NPC</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 ## Mobile Suits
-> [!cards|dataview collapse 6 img-tiny] MECHS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Portrait</span></th><th class="table-view-th"><span>Mobile Suit</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
+
+>[!cards|dataview collapse 6 img-tiny] MECHS
+>  | Portrait | Mobile Suit |
+> | -------- | ----------- |
+> 
+{ .block-language-dataview}
 
 ## Locations
 > [!blank|embed] LOCATIONS

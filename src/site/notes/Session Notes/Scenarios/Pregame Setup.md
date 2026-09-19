@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T13:37:04.236-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T13:44:43.552-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
 ---
 
 ## Summary
 A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
 
 ### Impact
-> [!blank|embed] SCENARIO IMPACT AGGREGATOR
-> <p><span><ul>
-<li dir="auto"><a data-href="Elegant Sky" href="Elegant Sky" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a> This is a test, you should be able to read this</li>
-<li dir="auto"><a data-href="Lane Gable" href="Lane Gable" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a> This is also a test, you should be able to read this too</li>
-</ul></span></p>
+- [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]] This is a test, you should be able to read this
+- [[Player Characters/Lane Gable\|Lane Gable]] This is also a test, you should be able to read this too
+- [[Database/People/The Pirate King\|The Pirate King]] and the [[Database/Mobile Suits/GS-79 Gundam Descolada\|Descolada]] demonstrate that you can, in fact, make a mobile suit dance
+
+{ .block-language-dataview}
 
 ## Sessions
 > [!blank|embed] SESSION AGGREGATOR
@@ -21,8 +21,16 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Portrait</span></th><th class="table-view-th"><span>NPC</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 ## Mobile Suits
-> [!cards|dataview collapse 6 img-tiny] MECHS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Portrait</span></th><th class="table-view-th"><span>Mobile Suit</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/DagDoll_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/DagDoll_SQ.webp?1789773051897"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Elegant Sky.md" data-href="Database/Mobile Suits/Elegant Sky.md" href="Database/Mobile Suits/Elegant Sky.md" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/HopliteCustom_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/HopliteCustom_SQ.webp?1789773046554"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hoplite Custom.md" data-href="Database/Mobile Suits/Hoplite Custom.md" href="Database/Mobile Suits/Hoplite Custom.md" class="internal-link" target="_blank" rel="noopener nofollow">Hoplite Custom</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Hyper_Seeker_CQC_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp?1789773046613"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hyper Seeker CQC.md" data-href="Database/Mobile Suits/Hyper Seeker CQC.md" href="Database/Mobile Suits/Hyper Seeker CQC.md" class="internal-link" target="_blank" rel="noopener nofollow">Hyper Seeker CQC</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/GM-II-AEUG_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/GM-II-AEUG_SQ.webp?1789773046390"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Kerbstomp.md" data-href="Database/Mobile Suits/Kerbstomp.md" href="Database/Mobile Suits/Kerbstomp.md" class="internal-link" target="_blank" rel="noopener nofollow">Kerbstomp</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Hoplite_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hoplite_SQ.webp?1789773046504"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/UT-F-08 Hoplite.md" data-href="Database/Mobile Suits/UT-F-08 Hoplite.md" href="Database/Mobile Suits/UT-F-08 Hoplite.md" class="internal-link" target="_blank" rel="noopener nofollow">UT-F-08 Hoplite</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Hoplite_Striker_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hoplite_Striker_SQ.webp?1789773051958"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" data-href="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" href="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" class="internal-link" target="_blank" rel="noopener nofollow">UT-F-08S Hoplite Striker</a></strong></span></td></tr></tbody></table>
+| Portrait                                                    | Mobile Suit                                                                         |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**                           |
+| ![Admin/Attachments/HopliteCustom_SQ.webp\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)    | **[[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]**                     |
+| ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]**                 |
+| ![Admin/Attachments/GM-II-AEUG_SQ.webp\|sban cover](/img/user/Admin/Attachments/GM-II-AEUG_SQ.webp)       | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                               |
+| ![Admin/Attachments/Hoplite_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_SQ.webp)          | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
+| ![Admin/Attachments/Hoplite_Striker_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp)  | **[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]** |
+
+{ .block-language-dataview}
 
 ## Locations
 > [!blank|embed] LOCATIONS

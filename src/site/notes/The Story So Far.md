@@ -12,11 +12,11 @@
 A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
 
 ### Impact
-> [!blank|embed] SCENARIO IMPACT AGGREGATOR
-> <p><span><ul>
-<li dir="auto"><a data-href="Elegant Sky" href="Elegant Sky" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a> This is a test, you should be able to read this</li>
-<li dir="auto"><a data-href="Lane Gable" href="Lane Gable" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a> This is also a test, you should be able to read this too</li>
-</ul></span></p>
+- [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]] This is a test, you should be able to read this
+- [[Player Characters/Lane Gable\|Lane Gable]] This is also a test, you should be able to read this too
+- [[Database/People/The Pirate King\|The Pirate King]] and the [[Database/Mobile Suits/GS-79 Gundam Descolada\|Descolada]] demonstrate that you can, in fact, make a mobile suit dance
+
+{ .block-language-dataview}
 
 
 </div></div>
@@ -32,8 +32,8 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 `REDACTED`
 
 ### Impact
-> [!blank|embed] SCENARIO IMPACT AGGREGATOR
-> <p><span></span></p>
+
+{ .block-language-dataview}
 
 
 </div></div>
