@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/scratchpads/tech-test/","tags":[null],"noteIcon":"","updated":"2026-09-18T19:12:20.894-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/admin/scratchpads/tech-test/","tags":[null],"noteIcon":"","updated":"2026-09-19T11:42:59.709-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
@@ -25,10 +25,8 @@
 > |Status|Contested|
 > |Interest|[[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
 
-| Aspects |
-| ------- |
-
-{ .block-language-dataview}
+> [!blank|embed] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 
 
@@ -59,18 +57,16 @@ views:
 
 ## Data
 
-| Session | Name | Scenario | Part | Date |
-| ------- | ---- | -------- | ---- | ---- |
-
-{ .block-language-dataview}
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+> [!blank|embed]
+> <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
-| Session | Changelog |
-| ------- | --------- |
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
-{ .block-language-dataview}
 
 </div></div>
 
@@ -80,7 +76,7 @@ views:
 
 
 
-> [!infobox|left wsmall]
+> [!infobox|embed left wsmall]
 > # The Pirate King
 > ![Admin/Attachments/Harlock.webp\|Harlock.webp](/img/user/Admin/Attachments/Harlock.webp)
 > 
@@ -95,7 +91,7 @@ views:
 > |4 Mod|Moderate|
 > |6 Svr|Severe|
 
-> [!infobox|right wsmall]
+> [!infobox|embed right wsmall]
 > # Gundam Descolada
 > ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)
 > 
@@ -111,36 +107,14 @@ views:
 > |4 Dsbl|Disabled|
 > |6 Doom|Doomed|
 
+> [!blank|embed] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Flamboyant Living Symbol</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span>Exemplary Captain First, King Distant Second</span></td></tr><tr><td><span>!h! REAL concept: Calculated Flamboyant Living Symbol !/h!</span></td></tr><tr><td><span>Far Better To Live And Die Under The Brave Black Flag</span></td></tr><tr><td><span>!r!Prepare To Improvise!/r!</span></td></tr><tr><td><span>!r!Leading Into The Jaws Of Death!/r!</span></td></tr></tbody></table>
 
-| Aspects                                               |
-| ----------------------------------------------------- |
-| Flamboyant Living Symbol                              |
-| Relationship                                          |
-| Exemplary Captain First, King Distant Second          |
-| Far Better To Live And Die Under The Brave Black Flag |
-| `REDACTED`                                            |
-| `REDACTED`                                            |
+> [!blank|embed] MECH ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Swashbuckling Space Duellist</span></td></tr><tr><td><span>!r!Struggles With Swarms!/r!</span></td></tr><tr><td><span>!r!The Last Blade Of Terra!/r!</span></td></tr></tbody></table>
 
-{ .block-language-dataview}
-
-
-| Mech Aspects                 |
-| ---------------------------- |
-| Swashbuckling Space Duellist |
-| `REDACTED`                   |
-| `REDACTED`                   |
-
-{ .block-language-dataview}
-
-
-| Gear Aspects         |
-| -------------------- |
-| Composite Gunlance   |
-| Hooked Duelling Cape |
-| `REDACTED`           |
-| `REDACTED`           |
-
-{ .block-language-dataview}
+> [!blank|embed] GEAR ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Composite Gunlance</span></td></tr><tr><td><span>Hooked Duelling Cape</span></td></tr><tr><td><span>!r!P.O.L.L.Y (Preposterous Ordnance Launcher Locked on You)!/r!</span></td></tr><tr><td><span>!r!Backup Pistols!/r!</span></td></tr></tbody></table>
 
 >[!blank|static wfull]
 >
@@ -165,18 +139,16 @@ views:
 
 ## Data
 
-| Session | Name | Scenario | Part | Date |
-| ------- | ---- | -------- | ---- | ---- |
-
-{ .block-language-dataview}
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+> [!blank|embed]
+> <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
-| Session | Changelog |
-| ------- | --------- |
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
-{ .block-language-dataview}
 
 </div></div>
 
@@ -213,10 +185,8 @@ Individual
 > |Status|Contested|
 > |Interest|[[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
 
-| Aspects |
-| ------- |
-
-{ .block-language-dataview}
+> [!blank|embed] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 
 
@@ -247,17 +217,15 @@ views:
 
 ## Data
 
-| Session | Name | Scenario | Part | Date |
-| ------- | ---- | -------- | ---- | ---- |
-
-{ .block-language-dataview}
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+> [!blank|embed]
+> <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
-| Session | Changelog |
-| ------- | --------- |
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
-{ .block-language-dataview}
 
 </div></div>

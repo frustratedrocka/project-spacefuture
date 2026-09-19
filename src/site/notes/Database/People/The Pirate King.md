@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-19T05:06:07.819-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":null,"Rank":0,"Strain":5,"Consequences":["Mild","Moderate","Severe"],"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"skill_5":["Lead"],"approach_5":[[null]],"skill_4":["Fight","Notice"],"approach_4":["Cleverly"],"skill_3":["Move","Know"],"approach_3":["Boldly","Quickly"],"skill_2":["Acquire","Shoot","Network","Understand"],"approach_2":["Forcefully","Carefully"],"skill_1":["Persevere","Tend","Tinker","Sway"],"approach_1":["Subtly"]}}
+{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-19T11:46:58.871-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":null,"Rank":0,"Strain":5,"Consequences":["Mild","Moderate","Severe"],"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"skill_5":["Lead"],"approach_5":[[null]],"skill_4":["Fight","Notice"],"approach_4":["Cleverly"],"skill_3":["Move","Know"],"approach_3":["Boldly","Quickly"],"skill_2":["Acquire","Shoot","Network","Understand"],"approach_2":["Forcefully","Carefully"],"skill_1":["Persevere","Tend","Tinker","Sway"],"approach_1":["Subtly"]}}
 ---
 
-> [!infobox|left wsmall]
+> [!infobox|embed left wsmall]
 > # The Pirate King
 > ![Admin/Attachments/Harlock.webp\|Harlock.webp](/img/user/Admin/Attachments/Harlock.webp)
 > 
@@ -17,7 +17,7 @@
 > |4 Mod|Moderate|
 > |6 Svr|Severe|
 
-> [!infobox|right wsmall]
+> [!infobox|embed right wsmall]
 > # Gundam Descolada
 > ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)
 > 
@@ -33,36 +33,14 @@
 > |4 Dsbl|Disabled|
 > |6 Doom|Doomed|
 
+> [!blank|embed] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Flamboyant Living Symbol</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span>Exemplary Captain First, King Distant Second</span></td></tr><tr><td><span>!h! REAL concept: Calculated Flamboyant Living Symbol !/h!</span></td></tr><tr><td><span>Far Better To Live And Die Under The Brave Black Flag</span></td></tr><tr><td><span>!r!Prepare To Improvise!/r!</span></td></tr><tr><td><span>!r!Leading Into The Jaws Of Death!/r!</span></td></tr></tbody></table>
 
-| Aspects                                               |
-| ----------------------------------------------------- |
-| Flamboyant Living Symbol                              |
-| Relationship                                          |
-| Exemplary Captain First, King Distant Second          |
-| Far Better To Live And Die Under The Brave Black Flag |
-| `REDACTED`                                            |
-| `REDACTED`                                            |
+> [!blank|embed] MECH ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Swashbuckling Space Duellist</span></td></tr><tr><td><span>!r!Struggles With Swarms!/r!</span></td></tr><tr><td><span>!r!The Last Blade Of Terra!/r!</span></td></tr></tbody></table>
 
-{ .block-language-dataview}
-
-
-| Mech Aspects                 |
-| ---------------------------- |
-| Swashbuckling Space Duellist |
-| `REDACTED`                   |
-| `REDACTED`                   |
-
-{ .block-language-dataview}
-
-
-| Gear Aspects         |
-| -------------------- |
-| Composite Gunlance   |
-| Hooked Duelling Cape |
-| `REDACTED`           |
-| `REDACTED`           |
-
-{ .block-language-dataview}
+> [!blank|embed] GEAR ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Composite Gunlance</span></td></tr><tr><td><span>Hooked Duelling Cape</span></td></tr><tr><td><span>!r!P.O.L.L.Y (Preposterous Ordnance Launcher Locked on You)!/r!</span></td></tr><tr><td><span>!r!Backup Pistols!/r!</span></td></tr></tbody></table>
 
 >[!blank|static wfull]
 >
@@ -87,15 +65,12 @@
 
 ## Data
 
-| Session | Name | Scenario | Part | Date |
-| ------- | ---- | -------- | ---- | ---- |
-
-{ .block-language-dataview}
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+> [!blank|embed]
+> <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
-| Session | Changelog |
-| ------- | --------- |
-
-{ .block-language-dataview}
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>

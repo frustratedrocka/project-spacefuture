@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/gs-79-gundam-descolada/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T05:06:19.924-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Gundam Descolada","MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Portrait":"Admin/Attachments/Descolada_SQ.webp","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Swashbuckling Space Duellist","MECH_Trouble":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"MECH_Stunts":["**BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.","**YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost.","`REDACTED`"],"Known_Users":["[[Database/People/The Pirate King]]"],"Faction":["[[Database/Factions/Armada Ejecta]]"],"Variants":null,"Aliases":["Descolada"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/gs-79-gundam-descolada/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T11:43:00.873-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Gundam Descolada","MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","Portrait":"Admin/Attachments/Descolada_SQ.webp","Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Swashbuckling Space Duellist","MECH_Trouble":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"MECH_Stunts":["**BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.","**YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost.","`REDACTED`"],"Known_Users":["[[Database/People/The Pirate King]]"],"Faction":["[[Database/Factions/Armada Ejecta]]"],"Variants":null,"Aliases":["Descolada"]}}
 ---
 
 
@@ -16,44 +16,26 @@
 > 
 
 
-| Mech Aspects                 |
-| ---------------------------- |
-| Swashbuckling Space Duellist |
-| `REDACTED`                   |
+> [!blank|embed] MECH ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Swashbuckling Space Duellist</span></td></tr><tr><td><span>!r!Struggles With Swarms!/r!</span></td></tr><tr><td><span>!r!The Last Blade Of Terra!/r!</span></td></tr></tbody></table>
 
-{ .block-language-dataview}
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Composite Gunlance</span></td></tr><tr><td><span>Hooked Duelling Cape</span></td></tr><tr><td><span>!r!P.O.L.L.Y (Preposterous Ordnance Launcher Locked on You)!/r!</span></td></tr><tr><td><span>!r!Backup Pistols!/r!</span></td></tr></tbody></table>
 
-| Known Armaments      |
-| -------------------- |
-| Composite Gunlance   |
-| Hooked Duelling Cape |
-| `REDACTED`           |
-| `REDACTED`           |
-
-{ .block-language-dataview}
-
-| Mech Stunts                                                                                                                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.                                                                                                    |
-| **YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost. |
-| `REDACTED`                                                                                                                                                                                                                                                 |
-
-{ .block-language-dataview}
+> [!blank|embed] MECH STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>BOOST CHARGE</strong> You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.</span></td></tr><tr><td><span><strong>YOU LEAVE WHEN I LET YOU</strong> Once per scene, you may Fight Quickly as a reaction to launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost.</span></td></tr><tr><td><span>!r!<strong>COMPOSITE CLAW</strong> If the barrel / blade of your Composite Gunlance is destroyed, the shield can unfurl into a bladed claw for close-in melee. You may willingly sacrifice the blade to do this - not that you'd ever want to.!/r!</span></td></tr></tbody></table>
 
 >[!blank|wfull]
 # Notes
 
 ## Data
 
-| Session | Name | Scenario | Part | Date |
-| ------- | ---- | -------- | ---- | ---- |
-
-{ .block-language-dataview}
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+> [!blank|embed]
+> <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
-| Session | Changelog |
-| ------- | --------- |
-
-{ .block-language-dataview}
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>

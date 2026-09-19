@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-story-so-far/","tags":["index","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-17T11:29:25.705-04:00","dg-note-properties":{"tags":["index","tracker"]}}
+{"dg-publish":true,"permalink":"/the-story-so-far/","tags":["index","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T11:42:59.324-04:00","dg-note-properties":{"tags":["index","tracker"]}}
 ---
 
 # Pregame Setup

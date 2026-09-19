@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/lines-and-veils/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-13T22:14:00.077-04:00","dg-note-properties":{"tags":["Tracker"]}}
+{"dg-publish":true,"permalink":"/admin/lines-and-veils/","tags":["Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T11:42:59.426-04:00","dg-note-properties":{"tags":["Tracker"]}}
 ---
 
 # Lines

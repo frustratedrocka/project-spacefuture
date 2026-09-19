@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/the-hive-mind/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-03T23:37:23.631-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/the-hive-mind/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T11:43:00.818-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 Shared memory and impressionistic emotion depending on how attuned to the hive you are, rather than hard knowledge - you might know someone's name, critical details, possibly some emotional resonance on sight that you've never met before. 

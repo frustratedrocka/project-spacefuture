@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/test/test-origin-redact/","tags":["npc"],"noteIcon":"","updated":"2026-09-19T05:06:12.032-04:00","dg-note-properties":{"tags":["npc"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":null,"Rank":null,"Origin":"`REDACTED`","Assoc":"[[Database/Places/Mars]]","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"High Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/test/test-origin-redact/","tags":["npc"],"noteIcon":"","updated":"2026-09-19T11:46:38.591-04:00","dg-note-properties":{"tags":["npc"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":null,"Rank":null,"Origin":"`REDACTED`","Assoc":"[[Database/Places/Mars]]","Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"High Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
-> [!infobox|left wsmall]
+> [!infobox|embed left wsmall]
 > # Test Origin Redact
 > ![Admin/Attachments/GenericFeddie_SQ.webp\|GenericFeddie_SQ.webp](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)
 > 
@@ -17,14 +17,8 @@
 > |4 Mod|Moderate|
 > |6 Svr|Severe|
 
-
-| Aspects      |
-| ------------ |
-| High Concept |
-| Relationship |
-| Loyalty      |
-
-{ .block-language-dataview}
+> [!blank|embed] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>High Concept</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span>Loyalty</span></td></tr></tbody></table>
 
 `REDACTED`
 
@@ -35,15 +29,12 @@
 
 ## Data
 
-| Session | Name | Scenario | Part | Date |
-| ------- | ---- | -------- | ---- | ---- |
-
-{ .block-language-dataview}
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+> [!blank|embed]
+> <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
-| Session | Change |
-| ------- | ------ |
-
-{ .block-language-dataview}
+> [!blank|embed]
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations-hub/","tags":["index","Tracker"],"noteIcon":"","updated":"2026-09-04T08:15:18.578-04:00","dg-note-properties":{"tags":["index","Tracker"],"aliases":["Dwarf Planet","Planetoid","Moon"]}}
+{"dg-publish":true,"permalink":"/locations-hub/","tags":["index","Tracker"],"noteIcon":"","updated":"2026-09-19T11:42:59.247-04:00","dg-note-properties":{"tags":["index","Tracker"],"aliases":["Dwarf Planet","Planetoid","Moon"]}}
 ---
 
 Big round rocks in unique, stable orbit around something bigger, and the things attached to them.
