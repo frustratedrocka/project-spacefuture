@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T11:43:00.553-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Mindful Eyes","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
+{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T12:20:52.484-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Mindful Eyes","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
 ---
 
 
@@ -93,9 +93,5 @@ views:
 ```
 
 
->[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                                              | Name                                                                |
-> | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]** |
-> 
-{ .block-language-dataview}
+> [!cards|dataview collapse 4 img-tiny] FACTION MECHS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/Hyper_Seeker_CQC_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp?1789773046613"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hyper Seeker CQC.md" data-href="Database/Mobile Suits/Hyper Seeker CQC.md" href="Database/Mobile Suits/Hyper Seeker CQC.md" class="internal-link" target="_blank" rel="noopener nofollow">Hyper Seeker CQC</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/GM-II-AEUG_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/GM-II-AEUG_SQ.webp?1789773046390"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Kerbstomp.md" data-href="Database/Mobile Suits/Kerbstomp.md" href="Database/Mobile Suits/Kerbstomp.md" class="internal-link" target="_blank" rel="noopener nofollow">Kerbstomp</a></strong></span></td></tr></tbody></table>

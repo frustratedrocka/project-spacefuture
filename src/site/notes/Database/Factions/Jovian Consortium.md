@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T11:43:00.533-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T12:20:30.607-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian"]}}
 ---
 
 
@@ -89,10 +89,5 @@ views:
 ```
 
 
->[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                                            | Name                                                                                |
-> | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp)                 | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
-> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]** |
-> 
-{ .block-language-dataview}
+> [!cards|dataview collapse 4 img-tiny] FACTION MECHS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/Hoplite_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hoplite_SQ.webp?1789773046504"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/UT-F-08 Hoplite.md" data-href="Database/Mobile Suits/UT-F-08 Hoplite.md" href="Database/Mobile Suits/UT-F-08 Hoplite.md" class="internal-link" target="_blank" rel="noopener nofollow">UT-F-08 Hoplite</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Hoplite_Striker_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hoplite_Striker_SQ.webp?1789773051958"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" data-href="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" href="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" class="internal-link" target="_blank" rel="noopener nofollow">UT-F-08S Hoplite Striker</a></strong></span></td></tr></tbody></table>

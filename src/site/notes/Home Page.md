@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T11:42:59.229-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T11:54:46.374-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
@@ -8,16 +8,14 @@
 ## Where Are You
 Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], serving as Second Wing. 
 
-
-
 **[[Database/Things/Fishbone\|Fishbone]]** - Rebel Destroyer, Closest Thing To Home. Control: [[Database/Factions/Rebels\|Rebels]], Courtesy Of the Consortium
 
 ## What Are You Doing
 Something every soldier's familiar with: "Hurry up and wait." Trying to stay ahead of the pursuing [[Database/Things/Brynhildr\|Brynhildr]] while awaiting new orders from [[Command\|Command]]
 
 # Previously On Zero Sum
-- This is a test, you should be able to read this
-- This is also a test, you should be able to read this too
+- [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]] This is a test, you should be able to read this
+- [[Player Characters/Lane Gable\|Lane Gable]] This is also a test, you should be able to read this too
 
 { .block-language-dataview}
 

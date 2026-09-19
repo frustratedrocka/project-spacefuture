@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-19T11:43:00.593-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.webp","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-09-19T12:20:39.047-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.webp","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
 ---
 
 
@@ -95,8 +95,5 @@ views:
 ```
 
 
->[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits | Name |
-> | ------------ | ---- |
-> 
-{ .block-language-dataview}
+> [!cards|dataview collapse 4 img-tiny] FACTION MECHS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>

@@ -105,14 +105,8 @@ views:
 ```
 
 
->[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                                              | Name                                                                |
-> | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                   | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**           |
-> | ![Admin/Attachments/HopliteCustom_SQ.webp\|HopliteCustom_SQ.webp](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)       | **[[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]**     |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]** |
-> 
-{ .block-language-dataview}
+> [!cards|dataview collapse 4 img-tiny] FACTION MECHS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/DagDoll_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/DagDoll_SQ.webp?1789773051897"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Elegant Sky.md" data-href="Database/Mobile Suits/Elegant Sky.md" href="Database/Mobile Suits/Elegant Sky.md" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/HopliteCustom_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/HopliteCustom_SQ.webp?1789773046554"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hoplite Custom.md" data-href="Database/Mobile Suits/Hoplite Custom.md" href="Database/Mobile Suits/Hoplite Custom.md" class="internal-link" target="_blank" rel="noopener nofollow">Hoplite Custom</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Hyper_Seeker_CQC_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp?1789773046613"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hyper Seeker CQC.md" data-href="Database/Mobile Suits/Hyper Seeker CQC.md" href="Database/Mobile Suits/Hyper Seeker CQC.md" class="internal-link" target="_blank" rel="noopener nofollow">Hyper Seeker CQC</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/GM-II-AEUG_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/GM-II-AEUG_SQ.webp?1789773046390"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Kerbstomp.md" data-href="Database/Mobile Suits/Kerbstomp.md" href="Database/Mobile Suits/Kerbstomp.md" class="internal-link" target="_blank" rel="noopener nofollow">Kerbstomp</a></strong></span></td></tr></tbody></table>
 
 </div></div>
 
@@ -174,6 +168,13 @@ views:
 ```
 
 
+| Character                                                 | Aspects                                                    |
+| --------------------------------------------------------- | ---------------------------------------------------------- |
+| [[Database/People/The Man Upstairs\|The Man Upstairs]] | Power-Hungry Expert Shipping Magnate \- \- \- \`REDACTED\` |
+| [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]   | Strategic & Skilled Field Commander \- \- \- \`REDACTED\`  |
+
+{ .block-language-dataview}
+
 
 ```base
 filters:
@@ -210,13 +211,8 @@ views:
 ```
 
 
->[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                            | Name                                                                                      |
-> | ------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/Akoni_SQ.webp\|Akoni_SQ.webp](/img/user/Admin/Attachments/Akoni_SQ.webp)     | **[[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]**                               |
-> | ![Admin/Attachments/Akoni-E_SQ.webp\|Akoni-E_SQ.webp](/img/user/Admin/Attachments/Akoni-E_SQ.webp) | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]** |
-> 
-{ .block-language-dataview}
+> [!cards|dataview collapse 4 img-tiny] FACTION MECHS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/Akoni_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Akoni_SQ.webp?1789773045881"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/SE-832 Akoni.md" data-href="Database/Mobile Suits/SE-832 Akoni.md" href="Database/Mobile Suits/SE-832 Akoni.md" class="internal-link" target="_blank" rel="noopener nofollow">SE-832 Akoni</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Akoni-E_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Akoni-E_SQ.webp?1789773045908"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/SE-832-E Akoni Command Type.md" data-href="Database/Mobile Suits/SE-832-E Akoni Command Type.md" href="Database/Mobile Suits/SE-832-E Akoni Command Type.md" class="internal-link" target="_blank" rel="noopener nofollow">SE-832-E Akoni Command Type</a></strong></span></td></tr></tbody></table>
 
 </div></div>
 
@@ -314,13 +310,8 @@ views:
 ```
 
 
->[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                                            | Name                                                                                |
-> | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp)                 | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
-> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]** |
-> 
-{ .block-language-dataview}
+> [!cards|dataview collapse 4 img-tiny] FACTION MECHS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/Hoplite_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hoplite_SQ.webp?1789773046504"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/UT-F-08 Hoplite.md" data-href="Database/Mobile Suits/UT-F-08 Hoplite.md" href="Database/Mobile Suits/UT-F-08 Hoplite.md" class="internal-link" target="_blank" rel="noopener nofollow">UT-F-08 Hoplite</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Hoplite_Striker_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hoplite_Striker_SQ.webp?1789773051958"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" data-href="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" href="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" class="internal-link" target="_blank" rel="noopener nofollow">UT-F-08S Hoplite Striker</a></strong></span></td></tr></tbody></table>
 
 </div></div>
 
@@ -424,11 +415,8 @@ views:
 ```
 
 
->[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits | Name |
-> | ------------ | ---- |
-> 
-{ .block-language-dataview}
+> [!cards|dataview collapse 4 img-tiny] FACTION MECHS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div>
 
 </div></div>
 
@@ -520,15 +508,8 @@ views:
 ```
 
 
->[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                                            | Name                                                                                |
-> | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | **[[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]**                           |
-> | ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)             | **[[Database/Mobile Suits/GS-79 Gundam Descolada\|GS-79 Gundam Descolada]]**     |
-> | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp)                 | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]**                   |
-> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]** |
-> 
-{ .block-language-dataview}
+> [!cards|dataview collapse 4 img-tiny] FACTION MECHS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/DagDoll_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/DagDoll_SQ.webp?1789773051897"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Elegant Sky.md" data-href="Database/Mobile Suits/Elegant Sky.md" href="Database/Mobile Suits/Elegant Sky.md" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Descolada_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Descolada_SQ.webp?1789773051919"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/GS-79 Gundam Descolada.md" data-href="Database/Mobile Suits/GS-79 Gundam Descolada.md" href="Database/Mobile Suits/GS-79 Gundam Descolada.md" class="internal-link" target="_blank" rel="noopener nofollow">GS-79 Gundam Descolada</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Hoplite_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hoplite_SQ.webp?1789773046504"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/UT-F-08 Hoplite.md" data-href="Database/Mobile Suits/UT-F-08 Hoplite.md" href="Database/Mobile Suits/UT-F-08 Hoplite.md" class="internal-link" target="_blank" rel="noopener nofollow">UT-F-08 Hoplite</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/Hoplite_Striker_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hoplite_Striker_SQ.webp?1789773051958"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" data-href="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" href="Database/Mobile Suits/UT-F-08S Hoplite Striker.md" class="internal-link" target="_blank" rel="noopener nofollow">UT-F-08S Hoplite Striker</a></strong></span></td></tr></tbody></table>
 
 </div></div>
 
@@ -630,12 +611,8 @@ views:
 ```
 
 
->[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                                              | Name                                                                |
-> | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]** |
-> 
-{ .block-language-dataview}
+> [!cards|dataview collapse 4 img-tiny] FACTION MECHS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/Hyper_Seeker_CQC_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp?1789773046613"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hyper Seeker CQC.md" data-href="Database/Mobile Suits/Hyper Seeker CQC.md" href="Database/Mobile Suits/Hyper Seeker CQC.md" class="internal-link" target="_blank" rel="noopener nofollow">Hyper Seeker CQC</a></strong></span></td></tr><tr><td><img alt="Admin/Attachments/GM-II-AEUG_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/GM-II-AEUG_SQ.webp?1789773046390"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Kerbstomp.md" data-href="Database/Mobile Suits/Kerbstomp.md" href="Database/Mobile Suits/Kerbstomp.md" class="internal-link" target="_blank" rel="noopener nofollow">Kerbstomp</a></strong></span></td></tr></tbody></table>
 
 </div></div>
 
@@ -817,11 +794,7 @@ views:
 ```
 
 
->[!cards|dataview 4 collapse img-tiny]
->  | Mobile Suits                                            | Name                                                              |
-> | ------------------------------------------------------- | ----------------------------------------------------------------- |
-> | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp) | **[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]** |
-> 
-{ .block-language-dataview}
+> [!cards|dataview collapse 4 img-tiny] FACTION MECHS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mobile Suits</span></th><th class="table-view-th"><span>Name</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="Admin/Attachments/Hoplite_SQ.webp" src="app://997d2805319a6c58972e7792c9f869004531/C:/Users/bkfor/Documents/Obsidian/GundamGame/Admin/Attachments/Hoplite_SQ.webp?1789773046504"></td><td><span><strong><a data-tooltip-position="top" aria-label="Database/Mobile Suits/UT-F-08 Hoplite.md" data-href="Database/Mobile Suits/UT-F-08 Hoplite.md" href="Database/Mobile Suits/UT-F-08 Hoplite.md" class="internal-link" target="_blank" rel="noopener nofollow">UT-F-08 Hoplite</a></strong></span></td></tr></tbody></table>
 
 </div></div>

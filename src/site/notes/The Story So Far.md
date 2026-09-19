@@ -12,17 +12,8 @@
 A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
 
 ### Impact
-- This is a test, you should be able to read this
-- This is also a test, you should be able to read this too
-
-{ .block-language-dataview}
-
-| Session                                       | Name | Logline                                                                                                  |
-| --------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Session 00A\|Session 00A]] | \-   | Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation. |
-| [[Session Notes/Session 00B\|Session 00B]] | \-   | Second Wing hits the combat sim during downtime between operations.                                      |
-
-{ .block-language-dataview}
+> [!blank|embed] SCENARIO IMPACT AGGREGATOR
+> <ul class="dataview list-view-ul"><li><span><a data-href="Elegant Sky" href="Elegant Sky" class="internal-link" target="_blank" rel="noopener nofollow">Elegant Sky</a> This is a test, you should be able to read this</span></li><li><span><a data-href="Lane Gable" href="Lane Gable" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a> This is also a test, you should be able to read this too</span></li><li><span>If you can read this, <a data-href="The Man Upstairs" href="The Man Upstairs" class="internal-link" target="_blank" rel="noopener nofollow">The Man Upstairs</a> will come burn your colony down.</span></li><li><span>If this is on the same line as the previous, <a data-href="The Pirate King" href="The Pirate King" class="internal-link" target="_blank" rel="noopener nofollow">The Pirate King</a> will stab you.</span></li></ul>
 
 
 </div></div>
@@ -38,14 +29,8 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 `REDACTED`
 
 ### Impact
-
-{ .block-language-dataview}
-
-| Session                                     | Name | Logline    |
-| ------------------------------------------- | ---- | ---------- |
-| [[Session Notes/Session 01\|Session 01]] | \-   | `REDACTED` |
-
-{ .block-language-dataview}
+> [!blank|embed] SCENARIO IMPACT AGGREGATOR
+> <ul class="dataview list-view-ul"><li><span>Original command staff and first wing of the <a data-href="Fishbone" href="Fishbone" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a> KIA by <a data-tooltip-position="top" aria-label="Vantrin Almeyer" data-href="Vantrin Almeyer" href="Vantrin Almeyer" class="internal-link" target="_blank" rel="noopener nofollow">Vantrin</a> and the <a data-href="Brynhildr" href="Brynhildr" class="internal-link" target="_blank" rel="noopener nofollow">Brynhildr</a> team</span></li><li><span><a data-href="The XO" href="The XO" class="internal-link" target="_blank" rel="noopener nofollow">The XO</a> brevets new command: Captain <a data-href="Gen Bashaba" href="Gen Bashaba" class="internal-link" target="_blank" rel="noopener nofollow">Gen Bashaba</a></span></li><li><span><a data-href="The Ace" href="The Ace" class="internal-link" target="_blank" rel="noopener nofollow">The Ace</a> in critical condition</span></li></ul>
 
 
 </div></div>
