@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T07:46:04.529-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-20T18:20:36.068-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Challenges
@@ -37,7 +37,11 @@ Once everyone's actions are set, actions resolve in order of approach. Allied ch
 
 Sometimes, actions taken earlier in a round may invalidate actions that would have gone off later (e.g. a player planned to Shoot Carefully to snipe an enemy who was already taken out earlier in the round). If there is a reasonable way for such actions to be retargeted without changing the approach, the GM should allow the players to do so; otherwise, the action is lost. 
 
-Alternatively, someone whose approach places them earlier in the round may still have declared they were waiting for something to trigger a response; in that case, they may also delay their action until the trigger goes off. If they're still in a position to take that action when the trigger occurs, they may do so; if they're not, or the trigger never occurs, the action is also lost.
+### Readied Actions
+
+Someone whose approach places them earlier in the round may still have declared they were waiting for something to trigger a response; in that case, they may also delay their action until the trigger goes off. If they're still in a position to take that action when the trigger occurs, they may do so; if they're not, or the trigger never occurs, the action is also lost. 
+
+You cannot do this if you're ac
 
 ### Surprise
 When surprise is relevant (e.g. a successful ambush), surprised conflict participants declare and act only after all other participants have completed their turns.

@@ -30,9 +30,8 @@ The [[Database/Factions/Rebels\|Rebels]] are a motley assortment of defectors, p
 
 The current mission is simple: Intercept excess food shipments and redirect them from the Jupiter sphere towards the places where they're most needed. That said, the questions of who gets to define "excess" and what counts as "most needed" are matters of significant internal debate.
 
+
 >[!blank|wfull]
-
-
 
 >[!cards|dataview 4 collapse img-tiny txt-c]
 >  | Portrait                                                                  | Player Character                                                  |
