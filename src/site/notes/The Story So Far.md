@@ -12,8 +12,6 @@
 A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
 
 ### Impact
-- [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]] This is a test, you should be able to read this
-- [[Player Characters/Lane Gable\|Lane Gable]] This is also a test, you should be able to read this too
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-19T11:54:46.374-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-20T13:10:11.265-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
@@ -14,8 +14,6 @@ Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Thing
 Something every soldier's familiar with: "Hurry up and wait." Trying to stay ahead of the pursuing [[Database/Things/Brynhildr\|Brynhildr]] while awaiting new orders from [[Command\|Command]]
 
 # Previously On Zero Sum
-- [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]] This is a test, you should be able to read this
-- [[Player Characters/Lane Gable\|Lane Gable]] This is also a test, you should be able to read this too
 
 { .block-language-dataview}
 
@@ -48,14 +46,14 @@ Something every soldier's familiar with: "Hurry up and wait." Trying to stay ahe
 >> - "Who Gets To Write The Future?"
 
 # Links & OVERVIEWS
-> [!cards|4]
+> [!cards|3]
 >**[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)**
 > 
 >**[[Rules Hub\|Rules Hub]]**
->
->**[[Admin/Player Intake Form\|Player Survey]]**
 > 
 > **[[Admin/Lines & Veils\|Lines & Veils]]**
+
+> [!cards|5]
 > 
 >**[[Faction Hub\|Faction Hub]]**
 >
@@ -64,6 +62,8 @@ Something every soldier's familiar with: "Hurry up and wait." Trying to stay ahe
 >**[[Database/History/Emergent Century\|EC Timeline]]**
 >
 >**[[Solar Map\|Solar Map]]**
+>
+>**[[Mech Catalog\|Mech Catalog]]**
 
 # Fiction Primer
 It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]], and...
