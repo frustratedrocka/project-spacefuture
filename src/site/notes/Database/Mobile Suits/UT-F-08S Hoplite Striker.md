@@ -10,7 +10,7 @@
 > |  |  |
 > |--|--|
 > |**FACTION**| [[United Terran Sphere Navy\|United Terran Sphere Navy]]<br>[[Database/Factions/Armada Ejecta\|Armada Ejecta]]<br>[[Database/Factions/Jovian Consortium\|Jovian Consortium]]|
-> |**KNOWN PILOTS**||
+> |**KNOWN PILOTS**|<span><a data-tooltip-position="top" aria-label="Database/People/Test/Test Property Hide.md" data-href="Database/People/Test/Test Property Hide.md" href="Database/People/Test/Test Property Hide.md" class="internal-link" target="_blank" rel="noopener nofollow">Test Property Hide</a></span>|
 > |**BASE MODEL**|[[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]|
 
 > [!blank|embed] MECH ASPECTS
