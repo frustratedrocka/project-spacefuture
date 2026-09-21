@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T12:59:53.627-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/emergent-century/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-20T23:12:35.239-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
@@ -9,7 +9,7 @@
 >> Fungal infection first takes root in wheat exports. First infectees report strange symptoms. 
 >
 >> [!|no-icon bg-c-gray]+ EC 0073 - EC 0075 - Growing Awareness
->> As infection spreads, [[Database/History/The Hive Mind\|The Hive Mind]] starts to realize what's happening and accrete into a single unified political entity. Fear and general human shittiness lead to quarantines, crackdowns, atrocities
+>> As infection spreads, [[Database/History/The Hive Mind\|The Hive Mind]] starts to realize what's happening and accrete into a single unified political entity. Fear and general human shittiness lead to quarantines, crackdowns, atrocities, exploitation, and development of [[Database/Things/Hivetech\|Hivetech]].
 
 > [!timeline|no-icon no-icon bg-c-gray ttl-c] **[[Database/History/The Ground War\|The Ground War]]**
 >> [!|no-icon bg-c-gray]+ EC 0076
