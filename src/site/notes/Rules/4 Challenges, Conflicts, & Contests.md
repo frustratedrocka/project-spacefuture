@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-20T18:20:41.050-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-20T20:22:27.117-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Challenges
@@ -39,7 +39,7 @@ Sometimes, actions taken earlier in a round may invalidate actions that would ha
 
 ### Readied Actions
 
-Someone whose approach places them earlier in the round may still have declared they were waiting for something to trigger a response; in that case, they may also delay their action until the trigger goes off. If they're still in a position to take that action when the trigger occurs, they may do so; if they're not, or the trigger never occurs, the action is also lost. 
+If someone declares that they are waiting for something to trigger and intend to respond whSomeone whose approach places them earlier in the round may still have declared they were waiting for something to trigger a response; in that case, they may also delay their action until the trigger goes off. If they're still in a position to take that action when the trigger occurs, they may do so; if they're not, or the trigger never occurs, the action is also lost. 
 
 You cannot do this if you're acting Quickly or Boldly.
 
