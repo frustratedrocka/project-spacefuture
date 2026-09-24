@@ -30,7 +30,7 @@
 
 ## Locations
 > [!blank|embed] LOCATIONS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="p" aria-hidden="true" style="display: none;"><span></span></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Concept</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="p" aria-hidden="true" style="display: none;"><span></span></span>
 
 
 
