@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["Mech"],"noteIcon":"","updated":"2026-09-19T17:47:32.344-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Kerbstomp","MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Portrait":"[[Admin/Attachments/Theseus_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed",null],"MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club",null],"MECH_Stunts":["**SMOKESCREEN** Once per combat, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage.","**STUNT** Description"],"Known_Users":["[[Player Characters/Menodora Thaliana]]",null],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]",null],"Variants":[null],"Base":[null]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["Mech"],"noteIcon":"","updated":"2026-09-24T14:58:09.692-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Kerbstomp","MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Portrait":"[[Admin/Attachments/Theseus_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Once per combat, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage."],"Known_Users":["[[Player Characters/Menodora Thaliana]]"],"Faction":["[[Database/Factions/Rebels]]"],"Variants":[null],"Base":[null]}}
 ---
 
 
@@ -9,8 +9,8 @@
 > 
 > |  |  |
 > |--|--|
-> |**FACTION**| [[Database/Factions/Rebels\|Rebels]]<br>[[Database/Factions/Mindful Eyes\|Mindful Eyes]]<br>\-|
-> |**KNOWN PILOTS**|[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]<br>\-|
+> |**FACTION**| [[Database/Factions/Rebels\|Rebels]]|
+> |**KNOWN PILOTS**|[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]|
 > |**ARMOR**|4|
 
 > [!blank|embed] MECH ASPECTS
@@ -20,7 +20,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Mining Drill</span></td></tr><tr><td><span>Club</span></td></tr></tbody></table>
 
 > [!blank|embed] MECH STUNTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>SMOKESCREEN</strong> Once per combat, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.</span></td></tr><tr><td><span><strong>FOX IN A TRAP</strong> Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage.</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>SMOKESCREEN</strong> Once per combat, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.</span></td></tr><tr><td><span><strong>FOX IN A TRAP</strong> Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage.</span></td></tr></tbody></table>
 
 >[!blank|wfull]
 # Notes
