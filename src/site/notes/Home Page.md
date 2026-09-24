@@ -14,6 +14,9 @@ Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Thing
 Something every soldier's familiar with: "Hurry up and wait." Trying to stay ahead of the pursuing [[Database/Things/Brynhildr\|Brynhildr]] while awaiting new orders from [[Command\|Command]]
 
 # Previously On Zero Sum
+- Luna is dropped onto Earth
+- [[Database/Factions/Apsis\|Apsis]] reallocation cuts food to [[Database/Places/Colonies/Kelly\|Kelly]], [[Database/Places/Colonies/Geb\|Geb]], [[Database/Places/Colonies/Arjuna\|Arjuna]] colonies below starvation levels
+- [[Database/Factions/Rebels\|Rebels]] respond to cuts by escalating to armed revolt
 
 { .block-language-dataview}
 

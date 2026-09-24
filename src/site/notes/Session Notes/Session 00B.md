@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-20T13:25:50.768-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","SESH_Next":"[[Session Notes/Session 01]]","SESH_Prev":"[[Session Notes/Session 00A]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":2,"Logline":"Second Wing hits the combat sim during downtime between operations.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Vergen Koni]]"],"NPCs":[null],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Hoplite Custom]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/UT-F-08 Hoplite]]","[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]"],"Impact":[null],"Changelog":["[[Lane Gable]] ::: **RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2. ::: **LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke.","[[Elegant Sky]] ::: **FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you. ::: **COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile."]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-24T09:49:45.057-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00C]]","SESH_Prev":"[[Session Notes/Session 00A]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
 ---
-
 
 > [!infobox|embed ws-med table wikipedia]
 > # Vitals
 >> [!blank]
->
+> 
 >|Scenario|Part|Date|
 >|---|:---:|---:|
->|[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]|2| 9-15-26 |
-> 
+>|[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]|1| 9-01-26 |
+>
 > |Previous|Next|
 > |:---|---:|
-> |[[Session Notes/Session 00A\|Session 00A]]|[[Session Notes/Session 01\|Session 01]] |
-> |Origins|\- |
+> |[[Session Notes/Session 00A\|Session 00A]]|[[Session Notes/Session 00C\|Session 00C]] |
+> |A Century Emerges|Training Sim|
 >
 >## Present
->> [!cards|3 collapse]
+>> [!cards|4 collapse]
 >> 
 >> ![Admin/Attachments/Auggie_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Auggie_Zoom.webp)
 >>  **[[Player Characters/August Grier\|Auggie]]**
@@ -25,67 +24,205 @@
 >> ![Admin/Attachments/Lane_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Lane_Zoom.webp)
 >> **[[Player Characters/Lane Gable\|Lane]]**
 >> 
+>> ![Admin/Attachments/Mena_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Mena_Zoom.webp)
+>> **[[Player Characters/Menodora Thaliana\|Mena]]**
+>> 
 >> ![Admin/Attachments/Verg_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Verg_Zoom.webp)
 >> **[[Player Characters/Vergen Koni\|Verg]]**
->> 
->----
 >
+>----
+> 
 >## Appearing
 > | NPCs |
 >| ---- |
 >
 { .block-language-dataview}
 > 
->  | Mobile Suits                                                                    |
-> | ------------------------------------------------------------------------------- |
-> | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]                           |
-> | [[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]                     |
-> | [[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]                 |
-> | [[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]                   |
-> | [[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]] |
+>  | Mobile Suits                                                    |
+> | --------------------------------------------------------------- |
+> | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]           |
+> | [[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]     |
+> | [[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]] |
+> | [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]               |
 > 
 { .block-language-dataview}
 > 
->  | Locations                                 |
-> | ----------------------------------------- |
-> | [[Database/Things/Fishbone\|Fishbone]] |
+>  | Locations                                        |
+> | ------------------------------------------------ |
+> | [[Database/Things/Charun\|Charun]]            |
+> | [[Database/Places/Mars\|Mars]]                |
+> | [[Database/Places/Earth\|Luna]]               |
+> | [[Database/Places/Colonies/Theseus\|Theseus]] |
+> | [[Database/Places/Colonies/Arjuna\|Arjuna]]   |
 > 
 { .block-language-dataview}
 
-# Session 00B \- Training Sim
+# Session 00B \- Origins
 
-*Second Wing hits the combat sim during downtime between operations.*
+*Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.*
 
-# Basic Training
-- The core mechanic 
-	- DON'T: Lead with the mechanical identifier
-	- DO: Describe what you're actually doing in a way that, hopefully, makes the mechanics obvious. You can negotiate and change your narration; GM has the final say.
-- Group actions
-- Invokes: NARRATE THE RELEVANCE
+# The Opening Crawl
+"Before we start, I would just like to impress on everyone how _absolutely fucked_ the situation you've all lived through is. The Moondrop and [[Database/History/The Ground War\|the Ground War]] are without question or exaggeration the worst things that have ever happened, and I can prove it with four words:  
 
-See [[Rules/1 Core Rules\|1 Core Rules]] and, **seriously read this in full if you haven't already,** [[Rules/4 Challenges, Conflicts, & Contests#Conflicts\|4 Challenges, Conflicts, & Contests#Conflicts]]. 
+The dinosaurs didn't understand.  
 
-## Zones 
-- Zones = vibes and back-of-the-napkin mouse-art minimum-LOD sketch.
-- Unless there's a reason it wouldn't be, moving one zone is free as part of your turn. If obstructed, may need Overcome, but still lets you act. Moving multiple is the turn and requires Overcome vs. number of zones crossed.
-- Anything in your zone is melee-able.
-- Anything in a zone next to you is shootable by default, unless obstructed (e.g. there's a solid wall; you can stand in the door of the Kitchen zone and shoot bad guys in the Back Alley zone).
-    - Aspects (e.g. sniper rifle, artillery w/ forward target-painting pointman) can grant permission to loosen or ignore this as appropriate
+They couldn't understand that the light blazing across the sky would kill them, kill everything they had ever known, kill the whole world that had brought them into being. They couldn't understand that one day the sun would go down and never come up, that if they didn't starve they would freeze and if they didn't freeze they would *choke*.  
 
-# Conflict
-- IMPORTANT: Conflict does not mean "we have now entered combat mode," it means "too much is happening at once for normal procedures to keep track of, and part of that includes conflicting objectives." With one exception (group actions), anything you can do outside a conflict can be done in one, and vice versa.
+And they couldn't have their last embers of hope fanned, strengthened, and then snuffed out again.  
 
-## Round 1: Grey Box
-- 1 zone, 4 badly-animated Hoplites, no fate points, no stunts
+They couldn't spend the hours before the impact making peace with the end. They couldn't have worked until the final moments trying to preserve something that civilization needed more than their own lives. They couldn't mourn their degradation in the years after the blast. They couldn't choose survival over society, and couldn't grieve the knowledge that so many others were making the same choice. They couldn't give up everything they had to reach promised salvation, only to watch from the other side of a fence as the last ship off the planet left without them.  
 
-## Round 2: Colony Defense
-- 5 zones (3-lane map with asteroids), 2x Hoplite, 1x Hoplite Sniper, 1x Hoplite Striker, stunts but no fate points
+And, had they escaped, they couldn't have understood that the nightmare was only beginning.  
+
+Three. Years.  
+
+Three years of madness. Three years of hellish total war over the wreckage of humanity's cradle. Three years of fighting and killing and dying, on foot and in tanks and in airplanes and spaceships and mobile suits. Three years of knowing that there were no truly pointless battles, for even if not one of you survived, that too was a victory, because it meant fewer mouths to feed.  
+
+Three years of running. Three years of rationing. Three years of starving and sacrifice. Three years of watching the person next to you die and being thankful for the chance to have some of their share. Three years of living in the worst conditions imaginable and knowing you were luckier than most. Three years of being turned away again and again and again, not knowing whether they couldn't take you in or simply wouldn't, or knowing for sure, and not knowing if knowing was worse.  
+
+Three years of panic, terror, and existential dread. Three years of wondering if you'd be the next one someone decided to try to take the chance at survival from by force or guile or treachery. Three years of waiting for the day your home became the next battleground in the brutal fighting over the scraps you clung to. Three years of having to look the desperate and the innocent in the eye and tell them no, I'm sorry, we simply have nothing left to give, and if we took you in we would only starve together.  
+
+Three years of looking across from you, wherever and whoever you were, and asking if you'd do the same in their shoes and having no answer.  
+
+Lifetimes of horror. Lifetimes of guilt. Lifetimes of memory.  
+
+The war touched _everyone_, without exception. It made the world you live in today, and everyone in it.  
+
+And now, eleven years since the guns fell silent and the treaties were signed, [[Database/Factions/Apsis\|the organization ]] that stopped the bleeding is inflicting starvation and death once again. On purpose. Because they refuse to accept the possibility of a future without themselves at its helm.  
+
+And so it is that in the year 0092 of the Emergent Century, the system is once again at war. You stand proudly among those fighting back. You may not agree at all on the future, but you're united in looking at the present and saying "no."  
+
+You are good at what you do. Some day, you may be great. This war will forge you, or it will shatter you, but until it does, you've got work to do. So get in the cockpit, pilots. The [[Database/Factions/Rebels\|rebellion]] calls.  
+
+Let's find out who answers.  
+
+**Welcome to Mobile Suit Gundam: Zero Sum.**"
+
+# Meet The Cast
+## [[Player Characters/Menodora Thaliana\|Menodora Thaliana]]
+### Hive-Linked Lunarian Refugee
+
+Origin: [[Database/Places/Earth\|Luna]] / displaced migrant odd jobs
+
+Faction: [[Database/Factions/Mindful Eyes\|Mindful Eyes]]
+
+### Never Put Down Roots
+
+### Phase One: Inciting Incident
+
+  
+
+Got involved in mobile suit [[gladiator\|gladiator]] fighting with [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]] With word of the rebellion decided to join up because maybe it would help her find out who was responsible for the Moondrop.
+
+#### Phase One Aspect: It’s good to be underestimated
+
+### Phase Two: Crossing Paths
+
+[[Player Characters/Vergen Koni\|Vergen Koni]] had pinged a connection with [[Database/History/The Hive Mind\|The Hive Mind]] from Menodora. Finding another Hive-Linked individual, He and her seem to be Kindred spirits.
+
+#### Phase Two Aspect: I’ve got allies in strange places
+
+### Phase Three: Crossing Paths
+
+[[Player Characters/August Grier\|August Grier]] found his way to the [[fighting pits\|fighting pits]], not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.
+
+#### Phase Three Aspect: “There’s no such thing as a ‘Hard No’”
+
+  
+## [[Player Characters/Vergen Koni\|Vergen Koni]]
+
+### Mind’s Eye Protector
+
+Origin: [[Database/Places/Colonies/Theseus\|Theseus]] Colony
+
+Faction: [[Database/Factions/Mindful Eyes\|Mindful Eyes]]
+
+### Subtle Paranoia
+
+### Phase One: Inciting Incident
+
+An [[Database/Factions/Apsis\|Apsis]] cargo of goods being quickly intercepted by one suit successfully outside of colony control
+
+#### Phase One Aspect: Speed Is Key.
+
+### Phase Two: Crossing Paths
+
+[[Database/Factions/Mindful Eyes\|Mindful Eyes]] and [[Database/Factions/Rebels\|Rebels]] forces ran into each other and found themselves in a tense standoff. [[Player Characters/Vergen Koni\|Verg]] and [[Player Characters/August Grier\|Auggie]] faced off on opposite sides of the firing line.
+
+#### Phase Two Aspect: Respect the Fight.
+
+### Phase Three: Crossing Paths
+
+During the standoff with Mindful Eyes and Rebellion, [[Player Characters/Lane Gable\|Lane Gable]] recognized [[Database/Mobile Suits/Hoplite Custom\|Verg's suit]] and managed to talk them down from the standoff, and convince them of cooperation.
+
+#### Phase Three Aspect: We aren’t alone here.
+
+## [[Player Characters/August Grier\|August Grier]]
+### No-Longer-A-Child Soldier 
+
+Origin: [[Database/Places/Mars\|Mars]] > Kidnapped
+
+Faction: [[Database/Places/Colonies/Theseus\|Theseus]] / Independent 
+
+### “My Life Is Expendable”
+
+### Phase One: Inciting Incident
+
+Shot down during combat against Rebel forces. Captured, then turned to the resistance- at first forcefully, then willingly. 
+
+#### Phase One Aspect: Downed but not out
+
+### Phase Two: Crossing Paths
+
+[[Player Characters/Lane Gable\|Lane Gable]] encountered August during combat. Lane was the resistance member that shot down August and decided to take him into the resistance.
+
+#### Phase Two Aspect: Front towards enemy.
+
+  
+
+### Phase Three: Crossing Paths
+
+[[Player Characters/Menodora Thaliana\|Menodora Thaliana]] was interested in joining the resistance, and heard August was someone who may have an in. She cannot take no for an answer.
+
+#### Phase Three Aspect: Stubbornness is a virtue
+
+## [[Player Characters/Lane Gable\|Lane Gable]]
+
+### Pirate Turned Freedom Fighter
+
+Origin: [[Database/Places/Earth\|Earth]] > [[Database/Places/Colonies/Arjuna\|Arjuna]] asteroid colony
+
+Faction: [[Database/Factions/Armada Ejecta\|Armada Ejecta]] 
+
+### “If Not Me, Then Nobody”
+
+### Phase One: Inciting Incident
+
+Attempted to pirate a [[Database/Factions/Jovian Consortium\|Jovian Consortium]] supply run, but they had been waiting. Lost the rest of his pirate band but managed to take the supplies.
+
+#### Phase One Aspect: “everyone dies around me”
+
+### Phase Two: Crossing Paths
 
 
+[[Player Characters/Menodora Thaliana\|Menodora Thaliana]] and Lane met at the gladiator pit, and Lane decided to put a bet on her mech, (bad odds) as a lark, only to be impressed by what she pulled off. 
 
-!h!
+#### Phase Two Aspect: “Underdogs can win”
+
+
+### Phase Three: Crossing Paths
+
+What started as a race for goods, quickly became a cooperative hit on another supply run. Where Lanes suit faltered from previous damage, [[Player Characters/Vergen Koni\|Verg]] helped pick up the slack.
+
+#### Phase Three Aspect: “Can solve problems without violence”
 
 # 
-|Previous|Next|
-|:---|---:|
-|[[Session Notes/Session 00A\|Session 00A]] - Origins|[[Session Notes/Session 01\|Session 01]] \- |
+>[!cards|txt-c]
+>**Previous**
+> [[Session Notes/Session 00A\|Session 00A]] \- A Century Emerges
+>
+>**Scenario**
+>[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]
+>
+>**Next**
+>[[Session Notes/Session 00C\|Session 00C]] \- Training Sim

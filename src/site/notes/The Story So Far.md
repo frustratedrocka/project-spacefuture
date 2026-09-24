@@ -12,6 +12,9 @@
 A *very* extended session zero, handling worldbuilding, character creation, and a tutorial for the game's very non-standard [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|initiative]] rules.
 
 ### Impact
+- Luna is dropped onto Earth
+- [[Database/Factions/Apsis\|Apsis]] reallocation cuts food to [[Database/Places/Colonies/Kelly\|Kelly]], [[Database/Places/Colonies/Geb\|Geb]], [[Database/Places/Colonies/Arjuna\|Arjuna]] colonies below starvation levels
+- [[Database/Factions/Rebels\|Rebels]] respond to cuts by escalating to armed revolt
 
 { .block-language-dataview}
 

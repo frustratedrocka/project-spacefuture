@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-23T04:13:51.689-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-01/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-24T09:35:53.991-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null}}
 ---
 
 ## Summary
@@ -31,7 +31,16 @@
 
 
 
+
 # 
-|Previous|Hub|Next|
-|:---|:----:|---:|
-|[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]|[[The Story So Far\|The Story So Far]]|`=link(this.SCEN_Next)`|
+
+>[!cards|collapse 3 text-center]
+>
+>  **Previous** 
+> [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]
+> 
+> **Hub**
+> [[The Story So Far\|The Story So Far]]
+> 
+> **Next**
+> `=link(this.SCEN_Next)`

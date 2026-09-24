@@ -33,7 +33,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Strategic &amp; Skilled Field Commander</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span>Ice In His Veins</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table>
 
 > [!blank|embed] MECH ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Apsis's First Line Of Offense, Enhanced</span></td></tr><tr><td><span>Designed To Punch Down</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span>Apsis's First Line Of Offense, Enhanced</span></td></tr><tr><td><span>Designed To Punch Down</span></td></tr></tbody></table>
 
 > [!blank|embed] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Akoni Bazooka</span></td></tr><tr><td><span>Heat Tanto</span></td></tr></tbody></table>
