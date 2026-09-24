@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-24T11:07:46.738-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"[[Session Notes/World Jam]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-24T14:46:21.697-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"[[Session Notes/World Jam]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -110,8 +110,6 @@ Faction: [[Database/Factions/Mindful Eyes\|Mindful Eyes]]
 
 ### Phase One: Inciting Incident
 
-  
-
 Got involved in mobile suit [[gladiator\|gladiator]] fighting with [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]] With word of the rebellion decided to join up because maybe it would help her find out who was responsible for the Moondrop.
 
 #### Phase One Aspect: It’s good to be underestimated
@@ -128,7 +126,8 @@ Got involved in mobile suit [[gladiator\|gladiator]] fighting with [[Database/Mo
 
 #### Phase Three Aspect: “There’s no such thing as a ‘Hard No’”
 
-  
+---
+
 ## [[Player Characters/Vergen Koni\|Vergen Koni]]
 
 ### Mind’s Eye Protector
@@ -157,6 +156,8 @@ During the standoff with Mindful Eyes and Rebellion, [[Player Characters/Lane Ga
 
 #### Phase Three Aspect: We aren’t alone here.
 
+---
+
 ## [[Player Characters/August Grier\|August Grier]]
 ### No-Longer-A-Child Soldier 
 
@@ -178,13 +179,13 @@ Shot down during combat against Rebel forces. Captured, then turned to the resis
 
 #### Phase Two Aspect: Front towards enemy.
 
-  
-
 ### Phase Three: Crossing Paths
 
 [[Player Characters/Menodora Thaliana\|Menodora Thaliana]] was interested in joining the resistance, and heard August was someone who may have an in. She cannot take no for an answer.
 
 #### Phase Three Aspect: Stubbornness is a virtue
+
+---
 
 ## [[Player Characters/Lane Gable\|Lane Gable]]
 
