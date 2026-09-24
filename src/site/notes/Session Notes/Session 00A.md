@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-24T10:59:01.657-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00C]]","SESH_Prev":"[[Session Notes/Session 00A]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":2,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-24T11:07:46.738-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"[[Session Notes/World Jam]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -8,11 +8,11 @@
 > 
 >|Scenario|Part|Date|
 >|---|:---:|---:|
->|[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]|2| 9-01-26 |
+>|[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]|1| 9-01-26 |
 >
 > |Previous|Next|
 > |:---|---:|
-> |[[Session Notes/Session 00A\|Session 00A]]|[[Session Notes/Session 00C\|Session 00C]] |
+> |[[Session Notes/World Jam\|World Jam]]|[[Session Notes/Session 00B\|Session 00B]] |
 > |A Century Emerges|Training Sim|
 >
 >## Present
@@ -57,7 +57,7 @@
 > 
 { .block-language-dataview}
 
-# Session 00B \- Origins
+# Session 00A \- Origins
 
 *Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.*
 
@@ -219,10 +219,10 @@ What started as a race for goods, quickly became a cooperative hit on another su
 # 
 >[!cards|txt-c]
 >**Previous**
-> [[Session Notes/Session 00A\|Session 00A]] \- A Century Emerges
+> [[Session Notes/World Jam\|World Jam]] \- A Century Emerges
 >
 >**Scenario**
 >[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]
 >
 >**Next**
->[[Session Notes/Session 00C\|Session 00C]] \- Training Sim
+>[[Session Notes/Session 00B\|Session 00B]] \- Training Sim

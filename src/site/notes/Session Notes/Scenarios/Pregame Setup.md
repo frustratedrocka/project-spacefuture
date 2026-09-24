@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-24T09:36:17.296-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-24T11:08:41.615-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
 ---
 
 ## Summary
@@ -14,7 +14,7 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 ## Sessions
 > [!blank|embed] SESSION AGGREGATOR
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Name</span></th><th class="table-view-th"><span>Logline</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A.md" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a></span></td><td><span>-</span></td><td><span>An impromptu worldbuilding session before character creation</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00B.md" data-href="Session Notes/Session 00B.md" href="Session Notes/Session 00B.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00B</a></span></td><td><span>-</span></td><td><span>Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00C.md" data-href="Session Notes/Session 00C.md" href="Session Notes/Session 00C.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00C</a></span></td><td><span>-</span></td><td><span>Second Wing hits the combat sim during downtime between operations.</span></td></tr></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Name</span></th><th class="table-view-th"><span>Logline</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/World Jam.md" data-href="Session Notes/World Jam.md" href="Session Notes/World Jam.md" class="internal-link" target="_blank" rel="noopener nofollow">World Jam</a></span></td><td><span>-</span></td><td><span>An impromptu worldbuilding session before character creation</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A.md" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a></span></td><td><span>-</span></td><td><span>Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00B.md" data-href="Session Notes/Session 00B.md" href="Session Notes/Session 00B.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00B</a></span></td><td><span>-</span></td><td><span>Second Wing hits the combat sim during downtime between operations.</span></td></tr></tbody></table>
 
 ## NPCs
 > [!cards|dataview collapse 4 img-tiny] NPCS
@@ -42,7 +42,7 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 >[!cards|collapse 3 text-center]
 >
 >  **Previous** 
-> [[None\|None]]
+> None
 > 
 > **Hub**
 > [[The Story So Far\|The Story So Far]]
