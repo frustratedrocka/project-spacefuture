@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/lift-grip/","tags":[null],"noteIcon":"","updated":"2026-09-19T12:59:53.562-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/glossary/lift-grip/","tags":[null],"noteIcon":"","updated":"2026-09-24T17:55:54.684-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
-Standard equipment for anyone and everyone on a [[Database/Glossary/Ship\|Ship]], military or civilian. Hallways include a pair of linear rails on all walls / floors / ceilings (lower -right wall is always forward, upper-right is always backwards, so you can easily figure out which rail goes which way relative to whichever "up" currently applies to you while floating).  
+Standard equipment for anyone and everyone on a [[Database/Glossary/Ship\|Ship]], military or civilian. Hallways are rotationally symmetrical and include a pair of linear rails on all walls / floors / ceilings. Lower-right wall is always forward, upper-right is always backwards, so you can easily figure out which rail goes which way relative to whichever "up" currently applies to you while floating.  
 
 Squeeze handle to brake, squeeze + thumb button to insert or remove the grip from the rail.
 
