@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-25T10:18:47.064-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/AI_Vantrin_2_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[null,null,null],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Cleverly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Quickly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"],"aliases":["Vantrin"]}}
+{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-09-27T15:29:09.200-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[null,null,null],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Cleverly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Quickly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"],"aliases":["Vantrin"]}}
 ---
 
 > [!infobox|embed left wsmall]
 > # Vantrin Almeyer
-> ![Admin/Attachments/AI_Vantrin_2_SQ.webp\|AI_Vantrin_2_SQ.webp](/img/user/Admin/Attachments/AI_Vantrin_2_SQ.webp)
+> ![Admin/Attachments/Sven_SQ.webp\|Sven_SQ.webp](/img/user/Admin/Attachments/Sven_SQ.webp)
 > 
 > |  |  |
 > |--|--|
