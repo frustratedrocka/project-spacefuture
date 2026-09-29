@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/arjuna/","tags":["location"],"noteIcon":"","updated":"2026-09-19T20:02:52.486-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Republic Of Mars|ROM]]",null],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/arjuna/","tags":["location"],"noteIcon":"","updated":"2026-09-29T14:16:13.126-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Republic Of Mars|ROM]]",null],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 > [!INFOBOX|ws-med embed] Arjuna
