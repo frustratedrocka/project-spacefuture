@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T14:16:13.309-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"[[Session Notes/World Jam]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Hoplite Custom]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T21:16:34.262-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"[[Session Notes/World Jam]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/Cossack]]"]}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -40,8 +40,8 @@
 > 
 >  | Mobile Suits                                                    |
 > | --------------------------------------------------------------- |
-> | [[Database/Mobile Suits/Elegant Sky\|Elegant Sky]]           |
-> | [[Database/Mobile Suits/Hoplite Custom\|Hoplite Custom]]     |
+> | [[Database/Mobile Suits/Cossack\|Cossack]]                   |
+> | [[Database/Mobile Suits/ES01 Elegant Sky\|ES01 Elegant Sky]] |
 > | [[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]] |
 > | [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]               |
 > 
@@ -152,7 +152,7 @@ An [[Database/Factions/Apsis\|Apsis]] cargo of goods being quickly intercepted b
 
 ### Phase Three: Crossing Paths
 
-During the standoff with Mindful Eyes and Rebellion, [[Player Characters/Lane Gable\|Lane Gable]] recognized [[Database/Mobile Suits/Hoplite Custom\|Verg's suit]] and managed to talk them down from the standoff, and convince them of cooperation.
+During the standoff with Mindful Eyes and Rebellion, [[Player Characters/Lane Gable\|Lane Gable]] recognized [[Database/Mobile Suits/Cossack\|Verg's suit]] and managed to talk them down from the standoff, and convince them of cooperation.
 
 #### Phase Three Aspect: We aren’t alone here.
 
