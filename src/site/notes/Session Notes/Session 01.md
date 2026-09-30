@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T23:27:52.326-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Session Notes/Howe Nebreka]]","[[Session Notes/Scenarios/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/HM14 Gundam Makhairos]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team, in an impossible shot that could only have happened with help from a traitor ::: 0092-09-29","XO [[Artel Ward]] brevets new command: Captain [[Gen Bashaba]], Chief Engineer [[Graciela Tor]], Helmsman [[Howe Nebreka]], Chief Comms Officcer [[Delbrau Enger]]; others you don't already personally know ::: 0092-09-29","Rebel ace pilot [[Anatol Garza]] in critical condition; [[HM14 Gundam Makhairos]] destroyed ::: 0092-09-29"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2",null]}}
+{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-30T01:45:55.933-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Session Notes/Howe Nebreka]]","[[Session Notes/Scenarios/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/HM14 Gundam Makhairos]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team, in an impossible shot that could only have happened with help from a traitor ::: 0092-09-29","XO [[Artel Ward]] brevets new command: Captain [[Gen Bashaba]], Chief Engineer [[Graciela Tor]], Helmsman [[Howe Nebreka]], Chief Comms Officcer [[Delbrau Enger]]; others you don't already personally know ::: 0092-09-29","Rebel ace pilot [[Anatol Garza]] in critical condition; [[HM14 Gundam Makhairos]] destroyed ::: 0092-09-29"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2",null]}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -67,6 +67,21 @@
 # Session 01 \- And So It Begins
 
 *[[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] launches a surprise attack on the [[Database/Things/Fishbone\|Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.*
+
+
+
+> [!cite|bg-c-purple]+ Preamble
+> It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]]. 
+> 
+> Nearly a hundred years ago, mankind extended its reach beyond the solar system's [[Inner Rings\|Inner Rings]]. Humanity began to spread into space in earnest, terraforming [[Database/Places/Mars\|Mars]], building industry around the moons of [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], and filling [[Database/Glossary/The Belt\|The Belt]] with enormous rotating colonies. Here in space, people are born and raised. And die.
+> 
+> Twenty years ago, [[Database/History/The Hive Mind\|The Hive Mind]] began to coalesce, and the question of what to do with this new potential threatened to rip the solar system apart. Fourteen years ago, that question fell off humanity's priority list when the Moon fell from orbit and killed the [[Database/Places/Earth\|Earth]]. Eleven years ago, the cataclysmic war over the resources remaining in its corpse finally stopped. 
+> 
+> Eight months ago, Apsis, the administrator of the solar system's food logistics, cut its caloric allocation to three colonies below starvation levels in response to escalating protests and demonstrations. Seven months ago, the armed rebellion began. 
+> 
+> **YOU** are rebel pilots, currently serving aboard a Guernica-class destroyer semi-affectionately nicknamed "The [[Database/Things/Fishbone\|Fishbone]]." It's small, tough to get rid of, and once it gets stuck in it can absolutely ruin someone's day. You are **Second Wing**, assigned to support First Wing's proven aces. This voyage has seen two successful convoy raids, but also gained the attention of the [[Database/Factions/Apsis\|Apsis]] pursuit cruiser [[Database/Things/Brynhildr\|Brynhildr]], which has spent the last few weeks glued to your stern. You've managed to stay ahead of the Brynhildr so far, so pending new orders, you're now engaged in everyone's favorite military pastime: "hurry up and wait."
+
+
 
 # Notes
 
@@ -250,7 +265,6 @@ Above-Board, the blackbox tech that makes mobile suits make sense in Gundam is t
 Cloaking does not exist, at least nowhere near that good.
 
 Which means there is only one explanation Ward can give us. “We have a traitor.”
-
 
 
 
