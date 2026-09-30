@@ -32,14 +32,15 @@
 ## Mobile Suits
 
 >[!cards|dataview collapse 6 img-tiny] MECHS
->  | Portrait                                                    | Mobile Suit                                                                     |
-> | ----------------------------------------------------------- | ------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ES01 Elegant Sky\|ES01 Elegant Sky]]**             |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker]]**                 |
-> | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)          | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                           |
-> | ![Admin/Attachments/Akoni_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni_SQ.webp)            | **[[Database/Mobile Suits/SE-832 Akoni\|Akoni]]**                            |
-> | ![Admin/Attachments/Akoni-E_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni-E_SQ.webp)          | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|Akoni-E]]**           |
-> | ![Admin/Attachments/HopliteCustom_SQ.webp\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)    | **[[Database/Mobile Suits/UTF08-C Hoplite Custom\|UTF08-C Hoplite Custom]]** |
+>  | Portrait                                                    | Mobile Suit                                                                               |
+> | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ES01 Elegant Sky\|ES01 Elegant Sky]]**                       |
+> | ![Admin/Attachments/GM-II-AEUG_SQ.webp\|sban cover](/img/user/Admin/Attachments/GM-II-AEUG_SQ.webp)       | **[[Database/Mobile Suits/HM14 Gundam Makhairos\|HM14 Gundam Makhairos]]**             |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]**                       |
+> | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)          | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                                     |
+> | ![Admin/Attachments/Akoni_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni_SQ.webp)            | **[[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]**                               |
+> | ![Admin/Attachments/Akoni-E_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni-E_SQ.webp)          | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]** |
+> | ![Admin/Attachments/HopliteCustom_SQ.webp\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)    | **[[Database/Mobile Suits/UTF08-C Hoplite Custom\|UTF08-C Hoplite Custom]]**           |
 > 
 { .block-language-dataview}
 
