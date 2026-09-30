@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T22:34:36.065-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Mission 01]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Session Notes/Howe Nebreka]]","[[Session Notes/Scenarios/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type|Akoni-E]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC|Hyper Seeker]]","[[Database/Mobile Suits/Kerbstomp]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team ::: 0092-09-29","[[Artel Ward]] brevets new command: Captain [[Gen Bashaba]] ::: 0092-09-29","[[Anatol Garza]] in critical condition ::: 0092-09-29"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2",null]}}
+{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T22:43:04.547-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Session Notes/Howe Nebreka]]","[[Session Notes/Scenarios/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type|Akoni-E]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC|Hyper Seeker]]","[[Database/Mobile Suits/Kerbstomp]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team ::: 0092-09-29","[[Artel Ward]] brevets new command: Captain [[Gen Bashaba]] ::: 0092-09-29","[[Anatol Garza]] in critical condition ::: 0092-09-29"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2",null]}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -8,7 +8,7 @@
 >
 >|Scenario|Part|Date|
 >|---|:---:|---:|
->|[[Session Notes/Scenarios/Mission 01\|Mission 01]]|1| 9-29-26 |
+>|[[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]]|1| 9-29-26 |
 >
 > |Previous|Next|
 > |:---|---:|
@@ -261,7 +261,7 @@ Which means there is only one explanation Ward can give us. “We have a traitor
 >[[Session Notes/Session 00B\|Session 00B]] \- Training Sim
 >
 >**Scenario**
->[[Session Notes/Scenarios/Mission 01\|Mission 01]]
+>[[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]]
 >
 >**Next**
 >[[Session Notes/Session 02\|Session 02]] \- 

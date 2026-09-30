@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-24T14:24:32.029-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Mission 01]]"}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T22:43:04.532-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Rats In The Cellar]]"}}
 ---
 
 ## Summary
@@ -56,4 +56,4 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 > [[The Story So Far\|The Story So Far]]
 > 
 > **Next**
-> [[Session Notes/Scenarios/Mission 01\|Mission 01]]
+> [[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]]

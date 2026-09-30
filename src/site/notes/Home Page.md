@@ -3,7 +3,7 @@
 ---
 
 # Next Session
-**[[Session Notes/Session 01\|Session 01]]** - [[Session Notes/Scenarios/Mission 01\|Mission 01]] Part 1 - Sep 29, 2026
+**[[Session Notes/Session 01\|Session 01]]** - [[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]] Part 1 - Sep 29, 2026
 
 ## Where Are You
 Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], serving as Second Wing. 
