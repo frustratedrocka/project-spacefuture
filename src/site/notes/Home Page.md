@@ -1,22 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T14:16:13.245-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 01]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T23:30:53.689-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 02]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
-**[[Session Notes/Session 01\|Session 01]]** - [[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]] Part 1 - Sep 29, 2026
+**[[Session Notes/Session 02\|Session 02]]** - [[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]] Part 2 - Oct 13, 2026
 
 ## Where Are You
-Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], serving as Second Wing. 
+Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], now promoted to First (and only) Wing through process of elimination. 
 
 **[[Database/Things/Fishbone\|Fishbone]]** - Rebel Destroyer, Closest Thing To Home. Control: [[Database/Factions/Rebels\|Rebels]], Courtesy Of the Consortium
 
 ## What Are You Doing
-Something every soldier's familiar with: "Hurry up and wait." Trying to stay ahead of the pursuing [[Database/Things/Brynhildr\|Brynhildr]] while awaiting new orders from [[Command\|Command]]
+Hunting down the traitor who enabled [[Database/People/Vantrin Almeyer\|Vantrin]]'s team to get inside sensor range undetected and take out the [[Database/Things/Fishbone\|Fishbone]]'s brdige
 
 # Previously On Zero Sum
-- Luna is dropped onto Earth
-- [[Database/Factions/Apsis\|Apsis]] reallocation cuts food to [[Database/Places/Colonies/Kelly\|Kelly]], [[Database/Places/Colonies/Geb\|Geb]], [[Database/Places/Colonies/Arjuna\|Arjuna]] colonies below starvation levels
-- [[Database/Factions/Rebels\|Rebels]] respond to cuts by escalating to armed revolt
+- Original command staff and first wing of the [[Database/Things/Fishbone\|Fishbone]] KIA by [[Database/People/Vantrin Almeyer\|Vantrin]] and the [[Database/Things/Brynhildr\|Brynhildr]] team, in an impossible shot that could only have happened with help from a traitor
+- XO [[Database/People/Artel Ward\|Artel Ward]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]], Chief Engineer [[Session Notes/Scenarios/Graciela Tor\|Graciela Tor]], Helmsman [[Session Notes/Howe Nebreka\|Howe Nebreka]], Chief Comms Officcer [[Database/People/Delbrau Enger\|Delbrau Enger]]; others you don't already personally know
+- Rebel ace pilot [[Database/People/Anatol Garza\|Anatol Garza]] in critical condition; [[Database/Mobile Suits/HM14 Gundam Makhairos\|HM14 Gundam Makhairos]] destroyed
 
 { .block-language-dataview}
 
