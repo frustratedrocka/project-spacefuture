@@ -23,7 +23,7 @@
 > |6 Svr|Severe|
 
 > [!infobox|right wsmall embed]
-> # Hoplite Custom
+> # Cossack
 > ![Admin/Attachments/HopliteCustom_SQ.webp\|HopliteCustom_SQ.webp](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)
 > 
 > |  |  |
