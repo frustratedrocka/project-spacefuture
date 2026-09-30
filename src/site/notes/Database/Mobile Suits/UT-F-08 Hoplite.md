@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ut-f-08-hoplite/","tags":["Mech"],"noteIcon":"","updated":"2026-09-29T21:14:21.324-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"UT-F-08 Hoplite","MECH_Model":"[[Database/Mobile Suits/UT-F-08 Hoplite]]","Portrait":"[[Admin/Attachments/Hoplite_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Iconic Line Mech","MECH_Trouble":"Yesterday's News","MECH_Relationship":null,"MECH_Gear":["Machine Gun","Missile Launcher","Heat Hawk"],"MECH_Stunts":["**DUCT TAPE AND PRAYERS** You may Tinker to treat and rename a Hoplite's Breakdown using the normal rules for clearing consequences.","**HAMMER AND ANVIL** +1 when you Shoot Carefully to attack a target already engaged in combat with an ally."],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Jovian Consortium]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Independent]]"],"Variants":["[[Database/Mobile Suits/Cossack]]","[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ut-f-08-hoplite/","tags":["Mech"],"noteIcon":"","updated":"2026-09-29T21:16:54.030-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"UT-F-08 Hoplite","MECH_Model":"[[Database/Mobile Suits/UT-F-08 Hoplite]]","Portrait":"[[Admin/Attachments/Hoplite_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Iconic Line Mech","MECH_Trouble":"Yesterday's News","MECH_Relationship":null,"MECH_Gear":["Machine Gun","Missile Launcher","Heat Hawk"],"MECH_Stunts":["**DUCT TAPE AND PRAYERS** You may Tinker to treat and rename a Hoplite's Breakdown using the normal rules for clearing consequences.","**HAMMER AND ANVIL** +1 when you Shoot Carefully to attack a target already engaged in combat with an ally."],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Jovian Consortium]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Independent]]"],"Variants":["[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]"]}}
 ---
 
 
@@ -11,7 +11,7 @@
 > |--|--|
 > |**FACTION**| [[United Terran Sphere Navy\|United Terran Sphere Navy]]<br>[[Database/Factions/Jovian Consortium\|Jovian Consortium]]<br>[[Database/Factions/Armada Ejecta\|Armada Ejecta]]<br>[[Database/Factions/Independent\|Independent]]|
 > |**KNOWN PILOTS**|\-|
-> |**VARIANTS**|[[Database/Mobile Suits/Cossack\|Cossack]]<br>[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]|
+> |**VARIANTS**|[[Database/Mobile Suits/UTF08-C Hoplite Custom\|UTF08-C Hoplite Custom]]<br>[[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]]|
 > |**ARMOR**|`REDACTED`|
 > 
 > 

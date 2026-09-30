@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T21:16:34.271-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","SESH_Next":"[[Session Notes/Session 01]]","SESH_Prev":"[[Session Notes/Session 00A]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":2,"Logline":"Second Wing hits the combat sim during downtime between operations.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Vergen Koni]]"],"NPCs":[null],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Cossack]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UT-F-08 Hoplite]]","[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]"],"Impact":[null],"Changelog":["[[Lane Gable]] ::: **RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2. ::: **LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke.","[[Elegant Sky]] ::: **FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you. ::: **COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile."]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T21:16:54.269-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","SESH_Next":"[[Session Notes/Session 01]]","SESH_Prev":"[[Session Notes/Session 00A]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":2,"Logline":"Second Wing hits the combat sim during downtime between operations.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Vergen Koni]]"],"NPCs":[null],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UT-F-08 Hoplite]]","[[Database/Mobile Suits/UT-F-08S Hoplite Striker]]"],"Impact":[null],"Changelog":["[[Lane Gable]] ::: **RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2. ::: **LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke.","[[Elegant Sky]] ::: **FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you. ::: **COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile."]}}
 ---
 
 
@@ -14,7 +14,7 @@
 > |Previous|Next|
 > |:---|---:|
 > |[[Session Notes/Session 00A\|Session 00A]]|[[Session Notes/Session 01\|Session 01]] |
-> |Origins|\- |
+> |Origins|And So It Begins|
 >
 >## Present
 >> [!cards|3 collapse]
@@ -38,11 +38,11 @@
 > 
 >  | Mobile Suits                                                                    |
 > | ------------------------------------------------------------------------------- |
-> | [[Database/Mobile Suits/Cossack\|Cossack]]                                   |
 > | [[Database/Mobile Suits/ES01 Elegant Sky\|ES01 Elegant Sky]]                 |
 > | [[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]                 |
 > | [[Database/Mobile Suits/UT-F-08 Hoplite\|UT-F-08 Hoplite]]                   |
 > | [[Database/Mobile Suits/UT-F-08S Hoplite Striker\|UT-F-08S Hoplite Striker]] |
+> | [[Database/Mobile Suits/UTF08-C Hoplite Custom\|UTF08-C Hoplite Custom]]     |
 > 
 { .block-language-dataview}
 > 
@@ -93,4 +93,4 @@ See [[Rules/1 Core Rules\|1 Core Rules]] and, **seriously read this in full if y
 >[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]
 >
 >**Next**
->[[Session Notes/Session 01\|Session 01]] \- 
+>[[Session Notes/Session 01\|Session 01]] \- And So It Begins
