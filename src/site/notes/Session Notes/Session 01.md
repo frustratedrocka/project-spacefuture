@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-30T01:51:55.159-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Session Notes/Howe Nebreka]]","[[Session Notes/Scenarios/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/HM14 Gundam Makhairos]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team, in an impossible shot that could only have happened with help from a traitor ::: 0092-09-29","XO [[Artel Ward]] brevets new command: Captain [[Gen Bashaba]], Chief Engineer [[Graciela Tor]], Helmsman [[Howe Nebreka]], Chief Comms Officcer [[Delbrau Enger]]; others you don't already personally know ::: 0092-09-29","Rebel ace pilot [[Anatol Garza]] in critical condition; [[HM14 Gundam Makhairos]] destroyed ::: 0092-09-29"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2",null]}}
+{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-30T09:25:26.682-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Database/People/Howe Nebreka]]","[[Database/People/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/HM14 Gundam Makhairos]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor ::: 0092-09-29","XO [[Artel Ward]] brevets new command: Captain [[Gen Bashaba]], Chief Engineer [[Graciela Tor]], Helmsman [[Howe Nebreka]], Chief Comms Officcer [[Delbrau Enger]]; others you don't already personally know ::: 0092-09-29","Rebel ace pilot [[Anatol Garza]] in critical condition; [[HM14 Gundam Makhairos]] destroyed ::: 0092-09-29"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2",null]}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -34,15 +34,15 @@
 >----
 >
 >## Appearing
-> | NPCs                                                      |
->| --------------------------------------------------------- |
->| [[Database/People/Anatol Garza\|Anatol Garza]]         |
->| [[Database/People/Artel Ward\|Artel Ward]]             |
->| [[Database/People/Delbrau Enger\|Delbrau Enger]]       |
->| [[Database/People/Gen Bashaba\|Gen Bashaba]]           |
->| [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]   |
->| [[Session Notes/Howe Nebreka\|Howe Nebreka]]           |
->| [[Session Notes/Scenarios/Graciela Tor\|Graciela Tor]] |
+> | NPCs                                                    |
+>| ------------------------------------------------------- |
+>| [[Database/People/Anatol Garza\|Anatol Garza]]       |
+>| [[Database/People/Artel Ward\|Artel Ward]]           |
+>| [[Database/People/Delbrau Enger\|Delbrau Enger]]     |
+>| [[Database/People/Gen Bashaba\|Gen Bashaba]]         |
+>| [[Database/People/Graciela Tor\|Graciela Tor]]       |
+>| [[Database/People/Howe Nebreka\|Howe Nebreka]]       |
+>| [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] |
 >
 { .block-language-dataview}
 > 
@@ -246,9 +246,9 @@ Now-Captain Bashaba speaks. “There’s nothing I can say, to make what happene
 
 “New Captain, [[Database/People/Gen Bashaba\|Gen Bashaba]]"
 
-“New helmsman, [[Session Notes/Howe Nebreka\|Howe Nebreka]].”
+“New helmsman, [[Database/People/Howe Nebreka\|Howe Nebreka]].”
 
-“New Chief of Engineering, [[Session Notes/Scenarios/Graciela Tor\|Graciela Tor]].”
+“New Chief of Engineering, [[Database/People/Graciela Tor\|Graciela Tor]].”
 
 "New Comms Officer, [[Database/People/Delbrau Enger\|Delbrau Enger]]"
 

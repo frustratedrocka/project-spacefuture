@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-30T09:19:50.480-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-30T09:24:53.717-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
 ---
 
 ## Summary
 
 ### Impact
-- Original command staff and first wing of the [[Database/Things/Fishbone\|Fishbone]] KIA by [[Database/People/Vantrin Almeyer\|Vantrin]] and the [[Database/Things/Brynhildr\|Brynhildr]] team, in an impossible shot that could only have happened with help from a traitor
-- XO [[Database/People/Artel Ward\|Artel Ward]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]], Chief Engineer [[Session Notes/Scenarios/Graciela Tor\|Graciela Tor]], Helmsman [[Session Notes/Howe Nebreka\|Howe Nebreka]], Chief Comms Officcer [[Database/People/Delbrau Enger\|Delbrau Enger]]; others you don't already personally know
+- Original command staff and first wing of the [[Database/Things/Fishbone\|Fishbone]] KIA by [[Database/People/Vantrin Almeyer\|Vantrin]] and the [[Database/Things/Brynhildr\|Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor
+- XO [[Database/People/Artel Ward\|Artel Ward]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]], Chief Engineer [[Database/People/Graciela Tor\|Graciela Tor]], Helmsman [[Database/People/Howe Nebreka\|Howe Nebreka]], Chief Comms Officcer [[Database/People/Delbrau Enger\|Delbrau Enger]]; others you don't already personally know
 - Rebel ace pilot [[Database/People/Anatol Garza\|Anatol Garza]] in critical condition; [[Database/Mobile Suits/HM14 Gundam Makhairos\|HM14 Gundam Makhairos]] destroyed
 
 { .block-language-dataview}
@@ -22,21 +22,21 @@
 
 ## NPCs
 >[!cards|dataview collapse 4 img-tiny] NPCs
->  | Portrait                                                                              | Character                                                     |
-> | ------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Anatol Garza\|Anatol Garza]]**         |
-> | ![Admin/Attachments/Saul_Tigh.webp\|sban cover](/img/user/Admin/Attachments/Saul_Tigh.webp)                                     | **[[Database/People/Artel Ward\|Artel Ward]]**             |
-> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Delbrau Enger\|Delbrau Enger]]**       |
-> | ![Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp\|sban cover](/img/user/Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp) | **[[Database/People/Gen Bashaba\|Gen Bashaba]]**           |
-> | ![Admin/Attachments/Sven_SQ.webp\|sban cover](/img/user/Admin/Attachments/Sven_SQ.webp)                                       | **[[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]**   |
-> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Session Notes/Howe Nebreka\|Howe Nebreka]]**           |
-> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Session Notes/Scenarios/Graciela Tor\|Graciela Tor]]** |
+>  | Portrait                                                                              | Character                                                   |
+> | ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Anatol Garza\|Anatol Garza]]**       |
+> | ![Admin/Attachments/Saul_Tigh.webp\|sban cover](/img/user/Admin/Attachments/Saul_Tigh.webp)                                     | **[[Database/People/Artel Ward\|Artel Ward]]**           |
+> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Delbrau Enger\|Delbrau Enger]]**     |
+> | ![Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp\|sban cover](/img/user/Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp) | **[[Database/People/Gen Bashaba\|Gen Bashaba]]**         |
+> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Graciela Tor\|Graciela Tor]]**       |
+> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Howe Nebreka\|Howe Nebreka]]**       |
+> | ![Admin/Attachments/Sven_SQ.webp\|sban cover](/img/user/Admin/Attachments/Sven_SQ.webp)                                       | **[[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]** |
 > 
 { .block-language-dataview}
 
 ## Mobile Suits
 
->[!cards|dataview collapse 6 img-tiny] MECHS
+>[!cards|dataview collapse 4 img-tiny] MECHS
 >  | Portrait                                                    | Mobile Suit                                                                               |
 > | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ES01 Elegant Sky\|ES01 Elegant Sky]]**                       |
