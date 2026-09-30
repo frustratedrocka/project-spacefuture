@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["Mech"],"noteIcon":"","updated":"2026-09-29T22:18:31.595-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Kerbstomp","MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Portrait":"[[Admin/Attachments/Theseus_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Once per scenej, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage."],"Known_Users":["[[Player Characters/Menodora Thaliana]]"],"Faction":["[[Database/Factions/Rebels]]"],"Variants":[null],"Base":[null]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["Mech"],"noteIcon":"","updated":"2026-09-29T22:23:09.848-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"Kerbstomp","MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Portrait":"[[Admin/Attachments/Theseus_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Once per scenej, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage."],"Known_Users":["[[Player Characters/Menodora Thaliana]]"],"Faction":["[[Database/Factions/Rebels]]"],"Variants":[null],"Base":[null]}}
 ---
 
 
@@ -24,7 +24,7 @@
 
 >[!blank|wfull]
 # Notes
-Kerbstomp is originally a ground-war era Gundam, recovered and maintained by a street punk with an approx. 5 credit budget. d
+Kerbstomp is originally a ground-war era Gundam, recovered and maintained by a street punk with an approx. 5 credit budget.
 
 `REDACTED`
 
