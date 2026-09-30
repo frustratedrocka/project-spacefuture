@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-30T01:48:38.111-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-30T09:19:50.480-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
 ---
 
 ## Summary
@@ -12,8 +12,7 @@
 { .block-language-dataview}
 
 ## Sessions
-> [!blank|embed] SESSION AGGREGATOR
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Name</span></th><th class="table-view-th"><span>Logline</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01.md" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a></span></td><td><span>-</span></td><td><span><a data-href="Vantrin Almeyer" href="Vantrin Almeyer" class="internal-link" target="_blank" rel="noopener nofollow">Vantrin Almeyer</a> launches a surprise attack on the <a data-href="Fishbone" href="Fishbone" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a>, decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
 
 | Session                                     | Name             | Logline                                                                                                                                                                                          |
 | ------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
