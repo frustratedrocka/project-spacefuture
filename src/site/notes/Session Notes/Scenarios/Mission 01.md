@@ -7,8 +7,8 @@
 
 ### Impact
 - Original command staff and first wing of the [[Database/Things/Fishbone\|Fishbone]] KIA by [[Database/People/Vantrin Almeyer\|Vantrin]] and the [[Database/Things/Brynhildr\|Brynhildr]] team
-- [[The XO\|The XO]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]]
-- [[The Ace\|The Ace]] in critical condition
+- [[Database/People/Artel Ward\|Artel Ward]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]]
+- [[Database/People/Anatol Garza\|Anatol Garza]] in critical condition
 
 { .block-language-dataview}
 
