@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T22:23:28.294-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Mission 01]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Session Notes/Howe Nebreka]]","[[Session Notes/Scenarios/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type|Akoni-E]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC|Hyper Seeker]]","[[Database/Mobile Suits/Kerbstomp]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team ::: 0092-09-29","[[The XO]] brevets new command: Captain [[Gen Bashaba]] ::: 0092-09-29","[[The Ace]] in critical condition ::: 0092-09-29"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2",null]}}
+{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T22:33:38.121-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Mission 01]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Session Notes/Howe Nebreka]]","[[Session Notes/Scenarios/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni|Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type|Akoni-E]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC|Hyper Seeker]]","[[Database/Mobile Suits/Kerbstomp]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team ::: 0092-09-29","[[The XO]] brevets new command: Captain [[Gen Bashaba]] ::: 0092-09-29","[[The Ace]] in critical condition ::: 0092-09-29"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2",null]}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -72,12 +72,12 @@
 
 Year - 0092
 
-The Hivemind began 20 years ago, and made everyone curious as to how it would affect humanity.
-14 years ago, the moon hit the Earth
-11 years ago The War ended
-8 months ago, Apsis cut off the food to three rebel colonies.
+[[Database/History/The Hive Mind\|The Hive Mind]] began 20 years ago, and made everyone curious as to how it would affect humanity.
+14 years ago, the moon hit the [[Database/Places/Earth\|Earth]]
+11 years ago [[Database/History/The Ground War\|The Ground War]] ended
+8 months ago, [[Database/Factions/Apsis\|Apsis]] cut off the food to three rebel colonies.
 
-The Fishbone - Small, tough to get rid of, and once it gets stuck in, impossible to get rid of
+The [[Database/Things/Fishbone\|Fishbone]] - Small, tough to get rid of, and once it gets stuck in, impossible to get rid of
 We are Second Wing, a backup to First Wing. We have already had two successful raids, and are currently trying to outrun the Apsis ship the Brynhildr.
 
 Then - The Bridge Explodes
@@ -90,7 +90,7 @@ Vergen was window-watching admiring the view of space. Being on the even side of
 
 Menodora had her legs hooked up somewhere messing with the code of her Gundam to see if she could improve it
 
-As the ship rocks, our XO Artel Ward gets over the tannoy as the Captain is presumably dead
+As the ship rocks, our XO [[Database/People/Artel Ward\|Artel Ward]] gets over the tannoy as the Captain is presumably dead
 
 “ [List of names, get from Ben] Report to CIC immediately, First and Second Wing, to hangers”
 
@@ -120,7 +120,7 @@ An emergency bulkhead is sealed in front of us so we can’t get through our mai
 
 Menodora goes If you can build it, I can break it. Pointing out she grew up on ships and has a bunch of self-taught engineering and coding skills. While the roll is a success, there is a complication and that complication is a collapsed wall and debris in the hallway.
 
-Delbrow Enner is pinned under debris in front of us. Vergen, recognizing Del, goes to lift the debris off and help. He rolls a success with style. Verden uses his knowledge of leverage to effortlessly move the debris off and pull Del out.
+[[Database/People/Delbrau Enger\|Delbrau Enger]] is pinned under debris in front of us. Vergen, recognizing Del, goes to lift the debris off and help. He rolls a success with style. Verden uses his knowledge of leverage to effortlessly move the debris off and pull Del out.
 
 (Daeon uses the boost to remind Del Don’t just think of us as backups, we’re competent too)
 
@@ -163,7 +163,7 @@ Menodora kisses two fingers of right hand and taps the console before going
 
 Lane does a little meditation to get in pre-flight mode
 
-Hoplite Custom gets on the launcher first, and goes “August Grier - Cossack - Launching” before being shot to space
+[[Database/Mobile Suits/UTF08-C Hoplite Custom\|UTF08-C Hoplite Custom]] gets on the launcher first, and goes “August Grier - Cossack - Launching” before being shot to space
 
 Lane - Elegant Sky - launches next
 
@@ -171,9 +171,9 @@ Vergen - Hyper Seeker - launches
 
 Menodora - Kerbstomp - launches
 
-3 normal Akonis and one command type remain, and only the Gundam Makairos is missing one arm and both legs. Makairos attempts one desperate last move by spinning and launching itself, and while it kills a mech it explodes. The escape pod is damaged so we don’t know if they survived even though they did have a successful separation.
+3 normal [[Database/Mobile Suits/SE-832 Akoni\|Akoni]]s and one command type remain, and only the [[Gundam Makhairos\|Gundam Makhairos]] is missing one arm and both legs. Makairos attempts one desperate last move by spinning and launching itself, and while it kills a mech it explodes. The escape pod is damaged so we don’t know if they survived even though they did have a successful separation.
 
-“This is Lieutenant Commander Vantrin Allmeyer Commander of the Brynhildr, you have the chance to surrender. Stand down and you will be spared.”
+“This is Lieutenant Commander [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] Commander of the [[Database/Things/Brynhildr\|Brynhildr]], you have the chance to surrender. Stand down and you will be spared.”
 
 We all tell him in our own ways that we refuse to surrender.
 
@@ -218,22 +218,23 @@ The fight is over, all grunt Akonis are dead, the fight is over but while that i
 
 Menodora calls Vantrin and goes, “Yeah we can see our ship and so can you, you fuck off and let us fuck off and we’ll leave you alone. Or you’ll wish we’d cored your mech and kill you in the explosion.”
 
-
 Now we’re back to the Fishbone
 
-We manage to find Anatole Darza (Makairos’ pilot) in the escape pod and bring him back, but he’s catatonic as he’s rushed to medbay.
+We manage to find [[Database/People/Anatol Garza\|Anatol Garza]] a (Makairos’ pilot) in the escape pod and bring him back, but he’s catatonic as he’s rushed to medbay.
 
 As the engines of the ship shudder back to life, our XO’s voice comes over the loudspeakers and requests Second Wing to CiC while all other hands are sent to repair stations.
 
-Helmets stay on due to the damage as we make our way to CiC. XO Ward, alongside Jen Bashaba, a competent up and coming young officer, now in Captain’s stripes. The rest of the bridge crew is similar, as XO Ward has needed to brevet an entirely new command staff as most of the old staff was killed when the bridge went up.
+Helmets stay on due to the damage as we make our way to CiC. XO Ward, alongside [[Database/People/Gen Bashaba\|Gen Bashaba]], a competent up and coming young officer, now in Captain’s stripes. The rest of the bridge crew is similar, as XO Ward has needed to brevet an entirely new command staff as most of the old staff was killed when the bridge went up.
 
 Now-Captain Bashaba speaks. “There’s nothing I can say, to make what happened today not a disaster. We were hit out of nowhere, and we were hit hard. We are alive because all of us who are left worked together, trusted each other, picked up the slack supported each other.” She looks at all of us in turn.
 
-“New Captain 
+“New Captain, [[Database/People/Gen Bashaba\|Gen Bashaba]]"
 
-“New helmsman, Hao Nebreka.”
+“New helmsman, [[Session Notes/Howe Nebreka\|Howe Nebreka]].”
 
-“New Chief of Engineering, Gracie-Ella Tour.”
+“New Chief of Engineering, [[Session Notes/Scenarios/Graciela Tor\|Graciela Tor]].”
+
+"New Comms Officer, [[Database/People/Delbrau Enger\|Delbrau Enger]]"
 
 The Captain continues, “We will mourn, and we will endure, and we will win, and we will do it together. I’m counting on you all, dismissed.”
 
@@ -243,7 +244,7 @@ Lane asks for permission to speak after the room is cleared, leaving us with War
 
 Ward “That is the exact question that should be asked. No weapons that needed to held that still to be fired would need to be ship-mounted, not suit mounted.”
 
-Above-Board, the blackbox tech that makes mobile suits make sense in Gundam is the MV Field. It fucks up targeting hence why suits are needed to get in close and strike craft are dominant.
+Above-Board, the blackbox tech that makes mobile suits make sense in Gundam is the [[Database/Glossary/Ship\|MV Field]]. It fucks up targeting hence why suits are needed to get in close and strike craft are dominant.
 
 Cloaking does not exist, at least nowhere near that good.
 
