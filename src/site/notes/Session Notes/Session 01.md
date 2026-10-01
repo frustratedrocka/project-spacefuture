@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-30T09:30:12.939-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Database/People/Howe Nebreka]]","[[Database/People/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/HM14 Gundam Makhairos]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor ::: 0092-09-29","XO [[Artel Ward]] brevets new command: Captain [[Gen Bashaba]], Chief Engineer [[Graciela Tor]], Helmsman [[Howe Nebreka]], Chief Comms Officcer [[Delbrau Enger]]; others you don't already personally know ::: 0092-09-29","Rebel ace pilot [[Anatol Garza]] in critical condition; [[HM14 Gundam Makhairos]] destroyed ::: 0092-09-29"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2",null]}}
+{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-30T23:34:10.490-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Database/People/Howe Nebreka]]","[[Database/People/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/HM14 Gundam Makhairos]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor ::: 0092-09-29","XO [[Artel Ward]] brevets new command: Captain [[Gen Bashaba]], Chief Engineer [[Graciela Tor]], Helmsman [[Howe Nebreka]], Chief Comms Officcer [[Delbrau Enger]]; others you don't already personally know ::: 0092-09-29","Rebel ace pilot [[Anatol Garza]] in critical condition; [[HM14 Gundam Makhairos]] destroyed along with the rest of First Wing ::: 0092-09-29"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2",null]}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -234,6 +234,9 @@ The fight is over, all grunt Akonis are dead, the fight is over but while that i
 
 Menodora calls Vantrin and goes, “Yeah we can see our ship and so can you, you fuck off and let us fuck off and we’ll leave you alone. Or you’ll wish we’d cored your mech and kill you in the explosion.”
 
+> [!note|bg-c-purple]+
+> Vantrin's response while leaving: "Acknowledged."
+
 Now we’re back to the Fishbone
 
 We manage to find [[Database/People/Anatol Garza\|Anatol Garza]] a (Makairos’ pilot) in the escape pod and bring him back, but he’s catatonic as he’s rushed to medbay.
@@ -265,6 +268,18 @@ Above-Board, the blackbox tech that makes mobile suits make sense in Gundam is t
 Cloaking does not exist, at least nowhere near that good.
 
 Which means there is only one explanation Ward can give us. “We have a traitor.”
+
+> [!note|bg-c-purple]+ Your Characters Live Here; You Don't
+> The logic here goes:
+> 1. MV fields would have prevented the Brynhildr from lining up a main cannon shot from outside sensor range
+> 2. If the Brynhildr had taken the shot from inside sensor range, the ship is large enough that it would still have been visible to the naked eye even if it somehow avoided sensor detection
+> 3. Therefore, the shot must have come from a mobile suit using portable artillery 
+> 	1. I have retroactively dubbed said artillery the [[Database/Things/Neutron Accelerator Cannon\|Neutron Accelerator Cannon]]
+> 4. Which brings up the same long-range aiming problem: the MV field means landing a shot on the bridge from outside sensor range is impossible
+> 5. Therefore the shot must have come from inside sensor range
+> 6. But the attackers were not detected on sensors prior to the shot being fired
+> 7. And cloaking tech sufficient to hide an entire team of Akonis, one of which is carrying a ginormous cannon, from a warship's sensors does not exist (or, if it does, it's still an ultra-secret prototype and certainly not going to be deployed on a line unit like the Akoni)
+> 8. Therefore, the attack *must* have had aid from aboard the Fishbone.
 
 
 
