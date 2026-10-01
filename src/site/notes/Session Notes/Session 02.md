@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T08:15:46.852-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/People/Howe Nebreka]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":null,"Changelog":null}}
+{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T09:58:06.894-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/People/Howe Nebreka]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":null,"Changelog":null}}
 ---
 
 > [!infobox|embed embed ws-med table wikipedia]
@@ -53,12 +53,7 @@
 *The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.*
 
 >[!cite|bg-c-purple]+ Previously...
-> - Original command staff and first wing of the [[Database/Things/Fishbone\|Fishbone]] KIA by [[Database/People/Vantrin Almeyer\|Vantrin]] and the [[Database/Things/Brynhildr\|Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor
->- XO [[Database/People/Artel Ward\|Artel Ward]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]], Chief Engineer [[Database/People/Graciela Tor\|Graciela Tor]], Helmsman [[Database/People/Howe Nebreka\|Howe Nebreka]], Chief Comms Officcer [[Database/People/Delbrau Enger\|Delbrau Enger]]; others you don't already personally know
->- Rebel ace pilot [[Database/People/Anatol Garza\|Anatol Garza]] in critical condition; [[Database/Mobile Suits/HM14 Gundam Makhairos\|HM14 Gundam Makhairos]] destroyed along with the rest of First Wing
->- !h! [[Player Characters/Menodora Thaliana\|Mena]] hails a retreating [[Database/People/Vantrin Almeyer\|Vantrin]]: "You see the state of our ship and your suits; let us go or you'll wish we'd killed you." "Acknowledged." !/h!
 >
-{ .block-language-dataview}
 
 
 
