@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T09:58:06.894-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/People/Howe Nebreka]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":null,"Changelog":null}}
+{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-02T03:53:53.784-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/People/Howe Nebreka]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":null,"Changelog":null}}
 ---
 
 > [!infobox|embed embed ws-med table wikipedia]
@@ -52,8 +52,8 @@
 
 *The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.*
 
->[!cite|bg-c-purple]+ Previously...
->
+> [!cite|bg-c-purple]+ Previously On *Zero Sum*
+> `REDACTED`
 
 
 
