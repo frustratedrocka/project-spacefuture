@@ -14,7 +14,7 @@
 > |**BASE MODEL**|[[Database/Mobile Suits/TF-8 Hoplite\|TF-8 Hoplite]]|
 
 > [!blank|embed] MECH ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Relationship</span></td></tr><tr><td><span>Heavy Assault Line Mech</span></td></tr><tr><td><span>Lacks Fine Control</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Heavy Assault Line Mech</span></td></tr><tr><td><span>Lacks Fine Control</span></td></tr><tr><td><span>Relationship</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Shoulder Missle Rack</span></td></tr><tr><td><span>Shotgun</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
