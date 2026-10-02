@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-10-02T01:28:51.300-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-10-02T01:29:20.970-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!infobox|embed ws-med]
@@ -35,17 +35,44 @@ The current mission is simple: Intercept excess food shipments and redirect them
 > 
 { .block-language-dataview}
 
-| Character                                         | Aspects                                                                       | Membership                              |
-| ------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------- |
-| [[Database/People/Gen Bashaba\|Gen Bashaba]]   | Fledgling shipmaster rising to the occasion \- You point, I fly \- `REDACTED` | [[Database/Factions/Rebels\|Rebels]] |
-| [[Database/People/Artel Ward\|Artel Ward]]     | Hard Times Make Hard Asses \- \- \- \-                                        | [[Database/Factions/Rebels\|Rebels]] |
-| [[Database/People/Anatol Garza\|Anatol Garza]] | Catatonic Rebel Ace \- \- \- \-                                               | [[Database/Factions/Rebels\|Rebels]] |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+    file.link AS "Character",
+    choice(
+	    !(contains(Concept, "!r"+"!") AND "__DG_PUBLISH__" != "__DG_PUBLISH__" ),
+	    Concept, 
+	    "`REDACTED`"
+	) + " \- " 
+	+ choice(
+		!(contains(Relationship, "!r"+"!") AND "__DG_PUBLISH__" = "__DG_PUBLISH__" ),
+		Relationship, 
+		"`REDACTED`"
+	) + " \- " 
+	+ choice(
+		!(contains(Loyalty, "!r"+"!") AND "__DG_PUBLISH__" = "__DG_PUBLISH__" ),
+		Loyalty, 
+		"`REDACTED`"
+	) AS "Aspects",
+FROM #npc
+FLATTEN Faction AS Membership
+WHERE (
+	contains(Membership, this.file.link)
+	OR contains(Membership, "[["+this.file.name+"]]")
+)
+WHERE (
+	!contains(Membership, "!r"+"!")
+	OR !contains(Membership, "!h"+"!")
+    OR "__DG_PUBLISH__" != "__DG_PUBLISH__" 
+)
+WHERE (
+    dg-publish = true
+    OR "__DG_PUBLISH__" != "__DG_PUBLISH__" 
+)
+```
 { #FactionTable}
 
 
-> [!blank|embed] SCRIPT
+> [!blank|embed] ASSOCIATED LOCATIONS
 > <table class="dataview table-view-table"><thead><tr><th>Location</th><th>Concept</th><th>Faction</th><th>Control</th><th>Other Presence</th></tr></thead><tbody><tr><td>Arjuna</td><td></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Contested</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">ROM</a></span>,<br><span>-</span></td></tr><tr><td>Fishbone</td><td><span>Rebel Destroyer, Closest Thing To Home</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Courtesy Of the Consortium</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td>Geb</td><td></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Contested</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td>Kelly</td><td></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Contested</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta.md" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
