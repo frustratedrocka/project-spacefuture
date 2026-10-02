@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T09:58:06.894-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/People/Howe Nebreka]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":null,"Changelog":null}}
+{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T09:58:06.894-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cella`PLAYER N___`]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grie`PLAYER N___`]","[[Player Characters/Lane Gabl`PLAYER D___`]","[[Player Characters/Menodora Thalian`PLAYER C___`]","[[Player Characters/Vergen Kon`PLAYER C___`]"],"NPCs":["[[Database/People/Delbrau Enge`PLAYER N___`]","[[Database/People/Graciela To`PLAYER N___`]","[[Database/People/Howe Nebrek`PLAYER C___`]","[[Database/People/Gen Bashab`PLAYER C___`]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Things/Fishbon`PLAYER D___`]","[[Database/Places/Colonies/Hygie`PLAYER C___`]"],"Mechs":[null],"Impact":null,"Changelog":null}}
 ---
 
-> [!infobox|embed embed ws-med table wikipedia]
+> [!infobox|embed embed ws-med table wikipedi`PLAYER C___`
 > # Vitals
->> [!blank]
+>> [!blan`PLAYER M___`
 >
 >|Scenario|Part|Date|
 >|---|:---:|---:|
@@ -16,7 +16,7 @@
 > |And So It Begins|\- |
 >
 >## Present
->> [!cards|4 collapse]
+>> [!cards|4 collaps`PLAYER D___`
 >> 
 >> ![Admin/Attachments/Auggie_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Auggie_Zoom.webp)
 >>  **[[Player Characters/August Grier\|Auggie]]**
@@ -52,7 +52,7 @@
 
 *The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.*
 
->[!cite|bg-c-purple]+ Previously...
+>[!cite|bg-c-purpl`PLAYER D___`+ Previously...
 >
 
 

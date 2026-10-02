@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T23:01:22.026-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"[[Session Notes/World Jam]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Things/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/ES-01 Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T23:01:22.026-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Session 00B]]","SESH_Prev":"[[Session Notes/World Jam]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grie`PLAYER N___`]","[[Player Characters/Lane Gabl`PLAYER D___`]","[[Player Characters/Menodora Thalian`PLAYER C___`]","[[Player Characters/Vergen Kon`PLAYER C___`]"],"Locations":["[[Database/Places/Colonies/Theseu`PLAYER N___`]","[[Database/Places/Mar`PLAYER N___`]","[[Database/Places/Earth|Lun`PLAYER C___`]","[[Database/Things/Charu`PLAYER C___`]","[[Database/Places/Colonies/Arjun`PLAYER C___`]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQ`PLAYER C___`]","[[Database/Mobile Suits/ES-01 Elegant Sk`PLAYER C___`]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]"]}}
 ---
 
-> [!infobox|embed ws-med table wikipedia]
+> [!infobox|embed ws-med table wikipedi`PLAYER C___`
 > # Vitals
->> [!blank]
+>> [!blan`PLAYER M___`
 > 
 >|Scenario|Part|Date|
 >|---|:---:|---:|
@@ -16,7 +16,7 @@
 > |A Century Emerges|Training Sim|
 >
 >## Present
->> [!cards|4 collapse]
+>> [!cards|4 collaps`PLAYER D___`
 >> 
 >> ![Admin/Attachments/Auggie_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Auggie_Zoom.webp)
 >>  **[[Player Characters/August Grier\|Auggie]]**
@@ -62,7 +62,7 @@
 *Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.*
 
 # The Opening Crawl
-"Before we start, I would just like to impress on everyone how _absolutely fucked_ the situation you've all lived through is. The Moondrop and [[Database/History/The Ground War\|the Ground War]] are without question or exaggeration the worst things that have ever happened, and I can prove it with four words:  
+"Before we start, I would just like to impress on everyone how _absolutely fucked_ the situation you've all lived through is. The Moondrop and [[the Ground Wa`PLAYER N___`] are without question or exaggeration the worst things that have ever happened, and I can prove it with four words:  
 
 The dinosaurs didn't understand.  
 
@@ -92,78 +92,78 @@ And now, eleven years since the guns fell silent and the treaties were signed, [
 
 And so it is that in the year 0092 of the Emergent Century, the system is once again at war. You stand proudly among those fighting back. You may not agree at all on the future, but you're united in looking at the present and saying "no."  
 
-You are good at what you do. Some day, you may be great. This war will forge you, or it will shatter you, but until it does, you've got work to do. So get in the cockpit, pilots. The [[Database/Factions/Rebels\|rebellion]] calls.  
+You are good at what you do. Some day, you may be great. This war will forge you, or it will shatter you, but until it does, you've got work to do. So get in the cockpit, pilots. The [[Rebels|rebellio`PLAYER C___`] calls.  
 
 Let's find out who answers.  
 
 **Welcome to Mobile Suit Gundam: Zero Sum.**"
 
 # Meet The Cast
-## [[Player Characters/Menodora Thaliana\|Menodora Thaliana]]
+## [[Menodora Thalian`PLAYER C___`]
 ### Hive-Linked Lunarian Refugee
 
-Origin: [[Database/Places/Earth\|Luna]] / displaced migrant odd jobs
+Origin: [[Earth|Lun`PLAYER C___`] / displaced migrant odd jobs
 
-Faction: [[Database/Factions/Mindful Eyes\|Mindful Eyes]]
+Faction: [[Mindful Eye`PLAYER N___`]
 
 ### Never Put Down Roots
 
 ### Phase One: Inciting Incident
 
-Got involved in mobile suit [[gladiator\|gladiator]] fighting with [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]] With word of the rebellion decided to join up because maybe it would help her find out who was responsible for the Moondrop.
+Got involved in mobile suit [[gladiato`PLAYER N___`] fighting with [[Kerbstomp\|gladiato`PLAYER N___`] fighting with [[Kerbstomp]] With word of the rebellion decided to join up because maybe it would help her find out who was responsible for the Moondrop.
 
 #### Phase One Aspect: It’s good to be underestimated
 
 ### Phase Two: Crossing Paths
 
-[[Player Characters/Vergen Koni\|Vergen Koni]] had pinged a connection with [[Database/History/The Hive Mind\|The Hive Mind]] from Menodora. Finding another Hive-Linked individual, He and her seem to be Kindred spirits.
+[[Vergen Kon`PLAYER C___`] had pinged a connection with [[The Hive Mind\|Vergen Kon`PLAYER C___`] had pinged a connection with [[The Hive Mind]] from Menodora. Finding another Hive-Linked individual, He and her seem to be Kindred spirits.
 
 #### Phase Two Aspect: I’ve got allies in strange places
 
 ### Phase Three: Crossing Paths
 
-[[Player Characters/August Grier\|August Grier]] found his way to the [[fighting pits\|fighting pits]], not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.
+[[August Grie`PLAYER N___`] found his way to the [[fighting pit`PLAYER N___`], not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.
 
 #### Phase Three Aspect: “There’s no such thing as a ‘Hard No’”
 
 ---
 
-## [[Player Characters/Vergen Koni\|Vergen Koni]]
+## [[Vergen Kon`PLAYER C___`]
 
 ### Mind’s Eye Protector
 
-Origin: [[Database/Places/Colonies/Theseus\|Theseus]] Colony
+Origin: [[Theseu`PLAYER N___`] Colony
 
-Faction: [[Database/Factions/Mindful Eyes\|Mindful Eyes]]
+Faction: [[Mindful Eye`PLAYER N___`]
 
 ### Subtle Paranoia
 
 ### Phase One: Inciting Incident
 
-An [[Database/Factions/Apsis\|Apsis]] cargo of goods being quickly intercepted by one suit successfully outside of colony control
+An [[Apsi`PLAYER N___`] cargo of goods being quickly intercepted by one suit successfully outside of colony control
 
 #### Phase One Aspect: Speed Is Key.
 
 ### Phase Two: Crossing Paths
 
-[[Database/Factions/Mindful Eyes\|Mindful Eyes]] and [[Database/Factions/Rebels\|Rebels]] forces ran into each other and found themselves in a tense standoff. [[Player Characters/Vergen Koni\|Verg]] and [[Player Characters/August Grier\|Auggie]] faced off on opposite sides of the firing line.
+[[Mindful Eye`PLAYER N___`] and [[Rebel`PLAYER N___`] forces ran into each other and found themselves in a tense standoff. [[Vergen Koni\|Verg]] and [[August Grier|Auggi`PLAYER D___`] faced off on opposite sides of the firing line.
 
 #### Phase Two Aspect: Respect the Fight.
 
 ### Phase Three: Crossing Paths
 
-During the standoff with Mindful Eyes and Rebellion, [[Player Characters/Lane Gable\|Lane Gable]] recognized [[Database/Mobile Suits/TF-8C Hoplite Custom\|Verg's suit]] and managed to talk them down from the standoff, and convince them of cooperation.
+During the standoff with Mindful Eyes and Rebellion, [[Lane Gabl`PLAYER D___`] recognized [[TF-8C Hoplite Custom|Verg's sui`PLAYER C___`] and managed to talk them down from the standoff, and convince them of cooperation.
 
 #### Phase Three Aspect: We aren’t alone here.
 
 ---
 
-## [[Player Characters/August Grier\|August Grier]]
+## [[August Grie`PLAYER N___`]
 ### No-Longer-A-Child Soldier 
 
-Origin: [[Database/Places/Mars\|Mars]] > Kidnapped
+Origin: [[Mar`PLAYER N___`] > Kidnapped
 
-Faction: [[Database/Places/Colonies/Theseus\|Theseus]] / Independent 
+Faction: [[Theseu`PLAYER N___`] / Independent 
 
 ### “My Life Is Expendable”
 
@@ -175,25 +175,25 @@ Shot down during combat against Rebel forces. Captured, then turned to the resis
 
 ### Phase Two: Crossing Paths
 
-[[Player Characters/Lane Gable\|Lane Gable]] encountered August during combat. Lane was the resistance member that shot down August and decided to take him into the resistance.
+[[Lane Gabl`PLAYER D___`] encountered August during combat. Lane was the resistance member that shot down August and decided to take him into the resistance.
 
 #### Phase Two Aspect: Front towards enemy.
 
 ### Phase Three: Crossing Paths
 
-[[Player Characters/Menodora Thaliana\|Menodora Thaliana]] was interested in joining the resistance, and heard August was someone who may have an in. She cannot take no for an answer.
+[[Menodora Thalian`PLAYER C___`] was interested in joining the resistance, and heard August was someone who may have an in. She cannot take no for an answer.
 
 #### Phase Three Aspect: Stubbornness is a virtue
 
 ---
 
-## [[Player Characters/Lane Gable\|Lane Gable]]
+## [[Lane Gabl`PLAYER D___`]
 
 ### Pirate Turned Freedom Fighter
 
-Origin: [[Database/Places/Earth\|Earth]] > [[Database/Places/Colonies/Arjuna\|Arjuna]] asteroid colony
+Origin: [[Eart`PLAYER C___`] > [[Arjun`PLAYER C___`] asteroid colony
 
-Faction: [[Database/Factions/Armada Ejecta\|Armada Ejecta]] 
+Faction: [[Armada Eject`PLAYER C___`] 
 
 ### “If Not Me, Then Nobody”
 
@@ -206,7 +206,7 @@ Attempted to pirate a [[Database/Factions/Jovian Consortium\|Jovian Consortium]]
 ### Phase Two: Crossing Paths
 
 
-[[Player Characters/Menodora Thaliana\|Menodora Thaliana]] and Lane met at the gladiator pit, and Lane decided to put a bet on her mech, (bad odds) as a lark, only to be impressed by what she pulled off. 
+[[Menodora Thalian`PLAYER C___`] and Lane met at the gladiator pit, and Lane decided to put a bet on her mech, (bad odds) as a lark, only to be impressed by what she pulled off. 
 
 #### Phase Two Aspect: “Underdogs can win”
 

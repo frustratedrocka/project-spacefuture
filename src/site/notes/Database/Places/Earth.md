@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-19T16:54:00.231-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"No Man's Land","Faction_Presence":["[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Mindful Eyes]]","[[Database/Factions/Hive Cult]]","[[Database/Factions/Republic Of Mars]]"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.webp","Concept":"Humanity's Cradle Turned Life Support","Trouble":"Nuclear Winter","Aspects":["Being Strip-Mined For Fertile Soil","Access Restricted By Apsis"],"aliases":["Luna"]}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location"],"noteIcon":"","updated":"2026-09-19T16:54:00.231-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Plane`PLAYER C___`]","Faction":["[[Database/Factions/Apsi`PLAYER N___`]"],"Control":"No Man's Land","Faction_Presence":["[[Database/Factions/Armada Eject`PLAYER C___`]","[[Database/Factions/Mindful Eye`PLAYER N___`]","[[Database/Factions/Hive Cul`PLAYER C___`]","[[Database/Factions/Republic Of Mar`PLAYER N___`]"],"Portrait":"Admin/Attachments/Earth_Post_Kaboom.webp","Concept":"Humanity's Cradle Turned Life Support","Trouble":"Nuclear Winter","Aspects":["Being Strip-Mined For Fertile Soil","Access Restricted By Apsis"],"aliases":["Luna"]}}
 ---
 
 > [!INFOBOX|ws-med embed] Earth
@@ -18,11 +18,11 @@
 
 # Description
 
-Earth is effectively gone - was the breadbasket, now effectively a non-player in solar politics after [[Database/History/The Ground War\|The Ground War]]. 
+Earth is effectively gone - was the breadbasket, now effectively a non-player in solar politics after [[The Ground Wa`PLAYER N___`]. 
 
 In an effort to wipe out [[Database/History/The Hive Mind\|The Hive Mind]] (we assume), *someone* dropped Luna onto the planet. Result: stopped the spread of the hive, but nobody cared because now there's a cataclysmic solar-system-wide food shortage. 
 
-Many of the displaced survivors who couldn't or wouldn't assimilate elsewhere took to life aboard ships, at the fringes of society, forming the [[Database/Factions/Armada Ejecta\|Armada Ejecta]].
+Many of the displaced survivors who couldn't or wouldn't assimilate elsewhere took to life aboard ships, at the fringes of society, forming the [[Armada Eject`PLAYER C___`].
 
 Fortunately for everyone, Luna fragmented on the way down, and not all of it actually hit the planet. So, nuclear winter, yes. Practically uninhabitable without dedicated equipment, yes. Pieces of it still landing and keeping the dust in the atmosphere from settling, yes. Volcanic hellscape with no resources left to extract, no. 
 

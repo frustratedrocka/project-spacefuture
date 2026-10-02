@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-hoplite/","tags":["Mech"],"noteIcon":"","updated":"2026-10-01T23:04:05.872-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"UT-F-08 Hoplite","MECH_Model":"[[Database/Mobile Suits/TF-8 Hoplite]]","Portrait":"[[Admin/Attachments/Hoplite_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Iconic Line Mech","MECH_Trouble":"Yesterday's News","MECH_Relationship":null,"MECH_Gear":["Machine Gun","Missile Launcher","Heat Hawk"],"MECH_Stunts":["**DUCT TAPE AND PRAYERS** You may Tinker to treat and rename a Hoplite's Breakdown using the normal rules for clearing consequences.","**HAMMER AND ANVIL** +1 when you Shoot Carefully to attack a target already engaged in combat with an ally."],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Jovian Consortium]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Independent]]"],"Variants":["[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-hoplite/","tags":["Mech"],"noteIcon":"","updated":"2026-10-01T23:04:05.872-04:00","dg-note-properties":{"tags":["Mech"],"MECH_Name":"UT-F-08 Hoplite","MECH_Model":"[[Database/Mobile Suits/TF-8 Hoplit`PLAYER D___`]","Portrait":"[[Admin/Attachments/Hoplite_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Iconic Line Mech","MECH_Trouble":"Yesterday's News","MECH_Relationship":null,"MECH_Gear":["Machine Gun","Missile Launcher","Heat Hawk"],"MECH_Stunts":["**DUCT TAPE AND PRAYERS** You may Tinker to treat and rename a Hoplite's Breakdown using the normal rules for clearing consequences.","**HAMMER AND ANVIL** +1 when you Shoot Carefully to attack a target already engaged in combat with an ally."],"Known_Users":[null],"Faction":["[[United Terran Sphere Nav`PLAYER C___`]","[[Database/Factions/Jovian Consortium]]","[[Database/Factions/Armada Eject`PLAYER C___`]","[[Database/Factions/Independen`PLAYER C___`]"],"Variants":["[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/TF-8S Hoplite Strike`PLAYER N___`]"]}}
 ---
 
 
@@ -28,7 +28,7 @@
 >[!blank|wfull]
 # Notes
 
-*The* iconic [[Database/History/The Ground War\|Ground War]] era grunt suit. Originally manufactured for the [[United Terran Sphere Navy\|United Terran Sphere Navy]]; after the Moondrop and the splintering of the UTSN, surplus and salvaged units could be found on all sides of any given battlefield. 
+*The* iconic [[The Ground War|Ground Wa`PLAYER N___`] era grunt suit. Originally manufactured for the [[United Terran Sphere Nav`PLAYER C___`]; after the Moondrop and the splintering of the UTSN, surplus and salvaged units could be found on all sides of any given battlefield. 
 
 Remains frequently used by colonial militias, paramilitary groups, pirates, and other small or poorly-funded organizations. The base frame is easy to repair and customize for the needs of each theater and pilot. 
 

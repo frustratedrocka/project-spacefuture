@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T23:01:22.046-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Database/People/Howe Nebreka]]","[[Database/People/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","[[Database/Mobile Suits/ES-01 Elegant Sky]]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/EW-14 Gundam Makhairos]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor ::: 0092-09-29","XO [[Artel Ward]] brevets new command: Captain [[Gen Bashaba]], Chief Engineer [[Graciela Tor]], Helmsman [[Howe Nebreka]], Chief Comms Officcer [[Delbrau Enger]]; others you don't already personally know ::: 0092-09-29","Rebel ace pilot [[Anatol Garza]] in critical condition; [[EW14 Gundam Makhairos]] destroyed along with the rest of First Wing ::: 0092-09-29","%% %%"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T23:52:28.738-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cella`PLAYER N___`]","Scenario_Index":1,"Logline":"[[Vantrin Almeye`PLAYER N___`] launches a surprise attack on the [[Fishbon`PLAYER D___`], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grie`PLAYER N___`]","[[Player Characters/Lane Gabl`PLAYER D___`]","[[Player Characters/Menodora Thalian`PLAYER C___`]","[[Player Characters/Vergen Kon`PLAYER C___`]"],"NPCs":["[[Database/People/Vantrin Almeye`PLAYER N___`]","[[Database/People/Gen Bashab`PLAYER C___`]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enge`PLAYER N___`]","[[Database/People/Howe Nebrek`PLAYER C___`]","[[Database/People/Graciela To`PLAYER N___`]","[[Database/People/Anatol Garz`PLAYER C___`]"],"Locations":["[[Database/Things/Fishbon`PLAYER D___`]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akon`PLAYER C___`]","[[Database/Mobile Suits/SE-832-E Akoni Command Typ`PLAYER D___`]","[[Database/Mobile Suits/ES-01 Elegant Sk`PLAYER C___`]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQ`PLAYER C___`]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/EW-14 Gundam Makhairo`PLAYER N___`]"],"Impact":["Original command staff and first wing of the [[Fishbon`PLAYER D___`] KIA by [[Vantrin Almeyer|Vantri`PLAYER C___`] and the [[Brynhild`PLAYER N___`] team, via an impossible shot that could only have happened with help from a traitor ::: 0092-09-29","XO [[Artel Ward]] brevets new command: Captain [[Gen Bashab`PLAYER C___`], Chief Engineer [[Graciela To`PLAYER N___`], Helmsman [[Howe Nebrek`PLAYER C___`], Chief Comms Officcer [[Delbrau Enge`PLAYER N___`]; others you don't already personally know ::: 0092-09-29","Rebel ace pilot [[Anatol Garz`PLAYER C___`] in critical condition; [[EW14 Gundam Makhairo`PLAYER N___`] destroyed along with the rest of First Wing ::: 0092-09-29","%% %%"],"Changelog":["[[Lane Gabl`PLAYER D___`] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2"]}}
 ---
 
-> [!infobox|embed ws-med table wikipedia]
+> [!infobox|embed ws-med table wikipedi`PLAYER C___`
 > # Vitals
->> [!blank]
+>> [!blan`PLAYER M___`
 >
 >|Scenario|Part|Date|
 >|---|:---:|---:|
@@ -16,7 +16,7 @@
 > |Training Sim|\- |
 >
 >## Present
->> [!cards|4 collapse]
+>> [!cards|4 collaps`PLAYER D___`
 >> 
 >> ![Admin/Attachments/Auggie_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Auggie_Zoom.webp)
 >>  **[[Player Characters/August Grier\|Auggie]]**
@@ -68,16 +68,16 @@
 
 *[[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] launches a surprise attack on the [[Database/Things/Fishbone\|Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.*
 
-> [!cite|bg-c-purple]+ Preamble
-> It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]]. 
+> [!cite|bg-c-purpl`PLAYER D___`+ Preamble
+> It is the year 0092 of the [[Emergent Centur`PLAYER C___`]. 
 > 
-> Nearly a hundred years ago, mankind extended its reach beyond the solar system's [[Inner Rings\|Inner Rings]]. Humanity began to spread into space in earnest, terraforming [[Database/Places/Mars\|Mars]], building industry around the moons of [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], and filling [[Database/Glossary/The Belt\|The Belt]] with enormous rotating colonies. Here in space, people are born and raised. And die.
+> Nearly a hundred years ago, mankind extended its reach beyond the solar system's [[Inner Ring`PLAYER N___`]. Humanity began to spread into space in earnest, terraforming [[Mar`PLAYER N___`], building industry around the moons of [[Jupite`PLAYER N___`], and filling [[The Bel`PLAYER C___`] with enormous rotating colonies. Here in space, people are born and raised. And die.
 > 
-> Twenty years ago, [[Database/History/The Hive Mind\|The Hive Mind]] began to coalesce, and the question of what to do with this new potential threatened to rip the solar system apart. Fourteen years ago, that question fell off humanity's priority list when the Moon fell from orbit and killed the [[Database/Places/Earth\|Earth]]. Eleven years ago, the cataclysmic war over the resources remaining in its corpse finally stopped. 
+> Twenty years ago, [[Database/History/The Hive Mind\|The Hive Mind]] began to coalesce, and the question of what to do with this new potential threatened to rip the solar system apart. Fourteen years ago, that question fell off humanity's priority list when the Moon fell from orbit and killed the [[Eart`PLAYER C___`]. Eleven years ago, the cataclysmic war over the resources remaining in its corpse finally stopped. 
 > 
 > Eight months ago, Apsis, the administrator of the solar system's food logistics, cut its caloric allocation to three colonies below starvation levels in response to escalating protests and demonstrations. Seven months ago, the armed rebellion began. 
 > 
-> You are rebel pilots, currently serving aboard a Guernica-class destroyer semi-affectionately nicknamed "The [[Database/Things/Fishbone\|Fishbone]]." It's small, tough to get rid of, and once it gets stuck in it can absolutely ruin someone's day. You are Second Wing, assigned primarily to support First Wing's proven aces. This voyage has already seen two successful convoy raids, but also gained the attention of the [[Database/Factions/Apsis\|Apsis]] pursuit cruiser [[Database/Things/Brynhildr\|Brynhildr]], which has spent the last few weeks glued to your stern. You've managed to stay ahead of the Brynhildr so far, so pending new orders, you're now engaged in everyone's favorite military pastime: "hurry up and wait."
+> You are rebel pilots, currently serving aboard a Guernica-class destroyer semi-affectionately nicknamed "The [[Fishbon`PLAYER D___`]." It's small, tough to get rid of, and once it gets stuck in it can absolutely ruin someone's day. You are Second Wing, assigned primarily to support First Wing's proven aces. This voyage has already seen two successful convoy raids, but also gained the attention of the [[Apsi`PLAYER N___`] pursuit cruiser [[Brynhild`PLAYER N___`], which has spent the last few weeks glued to your stern. You've managed to stay ahead of the Brynhildr so far, so pending new orders, you're now engaged in everyone's favorite military pastime: "hurry up and wait."
 > 
 > Now, at this moment I would very much like you all to tell me where on the ship you are *that is not near the hangar*, and what you're doing there, at the moment the bridge is hit.
 
@@ -89,11 +89,11 @@
 Year - 0092
 
 [[Database/History/The Hive Mind\|The Hive Mind]] began 20 years ago, and made everyone curious as to how it would affect humanity.
-14 years ago, the moon hit the [[Database/Places/Earth\|Earth]]
-11 years ago [[Database/History/The Ground War\|The Ground War]] ended
-8 months ago, [[Database/Factions/Apsis\|Apsis]] cut off the food to three rebel colonies.
+14 years ago, the moon hit the [[Eart`PLAYER C___`]
+11 years ago [[The Ground Wa`PLAYER N___`] ended
+8 months ago, [[Apsi`PLAYER N___`] cut off the food to three rebel colonies.
 
-The [[Database/Things/Fishbone\|Fishbone]] - Small, tough to get rid of, and once it gets stuck in, impossible to get rid of
+The [[Fishbon`PLAYER D___`] - Small, tough to get rid of, and once it gets stuck in, impossible to get rid of
 We are Second Wing, a backup to First Wing. We have already had two successful raids, and are currently trying to outrun the Apsis ship the Brynhildr.
 
 Then - The Bridge Explodes
@@ -108,7 +108,7 @@ Menodora had her legs hooked up somewhere messing with the code of her Gundam to
 
 As the ship rocks, our XO [[Database/People/Artel Ward\|Artel Ward]] gets over the tannoy as the Captain is presumably dead
 
-“ [List of names, get from Ben] Report to CIC immediately, First and Second Wing, to hangers”
+“ [List of names, get from Be`PLAYER C___` Report to CIC immediately, First and Second Wing, to hangers”
 
 Vergen and Menodora meet up, Vergen going “Are you ready to go?!”
 
@@ -136,7 +136,7 @@ An emergency bulkhead is sealed in front of us so we can’t get through our mai
 
 Menodora goes If you can build it, I can break it. Pointing out she grew up on ships and has a bunch of self-taught engineering and coding skills. While the roll is a success, there is a complication and that complication is a collapsed wall and debris in the hallway.
 
-[[Database/People/Delbrau Enger\|Delbrau Enger]] is pinned under debris in front of us. Vergen, recognizing Del, goes to lift the debris off and help. He rolls a success with style. Verden uses his knowledge of leverage to effortlessly move the debris off and pull Del out.
+[[Delbrau Enge`PLAYER N___`] is pinned under debris in front of us. Vergen, recognizing Del, goes to lift the debris off and help. He rolls a success with style. Verden uses his knowledge of leverage to effortlessly move the debris off and pull Del out.
 
 (`REDACTED` uses the boost to remind Del Don’t just think of us as backups, we’re competent too)
 
@@ -187,9 +187,9 @@ Vergen - Hyper Seeker - launches
 
 Menodora - Kerbstomp - launches
 
-3 normal [[Database/Mobile Suits/SE-832 Akoni\|Akoni]]s and one command type remain, and only the [[Database/Mobile Suits/EW-14 Gundam Makhairos\|Gundam Makhairos]] is missing one arm and both legs. Makairos attempts one desperate last move by spinning and launching itself, and while it kills a mech it explodes. The escape pod is damaged so we don’t know if they survived even though they did have a successful separation.
+3 normal [[SE-832 Akoni|Akon`PLAYER C___`]s and one command type remain, and only the [[EW-14 Gundam Makhairos|Gundam Makhairo`PLAYER N___`] is missing one arm and both legs. Makairos attempts one desperate last move by spinning and launching itself, and while it kills a mech it explodes. The escape pod is damaged so we don’t know if they survived even though they did have a successful separation.
 
-“This is Lieutenant Commander [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] Commander of the [[Database/Things/Brynhildr\|Brynhildr]], you have the chance to surrender. Stand down and you will be spared.”
+“This is Lieutenant Commander [[Vantrin Almeye`PLAYER N___`] Commander of the [[Brynhild`PLAYER N___`], you have the chance to surrender. Stand down and you will be spared.”
 
 We all tell him in our own ways that we refuse to surrender.
 
@@ -234,26 +234,26 @@ The fight is over, all grunt Akonis are dead, the fight is over but while that i
 
 Menodora calls Vantrin and goes, “Yeah we can see our ship and so can you, you fuck off and let us fuck off and we’ll leave you alone. Or you’ll wish we’d cored your mech and kill you in the explosion.”
 
-> [!note|bg-c-purple]+
+> [!note|bg-c-purpl`PLAYER D___`+
 > Vantrin's response while leaving: "Acknowledged."
 
 Now we’re back to the Fishbone
 
-We manage to find [[Database/People/Anatol Garza\|Anatol Garza]] a (Makairos’ pilot) in the escape pod and bring him back, but he’s catatonic as he’s rushed to medbay.
+We manage to find [[Anatol Garz`PLAYER C___`] a (Makairos’ pilot) in the escape pod and bring him back, but he’s catatonic as he’s rushed to medbay.
 
 As the engines of the ship shudder back to life, our XO’s voice comes over the loudspeakers and requests Second Wing to CiC while all other hands are sent to repair stations.
 
-Helmets stay on due to the damage as we make our way to CiC. XO Ward, alongside [[Database/People/Gen Bashaba\|Gen Bashaba]], a competent up and coming young officer, now in Captain’s stripes. The rest of the bridge crew is similar, as XO Ward has needed to brevet an entirely new command staff as most of the old staff was killed when the bridge went up.
+Helmets stay on due to the damage as we make our way to CiC. XO Ward, alongside [[Gen Bashab`PLAYER C___`], a competent up and coming young officer, now in Captain’s stripes. The rest of the bridge crew is similar, as XO Ward has needed to brevet an entirely new command staff as most of the old staff was killed when the bridge went up.
 
 Now-Captain Bashaba speaks. “There’s nothing I can say, to make what happened today not a disaster. We were hit out of nowhere, and we were hit hard. We are alive because all of us who are left worked together, trusted each other, picked up the slack supported each other.” She looks at all of us in turn.
 
-“New Captain, [[Database/People/Gen Bashaba\|Gen Bashaba]]"
+“New Captain, [[Gen Bashab`PLAYER C___`]"
 
-“New helmsman, [[Database/People/Howe Nebreka\|Howe Nebreka]].”
+“New helmsman, [[Howe Nebrek`PLAYER C___`].”
 
-“New Chief of Engineering, [[Database/People/Graciela Tor\|Graciela Tor]].”
+“New Chief of Engineering, [[Graciela To`PLAYER N___`].”
 
-"New Comms Officer, [[Database/People/Delbrau Enger\|Delbrau Enger]]"
+"New Comms Officer, [[Delbrau Enge`PLAYER N___`]"
 
 The Captain continues, “We will mourn, and we will endure, and we will win, and we will do it together. I’m counting on you all, dismissed.”
 
@@ -269,19 +269,24 @@ Cloaking does not exist, at least nowhere near that good.
 
 Which means there is only one explanation Ward can give us. “We have a traitor.”
 
-> [!note|bg-c-purple]+ Your Characters Live Here; You Don't
+> [!note|bg-c-purpl`PLAYER D___`+ Your Characters Live Here; You Don't
 > The logic here goes:
 > 1. MV fields would have prevented the Brynhildr from lining up a main cannon shot from outside sensor range
 > 2. If the Brynhildr had taken the shot from inside sensor range, the ship is large enough that it would still have been visible to the naked eye even if it somehow avoided sensor detection
 > 3. Therefore, the shot must have come from a mobile suit using portable artillery 
-> 	1. I have retroactively dubbed said artillery the [[Database/Things/Neutron Accelerator Cannon\|Neutron Accelerator Cannon]]
+> 	1. I have retroactively dubbed said artillery the [[Neutron Accelerator Canno`PLAYER C___`]
 > 4. Which brings up the same long-range aiming problem: the MV field means landing a shot on the bridge from outside sensor range is impossible
 > 5. Therefore the shot must have come from inside sensor range
 > 6. But the attackers were not detected on sensors prior to the shot being fired
 > 7. And cloaking tech sufficient to hide an entire team of Akonis, one of which is carrying a ginormous cannon, from a warship's sensors does not exist (or, if it does, it's still an ultra-secret prototype and certainly not going to be deployed on a line unit like the Akoni)
 > 8. Therefore, the attack *must* have had aid from aboard the Fishbone.
 
-
+# Stars & Wishes
+- Ben: Star: Meeting chars, reactions when thrown straight into the fire, finally starting campaign with trat hunt. Wish: Want to get more comfortable with aspects
+- Cynthia: Star: Strong character start, looking forward to feeling out place in universe. Wish: More sessions to get used to conflict rules
+- Nestor: Star: Characters, setting, production Wish: Get better handle on rules, how stunts work, how to incorporate aspects
+- Mike: Star: Gundam, sfx, details, exciting start in the middle of something. Wish: Not getting August's character as easily as I did with Frost, need time to feel him out
+- Daeon: Intense action start, get hooks in, curious and trying to figure out what to do. Wish: New game, new system, getting used to it and hope to get a better handle on things
 
 >[!blank|wfull]
 # 

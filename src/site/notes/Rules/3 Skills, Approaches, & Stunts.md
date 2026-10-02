@@ -8,29 +8,29 @@ An **APPROACH** is **HOW YOU DO IT**. It's a word that establishes or sums up yo
 
 When you take an action, you'll use **BOTH** of these, pairing one skill with one approach, taking the **SUM** of their values, and rolling a **POOL** of that many d10s. 
 
-**STUNTS** are special character traits that change how a skill works for you or add a bonus when certain conditioms are met. This could represent special training, exceptional talents, the mark of destiny, genetic alteration, innate coolness, and myriad other reasons why some people get more out of their skills than others. Unlike skills, which are things anyone can do in the campaign, stunts are **INDIVIDUAL** and specific to your character. The [[Rules/3 Skills, Approaches, & Stunts#Skill Details\|#Skill Details]] section will have some example stunts for each skill, but you'll mostly be building your own - see [[Rules/3 Skills, Approaches, & Stunts#Building a Good Stunt\|#Building a Good Stunt]] below.
+**STUNTS** are special character traits that change how a skill works for you or add a bonus when certain conditioms are met. This could represent special training, exceptional talents, the mark of destiny, genetic alteration, innate coolness, and myriad other reasons why some people get more out of their skills than others. Unlike skills, which are things anyone can do in the campaign, stunts are **INDIVIDUAL** and specific to your character. The [[#Skill Detail`PLAYER N___`] section will have some example stunts for each skill, but you'll mostly be building your own - see [[#Building a Good Stun`PLAYER C___`] below.
 
 Taking a new stunt **BEYOND YOUR STARTING AMOUNT** (three for your pilot, two for their mech) reduces your character's refresh rate by 1. You cannot reduce your total refresh below 1. 
 
 # Skills
-There are 15 skills in this game, each of which is a verb that covers a broad range of actions your character might perform during the story. All of them can be used to overcome or create an advantage (see [[Rules/1 Core Rules#The Four Actions\|1 Core Rules#The Four Actions]]), but only some make sense to attack or defend with. The table below is a summary; for detailed explanations of what each skill does, click through their names or scroll further to [[Rules/3 Skills, Approaches, & Stunts#Skill Details\|#Skill Details]]. 
+There are 15 skills in this game, each of which is a verb that covers a broad range of actions your character might perform during the story. All of them can be used to overcome or create an advantage (see [[1 Core Rules#The Four Action`PLAYER N___`]), but only some make sense to attack or defend with. The table below is a summary; for detailed explanations of what each skill does, click through their names or scroll further to [[#Skill Detail`PLAYER N___`]. 
 
 |            SKILL             | OVERCOME | CREATE ADVANTAGE | ATTACK | DEFEND |
 | :--------------------------: | :------: | :--------------: | :----: | :----: |
-|    [[Rules/3 Skills, Approaches, & Stunts#Acquire\|Acquire]]     |    X     |        X         |        |        |
-|      [[Rules/3 Skills, Approaches, & Stunts#Fight\|Fight]]       |    X     |        X         |   X    |   X    |
-|  [[Rules/3 Skills, Approaches, & Stunts# Interface\|Interface]]  |    X     |        X         |   X    |   X    |
+|    [[#Acquire\|Acquir`PLAYER D___`]     |    X     |        X         |        |        |
+|      [[#Fight\|Figh`PLAYER C___`]       |    X     |        X         |   X    |   X    |
+|  [[# Interface\|Interfac`PLAYER D___`]  |    X     |        X         |   X    |   X    |
 |       [[Rules/3 Skills, Approaches, & Stunts#Know\|Know]]        |    X     |        X         |        |        |
 |       [[Rules/3 Skills, Approaches, & Stunts# Lead\|Lead]]       |    X     |        X         |        |        |
-|       [[Rules/3 Skills, Approaches, & Stunts# Move\|Move]]       |    X     |        X         |        |   X    |
-|    [[Rules/3 Skills, Approaches, & Stunts# Network\|Network]]    |    X     |        X         |        |        |
-|     [[Rules/3 Skills, Approaches, & Stunts# Notice\|Notice]]     |    X     |        X         |        |   X    |
-|    [[Rules/3 Skills, Approaches, & Stunts# Operate\|Operate]]    |    X     |        X         |   X    |   X    |
-|  [[Rules/3 Skills, Approaches, & Stunts# Persevere\|Persevere]]  |    X     |        X         |        |   X    |
-|      [[Rules/3 Skills, Approaches, & Stunts# Shoot\|Shoot]]      |    X     |        X         |   X    |   X    |
-|       [[Rules/3 Skills, Approaches, & Stunts# Sway\|Sway]]       |    X     |        X         |   X    |        |
+|       [[# Move\|Mov`PLAYER D___`]       |    X     |        X         |        |   X    |
+|    [[# Network\|Networ`PLAYER M___`]    |    X     |        X         |        |        |
+|     [[# Notice\|Notic`PLAYER D___`]     |    X     |        X         |        |   X    |
+|    [[# Operate\|Operat`PLAYER D___`]    |    X     |        X         |   X    |   X    |
+|  [[# Persevere\|Persever`PLAYER D___`]  |    X     |        X         |        |   X    |
+|      [[# Shoot\|Shoo`PLAYER C___`]      |    X     |        X         |   X    |   X    |
+|       [[# Sway\|Swa`PLAYER C___`]       |    X     |        X         |   X    |        |
 |       [[Rules/3 Skills, Approaches, & Stunts# Tend\|Tend]]       |    X     |        X         |        |        |
-|     [[Rules/3 Skills, Approaches, & Stunts# Tinker\|Tinker]]     |    X     |        X         |        |        |
+|     [[# Tinker\|Tinke`PLAYER N___`]     |    X     |        X         |        |        |
 | [[Rules/3 Skills, Approaches, & Stunts# Understand\|Understand]] |    X     |        X         |        |   X    |
 ## Untrained Action
 Your character having a skill ranked on their sheet at all means they're **AT LEAST ADEQUATE** at it - notable competence under pressure through training, inclination, or intuition, even if it's not their focus. But there may be situations where what you're trying to do falls under a skill that you have no rank in. In these cases, roll a number of dice equal to your **WEAKEST APPROACH** against the opposition. For example, if someone's not in especially good shape (no Move rank), they can still at least attempt to run for their life in an emergency.
@@ -54,7 +54,7 @@ There are six approaches that describe how you perform your actions.
 - **CAREFULLY** You're paying close attention to detail and taking your time to do the job right. Lining up a long-range shot; attentively standing watch with your head on a swivel; disarming a bank's alarm system.
 
 ## Descriptors, Not Buttons
->[!aside|show-title] GM GUIDANCE - APPROACH SORTING
+>[!aside|show-titl`PLAYER D___` GM GUIDANCE - APPROACH SORTING
 >Six adverbs cannot possibly cover the full scope of human behavior in a way that definitively places all possible actions into one and only one bucket. Edge cases and areas of overlap are an expected and unremarkable part of this game. When ambiguity arises, just use your best judgement, pick what seems most appropriate in the moment, and *keep the game moving.*
 
 The approaches are not a menu to choose the strongest mechanic from and then roll without elaboration. Instead, they are the game's primary way to **TRANSLATE YOUR NARRATION INTO A NUMBER** after you've finished describing your action in plain language. This isn't to say that you shouldn't use them to guide your character's behavior; you can and should keep your strengths and weaknesses in mind as you play your character. If your best approach is Boldly and you want to leverage that, then your character needs to *be* bold - describe how they act with confidence, panache, or bravery in the face of danger. 
@@ -64,17 +64,17 @@ Remember that **MECHANICS FOLLOW THE FICTION**.  How you describe your character
 If you're ever in doubt, confused, or struggling to figure out which approach the action you have in mind might fall under, just remember this rule: **SAY WHAT YOU'RE DOING. THE GM WILL TELL YOU WHAT TO ROLL.** 
 
 ## Order of Operations
-You may notice that the above list is ordered strangely. That's because this doubles as the initiative order: whenever multiple characters act simultaneously, such as in a [[Rules/4 Challenges, Conflicts, & Contests\|4 Challenges, Conflicts, & Contests]], whoever's approaching the task Quickly goes first. Then anyone approaching Boldly, then Forcefully, and so on. 
+You may notice that the above list is ordered strangely. That's because this doubles as the initiative order: whenever multiple characters act simultaneously, such as in a [[4 Challenges, Conflicts, & Contest`PLAYER N___`], whoever's approaching the task Quickly goes first. Then anyone approaching Boldly, then Forcefully, and so on. 
 
 Defend actions occur simultaneously with and as a result of someone else attacking or creating an advantage, so they exist outside of the initiative order and use whatever approach makes sense based on your narration.
 
-If multiple characters are using the same approach, they resolve in this order: hostile [[Rules/5 Running The Game#Major NPCs\|5 Running The Game#Major NPCs]] first, then PCs and their allies, then all other NPCs before moving to the next approach .Allied characters using the same approach may freely decide their action order between themselves.
+If multiple characters are using the same approach, they resolve in this order: hostile [[5 Running The Game#Major NPC`PLAYER N___`] first, then PCs and their allies, then all other NPCs before moving to the next approach .Allied characters using the same approach may freely decide their action order between themselves.
 
 > [!callout|bg-c-red no-icon ]+ EXAMPLE OF PLAY: LONG SHOTS
 Two characters are engaged in a sniper duel. Let's say they both use the same tactics - in this case, each one sticks to the sturdiest and best-camouflaged cover they can find that still offers a line of fire, then waits, only occasionally poking their head up to scan the distance through their scopes. This means they're both Shooting Carefully, so they'll compare their Carefully values, then their Shoot values if those are tied, then roll off if both of those are also tied. Or, one character could try to get the drop on their opponent with a rapid potshot at where they think their enemy is (Shoot Quickly), or attempt a trick shot (Shoot Cleverly), potentially at the price of a higher opposition, using an approach they're weaker in, or a different cost if things go wrong.
 
 ## Controlled Opposition
-Every task has some approaches that are inherently better suited for it than others. You *can* try and Move that boulder Forcefully with your bare hands, but you'll have a much easier time if you Cleverly rig up a lever to make more efficient use of your strength. This means that **APPROACH AFFECTS OPPOSITION** - the difficulty of an action is determined by asking "how good would someone have to be to accomplish this the way you're trying to do it?" and looking to the [[Rules/1 Core Rules#Interpreting Results\|adjective ladder]] for the answer.
+Every task has some approaches that are inherently better suited for it than others. You *can* try and Move that boulder Forcefully with your bare hands, but you'll have a much easier time if you Cleverly rig up a lever to make more efficient use of your strength. This means that **APPROACH AFFECTS OPPOSITION** - the difficulty of an action is determined by asking "how good would someone have to be to accomplish this the way you're trying to do it?" and looking to the [[1 Core Rules#Interpreting Results|adjective ladde`PLAYER N___`] for the answer.
 
 For example, imagine you're trying to defuse an unsophisticated and amateurish bomb. If you're taking your time and triple-checking everything before you act, or working remotely through some kind of disposal robot, you're probably working Carefully - under ideal conditions, you only have to beat Adequate (1) opposition to deal with this bomb this way and, if you're working through a robot or wearing a bomb disposal suit, you probably won't be *too* hurt if it goes off while you're in the blast zone. If, on the other hand, the best option you have to get rid of the bomb is to find a big metal trash bin, cover the bomb with it, and hold it in place with your bodyweight, you're approaching it Forcefully, facing Great (3) opposition (since trash bins are generally not bomb proof). And, since you're getting closer to the bomb without much protection and hoping the bin holds the explosion, you're also exposed to more risk this way if there turns out to be a cost. 
 
@@ -83,7 +83,7 @@ But what if you're not under ideal conditions? If there's intense time pressure,
 > [!callout|bg-c-red no-icon ]+ EXAMPLE OF PLAY: IF YOU SEE ME RUNNING....
 > Let's put a  character in that exact situation, with a jury-rigged bomb that needs to be dealt with. Khara, with Tinker 3, Cleverly 4, and Quickly 2, is stuck in a room with a bomb. She's analytical and methodical as a rule, and she knows her procedures well, so if she had time, thoroughly inspecting the bomb to figure out how to defuse it would be easy. But she doesn't, and it isn't; the bomb's actively ticking down and it's got to be done right now or never. Since the time pressure is working against her preferred method of he'd need to be Masterful - 4 hits or better - to defuse it Carefully, which is her best approach. Khara's Quickly approach is weaker, but it also reduces the opposition to Good. So now, she has a choice to make: does she use her best approach when the situation makes that approach harder, or does she use an approach that she's weaker in but that better suits the needs of the moment?
 > 
-> Either way, it's a moment of high tension as she wipes the sweat off her brow and leans in, desperately hoping that she can pull this off before time runs out, searching for anything that can give her an edge. This may be where using a relevant [[Rules/3 Skills, Approaches, & Stunts#Stunts\|stunt]] or [[Rules/1 Core Rules#Aspects & Fate Points\|invoking aspects]] comes in - leaning hard on fundamental truths about your character and the situation you're in to find the resolve or leverage you need to tip the scales.
+> Either way, it's a moment of high tension as she wipes the sweat off her brow and leans in, desperately hoping that she can pull this off before time runs out, searching for anything that can give her an edge. This may be where using a relevant [[#Stunts|stun`PLAYER C___`] or [[1 Core Rules#Aspects & Fate Points|invoking aspect`PLAYER N___`] comes in - leaning hard on fundamental truths about your character and the situation you're in to find the resolve or leverage you need to tip the scales.
 
 ### Setting The Stakes
 Your descriptions of what you're doing  help shape what success or failure look like, and the types of costs that might come with a failure or tie. 
@@ -94,7 +94,7 @@ Now, the GM *could* still have you get caught anyway, but however that plays out
 
 It's also important that you communicate *what you're actually trying to accomplish*, not just the physical action you're performing. This defines what success actually means, and it's not always obvious or self-explanatory. For example, "I'm intentionally singing terribly at the top of my lungs" is probably Sway Boldly no matter what, but could have multiple motives behind it, like creating a distraction, entertaining a small child, emptying a room, or getting people to pay you to stop. If your GM doesn't know what you really want, they can end up miscalibrating the opposition or narrating a result that's way off the mark from what you meant. 
 
-For their part, the GM should ask you for clarification if they're unsure - their side of this is discussed in more depth in [[Rules/7 General GM Guidance#What Do You Want To Accomplish\|7 General GM Guidance#What Do You Want To Accomplish]] later on.
+For their part, the GM should ask you for clarification if they're unsure - their side of this is discussed in more depth in [[7 General GM Guidance#What Do You Want To Accomplis`PLAYER C___`] later on.
 
 # Stunts
 #TODO 
@@ -110,7 +110,7 @@ The usual numeric bonus is +1 hit to your total. For some stunts, it may be appr
 
 Alternately, these stunts can give bonuses roughly equivalent to +1 hit. This usually means a free invoke, but can also include converting ties into successes, imposing penalties on opponents, and more. 
 
->[!note|show-title]+ HANG ON, THE ACTUAL FATE BOOK SAYS +2 HERE!
+>[!note|show-titl`PLAYER D___`+ HANG ON, THE ACTUAL FATE BOOK SAYS +2 HERE!
 >I know, but the fudgectomy that's been performed to replace its dice system with the variable-size D10 pool has seriously compressed the numbers. A +2 flat bonus is notable but not game-breaking when opposition scales from 1 through 8; when that opposition loses almost half of its possible outcomes, the bonus has to shrink to match.
 
 **EXAMPLES**
@@ -123,12 +123,12 @@ The second type of stunt changes the rules of the game. This is a broad categor
 
 - Swapping which skills cover a certain situation. For instance, a detective might Know to learn about an up-and-coming gang, while anyone else might have to hit the street and Network.
 - Using an action with a skill that isn’t normally used with it. For instance, allowing a character to Move Subtly to backstab an opponent from the shadows (which would typically be covered by Fight Subtly).
-- Allowing a character to declare a minor fact is always true. For instance, a survivalist always has survival items like matches on their person, even under unlikely circumstances. This type of stunt establishes that you do not need to [[Rules/1 Core Rules#Declaring a Story Detail\| invoke for story details]] for the given fact.
+- Allowing a character to declare a minor fact is always true. For instance, a survivalist always has survival items like matches on their person, even under unlikely circumstances. This type of stunt establishes that you do not need to [[1 Core Rules#Declaring a Story Detail| invoke for story detail`PLAYER N___`] for the given fact.
 - Allowing a character to make a specific rules exception. For instance, a character might have two more strain boxes or another mild consequence slot.
 
 Write this type of stunt as follows:
 
-Because I *[describe how you are amazing or have a cool bit of gear]*, I can *[describe your amazing feat]*, but only *[describe a circumstance or limitation]*.
+Because I *[describe how you are amazing or have a cool bit of gea`PLAYER N___`*, I can *[describe your amazing fea`PLAYER C___`*, but only *[describe a circumstance or limitatio`PLAYER C___`*.
 
 Example Rule-Changing Stunt: Because I *"don’t believe in magic"*, I can *ignore the effects of a supernatural ability*, but only *once per game session*.
 
@@ -177,7 +177,7 @@ Acquire does not cover burglary, pickpocketing, or other, more physical ways of 
 #TODO **DEFEND**
 
 ## Know 
->[!NOTE|show-title]+ An Odd Name Out
+>[!NOTE|show-titl`PLAYER D___`+ An Odd Name Out
 >Of all the skills on this list, Know is probably the most linguistically awkward to pair with the full list of six approaches. It's possible - Know Forcefully conjures images of a frantic late night in a library, ripping heavy books off shelves until finally finding something relevant; Know Boldly might evoke forbidden knowledge; Know Subtly could mean trying to keep a poker face and not let on that you know something compromising, and so on - but it's admittedly a bit of a stretch. 
 >
 >The decision ultimately came down to this: within the context of the stories this game expects to generate and the rest of the skill list, separate skills for "remember a fact" and "discover a fact" would have made both of them too niche to justify taking either. "Know" seemed like the best verb left that fit everything the skill needed to cover. You may, if you like, replace "Know" on your sheet with "Recall" or "Study" if you feel it's appropriate for your character; it will still cover the fictional territory outlined here.
@@ -235,7 +235,7 @@ Lead a group of people. Command troops in battle; rally a crowd; de-escalate an 
 ### Sample Stunts
 **ELEMENTARY** You can figure out most of what there is to know about someone at a glance. You may Notice instead of Knowing when you try to learn the background of a character you can observe.
 
-**READ THE ENEMY** Once per session, you may delay your action declaration during a [[Rules/4 Challenges, Conflicts, & Contests#Conflicts\|conflict]]. If you do, you learn what your opponents intend to do this round. You may then declare your own action before the round's actions start to resolve.
+**READ THE ENEMY** Once per session, you may delay your action declaration during a [[4 Challenges, Conflicts, & Contests#Conflicts|conflic`PLAYER C___`]. If you do, you learn what your opponents intend to do this round. You may then declare your own action before the round's actions start to resolve.
 
 ## Operate
 Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is an extension of you, so you Move your mech just as you Move yourself). If the vehicle has built-in ranged weaponry of any kind (e.g. fighter jet, tank, cobbled-together post-apocalyptic flamethrower truck), using it is still Shooting.
@@ -244,7 +244,7 @@ Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is 
 
 **CREATE AN ADVANTAGE** Determine the best way to get somewhere in a vehicle; drive erratically to make yourself harder to hit; spin your truck around and throw it into reverse to let your gunners face your pursuers; impress your peers by doing donuts in the school parking lot.
 
->[!aside|show-title] RAMMING SPEED?
+>[!aside|show-titl`PLAYER D___` RAMMING SPEED?
 >As a default assumption, ramming something in a vehicle as an attack (as opposed to running something or someone over) inflicts the same harm on you that it does on your target. Stunts or weaponized vehicles with aspects like "spiked cowcatcher" or "is a literal tank" may be able to bypass this either situationally or completely.
 
 **ATTACK** Use your vehicle as a weapon. Drive like mad to shake off and run over enemies trying to swarm over your tank; swing your rig's buzzsaw arm into another car.

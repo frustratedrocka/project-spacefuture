@@ -88,7 +88,7 @@ Check out _Game Creation_ to see how this game came about. We’ve included ch
 
 Players, your character sheet contains everything you need to know about your PC—abilities, personality, significant background elements, and any other resources that character has to use in the game. Here’s an example of a Fate character sheet, so we can show you all the components.
 
-[Insert your character sheet graphic here]
+[Insert your character sheet graphic her`PLAYER D___`
 
 ### Aspects
 
@@ -2926,7 +2926,7 @@ If, for some reason, someone decides to run outside, she figures that can be a f
 
 She sketches the rough map on an index card for everyone to see.
 
-[Your map here]  
+[Your map her`PLAYER D___`  
 
 ---
 
@@ -3052,7 +3052,7 @@ The second option you have for mitigating a hit is taking a consequence. A conse
 
 Consequences come in three levels of severity—mild, moderate, and severe. Each one has a different shift value: two, four, and six, respectively. On your character sheet, you have a number of available consequence slots, in this section:
 
-[Your character sheet image here]  
+[Your character sheet image her`PLAYER D___`  
 
 When you use a consequence slot, you reduce the shift value of the attack by the shift value of the consequence. You can use more than one consequence at a time if they’re available. Any of the hit’s remaining shifts must be handled by a stress box to avoid being taken out.
 
@@ -4085,12 +4085,12 @@ Stunts: Battlefield Expert. Can use Fight to create advantages in large-scale ta
 
 Teran the Swift, Thief Extraordinaire  
 Aspects: Cutpurse and Scoundrel, I Just Can’t Help Myself  
-Skills: Superb (+5) Burglary, Great (+4) Stealth, Good (+3) Lore, Fair (+2) Fight, Average (+1) Physique [Note: 3 physical stress boxes]  
+Skills: Superb (+5) Burglary, Great (+4) Stealth, Good (+3) Lore, Fair (+2) Fight, Average (+1) Physique [Note: 3 physical stress boxe`PLAYER N___`  
 Stunts: Inside Man. +2 to Stealth in an indoor, urban environment.
 
 Og the Strong  
 Aspects: Og Smash!, Og Not Terribly Bright  
-Skills: Fantastic (+6) Fight, Superb (+5) Physique [Note: 4 physical stress boxes, 1 extra mild consequence for physical conflicts], Great (+4) Athletics  
+Skills: Fantastic (+6) Fight, Superb (+5) Physique [Note: 4 physical stress boxes, 1 extra mild consequence for physical conflict`PLAYER N___`, Great (+4) Athletics  
 Stunts: none
 
 #### Main NPCs
@@ -4786,11 +4786,11 @@ The pyramid follows this rule already, but when you’re adding skills, you need
 
 So, let’s say you have one Good (+3), two Fair (+2), and three Average (+1) skills. Your skill distribution looks roughly like this:
 
-[Your convenient visual example here]
+[Your convenient visual example her`PLAYER D___`
 
 At a milestone, you want to upgrade a Fair (+2) skill to Good (+3). That’d give you two Good (+3), one Fair (+2), and three Average (+1):
 
-[Your convenient visual example here]
+[Your convenient visual example her`PLAYER D___`
 
 You see how that doesn’t work? You’re now missing the second Fair skill you’d need to be square with the rules.
 
@@ -5566,4 +5566,4 @@ This is a new version of Fate, which we developed to update and streamline the s
 
 # FEEDBACK HEROES
 
-3Jane, John A, Scott Acker, Jordan Adams, Ryan Aech, Dan Alexander, Danny Alexander, Jens Alfke, Carl Anderson, Alexandre Antonov, Devon Apple, Mark Arndt, Arrghus,  `PLAYER M___`  Atlin, Wille Backman, Kevin Bates, J B Bell, Richard Bellingham, Garrison Benson,  `PLAYER M___`  R. Bernstein, Billchuck, Don Bisdorf, Peter Blake, Ron Blessing, Adam Blinkinsop, bodhranist, McKay Bonham, Jérémie “Blacky” Bouillon, Brett Bowen,  `PLAYER M___`  Bowman, Guy Bowring, Ezra Bradford, Mick Bradley, Fabrice Breau, Jean-Baptiste Breton, Bill Burdick, Francisco Bustos, Jason Campbell, Sean Carroll, Nick Carter, Richard Chilton, Krzysztof Chyla, Coboney, Bill Collins, Cameron Corniuk, Danni Coy, Creature, cthos, Josh Culbertson, Patrick Curtin, Carsten Damm, Darryl, James Dawsey, Thomas Deeny, Martin Dickson, Rob Donoghue, Droqen, Lukasz Dziubczyk, Eärdil, Manuel Echevarria, Jason Eley, Johan Elmquist, James English, Epimetreus, Thomas Erskine, Ian Evans, Dustin Evermore, John Faludi, Keith Fannin, Jarrod Farquhar-Nicol, Christian Fasy, Olman Feelyus, Antaeus Feldspar, Fenikso, Chris Flipse, Ben Flood, Brook Freeman, Emlyn Freeman, Josh French, Gauth, GhostBob, D Gilbert, Ed Gonzalez, Mikhail L. Gordin, Oliver Graf, Tim Graham, Tim Gray,  `PLAYER M___`  Guerra, Jack Gulick, Gwathdring, Roland Gyarmati, Dan Hall, Rob Hanz, Craig Hargraves, Seán Harnett, George Harnish, John Harper, Jon Harrison, Julien Harroch, Christopher Hazell, M. Herzog, Magnus Lie Hetland, Bruce Hill, Rob Hipskind, Jonathon Hodges, Brian Hoffmann, Troy Holaday, Stephen C. Holland, Jeff Hoskinson, Robert M. S. Huether, Link Hughes, Casey Hunten, Blake Hutchins, Hypersmurf, Justin D. Jacobson, Kent J. Johansen, johnoghue, Stephen “SDJThorin” Johnson, Andrew Kampen, Jack Kelly, Dave Klempa, Jeremy Kostiew, Darth Krzysztof, Steve Kunec, Mark Kung, Steve Kyer, Jonathan Lang, Alec Lanter, Shai Laric, Gee Lawrence, LDK, David Leaman, Josh Leavitt, PK Levine, Adam Longley, Eliot Lyon, EK Lytle, Edward MacGregor, Joshua Madore, Ergodic Mage, Ville Makkonen, James Malaspino, Erin McBride, Jon T. McCarty II, Robin McCollum, Robert McCowen, Shawn McDaniel, Colin McMillen, Dylan Mikus, Earl Miles, Agustin Miranda, Tom Miskey, Jim Montgomery, Jacob Mooney, Sean Mulhern, Mysterious and Pedantic Stranger, Peter Netzer, Sarah Newton, Brian K. Nielsen, Koji Nishiuchi, Iain M Norman, Selene O’Rourke, Daniel Paarmann, Lisa Padol, Addramyr Palinor, Andrea “Lord Lance” Parducci, Johnny Peng, Ryan Perrin, Jonathan Pierson, Nick Pilon, Alexander Puterbaugh, Scott Pyle, Rob Rendell, James Ritter, Brian Rock, `PLAYER M___` Roddewig, RolHypnos, Roman, Garrett Rooney, Rosque, RPG Geek, Christopher Ruthenbeck, Carrie S., Norman Sager, Ryan Sands, Philippe Saner, Christoph Sapinsky, John Savage, Ernie Sawyer, Evan Sayre, SC, Torge Schmidt, Jason Schneiderman, Adam Schwaninger, Tim Seiger, Alfredo Sendín, `PLAYER M___` Sergio, Andrew Shore, shosuko, Josh Simmons, Scott Slater, Robert Slaughter, Jon Smejkal, Ruben Smith-Zempel, Tess Snider, Paul Snow, Soren, SQLCowboy, Jan Stals, starwed, Sterling, David L. Stewart, Jaap Stoel, Lane Stroud, Joe Stroup, SwiftOne, Ricardo Tavares, David Thackaberry, John Tobin, Tom X. Tobin, Alan Tsang, Joshua Turton, Carrie Ulrich, Shea Lafayette Valentine, Leroy Van Camp III, Kevin Veale, Paul Vermeren, Nathan W., Ralf Wagner, Josh Ward, John Weber, Greg Weir, Marko Wenzel, Beat Wieland, Mitch A. Williams, Jan Willms, Gordon Wincott, Xavon Wrentaile, wusemajor, Savage Yinn, Kris Zaragoza, Jacob Z-Dawg Zimmerman, zombiecalypse
+3Jane, John A, Scott Acker, Jordan Adams, Ryan Aech, Dan Alexander, Danny Alexander, Jens Alfke, Carl Anderson, Alexandre Antonov, Devon Apple, Mark Arndt, Arrghus,  `PLAYER M___`  Atlin, Wille Backman, Kevin Bates, J B Bell, Richard Bellingham, Garrison Benson,  `PLAYER M___`  R. Bernstein, Billchuck, Don Bisdorf, Peter Blake, Ron Blessing, Adam Blinkinsop, bodhranist, McKay Bonham, Jérémie “Blacky” Bouillon, Brett Bowen,  `PLAYER M___`  Bowman, Guy Bowring, Ezra Bradford, Mick Bradley, Fabrice Breau, Jean-Baptiste Breton, Bill Burdick, Francisco Bustos, Jason Campbell, Sean Carroll, Nick Carter, Richard Chilton, Krzysztof Chyla, Coboney, Bill Collins, Cameron Corniuk, Danni Coy, Creature, cthos, Josh Culbertson, Patrick Curtin, Carsten Damm, Darryl, James Dawsey, Thomas Deeny, Martin Dickson, Rob Donoghue, Droqen, Lukasz Dziubczyk, Eärdil, Manuel Echevarria, Jason Eley, Johan Elmquist, James English, Epimetreus, Thomas Erskine, Ian Evans, Dustin Evermore, John Faludi, Keith Fannin, Jarrod Farquhar-Nicol, Christian Fasy, Olman Feelyus, Antaeus Feldspar, Fenikso, Chris Flipse, `GM` Flood, Brook Freeman, Emlyn Freeman, Josh French, Gauth, GhostBob, D Gilbert, Ed Gonzalez, Mikhail L. Gordin, Oliver Graf, Tim Graham, Tim Gray,  `PLAYER M___`  Guerra, Jack Gulick, Gwathdring, Roland Gyarmati, Dan Hall, Rob Hanz, Craig Hargraves, Seán Harnett, George Harnish, John Harper, Jon Harrison, Julien Harroch, Christopher Hazell, M. Herzog, Magnus Lie Hetland, Bruce Hill, Rob Hipskind, Jonathon Hodges, Brian Hoffmann, Troy Holaday, Stephen C. Holland, Jeff Hoskinson, Robert M. S. Huether, Link Hughes, Casey Hunten, Blake Hutchins, Hypersmurf, Justin D. Jacobson, Kent J. Johansen, johnoghue, Stephen “SDJThorin” Johnson, Andrew Kampen, Jack Kelly, Dave Klempa, Jeremy Kostiew, Darth Krzysztof, Steve Kunec, Mark Kung, Steve Kyer, Jonathan Lang, Alec Lanter, Shai Laric, Gee Lawrence, LDK, David Leaman, Josh Leavitt, PK Levine, Adam Longley, Eliot Lyon, EK Lytle, Edward MacGregor, Joshua Madore, Ergodic Mage, Ville Makkonen, James Malaspino, Erin McBride, Jon T. McCarty II, Robin McCollum, Robert McCowen, Shawn McDaniel, Colin McMillen, Dylan Mikus, Earl Miles, Agustin Miranda, Tom Miskey, Jim Montgomery, Jacob Mooney, Sean Mulhern, Mysterious and Pedantic Stranger, Peter Netzer, Sarah Newton, Brian K. Nielsen, Koji Nishiuchi, Iain M Norman, Selene O’Rourke, Daniel Paarmann, Lisa Padol, Addramyr Palinor, Andrea “Lord Lance” Parducci, Johnny Peng, Ryan Perrin, Jonathan Pierson, Nick Pilon, Alexander Puterbaugh, Scott Pyle, Rob Rendell, James Ritter, Brian Rock, `PLAYER M___` Roddewig, RolHypnos, Roman, Garrett Rooney, Rosque, RPG Geek, Christopher Ruthenbeck, Carrie S., Norman Sager, Ryan Sands, Philippe Saner, Christoph Sapinsky, John Savage, Ernie Sawyer, Evan Sayre, SC, Torge Schmidt, Jason Schneiderman, Adam Schwaninger, Tim Seiger, Alfredo Sendín, `PLAYER M___` Sergio, Andrew Shore, shosuko, Josh Simmons, Scott Slater, Robert Slaughter, Jon Smejkal, Ruben Smith-Zempel, Tess Snider, Paul Snow, Soren, SQLCowboy, Jan Stals, starwed, Sterling, David L. Stewart, Jaap Stoel, Lane Stroud, Joe Stroup, SwiftOne, Ricardo Tavares, David Thackaberry, John Tobin, Tom X. Tobin, Alan Tsang, Joshua Turton, Carrie Ulrich, Shea Lafayette Valentine, Leroy Van Camp III, Kevin Veale, Paul Vermeren, Nathan W., Ralf Wagner, Josh Ward, John Weber, Greg Weir, Marko Wenzel, Beat Wieland, Mitch A. Williams, Jan Willms, Gordon Wincott, Xavon Wrentaile, wusemajor, Savage Yinn, Kris Zaragoza, Jacob Z-Dawg Zimmerman, zombiecalypse

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/kelly/","tags":["location"],"noteIcon":"","updated":"2026-10-01T21:19:12.001-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Armada Ejecta]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/kelly/","tags":["location"],"noteIcon":"","updated":"2026-10-01T21:19:12.001-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colon`PLAYER C___`]","Faction":["[[Database/Factions/Rebel`PLAYER N___`]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Armada Eject`PLAYER C___`]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 
@@ -19,7 +19,7 @@
 
 # Description
 
-One of three colonies in [[Database/Glossary/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.
+One of three colonies in [[The Bel`PLAYER C___`] that helped kick off [[The Current Conflic`PLAYER C___`] through disagreement with [[Apsi`PLAYER N___`]. The colony didn't want to starve. Apsis disagreed.
 
 >[!blank|wfull] END MANUAL ENTRY
 

@@ -36,7 +36,7 @@ Let's break it down.
 ----
 
 ## What's Going On
-> [!quote] He-Man, Placeholder Quote
+> [!quot`PLAYER D___` He-Man, Placeholder Quote
 >  #TODO "And I said heeeey-ey-ey-ey-ey, heeeey-ey-ey. I said hey, what's goin' on?"
 
 This is the broadest step in the loop, covering nearly everything about the current state of the shared fiction you and the players are all operating within. 
@@ -58,7 +58,7 @@ Whatever's happening, always remember the ultimate purpose of this step is to se
 
 ### Prepare To Improvise
 
->[!quote] Terry Pratchett, *Making Money*
+>[!quot`PLAYER D___` Terry Pratchett, *Making Money*
 >"You cannot plan the future. Plans can break down. Only presumptuous fools plan. The wise man *steers.*"
 
 You may already be familiar with Ernest Hemingway's "Iceberg Theory" but to restate it in brief: The words on the page are like the top eighth of an iceberg, floating above the water. The unspoken truth informing those words is the vast unseen mass of the iceberg, hidden beneath the sea, that the reader feels the weight of without ever needing to be directly shown. 
@@ -71,14 +71,14 @@ Don't just dump a complex setup like "Lord Paxton is a vicious warlord who subju
 
 Critically: this situation *does not care how the players engage with it*. It doesn't assume they'll ask someone about Lord Paxton, expect them to take a stance on Lord Paxton, or demand they interfere to save the conscripted teen. But *if they do*, or if they do something else, you're already prepared for it, just by knowing "Lord Paxton is a vicious warlord who subjugated this region five years ago and brooks no dissent." By setting up facts this way, you have a baseline that you can use to respond to your players, no matter what they do or how they choose to handle the emerging situation.
 
-Further Reading: [The Lazy GM's Resource Document](https://slyflourish.com/lazy_gm_resource_document.html) by `PLAYER M___` Shea (especially the section on Secrets & Clues) - if you like it, buy his book, *Return of the Lazy Dungeon Master*.
+Further Reading: [The Lazy GM's Resource Documen`PLAYER C___`(https://slyflourish.com/lazy_gm_resource_document.html) by `PLAYER M___` Shea (especially the section on Secrets & Clues) - if you like it, buy his book, *Return of the Lazy Dungeon Master*.
 
 ### Flexible Truth
 
->[!quote] Arthur Wellesley, Duke of Wellington
+>[!quot`PLAYER D___` Arthur Wellesley, Duke of Wellington
 >"They made their campaigns as one might make a splendid piece of harness. It looks very well, and it answers very well, until it gets broken, and then you are done for. Now, I made my campaigns of ropes. If something went wrong, I simply tied a knot, and went on."
 
->[!aside|s-t]+ BUT WHAT IF PREP *IS* TRUE?
+>[!aside|s-`PLAYER C___`+ BUT WHAT IF PREP *IS* TRUE?
 > Some play cultures take a harder line than I do and argue that, once you sit down to actually run your session, your prep should lock and be just as true as what has already been established in the fiction. This attitude is most prominent among tables that focus on mystery or challenge-based play, the argument (as I understand it) being that those scenarios require the mechanisms and details of a challenge to be fixed in order for player choices to have meaning and for the challenge to be fair. If you prefer this table culture, you may appreciate Sandra Snan's ideas around "[Blorb](https://idiomdrottning.org/blorb-principles)" prep.
 
 
@@ -96,7 +96,7 @@ You should respect your prep, but you don't need to be wedded to it: if a better
 
 Knowing when to commit to the bit and when to pivot is one of the harder parts of improvisational play. The more experience you get, the easier it will become to make the call. When in doubt, trust your gut.
 
-> [!note|s-t]+ Player Authorship Mechanics
+> [!note|s-`PLAYER C___`+ Player Authorship Mechanics
 > If your game has a mechanic to allow players to inject details into the fiction that exist outside their character's actions, like Fate, Blades in the Dark, Fabula Ultima, the 2d20 system, and many others do, then respect those rules. The ones outlined in this game's [[Rules/1 Core Rules#Declaring a Story Detail\|1 Core Rules#Declaring a Story Detail]] option are about as permissive as I've seen in any game that still has a GM at all, but I don't know and can't account for every system on the market. Regardless, if the players are empowered to author parts of the world, then treat the things they author as established truth, just like you do for your own facts. 
 
 > [!callout|bg-c-red no-icon ]+ EXAMPLE: HOW TRUE IS TRUE?
@@ -130,7 +130,7 @@ Now that we've established *how* to prepare, we can start to talk about *what* t
 
 A problem can be an active threat or a passive obstacle. This is where the majority of moment-to-moment gameplay lives, especially with games that dedicate a lot of attention to combat (e.g "The marauder bellows as she readies her axe for another blow, but leaves herself open as she does - it's your turn, what do you do?") But it's also a fantastic source of scenario hooks - someone, somewhere, has a complex problem that needs solving, and the players might choose to make it their problem, or it might *make itself* their problem. 
 
-> [!callout]+ On System Expectations
+> [!callou`PLAYER C___`+ On System Expectations
 > Some play cultures, most notably investigative games and dungeon crawls, put a premium on problem solving *by the players*, with the PCs acting as their direct proxies to interact with the fiction. Other games are more interested in the drama surrounding the problems than the problem itself, and in everyone at the table co-authoring a story about how their characters solved a problem. Both of these are valid, but in my experience most players prefer the former, and not just because 50 years of built-up tradition have cemented it as the default. If you're going to run a game that pushes a more removed authorial / directorial stance towards the player characters, *make sure you're up front about it with your group*. The latter playstyle tends to engender very strong feelings - some people adore it, others despise it, and it's important you find out where your players stand *before* you're a few sessions in and disagreement over whether the game is fun is causing your group to fracture. If you're pitching a system that strips out what many players consider a key part of a genre's appeal - like Blades In The Dark using flashbacks to skip over extensive planning for every possible contingency and cut straight to the adrenaline-rush mayhem, or Brindlewood Bay leaving whether or not the players correctly solved the mystery completely up to a die roll - *lead with that* and set expectations accordingly.
 > 
 > I admit that I have a bias here. I tend to operate from a fundamentally traditional perspective on line between the GM and the other players, and have designed this game to *aggressively* enforce actor stance play outside of the bounded authorial intrusions that fate points allow. I don't care what's in the player's head and whether they're basing their decisions on "this is what my character would do," "this would make the story more interesting," or "this is what most efficiently gets us closer to the goal." I care *very much* about making sure that the resulting decision gets filtered through "based on what is true in the fiction, this is what my character's trying to accomplish, this is how they're trying to do it" at the point of mechanical engagement. 
@@ -145,12 +145,12 @@ A problem can be an active threat or a passive obstacle. This is where the major
 > [!callout|bg-red c-plain no-icon ]+ EXAMPLE: THE MASQUERADE
 > #TODO Example of how a masquerade ball is at once a steady state, opportunity, and problem, with multiple nested states and problems inside it. 
 
-I'll talk more about how and why to chain problems, opportunities, and steady states together on the fly  in ways that create strong narrative momentum when we get to [[Rules/7 General GM Guidance#What Follows the Result\|#What Follows the Result]] and [[Rules/7 General GM Guidance#The Golden Path\|#The Golden Path]] later in this chapter.
+I'll talk more about how and why to chain problems, opportunities, and steady states together on the fly  in ways that create strong narrative momentum when we get to [[#What Follows the Resul`PLAYER C___`] and [[#The Golden Pat`PLAYER C___`] later in this chapter.
 
 ----
 
 ## What Do You Want To Accomplish
-> [!quote] Guy Sclanders, How To Be A Great GM
+> [!quot`PLAYER D___` Guy Sclanders, How To Be A Great GM
 > There is only one story in the world, and it is: somebody wants something badly and is having trouble getting it." 
 
 This question is really about defining **WHAT SUCCESS MEANS** in context. When Allenby hits someone in the face, is she trying to provoke them? To knock them out? Specifically to break their nose and disfigure them? To snap them out of mind control? Something else? Every single one of those answers can have drastically different effects on the fiction, even if Allenby's actual behavior and action is identical across them all. The **GOAL** is what matters in this step, not the method.
@@ -201,17 +201,17 @@ Preserve the dramatic questions your campaign benefits from asking the players, 
 
 I'll talk more about dramatic questions later on in [[Rules/7 General GM Guidance#Tone, Atmosphere, & Mood\|#Tone, Atmosphere, & Mood]].
 
-If there's no meaningful uncertainty for the mechanics to resolve, proceed to [[Rules/7 General GM Guidance#What Follows the Result\|#What Follows the Result]]. Otherwise, follow the appropriate rules for whatever's happening, then move on to the next question.
+If there's no meaningful uncertainty for the mechanics to resolve, proceed to [[#What Follows the Resul`PLAYER C___`]. Otherwise, follow the appropriate rules for whatever's happening, then move on to the next question.
 
 ### What Explains The Result
 
-> [!quote] Sean Nittner
+> [!quot`PLAYER D___` Sean Nittner
 > "There's particular GMing advice that we give, which is to be a fan of the players. When something goes wrong, it's not because you're incompetent, it's because something bad happened or you're trying to compensate for something."
 
-> [!quote] Gimli's player embraces a critically failed diplomacy check, DM Of The Rings
+> [!quot`PLAYER D___` Gimli's player embraces a critically failed diplomacy check, DM Of The Rings
 > "TELL ME YOUR NAME, HORSEFUCKER!"
 
->[!aside|s-t] WHEN A PC SHOULD SUCK
+>[!aside|s-`PLAYER C___` WHEN A PC SHOULD SUCK
 > There are some notable exceptions to the guidance about not defaulting to incompetence to explain failure - primarily, genre space where PC incompetence is the point of the game. If the intended tone of your game is comedic and farcical, or otherwise operating with the shared understanding that characters getting in over their heads and screwing up royally is the primary appeal and driver of the drama, then by all means, go nuts and have fun with it.
 > 
 > Otherwise, don't take the competence advice to mean that PCs should *never* be bad at things. The aim is integrity to the characters and the fiction. Inigo Montoya is brilliant at swordfighting. He is also terrible at holding his liquor. 
@@ -225,8 +225,8 @@ Besides preserving the fantasy of the player characters, finding other reasons w
 ----
 
 ## What Follows the Result
-> [!quote] Trey Parker & Matt Stone
-> "If the words 'And Then' belong between \[your outline's] beats, you're fucked, you've got something pretty boring. What should happen between every beat is either the word 'THEREFORE' or 'BUT.'"
+> [!quot`PLAYER D___` Trey Parker & Matt Stone
+> "If the words 'And Then' belong between \[your outline'`PLAYER N___` beats, you're fucked, you've got something pretty boring. What should happen between every beat is either the word 'THEREFORE' or 'BUT.'"
 
 Your player has acted, the dice have spoken, and you've figured out everything that's happened leading up to and during the action. Now what?
 
@@ -240,7 +240,7 @@ This idea separates a story that makes sense and has a clear throughline pushing
 Simple: Figure out how every action leads to a THEREFORE or a BUT, and bring that THEREFORE or BUT in before you restart the loop. This way, the world always reacts to the players' actions. Sometimes it pushes back against them; sometimes, the players do unexpectedly well and the world's opposition to them melts away like ice cream in front of a heat gun. This logic flow is how you keep things interesting. 
 
 Here are a few broad ways this can play out. This is not a complete list, but hopefully it's enough to help you start thinking about how this can come into play in your own games:
->[!aside|s-t]+ FAILING FORWARD
+>[!aside|s-`PLAYER C___`+ FAILING FORWARD
 >All of the examples on this list are examples of "fail forward," even the last. "Fail forward" doesn't mean there's always a path open to your original goal; it means "failure *always changes something about the situation*." What you actually want to avoid is a failed roll that changes nothing and can just be retried again and again until it eventually succeeds - if you were going to let it succeed without complications no matter what, then there was never meaningful uncertainty and you shouldn't have wasted table time on it.
 
 - The player succeeded and accomplished what they set out to do, THEREFORE they've changed the situation, BUT that changed situation comes with its own built-in set of obstacles, THEREFORE there are new decisions to make.
@@ -262,7 +262,7 @@ The boundary between "What Explains The Result" and "What Follows The Result" is
 ## Integration
 Now that you know what's changed at the end of the loop, it's time to put it all together and start the next cycle. It's important to re-center the narration on the key facts influencing the next decision, especially in complex or chaotic situations. If the change is subtle or the situation is relatively stable, it should be fairly easy for everyone to keep track of the scene state, so you don't need to belabor things that aren't obvious factors in the next decision. However, if there's a lot of moving parts in the scene, then it's best to quickly re-establish the current state of all those parts for any decision where they're relevant. 
 
-> [!callout|bg-red c-plain no-icon]+ EXAMPLE LOOP: NOMU RETURNS
+> [!callout|bg-red c-plain no-ico`PLAYER C___`+ EXAMPLE LOOP: NOMU RETURNS
 > 1. Nomu is close to their assassination target, whose back is turned. The target is a skilled fighter, but off guard at the moment. 
 > 2. Nomu wants to kill the target...
 > 3. ...by sneaking up from behind and taking them out before they realize anything's wrong.
@@ -316,10 +316,10 @@ All of the prior advice in this chapter has already been about how to do this wi
 ----
 
 ## Tone, Atmosphere, & Mood
->[!quote] Brennan Lee Mulligan, NPC in a whimsical adventure who's about to be shoved headfirst through a spinning propeller, *Dimension 20 Cloudward Ho!*
+>[!quot`PLAYER D___` Brennan Lee Mulligan, NPC in a whimsical adventure who's about to be shoved headfirst through a spinning propeller, *Dimension 20 Cloudward Ho!*
 "Oh ho ho, on a pennyfarthing bicycle I ride through the sky - NO! WAIT! NOOO! Don't you think this is a sharp deviation from the tone?!"
 
-> [!aside|s-t] DON'T PULL THE RUG
+> [!aside|s-`PLAYER C___` DON'T PULL THE RUG
 > Your intended tone should be part of your pitch when you're starting up your new campaign and recruiting players. Make sure you've gotten your players to buy into the idea before you execute a drastic campaign-scale tone shift - expect them to react very negatively to having their trust broken otherwise, and rightly so, since what you're doing is no longer what they signed up for and invested time and energy in.
 
 
@@ -367,7 +367,7 @@ In other words, you don't just make something louder. You make it *flatter*. You
 
 The same concept applies at your table. If everything is at full intensity all the time, then it stops feeling intense - your players adjust to that as the baseline,, and the lack of variety generates fatigue, not excitement. When everything is intense, nothing *feels* intense. You need those quiet parts in your game, to contrast with the moments of high tension, adrenaline, chaos, hilarity, or whatever other feeling you want to create when it's at full blast. 
 
-I go into this in much more depth in [[Rules/Appendix - Shiny & Chrome\|Appendix - Shiny & Chrome]], but it's worth studying *Mad Max: Fury Road* as an absolute masterclass in the manipulation of dynamic range across every creative discipline. When you're watching it, it feels like nonstop intensity. In reality, when you look closely, it's constantly spiking the intensity up and then pulling it back down again, allowing it to reset the audience to a baseline of relative quiet before it hits you with the next spike. That pullback is absolutely critical to the film's success - it's what lets each intense moment stand out as a *discrete event*. The *feeling* of constant intensity comes from the way it places a lot of those discrete events in rapid succession. If it were actually maximum volume all the time, the film would have been an incomprehensible mess where nothing stuck out because every intense moment blurred together with the other intense moments that came before and after. The thing that makes it one of the greatest action films ever made is its *restraint.*
+I go into this in much more depth in [[Appendix - Shiny & Chrom`PLAYER D___`], but it's worth studying *Mad Max: Fury Road* as an absolute masterclass in the manipulation of dynamic range across every creative discipline. When you're watching it, it feels like nonstop intensity. In reality, when you look closely, it's constantly spiking the intensity up and then pulling it back down again, allowing it to reset the audience to a baseline of relative quiet before it hits you with the next spike. That pullback is absolutely critical to the film's success - it's what lets each intense moment stand out as a *discrete event*. The *feeling* of constant intensity comes from the way it places a lot of those discrete events in rapid succession. If it were actually maximum volume all the time, the film would have been an incomprehensible mess where nothing stuck out because every intense moment blurred together with the other intense moments that came before and after. The thing that makes it one of the greatest action films ever made is its *restraint.*
 
 #TODO Breathing room and Ma (active stillness). Related concepts, but distinct. Contrast matters. Surround your big moments with small ones. Slow the fuck down before and after something important happens to give it weight. 
 
@@ -390,7 +390,7 @@ Blades In The Dark, which popularized the concept, suggests using clocks with no
 - When the players don't want a clock to fill or empty, a mild complication increments it by 1 tick in whichever direction they're trying to avoid, a moderate complication increments it by 2, and a severe complication increments it by 3.
 - When the players are trying to increase or decrease a clock, a failure increments it by 1 tick in the direction they want, a complicated or partial success increments it by 2, a clean success increments it by 3, and a critical success (success with style in this game) increments it by 5.
 
->[!aside|s-t]+ CLOCKS IN THIS GAME
+>[!aside|s-`PLAYER C___`+ CLOCKS IN THIS GAME
 >I recommend defaulting to an 8-clock and incrementing the clock by however many hits above or below the opposition the character rolled. Ties are an exception - if the player was *specifically trying to increment a clock* or doing something that would obviously move a clock one way or the other even on a partial success, tick the clock by 1 in the appropriate direction and come up with some other kind of minor cost.
 
 These rules work well in Blades, which features multiple degrees of complication severity and success baked into its ruleset (and can have any severity of consequence appear even on a complicated success in the right conditions). If your game is closer to a binary pass/fail system, or uses a different method of handling complications, you'll need to adjust them to find an implementation that works for your table. 

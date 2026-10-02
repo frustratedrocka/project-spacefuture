@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T23:07:32.269-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","SESH_Next":"[[Session Notes/Session 01]]","SESH_Prev":"[[Session Notes/Session 00A]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":2,"Logline":"Second Wing hits the combat sim during downtime between operations.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Vergen Koni]]"],"NPCs":[null],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/ES-01 Elegant Sky]]","[[Database/Mobile Suits/TF-8 Hoplite]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]"],"Impact":[null],"Changelog":["[[Lane Gable]] ::: **RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2. ::: **LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke.","[[ES-01 Elegant Sky]] ::: **FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you. ::: **COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile."]}}
+{"dg-publish":true,"permalink":"/session-notes/session-00-b/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T23:07:32.269-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-15","SESH_Name":"Training Sim","SESH_Next":"[[Session Notes/Session 01]]","SESH_Prev":"[[Session Notes/Session 00A]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":2,"Logline":"Second Wing hits the combat sim during downtime between operations.","Attending":["[[Player Characters/August Grie`PLAYER N___`]","[[Player Characters/Lane Gabl`PLAYER D___`]","[[Player Characters/Vergen Kon`PLAYER C___`]"],"NPCs":[null],"Locations":["[[Database/Things/Fishbon`PLAYER D___`]"],"Mechs":["[[Database/Mobile Suits/Hyper Seeker CQ`PLAYER C___`]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/ES-01 Elegant Sk`PLAYER C___`]","[[Database/Mobile Suits/TF-8 Hoplit`PLAYER D___`]","[[Database/Mobile Suits/TF-8S Hoplite Strike`PLAYER N___`]"],"Impact":[null],"Changelog":["[[Lane Gabl`PLAYER D___`] ::: **RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2. ::: **LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke.","[[ES-01 Elegant Sk`PLAYER C___`] ::: **FIRE UNDETECTED** +1 when you Shoot at suits that are not aware of you. ::: **COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile."]}}
 ---
 
 
-> [!infobox|embed ws-med table wikipedia]
+> [!infobox|embed ws-med table wikipedi`PLAYER C___`
 > # Vitals
->> [!blank]
+>> [!blan`PLAYER M___`
 >
 >|Scenario|Part|Date|
 >|---|:---:|---:|
@@ -17,7 +17,7 @@
 > |Origins|And So It Begins|
 >
 >## Present
->> [!cards|3 collapse]
+>> [!cards|3 collaps`PLAYER D___`
 >> 
 >> ![Admin/Attachments/Auggie_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Auggie_Zoom.webp)
 >>  **[[Player Characters/August Grier\|Auggie]]**
@@ -63,7 +63,7 @@
 - Group actions
 - Invokes: NARRATE THE RELEVANCE
 
-See [[Rules/1 Core Rules\|1 Core Rules]] and, **seriously read this in full if you haven't already,** [[Rules/4 Challenges, Conflicts, & Contests#Conflicts\|4 Challenges, Conflicts, & Contests#Conflicts]]. 
+See [[1 Core Rule`PLAYER N___`] and, **seriously read this in full if you haven't already,** [[4 Challenges, Conflicts, & Contests#Conflict`PLAYER N___`]. 
 
 ## Zones 
 - Zones = vibes and back-of-the-napkin mouse-art minimum-LOD sketch.
