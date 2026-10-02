@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T21:15:19.290-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Database/People/Howe Nebreka]]","[[Database/People/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","[[Database/Mobile Suits/ES01 Elegant Sky]]","[[Database/Mobile Suits/UTF08-C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/NMS14 Gundam Makhairos]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor ::: 0092-09-29","XO [[Artel Ward]] brevets new command: Captain [[Gen Bashaba]], Chief Engineer [[Graciela Tor]], Helmsman [[Howe Nebreka]], Chief Comms Officcer [[Delbrau Enger]]; others you don't already personally know ::: 0092-09-29","Rebel ace pilot [[Anatol Garza]] in critical condition; [[NMS14 Gundam Makhairos]] destroyed along with the rest of First Wing ::: 0092-09-29","%% %%"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-01/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T23:01:22.046-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-29","SESH_Name":"And So It Begins","SESH_Next":"[[Session Notes/Session 02]]","SESH_Prev":"[[Session Notes/Session 00B]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":1,"Logline":"[[Vantrin Almeyer]] launches a surprise attack on the [[Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Vantrin Almeyer]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Database/People/Howe Nebreka]]","[[Database/People/Graciela Tor]]","[[Database/People/Anatol Garza]]"],"Locations":["[[Database/Things/Fishbone]]"],"Mechs":["[[Database/Mobile Suits/SE-832 Akoni]]","[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","[[Database/Mobile Suits/ES-01 Elegant Sky]]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/EW-14 Gundam Makhairos]]"],"Impact":["Original command staff and first wing of the [[Fishbone]] KIA by [[Vantrin Almeyer|Vantrin]] and the [[Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor ::: 0092-09-29","XO [[Artel Ward]] brevets new command: Captain [[Gen Bashaba]], Chief Engineer [[Graciela Tor]], Helmsman [[Howe Nebreka]], Chief Comms Officcer [[Delbrau Enger]]; others you don't already personally know ::: 0092-09-29","Rebel ace pilot [[Anatol Garza]] in critical condition; [[EW14 Gundam Makhairos]] destroyed along with the rest of First Wing ::: 0092-09-29","%% %%"],"Changelog":["[[Lane Gable]] ::: Notice 3, Shoot 2 ::: Shoot 3, Notice 2"]}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -48,13 +48,13 @@
 > 
 >  | Mobile Suits                                                                          |
 > | ------------------------------------------------------------------------------------- |
-> | [[Database/Mobile Suits/ES01 Elegant Sky\|ES01 Elegant Sky]]                       |
+> | [[Database/Mobile Suits/ES-01 Elegant Sky\|ES-01 Elegant Sky]]                     |
+> | [[Database/Mobile Suits/EW-14 Gundam Makhairos\|EW-14 Gundam Makhairos]]           |
 > | [[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]                       |
 > | [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]                                     |
-> | [[Database/Mobile Suits/NMS14 Gundam Makhairos\|NMS14 Gundam Makhairos]]           |
 > | [[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]                               |
 > | [[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]] |
-> | [[Database/Mobile Suits/UTF08-C Hoplite Custom\|UTF08-C Hoplite Custom]]           |
+> | [[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]               |
 > 
 { .block-language-dataview}
 > 
@@ -179,7 +179,7 @@ Menodora kisses two fingers of right hand and taps the console before going
 
 Lane does a little meditation to get in pre-flight mode
 
-[[Database/Mobile Suits/UTF08-C Hoplite Custom\|UTF08-C Hoplite Custom]] gets on the launcher first, and goes “August Grier - Cossack - Launching” before being shot to space
+[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]] gets on the launcher first, and goes “August Grier - Cossack - Launching” before being shot to space
 
 Lane - Elegant Sky - launches next
 
@@ -187,7 +187,7 @@ Vergen - Hyper Seeker - launches
 
 Menodora - Kerbstomp - launches
 
-3 normal [[Database/Mobile Suits/SE-832 Akoni\|Akoni]]s and one command type remain, and only the [[Database/Mobile Suits/NMS14 Gundam Makhairos\|Gundam Makhairos]] is missing one arm and both legs. Makairos attempts one desperate last move by spinning and launching itself, and while it kills a mech it explodes. The escape pod is damaged so we don’t know if they survived even though they did have a successful separation.
+3 normal [[Database/Mobile Suits/SE-832 Akoni\|Akoni]]s and one command type remain, and only the [[Database/Mobile Suits/EW-14 Gundam Makhairos\|Gundam Makhairos]] is missing one arm and both legs. Makairos attempts one desperate last move by spinning and launching itself, and while it kills a mech it explodes. The escape pod is damaged so we don’t know if they survived even though they did have a successful separation.
 
 “This is Lieutenant Commander [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] Commander of the [[Database/Things/Brynhildr\|Brynhildr]], you have the chance to surrender. Stand down and you will be spared.”
 
