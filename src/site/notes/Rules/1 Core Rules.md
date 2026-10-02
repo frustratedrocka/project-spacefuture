@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T23:57:32.915-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-02T00:03:42.279-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Taking Action
@@ -15,7 +15,7 @@ Tally your total **RESULT**, including all hits from the dice, any applicable st
 Some of these terms may not make sense to you yet; that's fine. Most of them will be explained as you progress through this page. Aspects, Boosts, and Invokes are referred to frequently; if you want to jump to that explanation first, see [[Rules/1 Core Rules#Aspects & Fate Points\|#Aspects & Fate Points]] below. For the rest, see [[Rules/3 Skills, Approaches, & Stunts\|3 Skills, Approaches, & Stunts]].
 
 >[!NOTE]+ What The Fudge?
->"But [[Admin/Player/Ben\|Ben]]," I hear, "you said you'd be running Fate, why am I seeing the Storypath dice mechanics? I want my annoying-to-find and unusable-for-anything-else fudge dice! BRING BACK MY CLICKY CLACKY MATH CUBES!" 
+>"But Ben," I hear, "you said you'd be running Fate, why am I seeing the Storypath dice mechanics? I want my annoying-to-find and unusable-for-anything-else fudge dice! BRING BACK MY CLICKY CLACKY MATH CUBES!" 
 >And to that I say: a fixed pool of four fudge dice creates a predictable curve where about 65 percent of your results are within +/- 1 of the numbers on your sheet, and over 86% are within +/- 2. That's great for Fate's default pulp adventure style, but for something a little grimmer, I want a bit more swing in the numbers. Variable D10 dice pools hit the right mathematical sweet spot, and this implementation slots cleanly into the rest of Fate's mechanical framework with only minimal adjustment to the numbers.
 >And if you don't believe Fate has a very strong narrative voice, feast your eyes on *literally any piece of cover or interior art* in its core books. It's somethin'. 
 
