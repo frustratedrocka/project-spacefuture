@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-10-02T01:15:25.092-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-10-02T01:26:12.841-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!infobox|embed ws-med]
@@ -35,11 +35,11 @@ The current mission is simple: Intercept excess food shipments and redirect them
 > 
 { .block-language-dataview}
 
-| Character                                         | Aspects                                                                         |
-| ------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [[Database/People/Gen Bashaba\|Gen Bashaba]]   | Fledgling shipmaster rising to the occasion \- You point, I fly \- \`REDACTED\` |
-| [[Database/People/Artel Ward\|Artel Ward]]     | Hard Times Make Hard Asses \- \- \- \-                                          |
-| [[Database/People/Anatol Garza\|Anatol Garza]] | Catatonic Rebel Ace \- \- \- \-                                                 |
+| Character                                         | Aspects                                                                         | Membership                              |
+| ------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------- |
+| [[Database/People/Gen Bashaba\|Gen Bashaba]]   | Fledgling shipmaster rising to the occasion \- You point, I fly \- \`REDACTED\` | [[Database/Factions/Rebels\|Rebels]] |
+| [[Database/People/Artel Ward\|Artel Ward]]     | Hard Times Make Hard Asses \- \- \- \-                                          | [[Database/Factions/Rebels\|Rebels]] |
+| [[Database/People/Anatol Garza\|Anatol Garza]] | Catatonic Rebel Ace \- \- \- \-                                                 | [[Database/Factions/Rebels\|Rebels]] |
 
 { .block-language-dataview}
 { #FactionTable}

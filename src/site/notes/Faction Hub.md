@@ -43,11 +43,11 @@ The current mission is simple: Intercept excess food shipments and redirect them
 > 
 { .block-language-dataview}
 
-| Character                                         | Aspects                                                                         |
-| ------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [[Database/People/Gen Bashaba\|Gen Bashaba]]   | Fledgling shipmaster rising to the occasion \- You point, I fly \- \`REDACTED\` |
-| [[Database/People/Artel Ward\|Artel Ward]]     | Hard Times Make Hard Asses \- \- \- \-                                          |
-| [[Database/People/Anatol Garza\|Anatol Garza]] | Catatonic Rebel Ace \- \- \- \-                                                 |
+| Character                                         | Aspects                                                                         | Membership                              |
+| ------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------- |
+| [[Database/People/Gen Bashaba\|Gen Bashaba]]   | Fledgling shipmaster rising to the occasion \- You point, I fly \- \`REDACTED\` | [[Database/Factions/Rebels\|Rebels]] |
+| [[Database/People/Artel Ward\|Artel Ward]]     | Hard Times Make Hard Asses \- \- \- \-                                          | [[Database/Factions/Rebels\|Rebels]] |
+| [[Database/People/Anatol Garza\|Anatol Garza]] | Catatonic Rebel Ace \- \- \- \-                                                 | [[Database/Factions/Rebels\|Rebels]] |
 
 { .block-language-dataview}
 
