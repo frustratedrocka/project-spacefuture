@@ -16,9 +16,9 @@ This work is based on Fate Condensed (found at http://www.faterpg.com/), a produ
 
 Fate Condensed by PK Sullivan, Lara Turner, and Fred Hicks. Additional development by Richard Bellingham, Robert Hanz, and Sophie Lagacé.
 
-Based on prior works by Rob Donoghue, Fred Hicks, Leonard Balsera, Ryan Macklin, Clark Valentine, `PLAYER M___` Olson, Brian Engard, and Sophie Lagacé.
+Based on prior works by Rob Donoghue, Fred Hicks, Leonard Balsera, Ryan Macklin, Clark Valentine, Mike Olson, Brian Engard, and Sophie Lagacé.
 
-Based on Fate Core System by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, and `PLAYER M___` Olson and Fate Accelerated Edition by Clark Valentine.
+Based on Fate Core System by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, and Mike Olson and Fate Accelerated Edition by Clark Valentine.
 
 Turn order system based on “Accidentally Designing Marvel’s Action Order System,” written by Fred Hicks and describing a variation on a method originally devised by Leonard Balsera.
 

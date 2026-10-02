@@ -50,7 +50,7 @@
 
 `REDACTED`
 
-#OOC [[Cynthi`PLAYER C___`] bet `GM` 5 bucks he's from the moon 9/30/26
+#OOC [[Cynthi`PLAYER C___`] bet Ben 5 bucks he's from the moon 9/30/26
 
 ## Quotes
 `REDACTED`

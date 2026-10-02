@@ -213,7 +213,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 **GM** OK, then that *"Hail of Lead"* is going to be a boost.
 
 >[!callout|no-t no-i c-plain bg-yellow collaps`PLAYER D___`
->The GM could write "Hail of Lead [B]" or something similar on an index card to mark this boost, but since speed of play is the priority right now and it's probably about to get used immediately, he leaves it up to everyone's memory instead.
+>The GM could write "Hail of Lead [`GM`" or something similar on an index card to mark this boost, but since speed of play is the priority right now and it's probably about to get used immediately, he leaves it up to everyone's memory instead.
 >
 >Since the two cars have the same Forcefully rank (nonexistent) and the same rank in the skills they're using (2), they could roll off - but since they're on the same side, they get to coordinate, and the GM gets to choose which one goes first. 
 
@@ -317,14 +317,14 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **ZACH** Call it "*Escape Route.*"
 
-**GM** (*writes "Escape Route [B]" on a card, draws a box, and puts it on the table*) Done. Which brings us to the first car, trying to cut you off at the exit to this alley. Alex, how are you defending?
+**GM** (*writes "Escape Route [`GM`" on a card, draws a box, and puts it on the table*) Done. Which brings us to the first car, trying to cut you off at the exit to this alley. Alex, how are you defending?
 
 >[!callout|no-t no-i c-plain bg-yellow collaps`PLAYER D___`
 >The GM here errs on the side of transparency and lets Alex actively defend against something he might logically assume is happening, but his character can't actually know for certain. If the GM wanted to keep the pursuing car's action hidden, he could have used Alex's Operate rank as a passive opposition target instead. In a real game session, that probably would have been the better move. But, this is legal, and the designer felt that the teaching example would benefit from having more - and more complex - rules interactions displayed, so here we are. 
 
 **ALEX** Same as my main action, Operate Carefully to keep moving and avoid getting stuck?
 
-**GM** Yeah let's go with that. (*rolls, gets 0 hits, pulls the "Enemy Boost [B]" card off the table*) And they'll be using that unnamed boost from last round to reroll this - this is their *"Home Turf"*, they know the city..  (*rerolls - 8, 10, 10*) Oh my god, they REALLY know the city. Alex, you're going to need Superhuman to tie.
+**GM** Yeah let's go with that. (*rolls, gets 0 hits, pulls the "Enemy Boost [`GM`" card off the table*) And they'll be using that unnamed boost from last round to reroll this - this is their *"Home Turf"*, they know the city..  (*rerolls - 8, 10, 10*) Oh my god, they REALLY know the city. Alex, you're going to need Superhuman to tie.
 
 **ALEX** Well, fuck. Good thing I'm an *"Expert Wheelman"*. (*Rolls 6 dice; an 8 and a 10*) Great, but not great enough. Ok, one point for *Expert Wheelman* to thread this needle, and one more for... Zach, you've got a map, and aren't you already good at dealing with shady places from your cat burglar days?
 
@@ -335,7 +335,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 >[!callout|no-t no-i c-plain bg-yellow collaps`PLAYER D___`
 >Alex's choice to spend two fate points on this roll is allowed, since he's not invoking the same aspect twice. He's able to invoke Zach's aspect here without it counting as a Hostile Invocation since they're on the same side, share the same goal, and Zach's already been established as helping with the escape.
 
-**GM** Works for me, I was wondering when you were going to give up some of your point hoard. That'll be a boost to the enemy then, instead of a full situation aspect. *(Puts the "Enemy Boost [B]" card back on the table)*. OK, last but not least, the second car is going to try and pull into the alley behind you and pin you in. Brigit, that means you've got a target, go ahead and roll that Shoot Forcefully from earlier now. *(rolls Operate Carefully for the defense, 4 dice - one 9, one 10, one 1)* Wow, they're rolling hot tonight. Two for the defense.
+**GM** Works for me, I was wondering when you were going to give up some of your point hoard. That'll be a boost to the enemy then, instead of a full situation aspect. *(Puts the "Enemy Boost [`GM`" card back on the table)*. OK, last but not least, the second car is going to try and pull into the alley behind you and pin you in. Brigit, that means you've got a target, go ahead and roll that Shoot Forcefully from earlier now. *(rolls Operate Carefully for the defense, 4 dice - one 9, one 10, one 1)* Wow, they're rolling hot tonight. Two for the defense.
 
 **BRIGIT** Alright, come on, one clean success tonight... *(rolls 7 dice; two 10s.)* YES! Masterful, and I think since I'm shooting out the back of the car and there's nowhere for me to dodge, I'm exposed to danger. That means my "Reckless Abandon" stunt kicks on and takes it up to Superhuman, so Success With Style!
 

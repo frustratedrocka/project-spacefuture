@@ -71,7 +71,7 @@ Don't just dump a complex setup like "Lord Paxton is a vicious warlord who subju
 
 Critically: this situation *does not care how the players engage with it*. It doesn't assume they'll ask someone about Lord Paxton, expect them to take a stance on Lord Paxton, or demand they interfere to save the conscripted teen. But *if they do*, or if they do something else, you're already prepared for it, just by knowing "Lord Paxton is a vicious warlord who subjugated this region five years ago and brooks no dissent." By setting up facts this way, you have a baseline that you can use to respond to your players, no matter what they do or how they choose to handle the emerging situation.
 
-Further Reading: [The Lazy GM's Resource Documen`PLAYER C___`(https://slyflourish.com/lazy_gm_resource_document.html) by `PLAYER M___` Shea (especially the section on Secrets & Clues) - if you like it, buy his book, *Return of the Lazy Dungeon Master*.
+Further Reading: [The Lazy GM's Resource Documen`PLAYER C___`(https://slyflourish.com/lazy_gm_resource_document.html) by Mike Shea (especially the section on Secrets & Clues) - if you like it, buy his book, *Return of the Lazy Dungeon Master*.
 
 ### Flexible Truth
 
