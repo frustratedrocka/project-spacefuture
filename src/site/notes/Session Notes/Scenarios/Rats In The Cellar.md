@@ -32,6 +32,7 @@
 > | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Graciela Tor\|Graciela Tor]]**       |
 > | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Howe Nebreka\|Howe Nebreka]]**       |
 > | ![Admin/Attachments/Sven_SQ.webp\|sban cover](/img/user/Admin/Attachments/Sven_SQ.webp)                                       | **[[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]** |
+> | ![Admin/Attachments/Brynhildr.webp\|sban cover](/img/user/Admin/Attachments/Brynhildr.webp)                                     | **[[Database/Things/Brynhildr\|Brynhildr]]**             |
 > 
 { .block-language-dataview}
 
