@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-10-02T01:29:20.970-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-10-02T01:29:31.393-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!infobox|embed ws-med]
@@ -35,40 +35,13 @@ The current mission is simple: Intercept excess food shipments and redirect them
 > 
 { .block-language-dataview}
 
-```dataview
-TABLE WITHOUT ID
-    file.link AS "Character",
-    choice(
-	    !(contains(Concept, "!r"+"!") AND "__DG_PUBLISH__" != "__DG_PUBLISH__" ),
-	    Concept, 
-	    "`REDACTED`"
-	) + " \- " 
-	+ choice(
-		!(contains(Relationship, "!r"+"!") AND "__DG_PUBLISH__" = "__DG_PUBLISH__" ),
-		Relationship, 
-		"`REDACTED`"
-	) + " \- " 
-	+ choice(
-		!(contains(Loyalty, "!r"+"!") AND "__DG_PUBLISH__" = "__DG_PUBLISH__" ),
-		Loyalty, 
-		"`REDACTED`"
-	) AS "Aspects",
-FROM #npc
-FLATTEN Faction AS Membership
-WHERE (
-	contains(Membership, this.file.link)
-	OR contains(Membership, "[["+this.file.name+"]]")
-)
-WHERE (
-	!contains(Membership, "!r"+"!")
-	OR !contains(Membership, "!h"+"!")
-    OR "__DG_PUBLISH__" != "__DG_PUBLISH__" 
-)
-WHERE (
-    dg-publish = true
-    OR "__DG_PUBLISH__" != "__DG_PUBLISH__" 
-)
-```
+| Character                                         | Aspects                                                                       |
+| ------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [[Database/People/Gen Bashaba\|Gen Bashaba]]   | Fledgling shipmaster rising to the occasion \- You point, I fly \- `REDACTED` |
+| [[Database/People/Artel Ward\|Artel Ward]]     | Hard Times Make Hard Asses \- \- \- \-                                        |
+| [[Database/People/Anatol Garza\|Anatol Garza]] | Catatonic Rebel Ace \- \- \- \-                                               |
+
+{ .block-language-dataview}
 { #FactionTable}
 
 
