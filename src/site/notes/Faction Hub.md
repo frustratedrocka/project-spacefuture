@@ -43,30 +43,13 @@ The current mission is simple: Intercept excess food shipments and redirect them
 > 
 { .block-language-dataview}
 
-```base
-filters:
-  and:
-    - file.hasTag("npc")
-    - Faction.containsAny(link(this.file.name))
-views:
-  - type: list
-    name: Known Members
-    order:
-      - file.name
-      - Concept
-      - Relationship
-      - Loyalty
-    sort:
-      - property: Rank
-        direction: ASC
-    separator: " - "
-    markers: none
-    image: note.Portrait
-    imageAspectRatio: 0.5
-    cardSize: 160
-    indentProperties: false
+| Character                                         | Aspects                                                                         |
+| ------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [[Database/People/Gen Bashaba\|Gen Bashaba]]   | Fledgling shipmaster rising to the occasion \- You point, I fly \- \`REDACTED\` |
+| [[Database/People/Artel Ward\|Artel Ward]]     | Hard Times Make Hard Asses \- \- \- \-                                          |
+| [[Database/People/Anatol Garza\|Anatol Garza]] | Catatonic Rebel Ace \- \- \- \-                                                 |
 
-```
+{ .block-language-dataview}
 
 > [!blank|embed] SCRIPT
 > <table class="dataview table-view-table"><thead><tr><th>Location</th><th>Concept</th><th>Faction</th><th>Control</th><th>Other Presence</th></tr></thead><tbody><tr><td>Arjuna</td><td></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Contested</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">ROM</a></span>,<br><span>-</span></td></tr><tr><td>Fishbone</td><td><span>Rebel Destroyer, Closest Thing To Home</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Courtesy Of the Consortium</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td>Geb</td><td></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Contested</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td>Kelly</td><td></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td>Contested</td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta.md" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
