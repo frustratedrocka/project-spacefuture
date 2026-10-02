@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/neutron-accelerator-cannon/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-01T08:03:48.637-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/things/neutron-accelerator-cannon/","tags":["lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-01T21:17:40.704-04:00","dg-note-properties":{"tags":["lore"]}}
 ---
 
 ![HiNu_HyperMegaBazookaLauncher.webp\|right wmed](/img/user/Admin/Attachments/HiNu_HyperMegaBazookaLauncher.webp)

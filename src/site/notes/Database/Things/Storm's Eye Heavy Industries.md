@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/storm-s-eye-heavy-industries/","tags":["npc","org","weird","character"],"noteIcon":"","updated":"2026-10-01T16:26:45.842-04:00","dg-note-properties":{"tags":["npc","org","weird","character"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Rank":1,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Key Mobile Suit Manufacturer","Relationship":"Sells To Everyone, Including You","Loyalty":"`REDACTED`","Aspects":["`REDACTED`",null],"Stunts":["**STUNT** Description"],"skill_5":["Acquire",[null]],"approach_5":[[null],[null]],"skill_4":[[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill"],"approach_3":["Approach",[null]],"skill_2":["Skill"],"approach_2":["Approach"],"skill_1":["Skill"],"approach_1":["Approach"],"Assoc":null}}
+{"dg-publish":true,"permalink":"/database/things/storm-s-eye-heavy-industries/","tags":["npc","org","weird","character","entity"],"noteIcon":"","updated":"2026-10-01T21:21:36.286-04:00","dg-note-properties":{"tags":["npc","org","weird","character","entity"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Rank":1,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Key Mobile Suit Manufacturer","Relationship":"Sells To Everyone, Including You","Loyalty":"`REDACTED`","Aspects":["`REDACTED`",null],"Stunts":["**STUNT** Description"],"skill_5":["Acquire",[null]],"approach_5":[[null],[null]],"skill_4":[[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill"],"approach_3":["Approach",[null]],"skill_2":["Skill"],"approach_2":["Approach"],"skill_1":["Skill"],"approach_1":["Approach"],"Assoc":null}}
 ---
 
 > [!infobox|embed left wsmall]
@@ -35,10 +35,8 @@ Led by [[Database/People/The CEO\|The CEO]].
 > [!blank|embed]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-| Session | Date | Event |
-| ------- | ---- | ----- |
-
-{ .block-language-dataview}
+> [!blank|embed]
+> <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
