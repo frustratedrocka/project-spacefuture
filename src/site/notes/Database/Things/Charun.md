@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/charun/","tags":["location","lore","entity"],"noteIcon":"","updated":"2026-10-01T21:18:04.060-04:00","dg-note-properties":{"tags":["location","lore","entity"],"Type":"[[Locations Hub|Ferr`PLAYER C___`]","Faction":["[[Database/Factions/Independen`PLAYER C___`]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":[["Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif"]]}}
+{"dg-publish":true,"permalink":"/database/things/charun/","tags":["location","lore","entity"],"noteIcon":"","updated":"2026-10-01T21:18:04.060-04:00","dg-note-properties":{"tags":["location","lore","entity"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":[["Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif"]]}}
 ---
 
 
@@ -14,7 +14,7 @@
 > |Status|Semi-Extraterritorial|
 > |Interest|<span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
-> [!cit`PLAYER D___` From Whence The Concept
+> [!cite] From Whence The Concept
 >> Not to be the fucker who is going to piss everyone off, but is there any "accounting for the sheer travel physics of space" tech in this universe?  
 >> radio waves travel at lightspeed there's a 43-minute one way delay between say Earth and Jupiter communications
 >
@@ -24,9 +24,9 @@
 >Though the question does give me an idea about how that trip might work...
 
 
-Getting to and from the [[Jupite`PLAYER N___`] sphere is not a fast process. It's hardly impossible, but it's a commitment, especially depending on where you happen to be relative to its 12-year solar orbit. 
+Getting to and from the [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] sphere is not a fast process. It's hardly impossible, but it's a commitment, especially depending on where you happen to be relative to its 12-year solar orbit. 
 
-A sufficiently powerful ship can make the trip on its own; many do. For everyone else, there's the Charun-class ferries. These gargantuan transports never actually stop, they just slow down to turn around and let smaller ships dock and undock in / near [[The Bel`PLAYER C___`], then redirect their momentum back out towards Jupiter. Jovebound ships undock close enough to maneuver and slow down on their own, beltbound ships dock on the second half of the approach, then the ferry swings around the night side of the gas giant, is refuelled in motion by a dedicated platform, and slingshots back towards the sun. 
+A sufficiently powerful ship can make the trip on its own; many do. For everyone else, there's the Charun-class ferries. These gargantuan transports never actually stop, they just slow down to turn around and let smaller ships dock and undock in / near [[Database/Glossary/The Belt\|The Belt]], then redirect their momentum back out towards Jupiter. Jovebound ships undock close enough to maneuver and slow down on their own, beltbound ships dock on the second half of the approach, then the ferry swings around the night side of the gas giant, is refuelled in motion by a dedicated platform, and slingshots back towards the sun. 
 
 There are five of them, all on staggered schedules. A charun arrives at Jupiter or somewhere in the Belt *roughly* every two weeks.
 

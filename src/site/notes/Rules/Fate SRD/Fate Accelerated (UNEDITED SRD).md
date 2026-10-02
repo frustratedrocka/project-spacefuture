@@ -699,7 +699,7 @@ There’s no definitive list of stunts that you pick from; much like aspects, ev
 
 The first type of stunt gives you a +2 bonus when you use a certain approach in a certain situation. Use this template:
 
-Because I [describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesom`PLAYER D___`, I get a +2 when I [pick one: Carefully, Cleverly, Flashily, Forcefully, Quickly, Sneakil`PLAYER C___`[pick one: attack, defend, create advantages, overcom`PLAYER D___` when [describe a circumstanc`PLAYER D___`.
+Because I [describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesome], I get a +2 when I [pick one: Carefully, Cleverly, Flashily, Forcefully, Quickly, Sneakily][pick one: attack, defend, create advantages, overcome] when [describe a circumstance].
 
 For example:
 
@@ -716,7 +716,7 @@ Sometimes, if the circumstance is especially restrictive, you can apply the stun
 
 The second type of stunt lets you make something true, do something cool, or otherwise ignore the usual rules in some way. Use this template:
 
-Because I [describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesom`PLAYER D___`, once per game session I can [describe something cool you can d`PLAYER D___`.
+Because I [describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesome], once per game session I can [describe something cool you can do].
 
 For example:
 

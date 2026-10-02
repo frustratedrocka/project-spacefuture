@@ -22,7 +22,7 @@
 { .block-language-dataview}
 
 ## NPCs
->[!cards|dataview collapse 4 img-tin`PLAYER C___` NPCs
+>[!cards|dataview collapse 4 img-tiny] NPCs
 >  | Portrait                                                                              | Character                                                   |
 > | ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 > | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Anatol Garza\|Anatol Garza]]**       |
@@ -37,7 +37,7 @@
 
 ## Mobile Suits
 
->[!cards|dataview collapse 4 img-tin`PLAYER C___` MECHS
+>[!cards|dataview collapse 4 img-tiny] MECHS
 >  | Portrait                                                    | Mobile Suit                                                                               |
 > | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ES-01 Elegant Sky\|ES-01 Elegant Sky]]**                     |
@@ -56,13 +56,13 @@
 
 # 
 
->[!cards|collapse 3 text-cente`PLAYER N___`
+>[!cards|collapse 3 text-center]
 >
 >  **Previous** 
 > [[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]
 > 
 > **Hub**
-> [[The Story So Fa`PLAYER N___`]
+> [[The Story So Far\|The Story So Far]]
 > 
 > **Next**
 > `=link(this.SCEN_Next)`

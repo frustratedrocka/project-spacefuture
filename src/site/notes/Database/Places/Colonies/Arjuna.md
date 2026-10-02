@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/arjuna/","tags":["location"],"noteIcon":"","updated":"2026-09-29T14:16:13.126-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colon`PLAYER C___`]","Faction":["[[Database/Factions/Rebel`PLAYER N___`]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Republic Of Mars|RO`PLAYER M___`]",null],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/arjuna/","tags":["location"],"noteIcon":"","updated":"2026-09-29T14:16:13.126-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Republic Of Mars|ROM]]",null],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 > [!INFOBOX|ws-med embed] Arjuna
@@ -17,7 +17,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Description
-One of three colonies in [[The Bel`PLAYER C___`] that helped kick off [[The Current Conflic`PLAYER C___`] through disagreement with [[Apsi`PLAYER N___`]. The colony didn't want to starve. Apsis disagreed.
+One of three colonies in [[Database/Glossary/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.
 
 `REDACTED`
 

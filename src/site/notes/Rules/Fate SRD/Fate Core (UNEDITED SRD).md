@@ -88,7 +88,7 @@ Check out _Game Creation_ to see how this game came about. We’ve included ch
 
 Players, your character sheet contains everything you need to know about your PC—abilities, personality, significant background elements, and any other resources that character has to use in the game. Here’s an example of a Fate character sheet, so we can show you all the components.
 
-[Insert your character sheet graphic her`PLAYER D___`
+[Insert your character sheet graphic here]
 
 ### Aspects
 
@@ -2926,7 +2926,7 @@ If, for some reason, someone decides to run outside, she figures that can be a f
 
 She sketches the rough map on an index card for everyone to see.
 
-[Your map her`PLAYER D___`  
+[Your map here]  
 
 ---
 
@@ -3052,7 +3052,7 @@ The second option you have for mitigating a hit is taking a consequence. A conse
 
 Consequences come in three levels of severity—mild, moderate, and severe. Each one has a different shift value: two, four, and six, respectively. On your character sheet, you have a number of available consequence slots, in this section:
 
-[Your character sheet image her`PLAYER D___`  
+[Your character sheet image here]  
 
 When you use a consequence slot, you reduce the shift value of the attack by the shift value of the consequence. You can use more than one consequence at a time if they’re available. Any of the hit’s remaining shifts must be handled by a stress box to avoid being taken out.
 
@@ -4085,12 +4085,12 @@ Stunts: Battlefield Expert. Can use Fight to create advantages in large-scale ta
 
 Teran the Swift, Thief Extraordinaire  
 Aspects: Cutpurse and Scoundrel, I Just Can’t Help Myself  
-Skills: Superb (+5) Burglary, Great (+4) Stealth, Good (+3) Lore, Fair (+2) Fight, Average (+1) Physique [Note: 3 physical stress boxe`PLAYER N___`  
+Skills: Superb (+5) Burglary, Great (+4) Stealth, Good (+3) Lore, Fair (+2) Fight, Average (+1) Physique [Note: 3 physical stress boxes]  
 Stunts: Inside Man. +2 to Stealth in an indoor, urban environment.
 
 Og the Strong  
 Aspects: Og Smash!, Og Not Terribly Bright  
-Skills: Fantastic (+6) Fight, Superb (+5) Physique [Note: 4 physical stress boxes, 1 extra mild consequence for physical conflict`PLAYER N___`, Great (+4) Athletics  
+Skills: Fantastic (+6) Fight, Superb (+5) Physique [Note: 4 physical stress boxes, 1 extra mild consequence for physical conflicts], Great (+4) Athletics  
 Stunts: none
 
 #### Main NPCs
@@ -4786,11 +4786,11 @@ The pyramid follows this rule already, but when you’re adding skills, you need
 
 So, let’s say you have one Good (+3), two Fair (+2), and three Average (+1) skills. Your skill distribution looks roughly like this:
 
-[Your convenient visual example her`PLAYER D___`
+[Your convenient visual example here]
 
 At a milestone, you want to upgrade a Fair (+2) skill to Good (+3). That’d give you two Good (+3), one Fair (+2), and three Average (+1):
 
-[Your convenient visual example her`PLAYER D___`
+[Your convenient visual example here]
 
 You see how that doesn’t work? You’re now missing the second Fair skill you’d need to be square with the rules.
 

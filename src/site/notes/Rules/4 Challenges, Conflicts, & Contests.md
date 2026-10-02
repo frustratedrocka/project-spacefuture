@@ -18,13 +18,13 @@ When multiple characters are pursuing competing objectives at the same time, and
 
 Conflicts include straight-up fights, but they're more than just physical. While a shootout with a rival gang or swordfight atop a rocky peak are both obvious applications, an argument with a loved one, a tense interrogation, or politicking and rumormongering to further your agenda and weaken your opponents' at a high society ball are all just as valid. 
 
-Timing matters when using some kinds of [[#Teamwor`PLAYER M___`] in a conflict:
+Timing matters when using some kinds of [[Rules/4 Challenges, Conflicts, & Contests#Teamwork\|#Teamwork]] in a conflict:
 - You can invoke an aspect on an ally's behalf to improve their roll at any time (though the same aspect still cannot be invoked twice on the same action).
 - You can help an ally *before* their turn comes around by creating an advantage.
 - You can use up your turn (skipping it for that round) to give an ally a +1 teamwork bonus. 
 
 ## Simultaneous Initiative
-This game uses a somewhat unusual initiative system. At the top of each round, the players and GM declare all of the PC and NPC actions up front. Then, they resolve in order based on the approach each character uses for their action. The order is the same as what's marked on the character sheet and in [[3 Skills, Approaches, & Stunts#Approache`PLAYER N___`]: Quickly, Boldly, Forcefully, Cleverly, Subtly, Carefully.
+This game uses a somewhat unusual initiative system. At the top of each round, the players and GM declare all of the PC and NPC actions up front. Then, they resolve in order based on the approach each character uses for their action. The order is the same as what's marked on the character sheet and in [[Rules/3 Skills, Approaches, & Stunts#Approaches\|3 Skills, Approaches, & Stunts#Approaches]]: Quickly, Boldly, Forcefully, Cleverly, Subtly, Carefully.
 
 ### GM First
 The GM decides the actions for any NPCs in combat and secretly writes them down on their initiative tracker in approach order. This should be quick - no more than a name or shorthand and 1-3 words of description (e.g. "Blademaster Charge + Draw Fire," "Ganger A+B Flank Detective," "Heavy Suppressive Fire").
@@ -33,7 +33,7 @@ The GM decides the actions for any NPCs in combat and secretly writes them down 
 To speed up play while still allowing for teamwork and some amount of tactical decision making, the players declare their actions in popcorn order. The first player to declare their action nominates the next player to declare, who then picks the next, and so on until all players have declared.
 
 ### Resolution
-Once everyone's actions are set, actions resolve in order of approach. Allied characters using the same approach may freely decide their action order. If opposed characters are using the same approach, resolve hostile [[5 Running The Game#Major NPC`PLAYER N___`] first, then PCs and their allies, then all other NPCs before moving to the next approach.
+Once everyone's actions are set, actions resolve in order of approach. Allied characters using the same approach may freely decide their action order. If opposed characters are using the same approach, resolve hostile [[Rules/5 Running The Game#Major NPCs\|5 Running The Game#Major NPCs]] first, then PCs and their allies, then all other NPCs before moving to the next approach.
 
 Sometimes, actions taken earlier in a round may invalidate actions that would have gone off later (e.g. a player planned to Shoot Carefully to snipe an enemy who was already taken out earlier in the round). If there is a reasonable way for such actions to be retargeted without changing the approach, the GM should allow the players to do so; otherwise, the action is lost. 
 
@@ -85,14 +85,14 @@ To start the **RECOVERY PROCESS,** the person treating you will need to succeed 
 If you succeed on this roll, rewrite the consequence to indicate that it is healing. A "broken arm" may be rewritten as "arm in a cast," for instance. Success here is only the first hurdle - it **TAKES TIME** to clear the consequence.
 - Mild consequences take one full scene after treatment to clear.
 - Moderate consequences last longer, taking a full session to clear (meaning they clear at the end of the session *after* they are treated).
-- Severe consequences only clear when you reach a [[2 Character Creation#Breakthroug`PLAYER C___`].
+- Severe consequences only clear when you reach a [[Rules/2 Character Creation#Breakthrough\|2 Character Creation#Breakthrough]].
 
 If you have not yet successfully renamed a consequence by the time you reach a Breakthrough, then you get to do so automatically as part of that Breakthrough. The renamed consequence will then persist for the entire next scenario and clear at the next Breakthrough as normal.
 
 ### Extreme Consequences
 Extreme consequences are a fourth severity of consequence that permanently, irrevocably change a character. Taking an extreme consequence reduces harm by 8. When taken, you must **REPLACE** one of your character's existing aspects (other than their high concept, which is off-limits) with an aspect that represents the profound change to the character resulting from the harm they've taken.
 
-There is no option to recover from an extreme consequence; it has become a part of the character now. At your next [[2 Character Creation#Breakthroug`PLAYER C___`] you may rename it to reflect how you've come to terms with it, but you can never go back to your original aspect.
+There is no option to recover from an extreme consequence; it has become a part of the character now. At your next [[Rules/2 Character Creation#Breakthrough\|2 Character Creation#Breakthrough]] you may rename it to reflect how you've come to terms with it, but you can never go back to your original aspect.
 
 Between breakthroughs, a character may only use this option once. 
 
@@ -107,7 +107,7 @@ Armor is similar to strain in play, but differs in two ways. First, where strain
 
 To repair your armor when you're not in position where it makes sense, you must Tinker as an overcome action with opposition equal to the amount of armor boxes you're trying to repair (maximum 5). This represents your best effort with the resources available to you; regardless of the result, you cannot attempt this again until your mech takes additional harm or you gain access to resources that can help you.
 
-The other difference is how you upgrade your armor. Where strain is innate to your pilot and scales with their Persevere skill, armor is a mechanical quality of your mech, not you as a person. Instead of taking a skill increase during a [[2 Character Creation#Breakthroug`PLAYER C___`], you may add 2 armor boxes to your mech (to a maximum of 8). If you ever get a new mech, those upgrades do not carry over. You and your GM may decide together that it's fictionally appropriate for the new mech to already have better-than-standard armor when you get it (e.g. it's a fresh-from-the-factory prototype custom-built to your specifications), but that is not an assumed default.
+The other difference is how you upgrade your armor. Where strain is innate to your pilot and scales with their Persevere skill, armor is a mechanical quality of your mech, not you as a person. Instead of taking a skill increase during a [[Rules/2 Character Creation#Breakthrough\|2 Character Creation#Breakthrough]], you may add 2 armor boxes to your mech (to a maximum of 8). If you ever get a new mech, those upgrades do not carry over. You and your GM may decide together that it's fictionally appropriate for the new mech to already have better-than-standard armor when you get it (e.g. it's a fresh-from-the-factory prototype custom-built to your specifications), but that is not an assumed default.
 
 ### Breakdown
 Breakdown works a little differently than consequences. Instead of the wide-open field of consequence aspects you can create when your pilot suffers harm, breakdown pre-defines the way that damage to your mech escalates throughout a fight. This is meant to take some of the pressure off everyone at the table to quickly figure out wording in the heat of a battle, automatically create relevant and usable aspects, and tune those aspects to continuously ratchet up the tension of the scene. 
@@ -125,9 +125,9 @@ Unless there is a relevant aspect in play somewhere in your game that would prev
 As with normal consequences, breakdown slots can be filled in any order as long as all harm taken is ultimately allocated and pushed through.
 
 ### Losing Your Mech
-If you concede or take an [[#Extreme Consequences|extreme consequenc`PLAYER D___`] while your mech is Doomed and you're inside it, the mech is **DESTROYED** unless you or an ally in a position to intervene sacrifice a point of Refresh and describe how it survives the engagement through extreme luck or effort (as with buying stunts, you can never drop your refresh below 1). If your mech is destroyed, you acquire a new one at your next breakthrough, or earlier if the fiction offers an opportunity to do so (e.g. stealing one from an enemy base). Work with your GM to design a new mech that's appropriate for the state of the fiction and the resources available to your character. A replacement mech at breakthrough should never cost you resources outside the fiction layer; the game is premised on you being a mech pilot, and even though you spend a lot of time out of your mech, you should never be without access to one for an extended period.
+If you concede or take an [[Rules/4 Challenges, Conflicts, & Contests#Extreme Consequences\|extreme consequence]] while your mech is Doomed and you're inside it, the mech is **DESTROYED** unless you or an ally in a position to intervene sacrifice a point of Refresh and describe how it survives the engagement through extreme luck or effort (as with buying stunts, you can never drop your refresh below 1). If your mech is destroyed, you acquire a new one at your next breakthrough, or earlier if the fiction offers an opportunity to do so (e.g. stealing one from an enemy base). Work with your GM to design a new mech that's appropriate for the state of the fiction and the resources available to your character. A replacement mech at breakthrough should never cost you resources outside the fiction layer; the game is premised on you being a mech pilot, and even though you spend a lot of time out of your mech, you should never be without access to one for an extended period.
 
-If your mech is ever taken out while you're in it, it is destroyed, and whoever took you out gets to decide what happens to you just like when you're taken out on foot. See [[2 Character Creation#Replacing Your Mec`PLAYER C___`] for what to do if you survive.
+If your mech is ever taken out while you're in it, it is destroyed, and whoever took you out gets to decide what happens to you just like when you're taken out on foot. See [[Rules/2 Character Creation#Replacing Your Mech\|2 Character Creation#Replacing Your Mech]] for what to do if you survive.
 
 # Contests
 

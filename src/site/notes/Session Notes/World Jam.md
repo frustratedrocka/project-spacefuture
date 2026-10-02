@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/world-jam/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T14:16:13.321-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-08-04","SESH_Name":"A Century Emerges","SESH_Next":"[[Session Notes/Session 00A]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":"0","Logline":"An impromptu worldbuilding session before character creation","Attending":null,"NPCs":["[[Database/People/The Man Upstair`PLAYER N___`]","[[Database/People/The CEO]]","[[Database/People/The Pirate King]]","[[Database/People/The Mother And The Fathe`PLAYER N___`]","[[Database/People/The Quee`PLAYER C___`]"],"Locations":["[[Database/Places/Eart`PLAYER C___`]","[[Database/Places/Jupiter Sphere/Jupite`PLAYER N___`]","[[Database/Places/Mar`PLAYER N___`]","[[Database/Glossary/The Bel`PLAYER C___`]","[[Database/Places/Colonies/Arjun`PLAYER C___`]","[[Database/Places/Colonies/Geb]]","[[Database/Places/Colonies/Kell`PLAYER C___`]"],"Mechs":[null],"Impact":["Luna is dropped onto Earth ::: 0078-05-23","[[Apsi`PLAYER N___`] reallocation cuts food to [[Kell`PLAYER C___`], [[Geb]], [[Arjun`PLAYER C___`] colonies below starvation levels ::: 0092-02-02","[[Rebel`PLAYER N___`] respond to cuts by escalating to armed revolt ::: 0092-03-15"],"Changelog":null}}
+{"dg-publish":true,"permalink":"/session-notes/world-jam/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T14:16:13.321-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-08-04","SESH_Name":"A Century Emerges","SESH_Next":"[[Session Notes/Session 00A]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":"0","Logline":"An impromptu worldbuilding session before character creation","Attending":null,"NPCs":["[[Database/People/The Man Upstairs]]","[[Database/People/The CEO]]","[[Database/People/The Pirate King]]","[[Database/People/The Mother And The Father]]","[[Database/People/The Queen]]"],"Locations":["[[Database/Places/Earth]]","[[Database/Places/Jupiter Sphere/Jupiter]]","[[Database/Places/Mars]]","[[Database/Glossary/The Belt]]","[[Database/Places/Colonies/Arjuna]]","[[Database/Places/Colonies/Geb]]","[[Database/Places/Colonies/Kelly]]"],"Mechs":[null],"Impact":["Luna is dropped onto Earth ::: 0078-05-23","[[Apsis]] reallocation cuts food to [[Kelly]], [[Geb]], [[Arjuna]] colonies below starvation levels ::: 0092-02-02","[[Rebels]] respond to cuts by escalating to armed revolt ::: 0092-03-15"],"Changelog":null}}
 ---
 
-> [!infobox|embed ws-med table wikipedi`PLAYER C___`
+> [!infobox|embed ws-med table wikipedia]
 > # Vitals
->> [!blan`PLAYER M___`
+>> [!blank]
 >
 >|Scenario|Part|Date|
 >|---|:---:|---:|
@@ -62,7 +62,7 @@ Fungal outbreak leading to hive mind crisis?
 Latent?  
 Previous crisis involved genocide of the hive (Ben)?  
 Operation British?  
-Arms race? Energy source caused problems to the point that they nuked the source? [[Hivetec`PLAYER C___`]?
+Arms race? Energy source caused problems to the point that they nuked the source? [[Database/Things/Hivetech\|Hivetech]]?
 Famine and resource depletion?  
 Asteroid belt? Gas giant mining?  
 Group that worships the hive mind?
@@ -71,19 +71,19 @@ American Revolution In Space?
 
 [The Hive Mind](app://obsidian.md/The%20Hive%20Mind)
 
-[The Ground Wa`PLAYER N___`(app://obsidian.md/The%20Ground%20War)
+[The Ground War](app://obsidian.md/The%20Ground%20War)
 
 ## Results
 GM's Created Factions:
-[[Rebel`PLAYER N___`]
-[[Apsi`PLAYER N___`]
-[[Republic Of Mars|Martia`PLAYER C___`] #TODO 
+[[Database/Factions/Rebels\|Rebels]]
+[[Database/Factions/Apsis\|Apsis]]
+[[Database/Factions/Republic Of Mars\|Martian]] #TODO 
 
 Player Created Factions
-[[Jovian Consortium|Jovian`PLAYER N___`]
-[[Armada Ejecta|Space Pirate`PLAYER N___`]
-[[Mindful Eye`PLAYER N___`]
-[[Hive Cul`PLAYER C___`]
+[[Database/Factions/Jovian Consortium\|Jovians]]
+[[Database/Factions/Armada Ejecta\|Space Pirates]]
+[[Database/Factions/Mindful Eyes\|Mindful Eyes]]
+[[Database/Factions/Hive Cult\|Hive Cult]]
 
 # 
 >[!cards|txt-c]

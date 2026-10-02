@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-01T23:00:34.938-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"Player":"[[Admin/Player/Mik`PLAYER D___`]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Auggie_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Auggie_Zoom.webp]]","Faction":["[[Database/Factions/Rebel`PLAYER N___`]"],"Origin":"[[Database/Places/Mar`PLAYER N___`]","Assoc":["[[Database/Places/Colonies/Theseu`PLAYER N___`]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"MECH_Model":"[[Database/Mobile Suits/TF-8C Hoplite Custom]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Coffin","MECH_Gear":["Machinegun","Missile Launcher"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Boldly",[null]],"skill_2":["Shoot","Move",[null],[null]],"approach_2":["Carefully","Quickly"],"skill_1":["Fight","Operate","Tend",[null]],"approach_1":["Cleverly","Forcefully","Subtly"],"aliases":["Auggie"]}}
+{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-01T23:00:34.938-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"Player":"[[Admin/Player/Mike]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Auggie_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Auggie_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Mars]]","Assoc":["[[Database/Places/Colonies/Theseus]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"MECH_Model":"[[Database/Mobile Suits/TF-8C Hoplite Custom]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Coffin","MECH_Gear":["Machinegun","Missile Launcher"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Boldly",[null]],"skill_2":["Shoot","Move",[null],[null]],"approach_2":["Carefully","Quickly"],"skill_1":["Fight","Operate","Tend",[null]],"approach_1":["Cleverly","Forcefully","Subtly"],"aliases":["Auggie"]}}
 ---
 
 > [!infobox|left wsmall embed]
 > # August Grier
 > ![Admin/Attachments/Auggie_SQ.webp\|Auggie_SQ.webp](/img/user/Admin/Attachments/Auggie_SQ.webp)
-> > [!captio`PLAYER C___` 
+> > [!caption] 
 > > 
 >
->>[!table|table clean n-t`PLAYER C___` 
+>>[!table|table clean n-th] 
 >> |  |  |
 >> |--|--|
 >> |**ORIGIN**|[[Database/Places/Mars\|Mars]]|
@@ -51,7 +51,7 @@
 
 >[!blank|static wfull]
 
->[!clear|clean table n-t`PLAYER C___`
+>[!clear|clean table n-th]
 > ### SKILLS & APPROACHES
 > |                    |                    |                    |                    |       |                |                       |                        |                       |
 > | :----------------: | :----------------: | :----------------: | :----------------: | ----: | :------------- | :-------------------: | :--------------------: | --------------------- |
@@ -78,10 +78,10 @@ Wait until fully seated to put on helmet. Check weapons, then smack an old shatt
 Shot down during combat against Rebel forces. Captured, then turned to the resistance- at first forcefully, then willingly. 
 
 ### Phase Two: Crossing Paths
-[[Lane Gabl`PLAYER D___`] encountered August during combat. Lane was the resistance member that shot down August and decided to take him into the rebellion.
+[[Player Characters/Lane Gable\|Lane Gable]] encountered August during combat. Lane was the resistance member that shot down August and decided to take him into the rebellion.
 
 ### Phase Three: Crossing Paths
-[[Menodora Thalian`PLAYER C___`] was interested in joining the rebellion, and heard August was someone who may have an in. She cannot take no for an answer.
+[[Player Characters/Menodora Thaliana\|Menodora Thaliana]] was interested in joining the rebellion, and heard August was someone who may have an in. She cannot take no for an answer.
 
 ## Data
 

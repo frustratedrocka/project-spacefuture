@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/brynhildr/","tags":["npc","location","ship","weird","entity"],"noteIcon":"","updated":"2026-10-01T21:21:38.424-04:00","dg-note-properties":{"tags":["npc","location","ship","weird","entity"],"Portrait":"Admin/Attachments/Brynhildr.webp","Faction":["[[Database/Factions/Apsi`PLAYER N___`]"],"Type":["[[Database/Glossary/Ship]]"],"Class":"[[Database/Glossary/Ship|Valkyrie-class cruise`PLAYER N___`]","Scale":5,"Rank":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Apsis pursuit cruiser","Aspects":["Scourge of the deep belt","One battle, one Brynhildr",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill",[null]],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/things/brynhildr/","tags":["npc","location","ship","weird","entity"],"noteIcon":"","updated":"2026-10-01T21:21:38.424-04:00","dg-note-properties":{"tags":["npc","location","ship","weird","entity"],"Portrait":"Admin/Attachments/Brynhildr.webp","Faction":["[[Database/Factions/Apsis]]"],"Type":["[[Database/Glossary/Ship]]"],"Class":"[[Database/Glossary/Ship|Valkyrie-class cruiser]]","Scale":5,"Rank":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Apsis pursuit cruiser","Aspects":["Scourge of the deep belt","One battle, one Brynhildr",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill",[null]],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|embed left wsmall]
@@ -27,7 +27,7 @@
 
 
 # Notes
-An [[Apsi`PLAYER N___`] warship. Like most Valkyrie-class cruisers, it operates without escort on extended hunts through the belt, striking at [[Armada Eject`PLAYER C___`] and anyone else who attempts to disrupt the proper order of things.
+An [[Database/Factions/Apsis\|Apsis]] warship. Like most Valkyrie-class cruisers, it operates without escort on extended hunts through the belt, striking at [[Database/Factions/Armada Ejecta\|Armada Ejecta]] and anyone else who attempts to disrupt the proper order of things.
 
 At this moment, that includes you. Lucky you!
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["ship","character","weird","location","entity"],"noteIcon":"","updated":"2026-10-01T21:21:37.487-04:00","dg-note-properties":{"tags":["ship","character","weird","location","entity"],"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroye`PLAYER N___`]","Faction":["[[Database/Factions/Rebel`PLAYER N___`]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Strain":8,"Consequences":["","","",""],"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["ship","character","weird","location","entity"],"noteIcon":"","updated":"2026-10-01T21:21:37.487-04:00","dg-note-properties":{"tags":["ship","character","weird","location","entity"],"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Strain":8,"Consequences":["","","",""],"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|embed left wsmall]
 > # Fishbone
 > ![Admin/Attachments/PCShip.webp\|PCShip.webp](/img/user/Admin/Attachments/PCShip.webp)
-> >[!captio`PLAYER C___`
+> >[!caption]
 > >[[Database/Glossary/Ship\|Guernica-Class Destroyer]]
 > 
 > |  |  |

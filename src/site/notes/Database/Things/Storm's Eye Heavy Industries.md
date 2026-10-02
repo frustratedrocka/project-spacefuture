@@ -24,7 +24,7 @@
 
 >[!blank|wfull]
 # Notes
-The first large-scale manufacturer of mobile suits. Originally based on [[Ganymed`PLAYER D___`], with a second production facility in [[Jupite`PLAYER N___`]'s mid-outer orbit.
+The first large-scale manufacturer of mobile suits. Originally based on [[Database/Places/Jupiter Sphere/Ganymede\|Ganymede]], with a second production facility in [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]]'s mid-outer orbit.
 
 Led by [[Database/People/The CEO\|The CEO]].
 

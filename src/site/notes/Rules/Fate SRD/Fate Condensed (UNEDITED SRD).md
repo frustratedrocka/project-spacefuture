@@ -235,7 +235,7 @@ You write your own stunts when building a character. Broadly, there are two type
 
 Write this type of stunt as follows:
 
-Because I **[describe how you are amazing or have a cool bit of gea`PLAYER N___`**, I get a +2 when I use **[pick a skill]** to **[pick one: overcome, create an advantage, attack, defend]** when **[describe a circumstanc`PLAYER D___`**.
+Because I **[describe how you are amazing or have a cool bit of gear]**, I get a +2 when I use **[pick a skill]** to **[pick one: overcome, create an advantage, attack, defend]** when **[describe a circumstance]**.
 
 **Example Bonus-Granting Stunt:** Because I am **a military-trained sniper**, I get a +2 when I use **Shoot** to **attack** when **I have a target** **In My Sights**.
 
@@ -249,7 +249,7 @@ Because I **[describe how you are amazing or have a cool bit of gea`PLAYER N___
 
 Write this type of stunt as follows:
 
-Because I **[describe how you are amazing or have a cool bit of gea`PLAYER N___`**, I can **[describe your amazing fea`PLAYER C___`**, but only **[describe a circumstance or limitatio`PLAYER C___`**.
+Because I **[describe how you are amazing or have a cool bit of gear]**, I can **[describe your amazing feat]**, but only **[describe a circumstance or limitation]**.
 
 **Example Rule-Changing Stunt:** Because I **don’t believe in magic**, I can **ignore the effects of a supernatural ability**, but only **once per game session**.
 

@@ -4,4 +4,4 @@
 
 ![HiNu_HyperMegaBazookaLauncher.webp\|right wmed](/img/user/Admin/Attachments/HiNu_HyperMegaBazookaLauncher.webp)
 
-Uncommon [[Apsi`PLAYER N___`] portable artillery, closer to a warship's main gun than to standard MS armament. An extremely high-risk high-reward weapon, with enormous drawbacks and limitations. Best used only when an entire operation has been built around making the most of its single shot per engagement.
+Uncommon [[Database/Factions/Apsis\|Apsis]] portable artillery, closer to a warship's main gun than to standard MS armament. An extremely high-risk high-reward weapon, with enormous drawbacks and limitations. Best used only when an entire operation has been built around making the most of its single shot per engagement.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-19T16:40:34.404-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Plane`PLAYER C___`]","Faction":["[[Database/Factions/Republic Of Mar`PLAYER N___`]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsi`PLAYER N___`]"],"Portrait":"Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/places/mars/","tags":["location"],"noteIcon":"","updated":"2026-09-19T16:40:34.404-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"]}}
 ---
 
 
@@ -20,9 +20,9 @@
 
 # Description
 
-The new breadbasket now that [[Eart`PLAYER C___`] is gone. *Officially* [[The Ground Wa`PLAYER N___`] ended in a stalemate and settled truce; unofficially, the terms strongly favored Jupiter.
+The new breadbasket now that [[Database/Places/Earth\|Earth]] is gone. *Officially* [[Database/History/The Ground War\|The Ground War]] ended in a stalemate and settled truce; unofficially, the terms strongly favored Jupiter.
 
-Mars as a political entity consists largely of farmers and farmer interests, with the [[Republic Of Mar`PLAYER N___`] as the current form of its governing body.
+Mars as a political entity consists largely of farmers and farmer interests, with the [[Database/Factions/Republic Of Mars\|Republic Of Mars]] as the current form of its governing body.
 
 >[!blank|wfull] END MANUAL ENTRY
 

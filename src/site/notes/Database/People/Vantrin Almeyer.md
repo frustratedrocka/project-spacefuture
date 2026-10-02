@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-10-01T23:52:58.857-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsi`PLAYER N___`]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhild`PLAYER N___`]"],"Strain":5,"Consequences":[null,null,null],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/SE-832-E Akoni Command Typ`PLAYER D___`]","Armor":4,"Breakdown":["Sparking Joints",[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Cleverly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Quickly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"],"aliases":["Vantrin"]}}
+{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-10-01T23:52:58.857-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[null,null,null],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","Armor":4,"Breakdown":["Sparking Joints",[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Cleverly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Quickly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"],"aliases":["Vantrin"]}}
 ---
 
 > [!infobox|embed left wsmall]
@@ -50,7 +50,7 @@
 
 `REDACTED`
 
-#OOC [[Cynthi`PLAYER C___`] bet Ben 5 bucks he's from the moon 9/30/26
+#OOC [[Admin/Player/Cynthia\|Cynthia]] bet Ben 5 bucks he's from the moon 9/30/26
 
 ## Quotes
 `REDACTED`

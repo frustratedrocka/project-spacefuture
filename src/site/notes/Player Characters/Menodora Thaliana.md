@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-01T21:21:33.155-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"Player":"[[Admin/Player/Cynthi`PLAYER C___`]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebel`PLAYER N___`]"],"Origin":"[[Database/Places/Earth|Lun`PLAYER C___`]","Assoc":["[[Database/Glossary/The Bel`PLAYER C___`]","[[Database/Things/Charu`PLAYER C___`]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Ticket Out","MECH_Gear":["Mining Drill","Club"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Forcefully",[null]],"skill_2":["Fight","Network",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Tinker","Understand","Acquire",[null]],"approach_1":["Carefully","Quickly","Subtly"],"aliases":["Mena"]}}
+{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-01T21:21:33.155-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"Player":"[[Admin/Player/Cynthia]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Things/Charun]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"MECH_Model":"[[Database/Mobile Suits/Kerbstomp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Ticket Out","MECH_Gear":["Mining Drill","Club"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Forcefully",[null]],"skill_2":["Fight","Network",[null],[null]],"approach_2":["Boldly","Cleverly"],"skill_1":["Tinker","Understand","Acquire",[null]],"approach_1":["Carefully","Quickly","Subtly"],"aliases":["Mena"]}}
 ---
 
 > [!infobox|left wsmall embed]
 > # Menodora Thaliana
 > ![Admin/Attachments/Menodora_SQ.webp\|Menodora_SQ.webp](/img/user/Admin/Attachments/Menodora_SQ.webp)
-> > [!captio`PLAYER C___` 
+> > [!caption] 
 > > 
 >
->>[!table|table clean n-t`PLAYER C___` 
+>>[!table|table clean n-th] 
 >> |  |  |
 >> |--|--|
 >> |**ORIGIN**|[[Database/Places/Earth\|Luna]]|
@@ -77,11 +77,11 @@ Got involved in [[Database/Things/Fight Pits\|mobile suit gladiator fighting]] w
 
 ### Phase Two: Crossing Paths
 
-[[Vergen Kon`PLAYER C___`] had pinged a connection with [[The Hive Mind\|Vergen Kon`PLAYER C___`] had pinged a connection with [[The Hive Mind]] from Menodora. Finding another Hive-Linked individual, He and her seem to be Kindred spirits. 
+[[Player Characters/Vergen Koni\|Vergen Koni]] had pinged a connection with [[Database/History/The Hive Mind\|The Hive Mind]] from Menodora. Finding another Hive-Linked individual, He and her seem to be Kindred spirits. 
 
 ### Phase Three: Crossing Paths
 
-[[August Grie`PLAYER N___`] found his way to the [[Fight Pits|fighting pit`PLAYER N___`], not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.  
+[[Player Characters/August Grier\|August Grier]] found his way to the [[Database/Things/Fight Pits\|fighting pits]], not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.  
 
 ## Data
 

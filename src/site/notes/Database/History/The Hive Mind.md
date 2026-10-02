@@ -10,10 +10,10 @@ Based on cordyceps - fungal emergence.
 
 Wasn't an organized phenomenon until crackdowns and discriminatory response start
 
-Was stronger during [[The Ground Wa`PLAYER N___`], now more of a vague impression - and it is a first impression, not an overriding opinion
+Was stronger during [[Database/History/The Ground War\|The Ground War]], now more of a vague impression - and it is a first impression, not an overriding opinion
 
-[[Hivetec`PLAYER C___`] attempts may have been part of what led to things getting out of hand.
+[[Database/Things/Hivetech\|Hivetech]] attempts may have been part of what led to things getting out of hand.
 
-Luna getting slammed into [[Eart`PLAYER C___`] *did* successfully (possibly temporarily?) cut off means of hive transmission
+Luna getting slammed into [[Database/Places/Earth\|Earth]] *did* successfully (possibly temporarily?) cut off means of hive transmission
 
-Remnants partially organized as [[Mindful Eye`PLAYER N___`]
+Remnants partially organized as [[Database/Factions/Mindful Eyes\|Mindful Eyes]]

@@ -7,15 +7,15 @@
 
 It's important that you finish character creation with the answer to a simple question: **WHY IS YOUR CHARACTER IN THE STORY?** What goals are they pursuing that drive the action forwards? What circumstances are pushing them to take on ever-greater levels of risk to get what they want? Characters who don't want to engage with the interesting parts of the fiction and would insist on just staying home where it's safe and comfortable are an important part of the world, but they don't make for good protagonists (Bilbo Baggins may complain through most of his journey, but he *does* voluntarily go on the adventure, and deep down, he wouldn't have it any other way). Actively steering your character into exciting circumstances is a key part of your side of the social contract. 
 
-You can print out a copy of the [[Character Creation Workshee`PLAYER C___`] to help you through this process, or just use the back of your [[DONOTUSE_OLD_Character Shee`PLAYER C___`] or a blank piece of paper. This will mostly help with the Phase Trio: three aspects that sum up your backstory and jumpstart your relationships with the other PCs.
+You can print out a copy of the [[Rules/Character Creation Worksheet\|Character Creation Worksheet]] to help you through this process, or just use the back of your [[Admin/Templates/DONOTUSE_OLD_Character Sheet\|DONOTUSE_OLD_Character Sheet]] or a blank piece of paper. This will mostly help with the Phase Trio: three aspects that sum up your backstory and jumpstart your relationships with the other PCs.
 
 Don't stress too much about getting your stats, aspects, and stunts perfect at character creation - **YOU CAN ALWAYS CHANGE THEM LATER**. 
 
 ## Name Your Character
->[!note|s-`PLAYER C___`+ Anomia?
+>[!note|s-t]+ Anomia?
 >I will not give advice on coming up with names. I'm truly horrendous at it, and appropriate names are highly dependent on the type of game you're playing anyway. The name "Skarbrik Skulldrinker" may be appropriate for a musclebound barbarian in a fantasy setting; it is probably less appropriate in a genteel aristocratic court drama - though I would very much like to see a campaign that actually makes that pairing work.
 
-Every character needs a name. Yours, specifically, needs one at some point prior to reaching [[#Phase One Your Adventure|Phase On`PLAYER D___`] and writing your third aspect. If you're stumped, there are all sorts of name generators available online that include everything from real-world names organized by linguistic and cultural / national origin to some incredibly specific genre- and trope-based naming conventions.
+Every character needs a name. Yours, specifically, needs one at some point prior to reaching [[Rules/2 Character Creation#Phase One Your Adventure\|Phase One]] and writing your third aspect. If you're stumped, there are all sorts of name generators available online that include everything from real-world names organized by linguistic and cultural / national origin to some incredibly specific genre- and trope-based naming conventions.
 
 ## Writing Aspects
 Aspects can describe anything and everything about your character, including but not limited to:
@@ -39,7 +39,7 @@ If you're struggling to come up with a good aspect, ask yourself: **WHAT'S IMPOR
 **AT LEAST ONE** of your character's aspects must relate to a strong belief they hold about the world your character lives in (as in the belief is strongly held, an extreme position in some way, or both). This could be a political stance, a philosophical viewpoint, a religious conviction, an idea of what a perfect world should look like, or any number of other ways a person's opinions could manifest.
 
 ### High Concept & Trouble
->[!aside|s-`PLAYER C___` WELCOME PILOTS
+>[!aside|s-t] WELCOME PILOTS
 > In this game, every player character is assumed to be a skilled mech pilot, so you don't need to include that as an aspect on your sheet. If you do, use that aspect to define *what kind* of pilot you are, *why* you fight, or something else that distinguishes you from the other PCs.
 
 First, choose a **HIGH CONCEPT**, a phrase that sums up the main thing your character is about - how you'd open the pitch for the character when telling a friend about them (e.g. "*Wizard Private Detective,"* "*Hotheaded Martial Arts Prodigy,*" *"Peace Envoy From The Moon,"* *"Small Girl With A Big Gun*). These can have overlap among the characters, as long as you have something to distinguish how your character is different from the others (e.g. "*Alliance Soldier*" by itself isn't specific enough to work as a high concept in a campaign soldiers fighting for the Alliance; "*Gifted Rookie Alliance Soldier*," "*Vengeful Maverick Alliance Soldier*," "*Grizzled Veteran Alliance Soldier*," or "*Conscientious Defector Alliance Soldier*" are all better).
@@ -51,7 +51,7 @@ Where did your character's story begin? What was the first thing that marked the
 
 Write down up to two sentences on an index card describing your character's most relevant backstory event. This should be what kickstarted the chain of cause and effect that led to their being here, now, where the campaign will actually start. Then, write down an aspect that in some way relates to what happened. 
 
->[!note|s-`PLAYER C___`+ On Incident Timing
+>[!note|s-t]+ On Incident Timing
 > Because other PCs will be involved in the following phases, this incident can't have been so early in your character's life that they haven't met the other protagonists yet. Your best bet is to keep the time frame vague; you can figure that out after you know who else is involved in your past.
 
 ### Phase Two & Three: Crossing Paths
@@ -67,13 +67,13 @@ Repeat this process for Phase 3.
 This last aspect is completely up to you. Fill it in with anything else you think is key to your character, or leave it blank for now and discover the aspect through play. 
 
 ## Rank Skills & Approaches
-You start the game with **SIX SKILLS** ranked on your character sheet. Lacking a rank in a skill does not necessarily indicate total incapability; often, it just means you're not experienced or gifted enough to reliably use the skill under the kind of pressures that demand the dice come into play. See [[3 Skills, Approaches, & Stunts#Untrained Actio`PLAYER C___`] for details. 
+You start the game with **SIX SKILLS** ranked on your character sheet. Lacking a rank in a skill does not necessarily indicate total incapability; often, it just means you're not experienced or gifted enough to reliably use the skill under the kind of pressures that demand the dice come into play. See [[Rules/3 Skills, Approaches, & Stunts#Untrained Action\|3 Skills, Approaches, & Stunts#Untrained Action]] for details. 
 
-Rank one skill at Great, two at Good, and three at Adequate. Don't worry too much if you get hung up on a decision here - skills are fairly fluid over a character's lifetime, as they gain new abilities and let old and unused ones atrophy. You can adjust your skills at each [[#Mileston`PLAYER D___`] (i.e. at the end of most sessions) by swapping two that are within one rank of each other, or removing an existing Adequate skill to gain an Adequate rank in a new one that was previously unranked.
+Rank one skill at Great, two at Good, and three at Adequate. Don't worry too much if you get hung up on a decision here - skills are fairly fluid over a character's lifetime, as they gain new abilities and let old and unused ones atrophy. You can adjust your skills at each [[Rules/2 Character Creation#Milestone\|#Milestone]] (i.e. at the end of most sessions) by swapping two that are within one rank of each other, or removing an existing Adequate skill to gain an Adequate rank in a new one that was previously unranked.
 
-You also begin play with **ALL SIX APPROACHES** ranked; as with skills, rank one Great, two Good, and three Adequate. Approaches are harder to adjust than skills, since they model something fundamental about who your character is and how they operate in the world, but not impossible. Where skills can be adjusted every milestone, changing approaches requires a [[#Breakthroug`PLAYER C___`], a less frequent but more significant moment that also sees your character get meaningfully stronger.
+You also begin play with **ALL SIX APPROACHES** ranked; as with skills, rank one Great, two Good, and three Adequate. Approaches are harder to adjust than skills, since they model something fundamental about who your character is and how they operate in the world, but not impossible. Where skills can be adjusted every milestone, changing approaches requires a [[Rules/2 Character Creation#Breakthrough\|#Breakthrough]], a less frequent but more significant moment that also sees your character get meaningfully stronger.
 
-See [[3 Skills, Approaches, & Stunt`PLAYER N___`] for the list of skills and approaches, with explanations of what they all cover, and [[#Advancemen`PLAYER C___`] below for further details on milestones, breakthroughs, and other opportunities to adjust and improve your character. 
+See [[Rules/3 Skills, Approaches, & Stunts\|3 Skills, Approaches, & Stunts]] for the list of skills and approaches, with explanations of what they all cover, and [[Rules/2 Character Creation#Advancement\|#Advancement]] below for further details on milestones, breakthroughs, and other opportunities to adjust and improve your character. 
 
 ## Refresh
 Your refresh determines the **MINIMUM** number of fate points you have at the start of each session. You will always start a session with at least this many fate points, though your points do not reset if you have more of them than your refresh number at the start of the session. Points do, however, reset to your refresh at the start of a new **SCENARIO**. 
@@ -85,7 +85,7 @@ New characters have 3 refresh, up to 2 of which may be used to buy stunts (see b
 ## Write Stunts
 By default, you start play with **THREE PILOT STUNTS**, each of which must use a skill you have at least Adequate (1) rank in. You may spend refresh to purchase additional stunt, one for one - though, to repeat, you may never have less than one refresh at any time.
 
-See [[3 Skills, Approaches, & Stunts#Building a Good Stun`PLAYER C___`] for detailed rules and guidance about stunts, and [[3 Skills, Approaches, & Stunts#Skill Detail`PLAYER N___`] for some examples of what a stunt for each skill might look like.
+See [[Rules/3 Skills, Approaches, & Stunts#Building a Good Stunt\|3 Skills, Approaches, & Stunts#Building a Good Stunt]] for detailed rules and guidance about stunts, and [[Rules/3 Skills, Approaches, & Stunts#Skill Details\|3 Skills, Approaches, & Stunts#Skill Details]] for some examples of what a stunt for each skill might look like.
 
 ## Lightning Round: Character Discovery
 If your group wants to skip making detailed characters up front and instead jump into play as quickly as possible -perhaps to just try out the system through a one-shot or shorter game - you can leave most of the character blank at the beginning of the game and fill it out as you go. Start with just the high concepts for your pilot and your mech, one Great skill, and one Great approach. Then, build out your remaining aspects, skills, approaches, and stunts as you discover your character through play. 
@@ -95,10 +95,10 @@ Your mech uses the same skills and approaches as everything else you do, but it 
 
 ## Mech Aspects
 
-When creating your **MECH ASPECTS**, you'll start with a high concept and a trouble, just like your pilot. For your third mech aspect, describe your **RELATIONSHIP** to your mech. Is it your loyal companion? An extension of your body? A replaceable tool like any other? An armored coffin? All of the above, or something else entirely? Think about how you feel about this machine and what makes it *yours* - or what it means to you if it's *not* yours. This Relationship aspect is the only one that may be freely rewritten at a [[#Mileston`PLAYER D___`]; your mech's high concept and trouble both require a [[#Breakthroug`PLAYER C___`] to rewrite.
+When creating your **MECH ASPECTS**, you'll start with a high concept and a trouble, just like your pilot. For your third mech aspect, describe your **RELATIONSHIP** to your mech. Is it your loyal companion? An extension of your body? A replaceable tool like any other? An armored coffin? All of the above, or something else entirely? Think about how you feel about this machine and what makes it *yours* - or what it means to you if it's *not* yours. This Relationship aspect is the only one that may be freely rewritten at a [[Rules/2 Character Creation#Milestone\|#Milestone]]; your mech's high concept and trouble both require a [[Rules/2 Character Creation#Breakthrough\|#Breakthrough]] to rewrite.
 
 ### Gear Aspects
->[!aside|s-`PLAYER C___`+ EQUIPMENT PACKAGES
+>[!aside|s-t]+ EQUIPMENT PACKAGES
 >Your session 0 should include discussion of the desired power level of the mechs in your game. Even within the source material, there can be a vast capability gulf between mechs in the same story - some mechs just pack a shield and a sniper rifle, while others have missile pods bolted to every available flat surface and a set of triple remote-controlled flying dual-gatling drones that are also shields. 
 >
 > Neither of those are problematic equipment aspects by themselves, but they cannot coexist as PC mech loadouts at the same time without causing serious problems for everyone at the table. Make sure you all agree on the scope of options that a single gear aspect should be able to open for PC mechs, and try to keep your gear consistent with that baseline. 
@@ -107,7 +107,7 @@ When creating your **MECH ASPECTS**, you'll start with a high concept and a trou
 
 Mechs have two gear aspects, representing the equipment loadout you carry into battle. These aspects shape the tactical options available to you and define how your mech actually fights. They can be invoked or compelled like any other aspect, but they also have a few special rules.
 
-Mech equipment is proportionate to the mech using it, meaning it is enormous, intricate, and requires some lead time for the hangar crew to change out. This means that your gear aspects are not automatically available to rewrite as part of a [[#Mileston`PLAYER D___`]. Instead, they may be freely changed when any of the following conditions apply:
+Mech equipment is proportionate to the mech using it, meaning it is enormous, intricate, and requires some lead time for the hangar crew to change out. This means that your gear aspects are not automatically available to rewrite as part of a [[Rules/2 Character Creation#Milestone\|#Milestone]]. Instead, they may be freely changed when any of the following conditions apply:
 
 - You are about to deploy in a battle for which you had time to prepare (so if you're dealing with a surprise attack or other scenario that requires emergency rapid response, you'll have to make the best of what you're already equipped with).
 - A session begins or ends while you are in a position that would reasonably allow access to the facilities and time needed to reequip your mech (meaning you're not currently in your mech, you're not under immediate time pressure, and you're not in a situation or location that naturally prevents access to replacement gear like the middle of an empty desert). You may, if you like, specify a standard loadout that your mech is automatically reset to at this time unless you give instructions to override it.
@@ -117,25 +117,25 @@ Unless you use a stunt to get an additional, more mechanically detailed permanen
 The GM may offer a special type of compel to **DESTROY** a piece of gear when your mech suffers a breakdown other than Dented. This can occur either before you write the breakdown aspect ("I'll offer a fate point if this knocks off your *Enhanced Sensor Array*") or after ("You said your arm got damaged; have a fate point if that also took out your *Shoulder Cannon*"). This type of compel can be refused for free, without requiring a fate point. 
 
 > [!NOTE] Incentive Structures
-> By the logic set out in [[1 Core Rules#Compelling an Aspec`PLAYER C___`], gear destruction *should* count as an Event compel and require a fate point to refuse. It gets a special carveout here because it would otherwise create a warped incentive structure around writing Breakdowns. If the players learn "I need to be careful what I write, because otherwise I might get charged a fate point to not lose more function than I intended," then writing Breakdown becomes a potentially adversarial exercise in defensive fiction-lawyering. Making refusal free preserves the intended effect: the compel turns up the pressure, or emerges as a natural extension of what just happened, but doesn't punish the player for insufficiently specific paranoia. 
+> By the logic set out in [[Rules/1 Core Rules#Compelling an Aspect\|1 Core Rules#Compelling an Aspect]], gear destruction *should* count as an Event compel and require a fate point to refuse. It gets a special carveout here because it would otherwise create a warped incentive structure around writing Breakdowns. If the players learn "I need to be careful what I write, because otherwise I might get charged a fate point to not lose more function than I intended," then writing Breakdown becomes a potentially adversarial exercise in defensive fiction-lawyering. Making refusal free preserves the intended effect: the compel turns up the pressure, or emerges as a natural extension of what just happened, but doesn't punish the player for insufficiently specific paranoia. 
 
- If the fiction allows for gear change as described above, then you may replace the destroyed gear aspect at the first opportunity. Otherwise, unless you've established the gear aspect as something irreplaceable like a bleeding-edge prototype, you'll get it back when the breakdown clears at the next Breakthrough. See [[4 Challenges, Conflicts, & Contests#Harm and Mech`PLAYER N___`] for the full rules on suffering and clearing breakdown.
+ If the fiction allows for gear change as described above, then you may replace the destroyed gear aspect at the first opportunity. Otherwise, unless you've established the gear aspect as something irreplaceable like a bleeding-edge prototype, you'll get it back when the breakdown clears at the next Breakthrough. See [[Rules/4 Challenges, Conflicts, & Contests#Harm and Mechs\|4 Challenges, Conflicts, & Contests#Harm and Mechs]] for the full rules on suffering and clearing breakdown.
 
 There is no set equipment list, so you're free to outfit your mech with whatever gear you can dream up, but you must still work with the GM and other players to make sure you're all on the same page about what a gear aspect can actually do. The group has to agree on how many ways a single gear aspect can solve problems and what kinds of problems each aspect can answer. For example, "Guided Missile Rack" isn't a meaningfully different gear aspect from "Chest Compartment Clustered Micro-Missile Pods" - both solve problems by blowing them up at range. But "specialized sub-missile array" could include heat-seekers, bunker busters, chaff pods, and all manner of other tricks - suddenly, the scope of what the aspect can do has widened enormously. 
 
 **EXAMPLES** Beam Saber, Heat Axe, Shoulder Shield, Twin Head-Mounted Vulcans, Mega Bazooka Launcher, Enhanced Booster Binder, Atmospheric Re-Entry Balloon, Psi-Controlled Drone Swarm, Anti-Sensor Stealth Suite
 
 ## Mech Stunts
-Your mech starts with two stunts, written through the same process as your [[#Write Stunts|pilot stunt`PLAYER N___`]. You may purchase additional mech stunts with refresh.
+Your mech starts with two stunts, written through the same process as your [[Rules/2 Character Creation#Write Stunts\|pilot stunts]]. You may purchase additional mech stunts with refresh.
 
 ## Replacing Your Mech
-If your mech is ever replaced, voluntarily or otherwise (see [[4 Challenges, Conflicts, & Contests#Losing Your Mec`PLAYER C___`]), you are refunded **HALF** the refresh spent on your old mech's stunts, **ROUNDED UP**. You may use this refresh immediately to buy new stunts or reallocate it towards your refresh rating.
+If your mech is ever replaced, voluntarily or otherwise (see [[Rules/4 Challenges, Conflicts, & Contests#Losing Your Mech\|4 Challenges, Conflicts, & Contests#Losing Your Mech]]), you are refunded **HALF** the refresh spent on your old mech's stunts, **ROUNDED UP**. You may use this refresh immediately to buy new stunts or reallocate it towards your refresh rating.
 
-You may replace your mech voluntarily at any [[#Breakthroug`PLAYER C___`]. Some characters treat their mechs as disposable tools and upgrade without ceremony; for others, their mech is a deeply personal connection, and getting a new one is a significant story moment that's worth playing out as a dramatic scene. 
+You may replace your mech voluntarily at any [[Rules/2 Character Creation#Breakthrough\|#Breakthrough]]. Some characters treat their mechs as disposable tools and upgrade without ceremony; for others, their mech is a deeply personal connection, and getting a new one is a significant story moment that's worth playing out as a dramatic scene. 
 
 ## Scale
 
->[!aside|show-titl`PLAYER D___`+ HOW BIG IS BIG?  
+>[!aside|show-title]+ HOW BIG IS BIG?  
 >Most Mobile Suits from UC Gundam, which is what the scale rules are primarily calibrated around, are roughly 16 to 22 meters tall. Some late-UC units like the Qubeley, Sazabi, Nightingale, and Kshatriya reach upwards of 25 and, depending on how you measure, over 30. Extreme outliers include the Psycho Gundam at around 40 meters tall, the Big Zam at roughly 60 meters, and the Neo Zeong topping out at 120 meters.  
 >  
 > Outside Gundam, Armored Cores from the 4th and 6th generations are also roughly 18 meters, while other generations sit at 10-12 meters. Media that attempts a more grounded tone like Patlabor, Full Metal Panic, or (for a *very limited* definition of "grounded") Code Geass typically locks all their mechs within the 10-14 meter band. All the way on the other end, EVA units are "as large as the scene needs them to be" or 80 meters depending on continuity, while Gurren Lagann ultimately escalates to such extremes that its scales are more comparable to galaxies than people.
@@ -177,7 +177,7 @@ Breakthroughs occur at the **END OF A SCENARIO**. They are more significant than
 
 - Choose one thing from the milestone list.
 - Rewrite your character's high concept, if you care to.
-- If you have any moderate or severe [[4 Challenges, Conflicts, & Contests#Consequences|consequence`PLAYER N___`] not yet in recovery, you can begin the recovery process and rename them. Any that were in recovery may now be cleared.
+- If you have any moderate or severe [[Rules/4 Challenges, Conflicts, & Contests#Consequences\|consequences]] not yet in recovery, you can begin the recovery process and rename them. Any that were in recovery may now be cleared.
 - If you have an extreme consequence that has not yet been renamed, you may rename it now. Extreme consequences can never be cleared, only processed.
 - Switch the ratings of any two approaches that are within 1 step of each other (e.g. switch Carefully 2 and Subtly 3; becomes Carefully 3, Subtly 2). 
 - Choose one:
@@ -186,7 +186,7 @@ Breakthroughs occur at the **END OF A SCENARIO**. They are more significant than
 	- Unlock two boxes of armor for your mech.
 - Replace your mech completely.
 
->[!asid`PLAYER D___` 
+>[!aside] 
 >You'll notice Approaches are harder to alter and increase than skills. Approaches represent something fundamental about how your character engages with the world; skills are more flexible because they model narrower capabilities.
 
 If the GM feels a major story  development has concluded and it's time for the characters to power up, they may also offer one or both of the following:
@@ -209,7 +209,7 @@ Approaches don't have to follow the pyramid, but they do need to respect two lim
 1. Except for Adequate (1), no more than two approaches may ever be at the same rank. So a spread of 2 2 3 3 4 4 is fine, but the only legal choice for the next approach increase is to increase one of the Masterful (4) approaches to Superhuman (5) for a spread of 2 2 3 3 4 5. 
 2. Only one approach may be Superhuman (5).
 
->[!note|s-`PLAYER C___` MAXED OUT STATS?
+>[!note|s-t] MAXED OUT STATS?
 > Fate doesn't have character levels and there are no formally defined limits on your character's stats. But, if your campaign goes long enough, you may reach a point where the advancement restrictions mean there are no longer any legal skill or approach increases available to you. So there are effective caps, they're just arrived at a little sideways.
 > 
 > There are 15 skills in this game, and 20 slots on your character sheet in which to put them, so eventually every character will have every skill ranked somewhere on their sheet. But the restrictions of the pyramid structure mean that you can never have more than three skills at Superhuman (5), and achieving that requires having exactly 3 skills at every other rank and a total of 35 breakthroughs. 

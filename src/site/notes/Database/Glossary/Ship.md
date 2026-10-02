@@ -9,7 +9,7 @@
 3. Beam weapons are invented as an ammo-free, long-but-not-unlimited range, Newton-safe alternative for a ship's heaviest firepower
 4. [[Database/Glossary/MV field\|MV field]] invented; long range engagements become completely obsolete as combatant ships are forced to close distance to have a chance of actually hitting each other.
 5. Strike craft become more and more prominent - bombers try and take out precise weak points in enemy ship's hull, fighters defend their own bombers and take out enemy bombers. Ship main guns now mostly end a fight once the strike craft have decided it.
-6. [[Mobile Suit|Mobile Suit`PLAYER N___`] emerge, trading speed for enormous agility gains, multi-theater viability, and the ability to fulfill the roles of both fighter and bomber within the same battle by changing weaponry. And here we still are.
+6. [[Database/Glossary/Mobile Suit\|Mobile Suits]] emerge, trading speed for enormous agility gains, multi-theater viability, and the ability to fulfill the roles of both fighter and bomber within the same battle by changing weaponry. And here we still are.
 
 ## Getting around
 **There is no such thing as general shipboard artificial gravity.** So, even in civilian clothes, there's a few things that you just plain do not leave your quarters without, and they conveniently all live on your belt. 
@@ -22,7 +22,7 @@ And, speaking of belt tethers, there is a reasonably high-powered emergency mag 
 
 If you're sitting, lying down, or otherwise attached to furniture, you are literally physically attached to it by magnets, clips, or straps.
 
->[!not`PLAYER D___` On The Other Hand...
+>[!note] On The Other Hand...
 >This is not *that* hard science fiction, and zero g *sucks*. Gundam itself is, generously, less than consistent about how it actually presents spaceship gravity, up to and including at least one instance of a character taking a bubble bath while on a ship in flight. So feel free to mostly treat this as flavor except when the problems of zero gravity are dramatically relevant.
 
 ```base

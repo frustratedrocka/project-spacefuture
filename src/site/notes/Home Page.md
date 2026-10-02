@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T16:39:20.863-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 02]]","PCs_Current":["[[Player Characters/August Grier|Auggi`PLAYER D___`]","[[Player Characters/Lane Gable|Lan`PLAYER D___`]","[[Player Characters/Menodora Thaliana|Men`PLAYER C___`]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T16:39:20.863-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 02]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
 **[[Session Notes/Session 02\|Session 02]]** - [[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]] Part 2 - Oct 13, 2026
 
 ## Where Are You
-Aboard the [[Rebel`PLAYER N___`]-affiliated ship [[Fishbon`PLAYER D___`], now promoted to First (and only) Wing through process of elimination. 
+Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], now promoted to First (and only) Wing through process of elimination. 
 
 **[[Database/Things/Fishbone\|Fishbone]]** - Rebel Destroyer, Closest Thing To Home. Control: [[Database/Factions/Rebels\|Rebels]], Courtesy Of the Consortium
 
 ## What Are You Doing
-Hunting down the traitor who enabled [[Vantrin Almeyer|Vantri`PLAYER C___`]'s team to get inside sensor range undetected and take out the [[Fishbon`PLAYER D___`]'s brdige
+Hunting down the traitor who enabled [[Database/People/Vantrin Almeyer\|Vantrin]]'s team to get inside sensor range undetected and take out the [[Database/Things/Fishbone\|Fishbone]]'s brdige
 
 # Previously On Zero Sum
 - Original command staff and first wing of the [[Database/Things/Fishbone\|Fishbone]] KIA by [[Database/People/Vantrin Almeyer\|Vantrin]] and the [[Database/Things/Brynhildr\|Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor
@@ -35,51 +35,51 @@ Hunting down the traitor who enabled [[Vantrin Almeyer|Vantri`PLAYER C___`]'s te
 # Campaign Aspects
 
 >[!columns|2 no-t ]
->> [!blan`PLAYER M___`
+>> [!blank]
 >> ## Current Issues
 >> - "What Will You Compromise For A Righteous Cause?"
 >> - "Finally, Barely, Enough To Go Around"
 >> - "Disparate & Unstable Rebel Coalition"
 >> - "Affiliation Is Not Allegiance"
 >
->> [!blan`PLAYER M___`
+>> [!blank]
 >> ## Impending Issues
 >> - "Old Conflicts Dormant, Not Dead"
->> - "Lurking Shadow Of The [[Hive Cul`PLAYER C___`]"
+>> - "Lurking Shadow Of The [[Database/Factions/Hive Cult\|Hive Cult]]"
 >> - "Who Gets To Write The Future?"
 
 # Links & OVERVIEWS
 > [!cards|3]
->**[Character Sheet`PLAYER N___`(https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)**
+>**[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)**
 > 
 >**[[Rules Hub\|Rules Hub]]**
 > 
-> **[[Lines & Veil`PLAYER N___`]**
+> **[[Admin/Lines & Veils\|Lines & Veils]]**
 
 > [!cards|5]
 > 
 >**[[Faction Hub\|Faction Hub]]**
 >
->**[[The Story So Fa`PLAYER N___`]**
+>**[[The Story So Far\|The Story So Far]]**
 >
->**[[Emergent Century|EC Timelin`PLAYER D___`]**
+>**[[Database/History/Emergent Century\|EC Timeline]]**
 >
 >**[[Solar Map\|Solar Map]]**
 >
 >**[[Mech Catalog\|Mech Catalog]]**
 
 # Fiction Primer
-It is the year 0092 of the [[Emergent Centur`PLAYER C___`], and...
+It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]], and...
 
 ## The System Is At War
-Eleven years ago, [[The Ground Wa`PLAYER N___`] ended with the formation of [[Apsi`PLAYER N___`] as an ostensibly-neutral mediating body to prevent humanity's death by self-inflicted starvation. 
+Eleven years ago, [[Database/History/The Ground War\|The Ground War]] ended with the formation of [[Database/Factions/Apsis\|Apsis]] as an ostensibly-neutral mediating body to prevent humanity's death by self-inflicted starvation. 
 
-Today, Apsis is anything *but* neutral, blatantly favoring the [[Database/Factions/Jovian Consortium\|Jovian Consortium]] and the [[Jupite`PLAYER N___`] sphere to a degree that even some Jovians are starting to take issue with, and punishing dissent with more and more draconian cuts to food distribution. 
+Today, Apsis is anything *but* neutral, blatantly favoring the [[Database/Factions/Jovian Consortium\|Jovian Consortium]] and the [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] sphere to a degree that even some Jovians are starting to take issue with, and punishing dissent with more and more draconian cuts to food distribution. 
 
 A few months ago, things finally reached a breaking point. Apsis's attempt to make an example of dissenting colonies instead provoked counter-escalation into open armed revolt.
 
 ## You Are The Resistance
-The [[Rebel`PLAYER N___`] are a motley assortment of defectors, pirates, deniable government support, ideologues, and anyone else willing and able to take drastic measures to correct Apsis's lethal overreach. Your current mission is simple: Intercept excess food shipments and redirect them from the Jupiter sphere towards the places where they're most needed.
+The [[Database/Factions/Rebels\|Rebels]] are a motley assortment of defectors, pirates, deniable government support, ideologues, and anyone else willing and able to take drastic measures to correct Apsis's lethal overreach. Your current mission is simple: Intercept excess food shipments and redirect them from the Jupiter sphere towards the places where they're most needed.
 
 The question is not whether you should be fighting. The question is what you're willing to let the war cost, and how much you'll compromise to keep up the good fight. Not everyone with you or backing you is doing it for what you see as the right reasons, and staying afloat will require finding ways to navigate that. 
 
