@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-02T00:13:42.296-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-03T02:42:52.660-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
 ---
 
 ## Summary
@@ -27,10 +27,10 @@
 > | ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 > | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Anatol Garza\|Anatol Garza]]**       |
 > | ![Admin/Attachments/Saul_Tigh.webp\|sban cover](/img/user/Admin/Attachments/Saul_Tigh.webp)                                     | **[[Database/People/Artel Ward\|Artel Ward]]**           |
-> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Delbrau Enger\|Delbrau Enger]]**     |
+> | ![Admin/Attachments/100 Human sci-fi faces/28.png\|sban cover](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/28.png)                      | **[[Database/People/Delbrau Enger\|Delbrau Enger]]**     |
 > | ![Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp\|sban cover](/img/user/Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp) | **[[Database/People/Gen Bashaba\|Gen Bashaba]]**         |
-> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Graciela Tor\|Graciela Tor]]**       |
-> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Howe Nebreka\|Howe Nebreka]]**       |
+> | ![Admin/Attachments/100 Human sci-fi faces/24.png\|sban cover](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/24.png)                      | **[[Database/People/Graciela Tor\|Graciela Tor]]**       |
+> | ![Admin/Attachments/100 Human sci-fi faces/79.png\|sban cover](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/79.png)                      | **[[Database/People/Howe Nebreka\|Howe Nebreka]]**       |
 > | ![Admin/Attachments/Sven_SQ.webp\|sban cover](/img/user/Admin/Attachments/Sven_SQ.webp)                                       | **[[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]** |
 > | ![Admin/Attachments/Brynhildr.webp\|sban cover](/img/user/Admin/Attachments/Brynhildr.webp)                                     | **[[Database/Things/Brynhildr\|Brynhildr]]**             |
 > 

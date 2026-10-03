@@ -35,11 +35,14 @@ The current mission is simple: Intercept excess food shipments and redirect them
 > 
 { .block-language-dataview}
 
-| Character                                         | Aspects                                                                       |
-| ------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [[Database/People/Anatol Garza\|Anatol Garza]] | Catatonic Rebel Ace \- \- \- \-                                               |
-| [[Database/People/Artel Ward\|Artel Ward]]     | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- \- \- `REDACTED`                                  |
-| [[Database/People/Gen Bashaba\|Gen Bashaba]]   | Fledgling shipmaster rising to the occasion \- You point, I fly \- `REDACTED` |
+| Character                                           | Aspects                                                                               |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [[Database/People/Anatol Garza\|Anatol Garza]]   | Catatonic Rebel Ace \- \- \- \-                                                       |
+| [[Database/People/Artel Ward\|Artel Ward]]       | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- \- \- `REDACTED`                                          |
+| [[Database/People/Delbrau Enger\|Delbrau Enger]] | [[Database/Things/Fishbone\|Fishbone]] Lead Comms Officer \- [[Player Characters/Vergen Koni\|Verg]] Saved His Life \- `REDACTED` |
+| [[Database/People/Gen Bashaba\|Gen Bashaba]]     | Fledgling shipmaster rising to the occasion \- You point, I fly \- `REDACTED`         |
+| [[Database/People/Graciela Tor\|Graciela Tor]]   | [[Database/Things/Fishbone\|Fishbone]] Chief Engineer \- `REDACTED` \- `REDACTED`                               |
+| [[Database/People/Howe Nebreka\|Howe Nebreka]]   | [[Database/Things/Fishbone\|Fishbone]] Helmsman \- `REDACTED` \- `REDACTED`                                     |
 
 { .block-language-dataview}
 { #FactionTable}
