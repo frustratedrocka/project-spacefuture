@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-05T10:55:07.552-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-05T17:14:19.373-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
 ---
 
 ## Summary
@@ -14,7 +14,6 @@
 
 ## Sessions
 
-
 | Session                                     | Name             | Logline                                                                                                                                                                                          |
 | ------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Session Notes/Session 01\|Session 01]] | And So It Begins | [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] launches a surprise attack on the [[Database/Things/Fishbone\|Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship. |
@@ -22,7 +21,7 @@
 { .block-language-dataview}
 
 ## NPCs
->[!cards|dataview collapse4 img-tiny] NPCs
+>[!cards|dataview collapse 4 img-tiny] NPCs
 >  | Portrait                                                                              | Character                                                   |
 > | ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 > | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Anatol Garza\|Anatol Garza]]**       |
