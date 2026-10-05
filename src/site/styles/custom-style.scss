@@ -107,6 +107,11 @@ p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
   font-family:var(--font-family-body) !important;
 }
 
+.markdown-rendered table {
+    margin-block-start: 0 !important;
+    margin-top: 0 !important;
+}
+
 body th, .markdown-rendered .table-view-table > thead > tr > th {
   font-family: var(--font-family-header) !important;
   font-size: var(--font-size-body);
