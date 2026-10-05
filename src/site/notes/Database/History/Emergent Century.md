@@ -13,7 +13,7 @@
 
 > [!timeline|no-icon no-icon bg-c-gray ttl-c] **[[Database/History/The Ground War\|The Ground War]]**
 >> [!|no-icon bg-c-gray]+ EC 0076
->> The conflict that will become known as [[Database/History/The Ground War\|The Ground War]] begins. Open violence erupts as [[Database/Places/Earth\|Earth]], [[Database/Places/Mars\|Mars]], [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], and[[Database/Glossary/The Belt\|The Belt]] all start fighting - initially over what to do about the Hive situation. Long-simmering resentments forced into the open fuel a spiral of destructive escalation.
+>> The conflict that will become known as [[Database/History/The Ground War\|The Ground War]] begins. Open violence erupts as [[Database/Places/Earth\|Earth]], [[Database/Places/Mars Sphere/Mars\|Mars]], [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], and[[Database/Glossary/The Belt\|The Belt]] all start fighting - initially over what to do about the Hive situation. Long-simmering resentments forced into the open fuel a spiral of destructive escalation.
 >
 >> [!|no-icon bg-c-gray]+ EC 0078 - Moondrop
 >> Someone (nobody knows who) drops Luna onto [[Database/Places/Earth\|Earth]], presumably intending to prevent any further spread of the Hive. This succeeds. It also prevents the further spread of *food* and plunges the entire solar system into near-Malthusian-collapse overnight. 

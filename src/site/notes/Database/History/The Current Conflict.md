@@ -4,7 +4,7 @@
 
 
 Players:
-- [[Database/Places/Mars\|Mars]]
+- [[Database/Places/Mars Sphere/Mars\|Mars]]
 - [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]]
 - [[Database/Glossary/The Belt\|The Belt]] and individual colonies
 - [[Database/Factions/Rebels\|Rebels]] 

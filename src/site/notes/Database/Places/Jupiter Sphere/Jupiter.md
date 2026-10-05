@@ -25,7 +25,7 @@ The Jupiter Sphere technically includes over 100 moons, most of which are uninha
 
 Jupiter's magnetosphere, on top of its many more obvious environmental pressures, makes mining it incredibly dangerous and forces significant design compromises to be able to operate any machinery whatsoever inside it for long.
 
-Most people who have business here, or who ever need to leave, rely on the regular [[Database/Things/Charun\|Charun]] ferries, but a sufficiently powerful and well-supplied ship can make the crossing on its own.
+Most people who have business here, or who ever need to leave, rely on the regular [[Database/Places/Charun\|Charun]] ferries, but a sufficiently powerful and well-supplied ship can make the crossing on its own.
 
 >[!blank|wfull]
 

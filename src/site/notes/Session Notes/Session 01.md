@@ -72,7 +72,7 @@
 > [!cite|bg-c-purple]+ Preamble
 > It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]]. 
 > 
-> Nearly a hundred years ago, mankind extended its reach beyond the solar system's [[Inner Rings\|Inner Rings]]. Humanity began to spread into space in earnest, terraforming [[Database/Places/Mars\|Mars]], building industry around the moons of [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], and filling [[Database/Glossary/The Belt\|The Belt]] with enormous rotating colonies. Here in space, people are born and raised. And die.
+> Nearly a hundred years ago, mankind extended its reach beyond the solar system's [[Inner Rings\|Inner Rings]]. Humanity began to spread into space in earnest, terraforming [[Database/Places/Mars Sphere/Mars\|Mars]], building industry around the moons of [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], and filling [[Database/Glossary/The Belt\|The Belt]] with enormous rotating colonies. Here in space, people are born and raised. And die.
 > 
 > Twenty years ago, [[Database/History/The Hive Mind\|The Hive Mind]] began to coalesce, and the question of what to do with this new potential threatened to rip the solar system apart. Fourteen years ago, that question fell off humanity's priority list when the Moon fell from orbit and killed the [[Database/Places/Earth\|Earth]]. Eleven years ago, the cataclysmic war over the resources remaining in its corpse finally stopped. 
 > 
