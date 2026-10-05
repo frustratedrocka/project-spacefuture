@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/test/test-secret-pilot/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-05T18:12:20.382-04:00","dg-note-properties":{"tags":["npc","character","pilot","entity"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":null,"Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"High Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":"[[Database/Mobile Suits/TF-8 Hoplite]]","MECH_Secret":true,"Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Relationship","MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/test/test-secret-pilot/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-05T18:24:44.686-04:00","dg-note-properties":{"tags":["npc","character","pilot","entity"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":null,"Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"High Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":"[[Database/Mobile Suits/TF-8 Hoplite]]","MECH_Secret":true,"Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Relationship","MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -24,7 +24,7 @@
 
 
 
->[!infobox|right flex embed clean] ASPECTS
+>[!blank|embed clean flex table]
 >  | Aspects      |
 > | ------------ |
 > | High Concept |
@@ -32,9 +32,8 @@
 > | Loyalty      |
 > 
 { .block-language-dataview}
-
-<br>
-
+> 
+> 
 
 |SKILLS|RANK|APPROACHES|
 |-----:|:---:|-----|
