@@ -38,7 +38,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 | Character                                           | Aspects                                                                               |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [[Database/People/Anatol Garza\|Anatol Garza]]   | Catatonic Rebel Ace \- \- \- \-                                                       |
-| [[Database/People/Artel Ward\|Artel Ward]]       | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- \- \- `REDACTED`                                          |
+| [[Database/People/Artel Ward\|Artel Ward]]       | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- Relationship \- `REDACTED`                                |
 | [[Database/People/Delbrau Enger\|Delbrau Enger]] | [[Database/Things/Fishbone\|Fishbone]] Lead Comms Officer \- [[Player Characters/Vergen Koni\|Verg]] Saved His Life \- `REDACTED` |
 | [[Database/People/Gen Bashaba\|Gen Bashaba]]     | Fledgling shipmaster rising to the occasion \- Relationship \- `REDACTED`             |
 | [[Database/People/Graciela Tor\|Graciela Tor]]   | [[Database/Things/Fishbone\|Fishbone]] Chief Engineer \- Relationship \- `REDACTED`                             |
