@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-09-29T14:16:13.209-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.webp","Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location"],"noteIcon":"","updated":"2026-10-05T12:49:14.900-04:00","dg-note-properties":{"tags":["location"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.webp","Concept":"Terrified Into Silence","Trouble":"Holding Its Breath","Aspects":["`REDACTED`"]}}
 ---
 
 > [!INFOBOX|ws-med embed] Theseus
@@ -14,7 +14,7 @@
 > |Interest|[[Database/Factions/Republic Of Mars\|Republic Of Mars]], [[Database/Factions/Apsis\|Apsis]]|
 
 > [!blank|embed] ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Terrified Into Silence</span></td></tr><tr><td><span>Holding Its Breath</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Discord Genesis
 >[!cite|bg-c-red] [[Player Characters/Vergen Koni\|Vergen Koni]]
