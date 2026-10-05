@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/delbrau-enger/","tags":["npc"],"noteIcon":"","updated":"2026-10-03T02:38:24.481-04:00","dg-note-properties":{"tags":["npc"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/28.png]]","Faction":["[[Database/Factions/Rebels]]","%% %%"],"Rank":5,"Origin":"[[Database/Places/Earth]]","Assoc":"[[Database/Places/Colonies/Pallas]]","Strain":4,"Consequences":["Mild","Leg In A Cast","Severe"],"Concept":"[[Fishbone]] Lead Comms Officer","Relationship":"[[Vergen Koni|Verg]] Saved His Life","Loyalty":"`REDACTED`","Aspects":["Enthusiastic Wife Guy","%% %%",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/delbrau-enger/","tags":["npc"],"noteIcon":"","updated":"2026-10-05T04:48:41.946-04:00","dg-note-properties":{"tags":["npc"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/28.png]]","Faction":["[[Database/Factions/Rebels]]","%% %%"],"Rank":5,"Origin":"[[Database/Places/Earth]]","Assoc":"[[Database/Places/Colonies/Pallas]]","Strain":4,"Consequences":["Mild","Leg In A Cast","Severe"],"Concept":"[[Fishbone]] Lead Comms Officer","Relationship":"[[Vergen Koni|Verg]] Saved His Life","Loyalty":"`REDACTED`","Aspects":["Enthusiastic Wife Guy","%% %%",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|embed left wsmall]
@@ -8,7 +8,7 @@
 > 
 > |  |  |
 > |--|--|
-> |**FACTION**| [[Database/Factions/Rebels\|Rebels]]<br>!h! [[Database/Factions/Apsis\|Apsis]] !/h!|
+> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 > | **STRAIN**| `REDACTED` |
 >  
 > |HARM|CONSEQUENCE|
