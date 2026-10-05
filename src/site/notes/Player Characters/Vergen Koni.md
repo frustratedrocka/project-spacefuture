@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-05T18:04:09.582-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"aliases":["Verg"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Move"],"approach_3":["Quickly"],"skill_2":["Fight","Shoot"],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker"],"approach_1":["Carefully","Forcefully","Subtly"]}}
+{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-05T18:29:45.926-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"aliases":["Verg"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Move"],"approach_3":["Quickly"],"skill_2":["Fight","Shoot"],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker"],"approach_1":["Carefully","Forcefully","Subtly"]}}
 ---
 
 > [!infobox|left wsmall embed]
@@ -40,7 +40,7 @@
 > |4 Dsbl|Disabled|
 > |6 Doom|Doomed|
 
->[!infobox|center flex embed clean]
+>[!infobox|center flex clean table]
 >  | Aspects              |
 > | -------------------- |
 > | Mind's Eye Protector |
@@ -54,10 +54,10 @@
 
 <br>
 
-> [!infobox|center flex embed clean]
+> [!infobox|center flex table clean]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Speedy CQC</span></td></tr><tr><td><span>Unstable Core</span></td></tr><tr><td><span>Extension Of My Body</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!infobox|center flex embed clean]
+> [!infobox|center flex table clean]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Heat Sword</span></td></tr><tr><td><span>Grapple Shield</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 >[!blank|static wfull]
@@ -75,6 +75,8 @@
 
 > [!blank|embed] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>HASTE SYSTEM</strong> Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.</span></td></tr><tr><td><span><strong>GRAPPLE CLAW</strong> You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+> [!blank|static wfull]
 
 # Notes
 
