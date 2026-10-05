@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-05T17:12:15.616-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Move"],"approach_3":["Quickly",[null]],"skill_2":["Fight","Shoot"],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker"],"approach_1":["Carefully","Forcefully","Subtly"],"aliases":["Verg"]}}
+{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-05T17:16:26.203-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"aliases":["Verg"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Move"],"approach_3":["Quickly"],"skill_2":["Fight","Shoot"],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker"],"approach_1":["Carefully","Forcefully","Subtly"]}}
 ---
 
 > [!infobox|left wsmall embed]
@@ -39,7 +39,7 @@
 > |4 Dsbl|Disabled|
 > |6 Doom|Doomed|
 
->[!infobox|center embed flex]
+>[!infobox|center embed flex clean]
 >  | Aspects              |
 > | -------------------- |
 > | Mind's Eye Protector |
@@ -65,7 +65,7 @@
 |-----:|:---:|-----|
 |\-| **5** (Superhuman) |\-|
 |\-| **4** (Masterful) |\-|
-|Move| **3** (Great) |Quickly, \-|
+|Move| **3** (Great) |Quickly|
 |Fight, Shoot| **2** (Good) |Boldly, Cleverly|
 |Notice, Persevere, Tinker| **1** (Adequate) |Carefully,Forcefully,Subtly|
 
