@@ -45,10 +45,10 @@
         "src/plugins/giscus-comments/templates/comments.njk"
       ],
       "settings": {
-        "repo": "",
-        "repoId": "",
+        "repo": "frustratedrocka/project-spacefuture",
+        "repoId": "R_kgDOTDbXoA",
         "category": "Announcements",
-        "categoryId": "",
+        "categoryId": "DIC_kwDOTDbXoM4DHGcV",
         "theme": "preferred_color_scheme",
         "showByDefault": false
       }
