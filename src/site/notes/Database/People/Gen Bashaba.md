@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character"],"noteIcon":"","updated":"2026-10-01T22:59:44.861-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"You point, I fly","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Lead"],"approach_3":["Carefully"],"skill_2":["Skill","Skill"],"approach_2":["Boldly","Cleverly"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Quickly","Subtly","Forcefully"]}}
+{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character"],"noteIcon":"","updated":"2026-10-05T04:49:35.387-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Lead"],"approach_3":["Carefully"],"skill_2":["Skill","Skill"],"approach_2":["Boldly","Cleverly"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Quickly","Subtly","Forcefully"]}}
 ---
 
 > [!infobox|left wsmall collapse]
@@ -18,7 +18,7 @@
 > |6 Svr|Severe|
 
 > [!blank|embed] ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Fledgling shipmaster rising to the occasion</span></td></tr><tr><td><span>You point, I fly</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Fledgling shipmaster rising to the occasion</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 `REDACTED`
 
