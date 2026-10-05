@@ -25,6 +25,8 @@
     --page-bg-color-default: #161620;
     --page-bg-color-dark: #0d0d13;
     --page-bg-color-light: #303046;
+
+    --th-border-size: 2px;
 }
 
 /* MONOKAI --UNUSED
@@ -111,6 +113,9 @@ body th, .markdown-rendered .table-view-table > thead > tr > th {
   text-transform: uppercase !important;
   background-color: var(--page-bg-color-dark) !important;
   color: var(--font-color-h3) !important;
+  border-bottom-style: solid !important; 
+  border-bottom-width: var(--th-border-size) !important;
+  border-bottom-color: var(--font-color-h3) !important;
 }
 
 table td {
