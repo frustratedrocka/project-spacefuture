@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-03T02:42:52.660-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-05T10:55:07.552-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
 ---
 
 ## Summary
@@ -22,7 +22,7 @@
 { .block-language-dataview}
 
 ## NPCs
->[!cards|dataview collapse 4 img-tiny] NPCs
+>[!cards|dataview collapse4 img-tiny] NPCs
 >  | Portrait                                                                              | Character                                                   |
 > | ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 > | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Anatol Garza\|Anatol Garza]]**       |

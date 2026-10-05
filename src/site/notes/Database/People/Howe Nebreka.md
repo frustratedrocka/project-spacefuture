@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/howe-nebreka/","tags":["npc","character"],"noteIcon":"","updated":"2026-10-03T02:38:51.124-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/79.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":null,"Assoc":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"[[Fishbone]] Helmsman","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["%% %%","Explosive Temper",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/howe-nebreka/","tags":["npc","character"],"noteIcon":"","updated":"2026-10-05T10:34:16.829-04:00","dg-note-properties":{"tags":["npc","character"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/79.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":null,"Assoc":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"[[Fishbone]] Helmsman","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["%% %%","Explosive Temper",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|embed left wsmall]
@@ -18,7 +18,7 @@
 > |6 Svr|Severe|
 
 > [!blank|embed] ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-href="Fishbone" href="Fishbone" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a> Helmsman</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span>Explosive Temper</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-href="Fishbone" href="Fishbone" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a> Helmsman</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span>Explosive Temper</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 `REDACTED`
 
