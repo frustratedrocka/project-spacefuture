@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker","index"],"noteIcon":"","updated":"2026-10-05T23:40:50.651-04:00","dg-note-properties":{"tags":["Tracker","index"]}}
+{"dg-publish":true,"permalink":"/mech-catalog/","tags":["Tracker","index"],"noteIcon":"","updated":"2026-10-06T02:17:43.613-04:00","dg-note-properties":{"tags":["Tracker","index"]}}
 ---
 
 > [!cards|dataview notion 5 img-small] FACTION MECHS
@@ -19,33 +19,3 @@
 > 
 { .block-language-dataview}
 
-```base
-filters:
-  and:
-    - file.hasTag("Mech")
-    - file.folder != "Admin/Templates"
-    - file.folder != "Database/Mobile Suits/Sample"
-properties:
-  note.MECH_Concept:
-    displayName: Concept
-  note.MECH_Trouble:
-    displayName: Trouble
-  note.MECH_Stunts:
-    displayName: Stunts
-  note.Known_Users:
-    displayName: Known Pilots
-  note.Faction:
-    displayName: Associated Factions
-views:
-  - type: cards
-    name: Mech Catalog
-    order:
-      - file.name
-      - Known_Users
-      - Faction
-    image: Portrait
-    imageFit: cover
-    cardSize: 160
-    imageAspectRatio: 0.65
-
-```
