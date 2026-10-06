@@ -1,24 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","entity","lore"],"noteIcon":"","updated":"2026-10-05T23:43:43.154-04:00","dg-note-properties":{"tags":["location","entity","lore"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":[["Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif"]],"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","lore","entity"],"noteIcon":"","updated":"2026-10-01T21:18:04.000-04:00","dg-note-properties":{"tags":["location","lore","entity"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":[["Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif"]]}}
 ---
 
 
-> [!INFOBOX] Charun
+> [!INFOBOX] 
 > # Charun
-> `=embed(this.Portrait)`
->
->> [!blank|clean n-th] 
->> | | |
->> |--|--|
->> |**BODY**|[[Locations Hub\|Ferry]]|
->> |**FACTION**|[[Database/Factions/Independent\|Independent]]|
->> |**CONTROL**|Semi-Extraterritorial|
->> |**PRESENCE**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
-
-| Aspects |
-| ------- |
-
-{ .block-language-dataview}
+> ![Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif\|560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif](/img/user/Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif)
+> 
+> | | |
+> |--|--|
+> |Body|[[Locations Hub\|Ferry]]|
+> |Leadership|[[Database/Factions/Independent\|Independent]]|
+> |Status|Semi-Extraterritorial|
+> |Interest|<span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
 > [!cite] From Whence The Concept
 >> Not to be the fucker who is going to piss everyone off, but is there any "accounting for the sheer travel physics of space" tech in this universe?  
@@ -42,10 +36,10 @@ There are five of them, all on staggered schedules. A charun arrives at Jupiter 
 
 ## Data
 
-> [!blank|embed] ASSOCIATED
+> [!blank|embed] SCRIPT
 > <table class="dataview table-view-table"><thead><tr><th>Character</th><th>Origin</th><th>Associations</th></tr></thead><tbody><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/Menodora Thaliana.md" data-href="Player Characters/Menodora Thaliana.md" href="Player Characters/Menodora Thaliana.md" class="internal-link" target="_blank" rel="noopener nofollow">Menodora Thaliana</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Earth.md" data-href="Database/Places/Earth.md" href="Database/Places/Earth.md" class="internal-link" target="_blank" rel="noopener nofollow">Luna</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Glossary/The Belt.md" data-href="Database/Glossary/The Belt.md" href="Database/Glossary/The Belt.md" class="internal-link" target="_blank" rel="noopener nofollow">The Belt</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Places/Charun.md" data-href="Database/Places/Charun.md" href="Database/Places/Charun.md" class="internal-link" target="_blank" rel="noopener nofollow">Charun</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed] APPEARANCES
+> [!blank|embed]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A.md" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a> - Origins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup.md" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>1</td><td>September 01, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 | Session | Date | Event |
@@ -53,5 +47,5 @@ There are five of them, all on staggered schedules. A charun arrives at Jupiter 
 
 { .block-language-dataview}
 
-> [!blank|embed] CHANGELOG
+> [!blank|embed]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
