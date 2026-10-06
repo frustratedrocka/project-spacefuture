@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","entity","lore"],"noteIcon":"","updated":"2026-10-06T02:49:01.370-04:00","dg-note-properties":{"tags":["location","entity","lore"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":[["Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif"]],"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","entity","lore"],"noteIcon":"","updated":"2026-10-06T03:08:51.590-04:00","dg-note-properties":{"tags":["location","entity","lore"],"aliases":["Ferry"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":"[[Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif]]","Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 
 > [!INFOBOX] Charun
 > # Charun
-> `=embed(this.Portrait)`
+> ![Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif\|560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif](/img/user/Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif)
 >
 >> [!blank|clean n-th] 
 >> | | |

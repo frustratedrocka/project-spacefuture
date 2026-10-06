@@ -1,25 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["npc","character","entity","ship","weird","location"],"noteIcon":"","updated":"2026-10-06T02:49:01.012-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity","ship","weird","location"],"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Origin":null,"Assoc":null,"Strain":8,"Consequences":["","","",""],"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Loyalty":null,"Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["npc","character","entity","ship","weird","location"],"noteIcon":"","updated":"2026-10-06T03:34:50.493-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity","ship","weird","location"],"aliases":null,"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Origin":null,"Assoc":null,"Strain":8,"Consequences":["","","",""],"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Loyalty":null,"Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":"Relationship","MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Fishbone
 > ![Admin/Attachments/PCShip.webp\|PCShip.webp](/img/user/Admin/Attachments/PCShip.webp)
->>[!caption]
->>[[Database/Glossary/Ship\|Guernica-Class Destroyer]]
 >
 >>[!blank|clean n-th]
 >> |  |  |
 >> |--|--|
 >> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
->> | **ARMOR**| `REDACTED` |
+>> |**ORIGIN**|<span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>> |**ASSOC.**|<span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>> | **ARMOR**|`REDACTED`|
 >  
-> |HARM|BREAKDOWN|
+> |HARM|CONSEQUENCE|
 > |----|-----|
-> |2 Dnt|`=this.Consequences[0]`|
-> |2 Dmg|`=this.Consequences[1]`|
-> |4 Dsbl|`=this.Consequences[2]`|
-> |6 Dst|`=this.Consequences[3]`|
+> |2 Mild|`=this.Consequences[0]`|
+> |4 Mod|`=this.Consequences[2]`|
+> |6 Svr|`=this.Consequences[3]`|
+
+
 
 | Aspects                                           |
 | ------------------------------------------------- |
@@ -28,6 +29,8 @@
 | Courtesy Of [[Database/Factions/Jovian Consortium\|the Consortium]] |
 
 { .block-language-dataview}
+
+
 
 `REDACTED`
 

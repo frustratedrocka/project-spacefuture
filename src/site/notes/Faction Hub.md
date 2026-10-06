@@ -12,7 +12,7 @@
 
 >[!infobox|embed ws-med]
 ># Rebels
->![Admin/Attachments/RebelInsignia.webp\|RebelInsignia.webp](/img/user/Admin/Attachments/RebelInsignia.webp)
+>`=embed(this.Portrait)`
 >
 >>[!blank|clean n-th]
 >>|||
@@ -56,7 +56,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 
 | Character                                           | Aspects                                                                               |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [[Database/People/Anatol Garza\|Anatol Garza]]   | Catatonic Rebel Ace \- \- \- \-                                                       |
+| [[Database/People/Anatol Garza\|Anatol Garza]]   | Catatonic Rebel Ace \- Relationship \- Casualty Of War                                |
 | [[Database/People/Artel Ward\|Artel Ward]]       | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- Relationship \- `REDACTED`                                |
 | [[Database/People/Delbrau Enger\|Delbrau Enger]] | [[Database/Things/Fishbone\|Fishbone]] Lead Comms Officer \- [[Player Characters/Vergen Koni\|Verg]] Saved His Life \- `REDACTED` |
 | [[Database/People/Gen Bashaba\|Gen Bashaba]]     | Fledgling shipmaster rising to the occasion \- Relationship \- `REDACTED`             |
@@ -90,7 +90,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 
 >[!infobox|embed ws-med]
 ># Apsis
->`=embed(link(this.Portrait))`
+>`=embed(this.Portrait)`
 >
 >>[!blank|clean n-th]
 >>|||
@@ -123,11 +123,11 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 
 >[!blank|static wfull]
 
-| Character                                                 | Aspects                                                         |
-| --------------------------------------------------------- | --------------------------------------------------------------- |
-| [[Database/People/The Man Upstairs\|The Man Upstairs]] | Power-Hungry Expert Shipping Magnate \- \- \- `REDACTED`        |
-| [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]   | Strategic & Skilled Field Commander \- `REDACTED` \- `REDACTED` |
-| [[Database/Things/Brynhildr\|Brynhildr]]               | Apsis pursuit cruiser \- \- \- \-                               |
+| Character                                                 | Aspects                                                            |
+| --------------------------------------------------------- | ------------------------------------------------------------------ |
+| [[Database/People/The Man Upstairs\|The Man Upstairs]] | Expert Shipping Magnate \- Leading Your Enemy \- `REDACTED`        |
+| [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]   | Strategic & Skilled Field Commander \- `REDACTED` \- `REDACTED`    |
+| [[Database/Things/Brynhildr\|Brynhildr]]               | Apsis pursuit cruiser \- Relationship \- !h! Inanimate Object !/h! |
 
 { .block-language-dataview}
 
@@ -154,7 +154,7 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 
 >[!infobox|embed ws-med]
 ># Jovian Consortium
->`=embed(link(this.Portrait))`
+>`=embed(this.Portrait)`
 >
 >>[!blank|clean n-th]
 >>|||
@@ -181,11 +181,10 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 
 >[!blank|static wfull]
 
-| Character                                                                         | Aspects                                                                                          |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [[Database/People/Artel Ward\|Artel Ward]]                                     | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- Relationship \- `REDACTED`                                           |
-| [[Database/People/The CEO\|The CEO]]                                           | CEO of [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] \- Relationship \- When You Think Jovians, You Think CEO |
-| [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] | Key Mobile Suit Manufacturer \- Sells To Everyone, Including You \- `REDACTED`                   |
+| Character                                     | Aspects                                                                                          |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [[Database/People/Artel Ward\|Artel Ward]] | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- Relationship \- `REDACTED`                                           |
+| [[Database/People/The CEO\|The CEO]]       | CEO of [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] \- Relationship \- When You Think Jovians, You Think CEO |
 
 { .block-language-dataview}
 
@@ -212,7 +211,7 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 
 >[!infobox|embed ws-med]
 ># Republic Of Mars
->![Admin/Attachments/RFGuerillaPropPoster1.webp\|RFGuerillaPropPoster1.webp](/img/user/Admin/Attachments/RFGuerillaPropPoster1.webp)
+>`=embed(this.Portrait)`
 >
 >>[!blank|clean n-th]
 >>|||
@@ -270,7 +269,7 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 
 >[!infobox|embed ws-med]
 ># Armada Ejecta
->![Admin/Attachments/CV_Recolor.webp\|CV_Recolor.webp](/img/user/Admin/Attachments/CV_Recolor.webp)
+>`=embed(this.Portrait)`
 >
 >>[!blank|clean n-th]
 >>|||
@@ -323,7 +322,7 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 
 >[!infobox|embed ws-med]
 ># Mindful Eyes
->`=embed(link(this.Portrait))`
+>`=embed(this.Portrait)`
 >
 >>[!blank|clean n-th]
 >>|||
@@ -387,7 +386,7 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 
 >[!infobox|embed ws-med]
 ># Hive Cult
->`=embed(link(this.Portrait))`
+>`=embed(this.Portrait)`
 >
 >>[!blank|clean n-th]
 >>|||

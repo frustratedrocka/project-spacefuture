@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/anatol-garza/","tags":["npc","character","pilot","entity","ooa"],"noteIcon":"","updated":"2026-10-06T02:49:01.171-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","pilot","entity","ooa"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":"[[Database/Factions/Rebels]]","Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Catatonic Rebel Ace","Relationship":null,"Loyalty":null,"Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":"[[Database/Mobile Suits/EW-14 Gundam Makhairos]]","MECH_Secret":null,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":null,"MECH_Gear":null,"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/anatol-garza/","tags":["npc","character","pilot","entity","ooa"],"noteIcon":"","updated":"2026-10-06T03:45:13.706-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","pilot","entity","ooa"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":"[[Database/Factions/Rebels]]","Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Catatonic Rebel Ace","Relationship":"Relationship","Loyalty":"Casualty Of War","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":"[[Database/Mobile Suits/EW-14 Gundam Makhairos]]","MECH_Secret":false,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":null,"MECH_Gear":["Beam Axe","Burst Rifle"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -40,14 +40,16 @@
 | Aspects             |
 | ------------------- |
 | Catatonic Rebel Ace |
+| Relationship        |
+| Casualty Of War     |
 
 { .block-language-dataview}
 
-> [!blank|flex table clean] MECH ASPECTS
+> [!blank|flex embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Prototype Superweapon, Wrecked Beyond Repair</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|flex table clean] GEAR ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> [!blank|flex embed clean] GEAR ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Beam Axe</span></td></tr><tr><td><span>Burst Rifle</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 `REDACTED`
 

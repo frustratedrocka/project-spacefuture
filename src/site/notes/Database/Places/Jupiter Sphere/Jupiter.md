@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location","entity"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-06T02:49:01.425-04:00","dg-note-properties":{"tags":["location","entity"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Control":"Home / Headquarters","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Jupiter_OPAL_2024-1.webp","Concept":"Industrial Center Of Sol","Trouble":"Distance Necessitates Deliberation","Aspects":["Ruler Of The Heavens, In Fact And In Name","Wholly Owned & Incorporated"]}}
+{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location","entity"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-06T03:08:21.607-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Control":"Home / Headquarters","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Jupiter_OPAL_2024-1.webp]]","Concept":"Industrial Center Of Sol","Trouble":"Distance Necessitates Deliberation","Aspects":["Ruler Of The Heavens, In Fact And In Name","Wholly Owned & Incorporated"]}}
 ---
 
 
 > [!INFOBOX] Jupiter
 > # Jupiter
-> `=embed(this.Portrait)`
+> ![Admin/Attachments/Jupiter_OPAL_2024-1.webp\|Jupiter_OPAL_2024-1.webp](/img/user/Admin/Attachments/Jupiter_OPAL_2024-1.webp)
 >
 >> [!blank|clean n-th] 
 >> | | |

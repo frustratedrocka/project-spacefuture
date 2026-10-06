@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-06T02:35:28.010-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-06T03:35:22.544-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Apsis","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"The Man Upstairs","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Faction 2","Oppressors"]}}
 ---
 
 
 >[!infobox|embed ws-med]
 ># Apsis
->`=embed(link(this.Portrait))`
+>`=embed(this.Portrait)`
 >
 >>[!blank|clean n-th]
 >>|||
@@ -38,11 +38,11 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 
 >[!blank|static wfull]
 
-| Character                                                 | Aspects                                                         |
-| --------------------------------------------------------- | --------------------------------------------------------------- |
-| [[Database/People/The Man Upstairs\|The Man Upstairs]] | Power-Hungry Expert Shipping Magnate \- \- \- `REDACTED`        |
-| [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]   | Strategic & Skilled Field Commander \- `REDACTED` \- `REDACTED` |
-| [[Database/Things/Brynhildr\|Brynhildr]]               | Apsis pursuit cruiser \- \- \- \-                               |
+| Character                                                 | Aspects                                                            |
+| --------------------------------------------------------- | ------------------------------------------------------------------ |
+| [[Database/People/The Man Upstairs\|The Man Upstairs]] | Expert Shipping Magnate \- Leading Your Enemy \- `REDACTED`        |
+| [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]   | Strategic & Skilled Field Commander \- `REDACTED` \- `REDACTED`    |
+| [[Database/Things/Brynhildr\|Brynhildr]]               | Apsis pursuit cruiser \- Relationship \- !h! Inanimate Object !/h! |
 
 { .block-language-dataview}
 

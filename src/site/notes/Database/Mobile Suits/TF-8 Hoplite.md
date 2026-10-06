@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-hoplite/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T02:49:01.029-04:00","dg-note-properties":{"tags":["Mech","entity"],"MECH_Name":"UT-F-08 Hoplite","MECH_Model":"[[Database/Mobile Suits/TF-8 Hoplite]]","Portrait":"[[Admin/Attachments/Hoplite_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Iconic Line Mech","MECH_Trouble":"Yesterday's News","MECH_Relationship":null,"MECH_Gear":["Machine Gun","Missile Launcher","Heat Hawk"],"MECH_Stunts":["**DUCT TAPE AND PRAYERS** You may Tinker to treat and rename a Hoplite's Breakdown using the normal rules for clearing consequences.","**HAMMER AND ANVIL** +1 when you Shoot Carefully to attack a target already engaged in combat with an ally."],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Jovian Consortium]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Independent]]"],"Variants":["[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]"],"Base":[null]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-hoplite/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T03:37:31.567-04:00","dg-note-properties":{"tags":["Mech","entity"],"MECH_Name":"Hoplite","MECH_Model":"[[Database/Mobile Suits/TF-8 Hoplite]]","Portrait":"[[Admin/Attachments/Hoplite_SQ.webp]]","Armor":4,"Breakdown":["","","",""],"MECH_Concept":"Iconic Line Mech","MECH_Trouble":"Yesterday's News","MECH_Gear":["Machine Gun","Missile Launcher","Heat Hawk"],"MECH_Stunts":["**DUCT TAPE AND PRAYERS** You may Tinker to treat and rename a Hoplite's Breakdown using the normal rules for clearing consequences.","**HAMMER AND ANVIL** +1 when you Shoot Carefully to attack a target already engaged in combat with an ally."],"Known_Users":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Jovian Consortium]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Independent]]"],"Variants":["[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]"],"Base":[null]}}
 ---
 
 
 > [!infobox|embed left wsmall]
-> # UT-F-08 Hoplite
+> # Hoplite
 > ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp)
 >
 >> [!blank|clean n-th] 

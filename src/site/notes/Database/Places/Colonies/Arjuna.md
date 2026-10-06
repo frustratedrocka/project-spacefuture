@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/arjuna/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-06T02:49:01.511-04:00","dg-note-properties":{"tags":["location","entity"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Republic Of Mars|ROM]]",null],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/arjuna/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-06T03:07:37.421-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Republic Of Mars|ROM]]",null],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 

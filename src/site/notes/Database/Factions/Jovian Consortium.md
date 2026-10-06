@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-06T02:35:15.461-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-06T03:35:19.923-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian"]}}
 ---
 
 
 >[!infobox|embed ws-med]
 ># Jovian Consortium
->`=embed(link(this.Portrait))`
+>`=embed(this.Portrait)`
 >
 >>[!blank|clean n-th]
 >>|||
@@ -32,11 +32,10 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 
 >[!blank|static wfull]
 
-| Character                                                                         | Aspects                                                                                          |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [[Database/People/Artel Ward\|Artel Ward]]                                     | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- Relationship \- `REDACTED`                                           |
-| [[Database/People/The CEO\|The CEO]]                                           | CEO of [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] \- Relationship \- When You Think Jovians, You Think CEO |
-| [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] | Key Mobile Suit Manufacturer \- Sells To Everyone, Including You \- `REDACTED`                   |
+| Character                                     | Aspects                                                                                          |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [[Database/People/Artel Ward\|Artel Ward]] | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- Relationship \- `REDACTED`                                           |
+| [[Database/People/The CEO\|The CEO]]       | CEO of [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] \- Relationship \- When You Think Jovians, You Think CEO |
 
 { .block-language-dataview}
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-06T02:49:01.547-04:00","dg-note-properties":{"tags":["location","entity"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.webp","Concept":"Terrified Into Silence","Trouble":"Holding Its Breath","Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-06T03:08:04.159-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Stanford.webp]]","Concept":"Terrified Into Silence","Trouble":"Holding Its Breath","Aspects":["`REDACTED`"]}}
 ---
 
 
 > [!INFOBOX] Theseus
 > # Theseus
-> `=embed(this.Portrait)`
+> ![Admin/Attachments/Stanford.webp\|Stanford.webp](/img/user/Admin/Attachments/Stanford.webp)
 >
 >> [!blank|clean n-th] 
 >> | | |

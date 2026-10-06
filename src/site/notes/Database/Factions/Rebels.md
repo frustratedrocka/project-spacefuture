@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-10-06T02:32:02.886-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
+{"dg-publish":true,"permalink":"/database/factions/rebels/","tags":["faction"],"noteIcon":"","updated":"2026-10-06T03:35:15.567-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Rebels]]","Beliefs":["This Cannot Continue"],"Paragon":[null],"Fealty":6,"Fellowship":8,"Force":4,"Fraternity":2,"aliases":["Roiders"],"Portrait":"Admin/Attachments/RebelInsignia.webp"}}
 ---
 
 >[!infobox|embed ws-med]
 ># Rebels
->![Admin/Attachments/RebelInsignia.webp\|RebelInsignia.webp](/img/user/Admin/Attachments/RebelInsignia.webp)
+>`=embed(this.Portrait)`
 >
 >>[!blank|clean n-th]
 >>|||
@@ -48,7 +48,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 
 | Character                                           | Aspects                                                                               |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [[Database/People/Anatol Garza\|Anatol Garza]]   | Catatonic Rebel Ace \- \- \- \-                                                       |
+| [[Database/People/Anatol Garza\|Anatol Garza]]   | Catatonic Rebel Ace \- Relationship \- Casualty Of War                                |
 | [[Database/People/Artel Ward\|Artel Ward]]       | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- Relationship \- `REDACTED`                                |
 | [[Database/People/Delbrau Enger\|Delbrau Enger]] | [[Database/Things/Fishbone\|Fishbone]] Lead Comms Officer \- [[Player Characters/Vergen Koni\|Verg]] Saved His Life \- `REDACTED` |
 | [[Database/People/Gen Bashaba\|Gen Bashaba]]     | Fledgling shipmaster rising to the occasion \- Relationship \- `REDACTED`             |
