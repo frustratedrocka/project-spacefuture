@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ew-14-gundam-makhairos/","tags":["Mech","entity","ooa"],"noteIcon":"","updated":"2026-10-06T02:49:01.059-04:00","dg-note-properties":{"tags":["Mech","entity","ooa"],"MECH_Name":"Gundam Makhairos","MECH_Model":[["NMS8 Gundam Makhairos"]],"Portrait":"[[Admin/Attachments/GB4_Makhairos.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Prototype Superweapon, Wrecked Beyond Repair","MECH_Trouble":null,"MECH_Gear":["Beam Axe",null],"MECH_Stunts":[null],"Known_Users":["[[Database/People/Anatol Garza]]"],"Faction":["[[Database/Factions/Rebels]]"],"Variants":[null],"Base":[null]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ew-14-gundam-makhairos/","tags":["Mech","entity","ooa"],"noteIcon":"","updated":"2026-10-06T03:50:57.347-04:00","dg-note-properties":{"tags":["Mech","entity","ooa"],"aliases":["Gundam Makhairos","Makhairos"],"MECH_Name":"Gundam Makhairos","MECH_Model":[["NMS8 Gundam Makhairos"]],"Portrait":"[[Admin/Attachments/GB4_Makhairos.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Prototype Superweapon, Wrecked Beyond Repair","MECH_Trouble":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"MECH_Stunts":[null],"Known_Users":["[[Database/People/Anatol Garza]]"],"Faction":["[[Database/Factions/Rebels]]"],"Variants":[null],"Base":[null]}}
 ---
 
 
@@ -19,7 +19,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Prototype Superweapon, Wrecked Beyond Repair</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed] KNOWN ARMAMENTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Beam Axe</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Beam Axe</span></td></tr><tr><td><span>Linear Rifle</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
