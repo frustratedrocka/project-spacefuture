@@ -14,11 +14,10 @@
 ># Rebels
 >![Admin/Attachments/RebelInsignia.webp\|RebelInsignia.webp](/img/user/Admin/Attachments/RebelInsignia.webp)
 >
->>[!blank|clean n-th]
->>|||
->>|--|--|
->>|**PARAGON**||
->>|**BELIEFS**|"This Cannot Continue"|
+>|||
+>|--|--|
+>|**PARAGON**||
+>|**BELIEFS**|"This Cannot Continue"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -92,11 +91,10 @@ The current mission is simple: Intercept excess food shipments and redirect them
 ># Apsis
 >`=embed(link(this.Portrait))`
 >
->>[!blank|clean n-th]
->>|||
->>|--|--|
->>|**PARAGON**|[[Database/People/The Man Upstairs\|The Man Upstairs]]|
->>|**BELIEFS**|"We Are The Line Between The System And Starvation"<br>"Our Ends Justify Any Means"|
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The Man Upstairs\|The Man Upstairs]]|
+>|**BELIEFS**|"We Are The Line Between The System And Starvation"<br>"Our Ends Justify Any Means"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -161,11 +159,10 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 ># Jovian Consortium
 >`=embed(link(this.Portrait))`
 >
->>[!blank|clean n-th]
->>|||
->>|--|--|
->>|**PARAGON**|[[Database/People/The CEO\|The CEO]]|
->>|**BELIEFS**|"Obedience Through Power"<br>"Trust The (Long) Process"|
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The CEO\|The CEO]]|
+>|**BELIEFS**|"Obedience Through Power"<br>"Trust The (Long) Process"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -221,11 +218,10 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 ># Republic Of Mars
 >![Admin/Attachments/RFGuerillaPropPoster1.webp\|RFGuerillaPropPoster1.webp](/img/user/Admin/Attachments/RFGuerillaPropPoster1.webp)
 >
->>[!blank|clean n-th]
->>|||
->>|--|--|
->>|**PARAGON**|`=link(this.Paragon)`|
->>|**BELIEFS**|"We Deserve Self-Determination"<br>"Delay Is Complicity"|
+>|||
+>|--|--|
+>|**PARAGON**|`=link(this.Paragon)`|
+>|**BELIEFS**|"We Deserve Self-Determination,"<br>"Delay Is Complicity"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -281,11 +277,10 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 ># Armada Ejecta
 >![Admin/Attachments/CV_Recolor.webp\|CV_Recolor.webp](/img/user/Admin/Attachments/CV_Recolor.webp)
 >
->>[!blank|clean n-th]
->>|||
->>|--|--|
->>|**PARAGON**|[[Database/People/The Pirate King\|The Pirate King]]|
->>|**BELIEFS**|"Take Back What's Ours"<br>"Loyalty Among Thieves"|
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The Pirate King\|The Pirate King]]|
+>|**BELIEFS**|"Take Back What's Ours"<br>"Loyalty Among Thieves"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -336,11 +331,10 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 ># Mindful Eyes
 >`=embed(link(this.Portrait))`
 >
->>[!blank|clean n-th]
->>|||
->>|--|--|
->>|**PARAGON**|[[Database/People/The Mother And The Father\|The Mother And The Father]]|
->>|**BELIEFS**|"Don't Let Your Gift Be Abused"<br>"Survival Through Secrecy"|
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The Mother And The Father\|The Mother And The Father]]|
+>|**BELIEFS**|"Don't Let Your Gift Be Abused"<br>"Survival Through Secrecy"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -363,7 +357,11 @@ Force: Not the forefront, but not slacked. If ever needed, they rely on small, e
 
 The Eyes are still processing the idea that the Moondrop and the Ground War all stemmed from an attempt to wipe _them, specifically_, off the face of the solar system; it's one of the biggest things they collectively don't know how to feel about. Being part of the Hive Mind does not mean you don't get to have your own emotions and point of view on things, just that you also have access to everyone else's. This comes mostly in the form of vague emotional connotations and flashes, especially since there's far fewer of them now than there were at the peak of the fungal spread and the connection has weakened proportionately to their numbers.
 
+!h!
+# GM Notes
 
+[[Player Characters/Vergen Koni\|Verg]] is, presumably, openly an Eye, at least to the people around him. [[Player Characters/Menodora Thaliana\|Mena]] I don't think is. Need players to clarify. 
+!h!
 
 >[!blank|static wfull]
 
@@ -400,11 +398,10 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 ># Hive Cult
 >`=embed(link(this.Portrait))`
 >
->>[!blank|clean n-th]
->>|||
->>|--|--|
->>|**PARAGON**|[[Database/People/The Queen\|The Queen]]|
->>|**BELIEFS**|"The Queen's Word Is Law"<br>"Their Gift Is Our Destiny"<br>"Never Turn A Blind Eye"|
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The Queen\|The Queen]]|
+>|**BELIEFS**|"The Queen's Word Is Law"<br>"Their Gift Is Our Destiny"<br>"Never Turn A Blind Eye"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -452,6 +449,11 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 
 
 
+
+
+
+
+>[!blank|static wfull]
 
 
 | Character | Aspects |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-05T20:15:16.702-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-05T11:53:22.000-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian"]}}
 ---
 
 
@@ -7,11 +7,10 @@
 ># Jovian Consortium
 >`=embed(link(this.Portrait))`
 >
->>[!blank|clean n-th]
->>|||
->>|--|--|
->>|**PARAGON**|[[Database/People/The CEO\|The CEO]]|
->>|**BELIEFS**|"Obedience Through Power"<br>"Trust The (Long) Process"|
+>|||
+>|--|--|
+>|**PARAGON**|[[Database/People/The CEO\|The CEO]]|
+>|**BELIEFS**|"Obedience Through Power"<br>"Trust The (Long) Process"|
 >
 >|SKILL|RANK|
 >|--|:--:|
