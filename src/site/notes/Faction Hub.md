@@ -12,7 +12,7 @@
 
 >[!infobox|embed ws-med]
 ># Rebels
->`=embed(this.Portrait)`
+>![Admin/Attachments/RebelInsignia.webp\|RebelInsignia.webp](/img/user/Admin/Attachments/RebelInsignia.webp)
 >
 >>[!blank|clean n-th]
 >>|||
@@ -211,7 +211,7 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 
 >[!infobox|embed ws-med]
 ># Republic Of Mars
->`=embed(this.Portrait)`
+>![Admin/Attachments/RFGuerillaPropPoster1.webp\|RFGuerillaPropPoster1.webp](/img/user/Admin/Attachments/RFGuerillaPropPoster1.webp)
 >
 >>[!blank|clean n-th]
 >>|||
@@ -269,7 +269,7 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 
 >[!infobox|embed ws-med]
 ># Armada Ejecta
->`=embed(this.Portrait)`
+>![Admin/Attachments/CV_Recolor.webp\|CV_Recolor.webp](/img/user/Admin/Attachments/CV_Recolor.webp)
 >
 >>[!blank|clean n-th]
 >>|||

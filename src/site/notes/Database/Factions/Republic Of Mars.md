@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-10-06T03:35:13.663-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.webp","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-10-06T03:47:03.176-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Republic Of Mars]]","Portrait":"[[Admin/Attachments/RFGuerillaPropPoster1.webp]]","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian","Martians"]}}
 ---
 
 
 >[!infobox|embed ws-med]
 ># Republic Of Mars
->`=embed(this.Portrait)`
+>![Admin/Attachments/RFGuerillaPropPoster1.webp\|RFGuerillaPropPoster1.webp](/img/user/Admin/Attachments/RFGuerillaPropPoster1.webp)
 >
 >>[!blank|clean n-th]
 >>|||

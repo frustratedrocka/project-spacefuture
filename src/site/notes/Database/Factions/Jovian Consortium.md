@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-06T03:35:19.923-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-06T03:46:38.306-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Jovian Consortium]]","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian","Jovians"]}}
 ---
 
 
