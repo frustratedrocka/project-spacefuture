@@ -1,16 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/brynhildr/","tags":["npc","location","ship","weird","entity"],"noteIcon":"","updated":"2026-10-05T12:46:03.537-04:00","dg-note-properties":{"tags":["npc","location","ship","weird","entity"],"Portrait":"Admin/Attachments/Brynhildr.webp","Faction":["[[Database/Factions/Apsis]]"],"Type":["[[Database/Glossary/Ship]]"],"Class":"[[Database/Glossary/Ship|Valkyrie-class cruiser]]","Scale":5,"Rank":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Apsis pursuit cruiser","Aspects":["Scourge of the deep belt","One battle, one Brynhildr",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill",[null]],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/things/brynhildr/","tags":["npc","character","entity","location","ship","weird"],"noteIcon":"","updated":"2026-10-05T23:43:43.142-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity","location","ship","weird"],"Portrait":"Admin/Attachments/Brynhildr.webp","Faction":["[[Database/Factions/Apsis]]"],"Type":["[[Database/Glossary/Ship]]"],"Class":"[[Database/Glossary/Ship|Valkyrie-class cruiser]]","Scale":5,"Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Apsis pursuit cruiser","Relationship":null,"Loyalty":null,"Aspects":["Scourge of the deep belt","One battle, one Brynhildr",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill",[null]],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
-> [!infobox|embed left wsmall]
+> [!infobox|left wsmall embed] CHARACTER
 > # Brynhildr
 > ![Admin/Attachments/Brynhildr.webp\|Brynhildr.webp](/img/user/Admin/Attachments/Brynhildr.webp)
-> 
-> |  |  |
-> |--|--|
-> |**FACTION**| [[Database/Factions/Apsis\|Apsis]]|
-> |**CLASS**|[[Database/Glossary/Ship\|Valkyrie-class cruiser]]|
-> |**ARMOR**|`REDACTED`|
+>
+>>[!blank|clean n-th]
+>> |  |  |
+>> |--|--|
+>> |**FACTION**| [[Database/Factions/Apsis\|Apsis]]|
+>> |**CLASS**|[[Database/Glossary/Ship\|Valkyrie-class cruiser]]|
+>> |**ARMOR**|`REDACTED`|
 > 
 > |HARM|BREAKDOWN|
 > |----|-----|
@@ -19,12 +20,17 @@
 > |4 Dsbl|`=this.Breakdown[2]`|
 > |6 Doom|`=this.Breakdown[3]`|
 
-> [!blank|embed] ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Apsis pursuit cruiser</span></td></tr><tr><td><span>Scourge of the deep belt</span></td></tr><tr><td><span>One battle, one Brynhildr</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+| Aspects                   |
+| ------------------------- |
+| Apsis pursuit cruiser     |
+| Scourge of the deep belt  |
+| One battle, one Brynhildr |
+
+{ .block-language-dataview}
 
 `REDACTED`
 
-
+> [!blank|static wfull]
 
 # Notes
 An [[Database/Factions/Apsis\|Apsis]] warship. Like most Valkyrie-class cruisers, it operates without escort on extended hunts through the belt, striking at [[Database/Factions/Armada Ejecta\|Armada Ejecta]] and anyone else who attempts to disrupt the proper order of things.
@@ -35,15 +41,14 @@ At this moment, that includes you. Lucky you!
 
 ## Data
 
-> [!blank|embed] SCRIPT
+> [!blank|embed clean] ASSOCIATED
 > <table class="dataview table-view-table"><thead><tr><th>Character</th><th>Origin</th><th>Associations</th></tr></thead><tbody><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/Vantrin Almeyer.md" data-href="Database/People/Vantrin Almeyer.md" href="Database/People/Vantrin Almeyer.md" class="internal-link" target="_blank" rel="noopener nofollow">Vantrin Almeyer</a></span></td><td><code>REDACTED</code></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Brynhildr.md" data-href="Database/Things/Brynhildr.md" href="Database/Things/Brynhildr.md" class="internal-link" target="_blank" rel="noopener nofollow">Brynhildr</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed]
+> [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01.md" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a> - And So It Begins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Rats In The Cellar.md" data-href="Session Notes/Scenarios/Rats In The Cellar.md" href="Session Notes/Scenarios/Rats In The Cellar.md" class="internal-link" target="_blank" rel="noopener nofollow">Rats In The Cellar</a></span></td><td>1</td><td>September 29, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed]
+> [!blank|embed clean] EVENTS
 > <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01.md" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a></span></td><td><span>0092-09-29</span></td><td><span><span>Original command staff and first wing of the <span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone.md" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span> KIA by <span><a data-tooltip-position="top" aria-label="Database/People/Vantrin Almeyer.md" data-href="Database/People/Vantrin Almeyer.md" href="Database/People/Vantrin Almeyer.md" class="internal-link" target="_blank" rel="noopener nofollow">Vantrin</a></span> and the <span><a data-tooltip-position="top" aria-label="Database/Things/Brynhildr.md" data-href="Database/Things/Brynhildr.md" href="Database/Things/Brynhildr.md" class="internal-link" target="_blank" rel="noopener nofollow">Brynhildr</a></span> team, via an impossible shot that could only have happened with help from a traitor</span></span></td></tr></tbody></table></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed]
+> [!blank|embed clean] CHANGELOG
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
-

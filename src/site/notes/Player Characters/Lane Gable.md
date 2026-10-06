@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-05T19:08:05.158-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"Player":"[[Admin/Player/Nestor]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Lane_Sq.webp]]","Portrait_Zoom":"[[Admin/Attachments/Lane_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":["[[Database/Places/Colonies/Arjuna]]"],"Strain":4,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke."],"MECH_Model":"[[Database/Mobile Suits/ES-01 Elegant Sky]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Last Piece Of Earth","MECH_Gear":["Shield","Beam Rifle"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Notice"],"approach_3":["Subtly"],"skill_2":["Shoot","Interface"],"approach_2":["Cleverly","Quickly"],"skill_1":["Lead","Operate","Sway",[null]],"approach_1":["Boldly","Carefully","Forcefully"],"aliases":["Lane"]}}
+{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["PC","character","entity","pilot"],"noteIcon":"","updated":"2026-10-05T23:43:43.511-04:00","dg-note-properties":{"tags":["PC","character","entity","pilot"],"Player":"[[Admin/Player/Nestor]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Lane_Sq.webp]]","Portrait_Zoom":"[[Admin/Attachments/Lane_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":["[[Database/Places/Colonies/Arjuna]]"],"Strain":4,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke."],"MECH_Model":"[[Database/Mobile Suits/ES-01 Elegant Sky]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Last Piece Of Earth","MECH_Gear":["Shield","Beam Rifle"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Notice"],"approach_3":["Subtly"],"skill_2":["Shoot","Interface"],"approach_2":["Cleverly","Quickly"],"skill_1":["Lead","Operate","Sway",[null]],"approach_1":["Boldly","Carefully","Forcefully"],"aliases":["Lane"]}}
 ---
 
-> [!infobox|left wsmall embed]
+> [!infobox|left wsmall embed] CHARACTER
 > # Lane Gable
 > ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)
 > > [!caption] 
 > > 
 >
->>[!blank|clean n-th] 
+>>[!blank|clean n-th]
 >> |  |  |
 >> |--|--|
+>> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta.md" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 >> |**ORIGIN**|[[Database/Places/Earth\|Earth]]|
 >> |**ASSOC.**|<span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Arjuna.md" data-href="Database/Places/Colonies/Arjuna.md" href="Database/Places/Colonies/Arjuna.md" class="internal-link" target="_blank" rel="noopener nofollow">Arjuna</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
->> |**FACTIONS**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta.md" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 >> | **STRAIN**| 4 |
 >  
 > |HARM|CONSEQUENCE|
@@ -22,7 +22,7 @@
 > |4 Mod|Moderate|
 > |6 Svr|Severe|
 
-> [!infobox|right wsmall embed]
+> [!infobox|right wsmall embed] MECH
 > # Elegant Sky
 > ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)
 > 
@@ -50,13 +50,13 @@
 
 { .block-language-dataview}
 
-> [!blank|flex table clean]
+> [!blank|flex table clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Long Range Fire Support</span></td></tr><tr><td><span>Complex Systems</span></td></tr><tr><td><span>My Last Piece Of Earth</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|flex table clean]
+> [!blank|flex table clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Shield</span></td></tr><tr><td><span>Beam Rifle</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
->[!blank|static wfull]
+>[!blank|static wfull] SKILLS & APPROACHES
 
 |SKILLS|RANK|APPROACHES|
 |-----:|:---:|-----|
@@ -91,12 +91,11 @@ What started as a race for goods, quickly became a cooperative hit on another su
 
 ## Data
 
-> [!blank|embed clean]
+> [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A.md" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a> - Origins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup.md" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>1</td><td>September 01, 2026</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00B.md" data-href="Session Notes/Session 00B.md" href="Session Notes/Session 00B.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00B</a> - Training Sim</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup.md" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>2</td><td>September 15, 2026</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01.md" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a> - And So It Begins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Rats In The Cellar.md" data-href="Session Notes/Scenarios/Rats In The Cellar.md" href="Session Notes/Scenarios/Rats In The Cellar.md" class="internal-link" target="_blank" rel="noopener nofollow">Rats In The Cellar</a></span></td><td>1</td><td>September 29, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean]
+> [!blank|embed clean] EVENTS
 > <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean]
+> [!blank|embed clean] CHANGELOG
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00B.md" data-href="Session Notes/Session 00B.md" href="Session Notes/Session 00B.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00B</a></span></td><td><span><strong>OLD:</strong> <strong>RALLY THE TROOPS</strong> +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2.<br><strong>NEW:</strong> <strong>LEAD THE ATTACK</strong> When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke.</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01.md" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a></span></td><td><span><strong>OLD:</strong> Notice 3, Shoot 2<br><strong>NEW:</strong> Shoot 3, Notice 2</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
-

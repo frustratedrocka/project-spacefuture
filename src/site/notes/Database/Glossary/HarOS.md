@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/har-os/","tags":["lore"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T21:17:51.693-04:00","dg-note-properties":{"tags":["lore"]}}
+{"dg-publish":true,"permalink":"/database/glossary/har-os/","tags":["lore"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-05T23:43:43.428-04:00","dg-note-properties":{"tags":["lore"]}}
 ---
 
 ![Haro.webp\|wsmall right](/img/user/Admin/Attachments/Haro.webp)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/fight-pits/","tags":["lore","glossary"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-21T00:10:31.010-04:00","dg-note-properties":{"tags":["lore","glossary"]}}
+{"dg-publish":true,"permalink":"/database/glossary/fight-pits/","tags":["lore","glossary"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-05T23:43:43.482-04:00","dg-note-properties":{"tags":["lore","glossary"]}}
 ---
 
 [[Database/Glossary/The Belt\|The Belt]] version: "take it outside to zero g / other side of the rock, with camera crews, and whatever you do *do not blow a hole in our [[Database/Glossary/Colony\|colony]]*" (note since you don't know gundam, the first onscreen MS kill in the entire franchise does in fact blow a giant hole in the colony and vent air and people into space when the zaku's reactor goes up)

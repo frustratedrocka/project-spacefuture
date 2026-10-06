@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/the-current-conflict/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T14:16:12.772-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/the-current-conflict/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-05T23:43:43.089-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 

@@ -47,6 +47,7 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 | --------------------------------------------------------- | --------------------------------------------------------------- |
 | [[Database/People/The Man Upstairs\|The Man Upstairs]] | Power-Hungry Expert Shipping Magnate \- \- \- `REDACTED`        |
 | [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]   | Strategic & Skilled Field Commander \- `REDACTED` \- `REDACTED` |
+| [[Database/Things/Brynhildr\|Brynhildr]]               | Apsis pursuit cruiser \- \- \- \-                               |
 
 { .block-language-dataview}
 

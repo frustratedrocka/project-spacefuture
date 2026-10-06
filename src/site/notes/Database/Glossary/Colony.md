@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-09-19T12:59:53.549-04:00","dg-note-properties":{"tags":["index","lore"]}}
+{"dg-publish":true,"permalink":"/database/glossary/colony/","tags":["index","lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-05T23:43:43.438-04:00","dg-note-properties":{"tags":["index","lore"]}}
 ---
 
 > [!infobox|embed ws-med]

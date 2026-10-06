@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character"],"noteIcon":"","updated":"2026-10-01T21:21:43.059-04:00","dg-note-properties":{"tags":["npc","character"],"NPC_Name":"The Man Upstairs","Portrait":"[[Admin/Attachments/Onassis.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Rank":0,"Strain":6,"Consequences":["Mild","Moderate","Severe"],"Concept":"Power-Hungry Expert Shipping Magnate","Relationship":null,"Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`","`REDACTED`"],"Stunts":[[null]],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
+{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-05T23:43:42.659-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"NPC_Name":"The Man Upstairs","Portrait":"[[Admin/Attachments/Onassis.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":0,"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Strain":6,"Consequences":["Mild","Moderate","Severe"],"Concept":"Power-Hungry Expert Shipping Magnate","Relationship":null,"Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`","`REDACTED`"],"Stunts":[[null]],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
 ---
 
-> [!infobox|embed left wsmall]
+> [!infobox|left wsmall embed] CHARACTER
 > # The Man Upstairs
 > ![Admin/Attachments/Onassis.webp\|Onassis.webp](/img/user/Admin/Attachments/Onassis.webp)
-> 
-> |  |  |
-> |--|--|
-> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
-> |**ORIGIN**|<span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Ceres.md" data-href="Database/Places/Colonies/Ceres.md" href="Database/Places/Colonies/Ceres.md" class="internal-link" target="_blank" rel="noopener nofollow">Ceres</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
-> | **STRAIN**| `REDACTED` |
+>
+>>[!blank|clean n-th]
+>> |  |  |
+>> |--|--|
+>> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>> |**ORIGIN**|<span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Ceres.md" data-href="Database/Places/Colonies/Ceres.md" href="Database/Places/Colonies/Ceres.md" class="internal-link" target="_blank" rel="noopener nofollow">Ceres</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>> |**ASSOC.**|<span><a data-tooltip-position="top" aria-label="Database/Places/Jupiter Sphere/Jupiter.md" data-href="Database/Places/Jupiter Sphere/Jupiter.md" href="Database/Places/Jupiter Sphere/Jupiter.md" class="internal-link" target="_blank" rel="noopener nofollow">Jupiter</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>> | **STRAIN**|`REDACTED`|
 >  
 > |HARM|CONSEQUENCE|
 > |----|-----|
@@ -18,12 +20,23 @@
 > |4 Mod|Moderate|
 > |6 Svr|Severe|
 
-> [!blank|embed] ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Power-Hungry Expert Shipping Magnate</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+
+| Aspects                              |
+| ------------------------------------ |
+| Power-Hungry Expert Shipping Magnate |
+| `REDACTED`                           |
+| `REDACTED`                           |
+| `REDACTED`                           |
+| `REDACTED`                           |
+
+{ .block-language-dataview}
+
+
 
 `REDACTED`
 
->[!blank|static wfull]
+> [!blank|static wfull]
 
 # Notes
 `REDACTED`
@@ -36,11 +49,11 @@
 
 ## Data
 
-> [!blank|embed]
+> [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/World Jam.md" data-href="Session Notes/World Jam.md" href="Session Notes/World Jam.md" class="internal-link" target="_blank" rel="noopener nofollow">World Jam</a> - A Century Emerges</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup.md" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td><span>0</span></td><td>August 04, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed]
+> [!blank|embed clean] EVENTS
 > <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed]
+> [!blank|embed clean] CHANGELOG
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
