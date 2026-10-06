@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T01:49:36.378-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Rejunot"],"MECH_Name":"Rejunot","MECH_Model":"[[Database/Mobile Suits/AP-92 Rejunot]]","Portrait":"[[Admin/Attachments/RebelGruntSuit_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Rebellion Grunt Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":[null],"Known_Users":[null],"Faction":["[[Database/Factions/Rebels]]"],"Variants":[null],"Base":[null]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T02:02:08.018-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Rejunot"],"MECH_Name":"Rejunot","MECH_Model":"[[Database/Mobile Suits/AP-92 Rejunot]]","Portrait":"[[Admin/Attachments/RebelGruntSuit_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":"Modernized Rebel Generalist Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":[null],"Known_Users":[null],"Faction":["[[Database/Factions/Rebels]]"],"Variants":[null],"Base":[null]}}
 ---
 
 
@@ -16,7 +16,7 @@
 >> |**BASE MODEL**|\-|
 
 > [!blank|embed] MECH ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Rebellion Grunt Suit</span></td></tr><tr><td><span>Rushed Into Production</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Modernized Rebel Generalist Suit</span></td></tr><tr><td><span>Rushed Into Production</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed] KNOWN ARMAMENTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Rejunot Carbine</span></td></tr><tr><td><span>Beam Saber</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
