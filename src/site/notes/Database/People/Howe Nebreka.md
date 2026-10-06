@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/howe-nebreka/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-06T03:35:07.132-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":["Neckbreaker"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/79.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"[[Fishbone]] Helmsman","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["%% %%","Explosive Temper",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/howe-nebreka/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-06T04:23:54.988-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":["Neckbreaker"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/79.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"[[Fishbone]] Helmsman","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["%% %%","Explosive Temper",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -16,9 +16,9 @@
 >  
 > |HARM|CONSEQUENCE|
 > |----|-----|
-> |2 Mild|Mild|
-> |4 Mod|Moderate|
-> |6 Svr|Severe|
+> |2 Mild||
+> |4 Mod||
+> |6 Svr||
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/delbrau-enger/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-06T03:35:10.474-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/28.png]]","Faction":["[[Database/Factions/Rebels]]","%% %%"],"Rank":5,"Origin":"[[Database/Places/Earth]]","Assoc":"[[Database/Places/Colonies/Pallas]]","Strain":4,"Consequences":["Mild","Leg In A Cast","Severe"],"Concept":"[[Fishbone]] Lead Comms Officer","Relationship":"[[Vergen Koni|Verg]] Saved His Life","Loyalty":"`REDACTED`","Aspects":["Enthusiastic Wife Guy","%% %%",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/delbrau-enger/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-06T04:24:11.294-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/28.png]]","Faction":["[[Database/Factions/Rebels]]","%% %%"],"Rank":5,"Origin":"[[Database/Places/Earth]]","Assoc":"[[Database/Places/Colonies/Pallas]]","Strain":4,"Consequences":[[null],"Leg In A Cast",[null]],"Concept":"[[Fishbone]] Lead Comms Officer","Relationship":"[[Vergen Koni|Verg]] Saved His Life","Loyalty":"`REDACTED`","Aspects":["Enthusiastic Wife Guy","%% %%",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -16,9 +16,9 @@
 >  
 > |HARM|CONSEQUENCE|
 > |----|-----|
-> |2 Mild|Mild|
+> |2 Mild||
 > |4 Mod|Leg In A Cast|
-> |6 Svr|Severe|
+> |6 Svr||
 
 
 

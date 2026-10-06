@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-06T03:34:57.448-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/Onassis.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":0,"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Strain":6,"Consequences":["Mild","Moderate","Severe"],"Concept":"Expert Shipping Magnate","Relationship":"Leading Your Enemy","Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`","`REDACTED`"],"Stunts":[[null]],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
+{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-06T04:23:26.267-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/Onassis.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":0,"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Strain":6,"Consequences":[[null],[null],[null]],"Concept":"Expert Shipping Magnate","Relationship":"Leading Your Enemy","Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`","`REDACTED`"],"Stunts":[[null]],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -16,9 +16,9 @@
 >  
 > |HARM|CONSEQUENCE|
 > |----|-----|
-> |2 Mild|Mild|
-> |4 Mod|Moderate|
-> |6 Svr|Severe|
+> |2 Mild||
+> |4 Mod||
+> |6 Svr||
 
 
 

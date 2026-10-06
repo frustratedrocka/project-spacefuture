@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/anatol-garza/","tags":["npc","character","pilot","entity","ooa"],"noteIcon":"","updated":"2026-10-06T03:50:31.882-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","pilot","entity","ooa"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":"[[Database/Factions/Rebels]]","Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Catatonic Rebel Ace","Relationship":"Relationship","Loyalty":"Casualty Of War","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":"[[Database/Mobile Suits/EW-14 Gundam Makhairos]]","MECH_Secret":false,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/anatol-garza/","tags":["npc","character","pilot","entity","ooa"],"noteIcon":"","updated":"2026-10-06T04:24:56.014-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","pilot","entity","ooa"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":"[[Database/Factions/Rebels]]","Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Catatonic Rebel Ace","Relationship":"Relationship","Loyalty":"Casualty Of War","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":"[[Database/Mobile Suits/EW-14 Gundam Makhairos]]","MECH_Secret":false,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -16,9 +16,9 @@
 >  
 > |HARM|CONSEQUENCE|
 > |----|-----|
-> |2 Mild|Mild|
-> |4 Mod|Moderate|
-> |6 Svr|Severe|
+> |2 Mild||
+> |4 Mod||
+> |6 Svr||
 
 > [!infobox|right wsmall embed] MECH
 > # Gundam Makhairos
