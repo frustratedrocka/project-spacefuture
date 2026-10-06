@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-10-05T11:53:06.000-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.webp","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-10-06T02:35:02.904-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Republic Of Mars","Portrait":"Admin/Attachments/RFGuerillaPropPoster1.webp","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian"]}}
 ---
 
 
@@ -7,10 +7,11 @@
 ># Republic Of Mars
 >![Admin/Attachments/RFGuerillaPropPoster1.webp\|RFGuerillaPropPoster1.webp](/img/user/Admin/Attachments/RFGuerillaPropPoster1.webp)
 >
->|||
->|--|--|
->|**PARAGON**|`=link(this.Paragon)`|
->|**BELIEFS**|"We Deserve Self-Determination,"<br>"Delay Is Complicity"|
+>>[!blank|clean n-th]
+>>|||
+>>|--|--|
+>>|**PARAGON**|`=link(this.Paragon)`|
+>>|**BELIEFS**|"We Deserve Self-Determination,"<br>"Delay Is Complicity"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -34,8 +35,6 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 `REDACTED`
 
 >[!blank|static wfull]
->
-
 
 | Character                                       | Aspects                                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------------------- |

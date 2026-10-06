@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-05T11:53:22.000-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian"]}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-06T02:35:15.461-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Jovians","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"The CEO","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian"]}}
 ---
 
 
@@ -7,10 +7,11 @@
 ># Jovian Consortium
 >`=embed(link(this.Portrait))`
 >
->|||
->|--|--|
->|**PARAGON**|[[Database/People/The CEO\|The CEO]]|
->|**BELIEFS**|"Obedience Through Power"<br>"Trust The (Long) Process"|
+>>[!blank|clean n-th]
+>>|||
+>>|--|--|
+>>|**PARAGON**|[[Database/People/The CEO\|The CEO]]|
+>>|**BELIEFS**|"Obedience Through Power,"<br>"Trust The (Long) Process"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -30,8 +31,6 @@ With that attitude as a baseline, it came as something of a shock to outside obs
 Jovian culture firmly believes that nothing worth doing happens quickly. Which, considering that it takes each [[Database/Places/Charun\|Charun]] ferry a month and change to travel from [[Database/Glossary/The Belt\|The Belt]] to [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] and another month for it to get back, and 43 minutes for a message sent at the speed of light to travel the distance to Sol and another 43 minutes for the response to come in, is understandable. `REDACTED`
 
 >[!blank|static wfull]
-
-
 
 | Character                                                                         | Aspects                                                                                          |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
