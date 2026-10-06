@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-queen/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-10-01T21:21:39.789-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Hive Cult]]"],"Assoc":null,"Origin":null,"Rank":0,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":[null],"MECH_Model":"[[Database/Mobile Suits/Eubiont]]","MECH_Secret":true,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["`REDACTED`","`REDACTED`"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill",[null]],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/the-queen/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-10-05T19:06:38.093-04:00","dg-note-properties":{"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Hive Cult]]"],"Assoc":null,"Origin":null,"Rank":0,"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":[null],"MECH_Model":"[[Database/Mobile Suits/Eubiont]]","MECH_Secret":true,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["`REDACTED`","`REDACTED`"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Skill",[null],[null],[null]],"approach_3":["Approach",[null]],"skill_2":["Skill","Skill",[null],[null]],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill",[null]],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|embed left wsmall]
@@ -19,13 +19,28 @@
 
 
 
-> [!blank|embed] ASPECTS
-> <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>[!blank|embed clean flex table]
+>  | Aspects      |
+> | ------------ |
+> | `REDACTED`   |
+> | Relationship |
+> | `REDACTED`   |
+> 
+{ .block-language-dataview}
+> 
+> <br>
+> 
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span>Nucleus of the Cult</span></td></tr><tr><td><span>Ponderous</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> 
+> <br>
+> 
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-
+>[!blank|static wfull]
 
 `REDACTED`
 
+>[!blank|wfull]
 # Notes
 
 ## Quotes

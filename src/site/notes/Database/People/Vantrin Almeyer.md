@@ -1,17 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-10-05T12:04:39.953-04:00","dg-note-properties":{"comments":true,"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[null,null,null],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","Armor":4,"Breakdown":["Sparking Joints",[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Cleverly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Quickly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"],"aliases":["Vantrin"]}}
+{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot"],"noteIcon":"","updated":"2026-10-05T18:19:49.531-04:00","dg-note-properties":{"comments":true,"tags":["npc","character","pilot"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[null,null,null],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","Armor":4,"Breakdown":["Sparking Joints",[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Cleverly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Quickly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"],"aliases":["Vantrin"]}}
 ---
 
 > [!infobox|embed left wsmall]
 > # Vantrin Almeyer
 > ![Admin/Attachments/Sven_SQ.webp\|Sven_SQ.webp](/img/user/Admin/Attachments/Sven_SQ.webp)
 > 
-> |  |  |
-> |--|--|
-> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
-> |**ORIGIN**|<code>REDACTED</code><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
-> | **STRAIN**| `REDACTED` |
+>> [!table|table clean n-th]
+>> |  |  |
+>> |--|--|
+>> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>> |**ORIGIN**|<code>REDACTED</code><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>> |**ASSOC**|<span><a data-tooltip-position="top" aria-label="Database/Things/Brynhildr.md" data-href="Database/Things/Brynhildr.md" href="Database/Things/Brynhildr.md" class="internal-link" target="_blank" rel="noopener nofollow">Brynhildr</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>> | **STRAIN**| `REDACTED` |
 > 
+> |HARM|CONSEQUENCE|
+> |----|-----|
+> |2 Mild|`=this.Consequences[0]`|
+> |4 Mod|`=this.Consequences[1]`|
+> |6 Svr|`=this.Consequences[2]`|
 
 > [!infobox|embed right wsmall]
 > # Akoni-E

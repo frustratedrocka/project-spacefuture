@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-05T18:34:41.616-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"aliases":["Verg"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Move"],"approach_3":["Quickly"],"skill_2":["Fight","Shoot"],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker"],"approach_1":["Carefully","Forcefully","Subtly"]}}
+{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-05T19:06:36.644-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"aliases":["Verg"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":"[[Database/Mobile Suits/Hyper Seeker CQC]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Move"],"approach_3":["Quickly"],"skill_2":["Fight","Shoot"],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker"],"approach_1":["Carefully","Forcefully","Subtly"]}}
 ---
 
 > [!infobox|left wsmall embed]
@@ -8,7 +8,7 @@
 > > [!caption] 
 > > 
 >
->>[!table|table clean n-th] 
+>>[!blank|clean n-th] 
 >> |  |  |
 >> |--|--|
 >> |**ORIGIN**|[[Database/Places/Colonies/Theseus\|Theseus]]|
@@ -26,12 +26,11 @@
 > # Hyper Seeker
 > ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp)
 > 
->>[!table|table n-th clean]
+>>[!blank|n-th clean]
 >> |  |  |
 >> |--|--|
 >> |**MODEL**|[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]|
-> >| **ARMOR**|4|
-> 
+>> | **ARMOR**|4|
 > 
 > |HARM|BREAKDOWN|
 > |----|-----|
@@ -89,11 +88,11 @@ During the standoff with [[Database/Factions/Mindful Eyes\|Mindful Eyes]] and Re
 
 ## Data
 
-> [!blank|embed] APPEARANCES
+> [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A.md" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a> - Origins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup.md" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>1</td><td>September 01, 2026</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00B.md" data-href="Session Notes/Session 00B.md" href="Session Notes/Session 00B.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00B</a> - Training Sim</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup.md" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>2</td><td>September 15, 2026</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01.md" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a> - And So It Begins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Rats In The Cellar.md" data-href="Session Notes/Scenarios/Rats In The Cellar.md" href="Session Notes/Scenarios/Rats In The Cellar.md" class="internal-link" target="_blank" rel="noopener nofollow">Rats In The Cellar</a></span></td><td>1</td><td>September 29, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed] EVENTS
+> [!blank|embed clean] EVENTS
 > <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed] CHANGELOG
+> [!blank|embed clean] CHANGELOG
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

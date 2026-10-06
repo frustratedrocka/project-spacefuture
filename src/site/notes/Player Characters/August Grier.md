@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-01T23:00:34.938-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"Player":"[[Admin/Player/Mike]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Auggie_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Auggie_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Places/Colonies/Theseus]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"MECH_Model":"[[Database/Mobile Suits/TF-8C Hoplite Custom]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Coffin","MECH_Gear":["Machinegun","Missile Launcher"],"skill_5":[[null],[null],[null],[null]],"approach_5":[[null]],"skill_4":[[null],[null],[null],[null]],"approach_4":[[null],[null]],"skill_3":["Persevere",[null],[null],[null]],"approach_3":["Boldly",[null]],"skill_2":["Shoot","Move",[null],[null]],"approach_2":["Carefully","Quickly"],"skill_1":["Fight","Operate","Tend",[null]],"approach_1":["Cleverly","Forcefully","Subtly"],"aliases":["Auggie"]}}
+{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["PC","character","pilot","entity"],"noteIcon":"","updated":"2026-10-05T19:06:37.305-04:00","dg-note-properties":{"tags":["PC","character","pilot","entity"],"Player":"[[Admin/Player/Mike]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Auggie_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Auggie_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Places/Colonies/Theseus]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"MECH_Model":"[[Database/Mobile Suits/TF-8C Hoplite Custom]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Coffin","MECH_Gear":["Machinegun","Missile Launcher"],"skill_5":[null],"approach_5":[[null]],"skill_4":[null],"approach_4":[null],"skill_3":["Persevere"],"approach_3":["Boldly"],"skill_2":["Shoot","Move"],"approach_2":["Carefully","Quickly"],"skill_1":["Fight","Operate","Tend"],"approach_1":["Cleverly","Forcefully","Subtly"],"aliases":["Auggie"]}}
 ---
 
 > [!infobox|left wsmall embed]
@@ -8,7 +8,7 @@
 > > [!caption] 
 > > 
 >
->>[!table|table clean n-th] 
+>>[!blank|clean n-th] 
 >> |  |  |
 >> |--|--|
 >> |**ORIGIN**|[[Database/Places/Mars Sphere/Mars\|Mars]]|
@@ -26,12 +26,11 @@
 > # Cossack
 > ![Admin/Attachments/HopliteCustom_SQ.webp\|HopliteCustom_SQ.webp](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)
 > 
-> |  |  |
-> |--|--|
-> |**MODEL**|[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]|
-> |**BASE**|[[Database/Mobile Suits/TF-8 Hoplite\|TF-8 Hoplite]]|
-> | **ARMOR**| `counter 0`  **/**  4|
-> 
+>>[!blank|n-th clean]
+>> |  |  |
+>> |--|--|
+>> |**MODEL**|[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]|
+>> | **ARMOR**|4|
 > 
 > |HARM|BREAKDOWN|
 > |----|-----|
@@ -40,32 +39,40 @@
 > |4 Dsbl|Disabled|
 > |6 Doom|Doomed|
 
-> [!blank|embed] ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>No-Longer-A-Child Soldier</span></td></tr><tr><td><span>"My Life Is Expendable"</span></td></tr><tr><td><span>Downed But Not Out</span></td></tr><tr><td><span>Front Towards Enemy</span></td></tr><tr><td><span>Stubbornness Is A Virtue</span></td></tr><tr><td><span>Free Aspect</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+| Aspects                   |
+| ------------------------- |
+| No-Longer-A-Child Soldier |
+| "My Life Is Expendable"   |
+| Downed But Not Out        |
+| Front Towards Enemy       |
+| Stubbornness Is A Virtue  |
+| Free Aspect               |
 
-> [!blank|embed] MECH ASPECTS
+{ .block-language-dataview}
+
+> [!blank|flex table clean]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>High-Performance Line Mech</span></td></tr><tr><td><span>Nothing Fancy</span></td></tr><tr><td><span>My Coffin</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed] GEAR ASPECTS
+> [!blank|flex table clean]
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Machinegun</span></td></tr><tr><td><span>Missile Launcher</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 >[!blank|static wfull]
 
->[!clear|clean table n-th]
-> ### SKILLS & APPROACHES
-> |                    |                    |                    |                    |       |                |                       |                        |                       |
-> | :----------------: | :----------------: | :----------------: | :----------------: | ----: | :------------- | :-------------------: | :--------------------: | --------------------- |
-> |  |  |  |  | **5** | **Superhuman** |  |                        |                       |
-> |  |  |  |  | **4** | **Masterful**  |  |   |                       |
-> |  |  |  | Persevere | **3** | **Great**      | Boldly |   |                       |
-> |  |  | Move | Shoot | **2** | **Good**       | Carefully | Quickly  |                       |
-> |  | Tend | Operate | Fight | **1** | **Adequate**   | Cleverly | Forcefully  | Subtly |
+|SKILLS|RANK|APPROACHES|
+|-----:|:---:|-----|
+|\-| **5** (Superhuman) |\-|
+|\-| **4** (Masterful) |\-|
+|Persevere| **3** (Great) |Boldly|
+|Shoot, Move| **2** (Good) |Carefully, Quickly|
+|Fight, Operate, Tend| **1** (Adequate) |Cleverly,Forcefully,Subtly|
 
 > [!blank|embed] STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>SUPPRESSIVE FIRE</strong> Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.</span></td></tr><tr><td><span><strong>A MOBILE SUIT IS A MELEE WEAPON</strong> When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.</span></td></tr><tr><td><span><strong>ADVANCING UNDER FIRE</strong> +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. </span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>HAMMER AND ANVIL</strong> +1 when you Shoot a target already engaged in combat with an ally.</span></td></tr><tr><td><span><strong>DEAD MECH WALKING</strong> When you would be taken out, you may take one final turn before the character who took you out declares what happened to you.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+> [!blank|static wfull]
 
 # Notes
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-05T11:52:51.253-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Mindful Eyes","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
+{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-05T20:16:09.718-04:00","dg-note-properties":{"tags":["faction"],"Faction":"Mindful Eyes","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
 ---
 
 
@@ -7,10 +7,11 @@
 ># Mindful Eyes
 >`=embed(link(this.Portrait))`
 >
->|||
->|--|--|
->|**PARAGON**|[[Database/People/The Mother And The Father\|The Mother And The Father]]|
->|**BELIEFS**|"Don't Let Your Gift Be Abused"<br>"Survival Through Secrecy"|
+>>[!blank|clean n-th]
+>>|||
+>>|--|--|
+>>|**PARAGON**|[[Database/People/The Mother And The Father\|The Mother And The Father]]|
+>>|**BELIEFS**|"Don't Let Your Gift Be Abused"<br>"Survival Through Secrecy"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -33,11 +34,7 @@ Force: Not the forefront, but not slacked. If ever needed, they rely on small, e
 
 The Eyes are still processing the idea that the Moondrop and the Ground War all stemmed from an attempt to wipe _them, specifically_, off the face of the solar system; it's one of the biggest things they collectively don't know how to feel about. Being part of the Hive Mind does not mean you don't get to have your own emotions and point of view on things, just that you also have access to everyone else's. This comes mostly in the form of vague emotional connotations and flashes, especially since there's far fewer of them now than there were at the peak of the fungal spread and the connection has weakened proportionately to their numbers.
 
-!h!
-# GM Notes
 
-[[Player Characters/Vergen Koni\|Verg]] is, presumably, openly an Eye, at least to the people around him. [[Player Characters/Menodora Thaliana\|Mena]] I don't think is. Need players to clarify. 
-!h!
 
 >[!blank|static wfull]
 
