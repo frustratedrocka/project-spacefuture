@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-06T02:40:08.589-04:00","dg-note-properties":{"tags":["location","entity"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"Admin/Attachments/Stanford.webp","Concept":"Terrified Into Silence","Trouble":"Holding Its Breath","Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-06T02:42:42.654-04:00","dg-note-properties":{"tags":["location","entity"],"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"[[Under The Radar]]","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Stanford.webp]]","Concept":"Terrified Into Silence","Trouble":"Holding Its Breath","Aspects":["`REDACTED`"]}}
 ---
 
 
 > [!INFOBOX] Theseus
 > # Theseus
-> `=embed(this.Portrait)`
+> ![Admin/Attachments/Stanford.webp\|Stanford.webp](/img/user/Admin/Attachments/Stanford.webp)
 >
 >> [!blank|clean n-th] 
 >> | | |
 >> |--|--|
 >> |**BODY**|[[Database/Glossary/Colony\|Colony]]|
 >> |**FACTION**|[[Database/Factions/Independent\|Independent]]|
->> |**CONTROL**|Under The Radar|
+>> |**CONTROL**|[[Under The Radar\|Under The Radar]]|
 >> |**PRESENCE**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
 | Aspects                |
