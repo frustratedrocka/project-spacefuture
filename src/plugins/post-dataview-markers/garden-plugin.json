@@ -1,8 +1,0 @@
-{
-  "id": "post-dataview-markers",
-  "name": "Post-Dataview Markers",
-  "version": "0.1.0",
-  "description": "Applies hide, redact, and conditional-section markers after Digital Garden has compiled Dataview output.",
-  "author": "Ben Forde",
-  "hooks": "index.js"
-}
