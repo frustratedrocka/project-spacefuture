@@ -302,11 +302,10 @@ img[alt~="wt-sm"] {
     display: none !important;
 }
 
-
-
-/* DG: honor ITS n-th / no-table-header anywhere it survives */
-[data-callout-metadata*="n-th"] thead,
-[data-callout-metadata*="no-table-header"] thead {
+/* DG compiles Dataview tables immediately after their containing callout. */
+.callout[data-callout-metadata~="n-th"]
++ table.dataview.table-view-table
+> thead {
     display: none !important;
 }
 
