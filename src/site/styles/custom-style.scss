@@ -303,6 +303,25 @@ img[alt~="wt-sm"] {
 }
 
 
+/* =========================================================
+   DG → ITS no-table-header adapter
+   Restores [!whatever|n-th] / [!whatever|no-table-header].
+   ========================================================= */
+
+.callout:is(
+    [data-callout-metadata~="n-th"],
+    [data-callout-metadata~="no-table-header"]
+) table {
+    margin-bottom: 5px;
+}
+
+.callout:is(
+    [data-callout-metadata~="n-th"],
+    [data-callout-metadata~="no-table-header"]
+) :is(thead, th) {
+    display: none !important;
+}
+
 /* ================================================================
    DG → ITS DATAVIEW CARDS ADAPTER
 
