@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/delbrau-enger/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-06T23:30:38.685-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/28.png]]","Faction":["[[Database/Factions/Rebels]]","%% %%"],"Rank":5,"Origin":"`REDACTED`","Assoc":["%% %%","[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],"Leg In A Cast",[null]],"Concept":"[[Fishbone]] Lead Comms Officer","Relationship":"[[Vergen Koni|Verg]] Saved His Life","Loyalty":"`REDACTED`","Aspects":["Enthusiastic Wife Guy","%% %%",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/delbrau-enger/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T03:16:25.495-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/28.png]]","Faction":["[[Database/Factions/Rebels]]","%% %%"],"Rank":5,"Origin":"`REDACTED`","Assoc":["%% %%","[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],"Leg In A Cast",[null]],"Concept":"[[Fishbone]] Lead Comms Officer","Relationship":"[[Vergen Koni|Verg]] Saved His Life","Loyalty":"`REDACTED`","Aspects":["Enthusiastic Wife Guy","%% %%",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -20,7 +20,26 @@
 > |4 Mod|Leg In A Cast|
 > |6 Svr||
 
+!mech!
 
+> [!infobox|right wsmall embed] MECH
+> # `=this.MECH_Model[0].aliases[0]`
+> `=embed(link(this.MECH_Model[0].Portrait))`
+> 
+>>[!blank|n-th clean]
+>> |  |  |
+>> |--|--|
+>> |**MODEL**|`=link(this.MECH_Model[0])`|
+>> | **ARMOR**|`REDACTED`|
+> 
+> |HARM|BREAKDOWN|
+> |----|-----|
+> |2 Dent|`=this.Breakdown[0]`|
+> |2 Dmg|`=this.Breakdown[1]`|
+> |4 Dsbl|`=this.Breakdown[2]`|
+> |6 Doom|`=this.Breakdown[3]`|
+
+!/mech!
 
 | Aspects                              |
 | ------------------------------------ |
@@ -31,7 +50,17 @@
 
 { .block-language-dataview}
 
+!mech!
 
+> [!blank|flex embed clean] MECH ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+> [!blank|flex embed clean] GEAR ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+>[!blank|static wfull] SKILLS & APPROACHES
+
+!/mech!
 
 `REDACTED`
 
