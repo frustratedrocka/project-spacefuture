@@ -1,0 +1,34 @@
+---
+{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-seeker-cqc/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T22:38:46.396-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":null,"MECH_Name":"Seeker CQC","MECH_Model":"[[Database/Mobile Suits/MGU Seeker CQC]]","Portrait":"[[Admin/Attachments/GM-II-AEUG_SQ.webp]]","Armor":4,"Breakdown":[null,null,null,null],"MECH_Concept":null,"MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Known_Users":null,"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_Into":["[[Database/Mobile Suits/Hyper Seeker CQC]]"],"DEV_From":["[[Database/Mobile Suits/MGU Seeker]]"]}}
+---
+
+
+> [!infobox|embed right wsmall] VITALS
+> # Seeker CQC
+> ![Admin/Attachments/GM-II-AEUG_SQ.webp\|GM-II-AEUG_SQ.webp](/img/user/Admin/Attachments/GM-II-AEUG_SQ.webp)
+>
+>> [!blank|clean n-th] USERS
+>> |   |
+>> |--|
+>> |**FACTION**<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>> |**KNOWN PILOTS**<br><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>
+>> [!blank|clean n-th] DEVELOPMENT
+>> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + direction + "</strong><br>"+ join(rows.display, ",<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>DEVELOPED FROM</strong><br><a data-tooltip-position="top" aria-label="Database/Mobile Suits/MGU Seeker.md" data-href="Database/Mobile Suits/MGU Seeker.md" href="Database/Mobile Suits/MGU Seeker.md" class="internal-link" target="_blank" rel="noopener nofollow">MGU Seeker</a></span></td></tr><tr><td><span><strong>DEVELOPED INTO</strong><br><a data-tooltip-position="top" aria-label="Database/Mobile Suits/Hyper Seeker CQC.md" data-href="Database/Mobile Suits/Hyper Seeker CQC.md" href="Database/Mobile Suits/Hyper Seeker CQC.md" class="internal-link" target="_blank" rel="noopener nofollow">Hyper Seeker CQC</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+> [!blank|embed clean] MECH ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+> [!blank|embed clean] KNOWN ARMAMENTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+> [!blank|embed clean] MECH STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+# Notes
+
+## Data
+
+> [!blank|embed clean] APPEARANCES
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+

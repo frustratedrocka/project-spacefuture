@@ -16,6 +16,7 @@
 > | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker]]**           | Pilots:<br>[[Player Characters/Vergen Koni\|Vergen Koni]]             |
 > | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                   | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                     | Pilots:<br>[[Player Characters/Menodora Thaliana\|Menodora Thaliana]] |
 > | ![Admin/Attachments/RebelGruntSuit_SQ.webp\|RebelGruntSuit_SQ.webp](/img/user/Admin/Attachments/RebelGruntSuit_SQ.webp)     | **[[Database/Mobile Suits/AP-92 Rejunot\|Rejunot]]**                   | Pilots:<br>\-                                                            |
+> | ![Admin/Attachments/GM-II-AEUG_SQ.webp\|GM-II-AEUG_SQ.webp](/img/user/Admin/Attachments/GM-II-AEUG_SQ.webp)             | **[[Database/Mobile Suits/MGU Seeker CQC\|Seeker CQC]]**               | Pilots:<br>\-                                                            |
 > 
 { .block-language-dataview}
 
