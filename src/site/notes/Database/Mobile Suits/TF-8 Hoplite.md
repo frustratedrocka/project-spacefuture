@@ -26,7 +26,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Iconic Line Mech</span></td></tr><tr><td><span>Yesterday's News</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] KNOWN ARMAMENTS
-> 
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Machine Gun</span></td></tr><tr><td><span>Missile Launcher</span></td></tr><tr><td><span>Heat Hawk</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>DUCT TAPE AND PRAYERS</strong> You may Tinker to treat and rename a Hoplite's Breakdown using the normal rules for clearing consequences.</span></td></tr><tr><td><span><strong>HAMMER AND ANVIL</strong> +1 when you Shoot Carefully to attack a target already engaged in combat with an ally.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
