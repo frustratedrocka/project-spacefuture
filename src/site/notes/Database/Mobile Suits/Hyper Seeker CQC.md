@@ -1,22 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/hyper-seeker-cqc/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T23:25:09.900-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Hyper Seeker"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.webp]]","MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Known_Users":["[[Player Characters/Vergen Koni]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"DEV_Into":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/hyper-seeker-cqc/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-07T01:26:38.535-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Hyper Seeker"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.webp]]","MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"DEV_From":["[[Database/Mobile Suits/MGU-3 Seeker CQC]]","`REDACTED`"]}}
 ---
 
 
-> [!infobox|embed right wsmall] VITALS
+> [!infobox|embed right wsmall] INFOBOX
 > # Hyper Seeker
 > ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp)
 >> [!caption]
 >> Hyper Seeker CQC
 >
->> [!blank|clean n-th] USERS
->> |   |
->> |--|
->> |**FACTION**<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Mindful Eyes.md" data-href="Database/Factions/Mindful Eyes.md" href="Database/Factions/Mindful Eyes.md" class="internal-link" target="_blank" rel="noopener nofollow">Mindful Eyes</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
->> |**KNOWN PILOTS**<br><span><a data-tooltip-position="top" aria-label="Player Characters/Vergen Koni.md" data-href="Player Characters/Vergen Koni.md" href="Player Characters/Vergen Koni.md" class="internal-link" target="_blank" rel="noopener nofollow">Vergen Koni</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
-> 
->> [!blank|clean n-th] DEVELOPMENT
->> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + direction + "</strong><br>"+ join(rows.display, ",<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>DEVELOPED FROM</strong><br><a data-tooltip-position="top" aria-label="Database/Mobile Suits/MGU Seeker CQC.md" data-href="Database/Mobile Suits/MGU Seeker CQC.md" href="Database/Mobile Suits/MGU Seeker CQC.md" class="internal-link" target="_blank" rel="noopener nofollow">MGU Seeker CQC</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>> [!blank|embed clean n-th] VITALS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a><br><a data-tooltip-position="top" aria-label="Database/Factions/Mindful Eyes.md" data-href="Database/Factions/Mindful Eyes.md" href="Database/Factions/Mindful Eyes.md" class="internal-link" target="_blank" rel="noopener nofollow">Mindful Eyes</a></span></td></tr><tr><td><span><strong>KNOWN PILOTS</strong><br><a data-tooltip-position="top" aria-label="Player Characters/Vergen Koni.md" data-href="Player Characters/Vergen Koni.md" href="Player Characters/Vergen Koni.md" class="internal-link" target="_blank" rel="noopener nofollow">Vergen Koni</a></span></td></tr><tr><td><span><strong>DEVELOPED FROM</strong><br><a data-tooltip-position="top" aria-label="Database/Mobile Suits/MGU-3 Seeker CQC.md" data-href="Database/Mobile Suits/MGU-3 Seeker CQC.md" href="Database/Mobile Suits/MGU-3 Seeker CQC.md" class="internal-link" target="_blank" rel="noopener nofollow">MGU-3 Seeker CQC</a><br><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Speedy CQC</span></td></tr><tr><td><span>Unstable Core</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -29,11 +23,9 @@
 
 # Notes
 
-# Notes
-
 Originally a [[Database/Mobile Suits/MGU Seeker\|Seeker]] - [[Database/History/The Ground War\|Ground War]] era [[Database/Factions/Republic Of Mars\|Martian]] grunt suit platform, meant as a counterpart to the [[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]].
 
-[[Player Characters/Vergen Koni\|Verg]] somehow acquired a [[Database/Mobile Suits/MGU Seeker CQC\|cqc variant]] before formally linking up with the [[Database/Factions/Mindful Eyes\|Mindful eyes]]. Once he joined and proved himself as a competent pilot, the Eyes refit his Seeker with experimental [[Database/Things/Hivetech\|Hivetech]] salvaged from the irreparable wreckage of the `REDACTED`. The conversion work involved was significant enough that the Hyper Seeker can be considered an entirely new mobile suit.
+[[Player Characters/Vergen Koni\|Verg]] somehow acquired a [[Database/Mobile Suits/MGU-3 Seeker CQC\|cqc variant]] before formally linking up with the [[Database/Factions/Mindful Eyes\|Mindful eyes]]. Once he joined and proved himself as a competent pilot, the Eyes refit his Seeker with experimental [[Database/Things/Hivetech\|Hivetech]] salvaged from the irreparable wreckage of the `REDACTED`. The conversion work involved was significant enough that the Hyper Seeker can be considered an entirely new mobile suit.
 
 ## Data
 

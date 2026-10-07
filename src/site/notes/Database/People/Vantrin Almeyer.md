@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-06T23:30:18.613-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"comments":true,"tags":["npc","character","pilot","entity"],"aliases":["Vantrin"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[[null],[null],[null]],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/SE-832-E Akoni Command Type]]","MECH_Secret":false,"Armor":4,"Breakdown":["Sparking Joints",[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Cleverly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Quickly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"]}}
+{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-07T01:26:07.292-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"comments":true,"tags":["npc","character","pilot","entity"],"aliases":["Vantrin"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[[null],[null],[null]],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/SE-832E Akoni Command Type]]","MECH_Secret":false,"Armor":4,"Breakdown":["Sparking Joints",[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Cleverly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Quickly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -27,7 +27,7 @@
 >>[!blank|n-th clean]
 >> |  |  |
 >> |--|--|
->> |**MODEL**|[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]|
+>> |**MODEL**|[[Database/Mobile Suits/SE-832E Akoni Command Type\|SE-832E Akoni Command Type]]|
 >> | **ARMOR**|`REDACTED`|
 > 
 > |HARM|BREAKDOWN|
@@ -49,7 +49,11 @@
 { .block-language-dataview}
 
 > [!blank|flex embed clean] MECH ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Apsis's First Line Of Offense, Enhanced</span></td></tr><tr><td><span>Designed To Punch Down</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>  <pre class="dataview dataview-error">Dataview: Every row during operation 'where' failed with an error; first 3:
+
+                - can only index into links with strings (a.b or a["b"])
+- can only index into links with strings (a.b or a["b"])
+- can only index into links with strings (a.b or a["b"])</pre> 
 
 > [!blank|flex embed clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Akoni Bazooka</span></td></tr><tr><td><span>Heat Tanto</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -57,7 +61,11 @@
 `REDACTED`
 
 > [!blank|embed clean] MECH STUNTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>30 SECONDS TO DISPERSE</strong> +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mobile suits.</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>  <pre class="dataview dataview-error">Dataview: Every row during operation 'where' failed with an error; first 3:
+
+                - can only index into links with strings (a.b or a["b"])
+- can only index into links with strings (a.b or a["b"])
+- can only index into links with strings (a.b or a["b"])</pre> 
 
 > [!blank|static wfull]
 

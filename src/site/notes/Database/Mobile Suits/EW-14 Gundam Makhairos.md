@@ -1,22 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ew-14-gundam-makhairos/","tags":["Mech","entity","ooa"],"noteIcon":"","updated":"2026-10-06T23:24:40.007-04:00","dg-note-properties":{"tags":["Mech","entity","ooa"],"aliases":["Gundam Makhairos","Makhairos"],"Portrait":"[[Admin/Attachments/GB4_Makhairos.webp]]","MECH_Concept":"Prototype Superweapon, Wrecked Beyond Repair","MECH_Trouble":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"MECH_Stunts":[null],"Known_Users":["[[Database/People/Anatol Garza]]"],"Faction":["[[Database/Factions/Rebels]]"],"DEV_Into":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ew-14-gundam-makhairos/","tags":["Mech","entity","ooa"],"noteIcon":"","updated":"2026-10-07T01:27:11.587-04:00","dg-note-properties":{"tags":["Mech","entity","ooa"],"aliases":["Gundam Makhairos","Makhairos"],"Portrait":"[[Admin/Attachments/GB4_Makhairos.webp]]","MECH_Concept":"Prototype Superweapon, Wrecked Beyond Repair","MECH_Trouble":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":null}}
 ---
 
 
-> [!infobox|embed right wsmall] VITALS
+> [!infobox|embed right wsmall] INFOBOX
 > # Gundam Makhairos
 > ![Admin/Attachments/GB4_Makhairos.webp\|GB4_Makhairos.webp](/img/user/Admin/Attachments/GB4_Makhairos.webp)
 >> [!caption]
 >> EW-14 Gundam Makhairos
 >
->> [!blank|clean n-th] USERS
->> |   |
->> |--|
->> |**FACTION**<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
->> |**KNOWN PILOTS**<br><span><a data-tooltip-position="top" aria-label="Database/People/Anatol Garza.md" data-href="Database/People/Anatol Garza.md" href="Database/People/Anatol Garza.md" class="internal-link" target="_blank" rel="noopener nofollow">Anatol Garza</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
-> 
->> [!blank|clean n-th] DEVELOPMENT
->> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + direction + "</strong><br>"+ join(rows.display, ",<br>")</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>> [!blank|embed clean n-th] VITALS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr><tr><td><span><strong>KNOWN PILOTS</strong><br><a data-tooltip-position="top" aria-label="Database/People/Anatol Garza.md" data-href="Database/People/Anatol Garza.md" href="Database/People/Anatol Garza.md" class="internal-link" target="_blank" rel="noopener nofollow">Anatol Garza</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Prototype Superweapon, Wrecked Beyond Repair</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

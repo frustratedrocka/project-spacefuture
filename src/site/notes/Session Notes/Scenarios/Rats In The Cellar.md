@@ -44,7 +44,7 @@
 >  | Portrait                                                    | Mobile Suit                                                               |
 > | ----------------------------------------------------------- | ------------------------------------------------------------------------- |
 > | ![Admin/Attachments/Akoni_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni_SQ.webp)            | **[[Database/Mobile Suits/SE-832 Akoni\|Akoni]]**                      |
-> | ![Admin/Attachments/Akoni-E_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni-E_SQ.webp)          | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|Akoni-E]]**     |
+> | ![Admin/Attachments/Akoni-E_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni-E_SQ.webp)          | **[[Database/Mobile Suits/SE-832E Akoni Command Type\|Akoni-E]]**      |
 > | ![Admin/Attachments/HopliteCustom_SQ.webp\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)    | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|Cossack]]**            |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ES-01 Elegant Sky\|Elegant Sky]]**           |
 > | ![Admin/Attachments/GB4_Makhairos.webp\|sban cover](/img/user/Admin/Attachments/GB4_Makhairos.webp)       | **[[Database/Mobile Suits/EW-14 Gundam Makhairos\|Gundam Makhairos]]** |
