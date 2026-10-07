@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-06T03:07:45.606-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-06T19:55:39.587-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 
@@ -28,14 +28,14 @@ One of three colonies in [[Database/Glossary/The Belt\|The Belt]] that helped ki
 
 ## Data
 
-> [!blank|embed] ASSOCIATED
+> [!blank|embed clean] ASSOCIATED
 > <table class="dataview table-view-table"><thead><tr><th>Character</th><th>Origin</th><th>Associations</th></tr></thead><tbody></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed] APPEARANCES
+> [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/World Jam.md" data-href="Session Notes/World Jam.md" href="Session Notes/World Jam.md" class="internal-link" target="_blank" rel="noopener nofollow">World Jam</a> - A Century Emerges</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup.md" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td><span>0</span></td><td>August 04, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed] EVENTS
+> [!blank|embed clean] EVENTS
 > <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/World Jam.md" data-href="Session Notes/World Jam.md" href="Session Notes/World Jam.md" class="internal-link" target="_blank" rel="noopener nofollow">World Jam</a></span></td><td><span>0092-02-02</span></td><td><span><span><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span> reallocation cuts food to <span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Kelly.md" data-href="Database/Places/Colonies/Kelly.md" href="Database/Places/Colonies/Kelly.md" class="internal-link" target="_blank" rel="noopener nofollow">Kelly</a></span>, <span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Geb.md" data-href="Database/Places/Colonies/Geb.md" href="Database/Places/Colonies/Geb.md" class="internal-link" target="_blank" rel="noopener nofollow">Geb</a></span>, <span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Arjuna.md" data-href="Database/Places/Colonies/Arjuna.md" href="Database/Places/Colonies/Arjuna.md" class="internal-link" target="_blank" rel="noopener nofollow">Arjuna</a></span> colonies below starvation levels</span></span></td></tr></tbody></table></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed] CHANGELOG
+> [!blank|embed clean] CHANGELOG
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-06T04:48:26.160-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-06T19:58:49.103-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
 ---
 
 ## Summary
@@ -8,7 +8,10 @@
 
 - Original command staff and first wing of the [[Database/Things/Fishbone\|Fishbone]] KIA by [[Database/People/Vantrin Almeyer\|Vantrin]] and the [[Database/Things/Brynhildr\|Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor
 - XO [[Database/People/Artel Ward\|Artel Ward]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]], Chief Engineer [[Database/People/Graciela Tor\|Graciela Tor]], Helmsman [[Database/People/Howe Nebreka\|Howe Nebreka]], Chief Comms Officcer [[Database/People/Delbrau Enger\|Delbrau Enger]]; others you don't already personally know
-- Rebel ace pilot [[Database/People/Anatol Garza\|Anatol Garza]] in critical condition; [[EW14 Gundam Makhairos\|EW14 Gundam Makhairos]] destroyed along with the rest of First Wing
+- Rebel ace pilot [[Database/People/Anatol Garza\|Anatol Garza]] in critical condition; [[Database/Mobile Suits/EW-14 Gundam Makhairos\|EW-14 Gundam Makhairos]] destroyed along with the rest of First Wing
+- [[Player Characters/Menodora Thaliana\|Mena]] hails a retreating [[Database/People/Vantrin Almeyer\|Vantrin]]: "You see the state of our ship and your suits; let us go or you'll wish we'd killed you." "Acknowledged."
+- [[Player Characters/Vergen Koni\|Vergen Koni]] rescues [[Database/People/Delbrau Enger\|Delbrau Enger]] from under debris
+- [[Player Characters/Lane Gable\|Lane]] gets the drop on [[Database/People/Vantrin Almeyer\|Vantrin]] and drives him off by frying his joints with [[Database/Mobile Suits/ES-01 Elegant Sky\|Elegant Sky]]'s EW suite
 
 { .block-language-dataview}
 
@@ -51,7 +54,7 @@
 { .block-language-dataview}
 
 ## Locations
-> [!blank|embed] LOCATIONS
+> [!blank|embed clean] LOCATIONS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Concept</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone.md" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span></td><td><span>Rebel Destroyer, Closest Thing To Home</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span>Courtesy Of the Consortium</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # 

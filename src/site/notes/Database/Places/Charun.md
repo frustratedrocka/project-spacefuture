@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","entity","lore"],"noteIcon":"","updated":"2026-10-06T03:08:51.590-04:00","dg-note-properties":{"tags":["location","entity","lore"],"aliases":["Ferry"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":"[[Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif]]","Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","entity","lore"],"noteIcon":"","updated":"2026-10-06T19:55:46.034-04:00","dg-note-properties":{"tags":["location","entity","lore"],"aliases":["Ferry"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":"[[Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif]]","Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 
@@ -42,10 +42,10 @@ There are five of them, all on staggered schedules. A charun arrives at Jupiter 
 
 ## Data
 
-> [!blank|embed] ASSOCIATED
+> [!blank|embed clean]clean] ASSOCIATED
 > <table class="dataview table-view-table"><thead><tr><th>Character</th><th>Origin</th><th>Associations</th></tr></thead><tbody><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/Menodora Thaliana.md" data-href="Player Characters/Menodora Thaliana.md" href="Player Characters/Menodora Thaliana.md" class="internal-link" target="_blank" rel="noopener nofollow">Menodora Thaliana</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Earth.md" data-href="Database/Places/Earth.md" href="Database/Places/Earth.md" class="internal-link" target="_blank" rel="noopener nofollow">Luna</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Glossary/The Belt.md" data-href="Database/Glossary/The Belt.md" href="Database/Glossary/The Belt.md" class="internal-link" target="_blank" rel="noopener nofollow">The Belt</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Places/Charun.md" data-href="Database/Places/Charun.md" href="Database/Places/Charun.md" class="internal-link" target="_blank" rel="noopener nofollow">Charun</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed] APPEARANCES
+> [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A.md" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a> - Origins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup.md" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>1</td><td>September 01, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 | Session | Date | Event |
@@ -53,5 +53,5 @@ There are five of them, all on staggered schedules. A charun arrives at Jupiter 
 
 { .block-language-dataview}
 
-> [!blank|embed] CHANGELOG
+> [!blank|embed clean] CHANGELOG
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

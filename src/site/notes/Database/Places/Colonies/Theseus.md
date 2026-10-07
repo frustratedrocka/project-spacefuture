@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-06T03:08:04.159-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Stanford.webp]]","Concept":"Terrified Into Silence","Trouble":"Holding Its Breath","Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-06T19:59:36.330-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Stanford.webp]]","Concept":"Terrified Into Silence","Trouble":"Holding Its Breath","Aspects":["`REDACTED`"]}}
 ---
 
 
@@ -54,14 +54,14 @@
 
 ## Data
 
-> [!blank|embed] ASSOCIATED
+> [!blank|embed clean] ASSOCIATED
 > <table class="dataview table-view-table"><thead><tr><th>Character</th><th>Origin</th><th>Associations</th></tr></thead><tbody><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/August Grier.md" data-href="Player Characters/August Grier.md" href="Player Characters/August Grier.md" class="internal-link" target="_blank" rel="noopener nofollow">August Grier</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Mars Sphere/Mars.md" data-href="Database/Places/Mars Sphere/Mars.md" href="Database/Places/Mars Sphere/Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Mars</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Theseus.md" data-href="Database/Places/Colonies/Theseus.md" href="Database/Places/Colonies/Theseus.md" class="internal-link" target="_blank" rel="noopener nofollow">Theseus</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/Vergen Koni.md" data-href="Player Characters/Vergen Koni.md" href="Player Characters/Vergen Koni.md" class="internal-link" target="_blank" rel="noopener nofollow">Vergen Koni</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Theseus.md" data-href="Database/Places/Colonies/Theseus.md" href="Database/Places/Colonies/Theseus.md" class="internal-link" target="_blank" rel="noopener nofollow">Theseus</a></span></td><td></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed] APPEARANCES
+> [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A.md" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a> - Origins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup.md" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>1</td><td>September 01, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed] EVENTS
+> [!blank|embed clean] EVENTS
 > <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed] CHANGELOG
+> [!blank|embed clean] CHANGELOG
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
