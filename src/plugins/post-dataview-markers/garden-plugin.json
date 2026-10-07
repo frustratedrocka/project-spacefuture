@@ -1,8 +1,29 @@
 {
+  "postDataviewFilters": [
+    {
+      "name": "Redacted",
+      "pattern": "!r!([\\s\\S]*?)!/r!",
+      "replacement": "`REDACTED`",
+      "flags": "g"
+    },
+    {
+      "name": "Hidden",
+      "pattern": "!h!([\\s\\S]*?)!/h!",
+      "replacement": "",
+      "flags": "g"
+    },
+    {
+      "name": "Mech conditional",
+      "pattern": "!mech!([\\s\\S]*?)!/mech!",
+      "replacement": "",
+      "flags": "g"
+    }
+  ],
+
   "id": "post-dataview-markers",
-  "name": "Post-Dataview Markers",
-  "version": "0.1.0",
-  "description": "Applies hide, redact, and conditional-section markers after Digital Garden has compiled Dataview output.",
+  "name": "Post-Dataview Filters",
+  "version": "0.3.0",
+  "description": "Applies regex replacements after Digital Garden has compiled Dataview output.",
   "author": "Ben Forde",
   "hooks": "index.js"
 }
