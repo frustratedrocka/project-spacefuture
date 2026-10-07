@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/anatol-garza/","tags":["npc","character","pilot","entity","ooa"],"noteIcon":"","updated":"2026-10-07T03:03:59.403-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","pilot","entity","ooa"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":"[[Database/Factions/Rebels]]","Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Catatonic Rebel Ace","Relationship":"Relationship","Loyalty":"Casualty Of War","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":["[[Database/Mobile Suits/EW-14 Gundam Makhairos]]"],"MECH_Secret":false,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/anatol-garza/","tags":["npc","character","pilot","entity","ooa"],"noteIcon":"","updated":"2026-10-07T04:17:17.680-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","pilot","entity","ooa"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":"[[Database/Factions/Rebels]]","Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Catatonic Rebel Ace","Relationship":"Relationship","Loyalty":"Casualty Of War","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":["[[Database/Mobile Suits/EW-14 Gundam Makhairos]]"],"MECH_Secret":false,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
+
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Anatol Garza
@@ -20,7 +21,7 @@
 > |4 Mod||
 > |6 Svr||
 
-`=choice(this.MECH_Model[0] = null, "!mech"+"!", choice(this.MECH_Secret = true, "!h"+"!", ""))`
+ 
 
 > [!infobox|right wsmall embed] MECH
 > # Gundam Makhairos
@@ -39,7 +40,7 @@
 > |4 Dsbl||
 > |6 Doom||
 
-`=choice(this.MECH_Model[0] = null, "!/mech"+"!", choice(this.MECH_Secret = true, "!/h"+"!", ""))`
+ 
 
 | Aspects             |
 | ------------------- |
@@ -49,7 +50,7 @@
 
 { .block-language-dataview}
 
-`=choice(this.MECH_Model[0] = null, "!mech"+"!", choice(this.MECH_Secret = true, "!h"+"!", ""))`
+ 
 
 > [!blank|flex embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Prototype Superweapon, Wrecked Beyond Repair</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -59,11 +60,34 @@
 
 >[!blank|static wfull] SKILLS & APPROACHES
 
-`=choice(this.MECH_Model[0] = null, "!/mech"+"!", choice(this.MECH_Secret = true, "!/h"+"!", ""))`
+ 
 
-`REDACTED`
+!r!
 
-> [!blank|static wfull]
+|SKILLS|RANK|APPROACHES|
+|-----:|:---:|-----|
+|\-| **5** (Superhuman) |\-|
+|\-| **4** (Masterful) |\-|
+|Skill| **3** (Great) |Approach|
+|Skill, Skill| **2** (Good) |Approach, Approach|
+|Skill, Skill, Skill| **1** (Adequate) |Approach,Approach,Approach|
+
+ 
+ 
+
+> [!blank|embed clean] STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+ 
+
+> [!blank|embed clean] MECH STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+ 
+
+!/r!
+
+> [!blank|static wfull] ==🟢EDIT BELOW==
 
 # Notes
 
@@ -78,4 +102,4 @@
 > <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01.md" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a></span></td><td><span>0092-09-29</span></td><td><span><span>Rebel ace pilot <span><a data-tooltip-position="top" aria-label="Database/People/Anatol Garza.md" data-href="Database/People/Anatol Garza.md" href="Database/People/Anatol Garza.md" class="internal-link" target="_blank" rel="noopener nofollow">Anatol Garza</a></span> in critical condition; <span><a data-tooltip-position="top" aria-label="Database/Mobile Suits/EW-14 Gundam Makhairos.md" data-href="Database/Mobile Suits/EW-14 Gundam Makhairos.md" href="Database/Mobile Suits/EW-14 Gundam Makhairos.md" class="internal-link" target="_blank" rel="noopener nofollow">EW-14 Gundam Makhairos</a></span> destroyed along with the rest of First Wing</span></span></td></tr></tbody></table></div><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] CHANGELOG
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01.md" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a></span></td><td><span><strong>OLD:</strong> Concept: Legendary Rebel Ace<br><strong>NEW:</strong> Concept: Catatonic Rebel Ace</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
