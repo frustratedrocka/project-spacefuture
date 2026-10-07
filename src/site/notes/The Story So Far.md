@@ -29,6 +29,7 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 
 ## Summary
+A successful, impossible decapitation strike against the [[Database/Things/Fishbone\|Fishbone]] forces Second Wing to take center stage. Save the ship, then figure out what went wrong.
 
 | EP                                  | Impact                                                                                                                                                                                                       |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
