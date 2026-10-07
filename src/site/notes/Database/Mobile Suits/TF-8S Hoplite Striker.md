@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-s-hoplite-striker/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-07T01:16:46.898-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Hoplite Striker"],"Portrait":"[[Admin/Attachments/Hoplite_Striker_SQ.webp]]","MECH_Concept":"Heavy Assault Line Mech","MECH_Trouble":"Lacks Fine Control","MECH_Gear":["Shoulder Missle Rack","Shotgun"],"MECH_Stunts":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Jovian Consortium]]"],"DEV_From":"[[Database/Mobile Suits/TF-8 Hoplite]]"}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-s-hoplite-striker/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-07T12:05:00.970-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Hoplite Striker"],"Portrait":"[[Admin/Attachments/Hoplite_Striker_SQ.webp]]","MECH_Concept":"Heavy Assault Line Mech","MECH_Trouble":"Lacks Fine Control","MECH_Gear":["Shoulder Missle Rack","Shotgun"],"MECH_Stunts":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Jovian Consortium]]"],"DEV_From":"[[Database/Mobile Suits/TF-8 Hoplite]]"}}
 ---
 
 
