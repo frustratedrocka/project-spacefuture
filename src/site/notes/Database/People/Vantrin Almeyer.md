@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-07T03:07:38.179-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"comments":true,"tags":["npc","character","pilot","entity"],"aliases":["Vantrin"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[[null],[null],[null]],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":["[[Database/Mobile Suits/SE-832E Akoni Command Type]]"],"MECH_Secret":false,"Armor":4,"Breakdown":["Sparking Joints",[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Cleverly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Quickly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"]}}
+{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-07T03:14:29.187-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"comments":true,"tags":["npc","character","pilot","entity"],"aliases":["Vantrin"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[[null],[null],[null]],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":["[[Database/Mobile Suits/SE-832E Akoni Command Type]]"],"MECH_Secret":false,"Armor":4,"Breakdown":["Sparking Joints",[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Cleverly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Quickly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -20,7 +20,7 @@
 > |4 Mod||
 > |6 Svr||
 
-`=choice(this.MECH_Model[0] = null, "!mech"+"!", choice(this.MECH_Secret = true, "!h"+"!", ""))`
+ 
 
 > [!infobox|right wsmall embed] MECH
 > # Akoni-E
@@ -39,7 +39,7 @@
 > |4 Dsbl||
 > |6 Doom||
 
-`=choice(this.MECH_Model[0] = null, "!/mech"+"!", choice(this.MECH_Secret = true, "!/h"+"!", ""))`
+ 
 
 | Aspects                             |
 | ----------------------------------- |
