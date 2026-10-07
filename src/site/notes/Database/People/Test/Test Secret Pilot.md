@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/test/test-secret-pilot/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T03:23:42.434-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":[""],"Rank":null,"Origin":"","Assoc":[""],"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[""],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":["[[Database/Mobile Suits/Sample/Test Hidden Mech]]"],"MECH_Secret":true,"Armor":4,"Breakdown":["","","",""],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/test/test-secret-pilot/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T03:56:27.772-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":[""],"Rank":null,"Origin":"","Assoc":[""],"Strain":4,"Consequences":["Mild","Moderate","Severe"],"Concept":"Concept","Relationship":"Relationship","Loyalty":"Loyalty","Aspects":[""],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":["[[Database/Mobile Suits/Sample/Test Hidden Mech]]"],"MECH_Secret":true,"Armor":4,"Breakdown":["","","",""],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":true,"Skills_On":false,"Stunts_On":true}}
 ---
 
 %%%%
@@ -63,7 +63,30 @@
 
 !/h!
 
-`REDACTED`
+!r!
+
+|SKILLS|RANK|APPROACHES|
+|-----:|:---:|-----|
+|\-| **5** (Superhuman) |\-|
+|\-| **4** (Masterful) |\-|
+|Skill| **3** (Great) |Approach|
+|Skill, Skill| **2** (Good) |Approach, Approach|
+|Skill, Skill, Skill| **1** (Adequate) |Approach,Approach,Approach|
+
+!/r!
+ 
+
+> [!blank|embed clean] STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+!h!
+
+> [!blank|embed clean] MECH STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+!/h!
+
+ 
 
 > [!blank|static wfull]
 

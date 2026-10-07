@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T03:22:17.670-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Rank":1,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":[null],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[[null]],"Stunts":[[null]],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Acquire"],"approach_4":["Sway"],"skill_3":["Know"],"approach_3":["Boldly","Cleverly"],"skill_2":["Skill","Skill"],"approach_2":["Subtly","Approach"],"skill_1":["Tinker","Skill","Skill"],"approach_1":["Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T04:11:53.917-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Rank":1,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":[null],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[null],"Stunts":[null],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Acquire"],"approach_4":["Sway"],"skill_3":["Know"],"approach_3":["Boldly","Cleverly"],"skill_2":["Skill","Skill"],"approach_2":["Subtly","Approach"],"skill_1":["Tinker","Skill","Skill"],"approach_1":["Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
-%%%%
+
 > [!infobox|left wsmall embed] CHARACTER
 > # The CEO
 > ![Admin/Attachments/GenericFeddie_SQ.webp\|GenericFeddie_SQ.webp](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)
@@ -47,7 +47,6 @@
 | CEO of [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] |
 | Relationship                            |
 | When You Think Jovians, You Think CEO   |
-| <ul><li>\-</li></ul>                    |
 
 { .block-language-dataview}
 
@@ -63,9 +62,32 @@
 
 !/mech!
 
-`REDACTED`
+!r!
 
-> [!blank|static wfull]
+|SKILLS|RANK|APPROACHES|
+|-----:|:---:|-----|
+|\-| **5** (Superhuman) |\-|
+|Acquire| **4** (Masterful) |Sway|
+|Know| **3** (Great) |Boldly, Cleverly|
+|Skill, Skill| **2** (Good) |Subtly, Approach|
+|Tinker, Skill, Skill| **1** (Adequate) |Approach,Approach|
+
+ 
+ 
+
+> [!blank|embed clean] STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+!mech!
+
+> [!blank|embed clean] MECH STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+!/mech!
+
+!/r!
+
+> [!blank|static wfull] ==🟢EDIT BELOW==
 
 # Notes
 `REDACTED`

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/micah-brann/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T03:22:34.501-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/21.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"[[Fishbone]] Lead MS Tech","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":"","MECH_Secret":false,"Armor":4,"Breakdown":["","","",""],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Tinker"],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Carefully"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/micah-brann/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T04:08:48.422-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/21.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"[[Fishbone]] Lead MS Tech","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":"","MECH_Secret":false,"Armor":4,"Breakdown":["","","",""],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Tinker"],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Carefully"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
-%%%%
+
 > [!infobox|left wsmall embed] CHARACTER
 > # Micah Brann
 > ![Admin/Attachments/100 Human sci-fi faces/21.png\|21.png](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/21.png)
@@ -62,9 +62,32 @@
 
 !/mech!
 
-`REDACTED`
+!r!
 
-> [!blank|static wfull]
+|SKILLS|RANK|APPROACHES|
+|-----:|:---:|-----|
+|\-| **5** (Superhuman) |\-|
+|Tinker| **4** (Masterful) |\-|
+|Skill| **3** (Great) |Carefully|
+|Skill, Skill| **2** (Good) |Approach, Approach|
+|Skill, Skill, Skill| **1** (Adequate) |Approach,Approach,Approach|
+
+ 
+ 
+
+> [!blank|embed clean] STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+!mech!
+
+> [!blank|embed clean] MECH STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+!/mech!
+
+!/r!
+
+> [!blank|static wfull] ==🟢EDIT BELOW==
 
 # Notes
 

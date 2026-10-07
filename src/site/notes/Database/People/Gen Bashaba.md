@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T03:23:00.697-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Lead"],"approach_3":["Carefully"],"skill_2":["Skill","Skill"],"approach_2":["Boldly","Cleverly"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Quickly","Subtly","Forcefully"]}}
+{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T04:07:00.142-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Lead"],"approach_3":["Carefully"],"skill_2":["Skill","Skill"],"approach_2":["Boldly","Cleverly"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Quickly","Subtly","Forcefully"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
-%%%%
+
 > [!infobox|left wsmall embed] CHARACTER
 > # Gen Bashaba
 > ![Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp\|naomi-nagata-the-expanse-character-1682599804.webp](/img/user/Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp)
@@ -62,9 +62,32 @@
 
 !/mech!
 
-`REDACTED`
+!r!
 
-> [!blank|static wfull]
+|SKILLS|RANK|APPROACHES|
+|-----:|:---:|-----|
+|\-| **5** (Superhuman) |\-|
+|\-| **4** (Masterful) |\-|
+|Lead| **3** (Great) |Carefully|
+|Skill, Skill| **2** (Good) |Boldly, Cleverly|
+|Skill, Skill, Skill| **1** (Adequate) |Quickly,Subtly,Forcefully|
+
+ 
+ 
+
+> [!blank|embed clean] STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+!mech!
+
+> [!blank|embed clean] MECH STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+!/mech!
+
+!/r!
+
+> [!blank|static wfull] ==🟢EDIT BELOW==
 
 # Notes
 Acting captain of the [[Database/Things/Fishbone\|Fishbone]], Promoted in a *hurry* with the death of the old captain and bridge crew.
