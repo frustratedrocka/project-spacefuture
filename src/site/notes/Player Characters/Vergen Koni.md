@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","entity","pilot"],"noteIcon":"","updated":"2026-10-07T12:04:10.029-04:00","dg-note-properties":{"tags":["PC","character","entity","pilot"],"aliases":["Verg"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":["[[Database/Mobile Suits/Hyper Seeker CQC]]"],"Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Move"],"approach_3":["Quickly"],"skill_2":["Fight","Shoot"],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker"],"approach_1":["Carefully","Forcefully","Subtly"]}}
+{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["PC","character","entity","pilot"],"noteIcon":"","updated":"2026-10-07T13:43:38.694-04:00","dg-note-properties":{"tags":["PC","character","entity","pilot"],"aliases":["Verg"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":["[[Database/Mobile Suits/Hyper Seeker CQC]]"],"Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Move"],"approach_3":["Quickly"],"skill_2":["Fight","Shoot"],"approach_2":["Boldly","Cleverly"],"skill_1":["Notice","Persevere","Tinker"],"approach_1":["Carefully","Forcefully","Subtly"]}}
 ---
+
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Vergen Koni
@@ -39,16 +40,8 @@
 > |4 Dsbl|Disabled|
 > |6 Doom|Doomed|
 
-| Aspects              |
-| -------------------- |
-| Mind's Eye Protector |
-| Subtle Paranoia      |
-| Speed Is Key         |
-| Respect The Fight    |
-| We Aren't Alone Here |
-| Free Aspect          |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Mind's Eye Protector</span></td></tr><tr><td><span>Subtle Paranoia</span></td></tr><tr><td><span>Speed Is Key</span></td></tr><tr><td><span>Respect The Fight</span></td></tr><tr><td><span>We Aren't Alone Here</span></td></tr><tr><td><span>Free Aspect</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Speedy CQC</span></td></tr><tr><td><span>Unstable Core</span></td></tr><tr><td><span>Extension Of My Body</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

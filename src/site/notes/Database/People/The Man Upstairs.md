@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T12:04:37.046-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/Onassis.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":0,"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Strain":6,"Consequences":[[null],[null],[null]],"Concept":"Expert Shipping Magnate","Relationship":"Leading Your Enemy","Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`","`REDACTED`"],"Stunts":[null],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T13:43:53.909-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/Onassis.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":0,"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Strain":6,"Consequences":[[null],[null],[null]],"Concept":"Expert Shipping Magnate","Relationship":"Leading Your Enemy","Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`","`REDACTED`"],"Stunts":[null],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -42,16 +42,8 @@
 
 !/mech!
 
-| Aspects                 |
-| ----------------------- |
-| Expert Shipping Magnate |
-| Leading Your Enemy      |
-| `REDACTED`              |
-| `REDACTED`              |
-| `REDACTED`              |
-| `REDACTED`              |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Expert Shipping Magnate</span></td></tr><tr><td><span>Leading Your Enemy</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !mech!
 

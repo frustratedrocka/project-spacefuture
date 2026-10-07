@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T12:04:25.991-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Stanford.webp]]","Concept":"Terrified Into Silence","Trouble":"Holding Its Breath","Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T13:30:59.889-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Stanford.webp]]","Concept":"Terrified Into Silence","Trouble":"Holding Its Breath","Aspects":["`REDACTED`"]}}
 ---
 
 
@@ -15,13 +15,8 @@
 >> |**CONTROL**|Under The Radar|
 >> |**PRESENCE**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
-| Aspects                |
-| ---------------------- |
-| Terrified Into Silence |
-| Holding Its Breath     |
-| `REDACTED`             |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Terrified Into Silence</span></td></tr><tr><td><span>Holding Its Breath</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Discord Genesis
 >[!cite|bg-c-red] [[Player Characters/Vergen Koni\|Vergen Koni]]

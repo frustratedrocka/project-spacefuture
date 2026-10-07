@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T12:04:50.924-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Lead"],"approach_3":["Carefully"],"skill_2":["Skill","Skill"],"approach_2":["Boldly","Cleverly"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Quickly","Subtly","Forcefully"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T13:44:12.934-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Lead"],"approach_3":["Carefully"],"skill_2":["Skill","Skill"],"approach_2":["Boldly","Cleverly"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Quickly","Subtly","Forcefully"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -42,13 +42,8 @@
 
 !/mech!
 
-| Aspects                                     |
-| ------------------------------------------- |
-| Fledgling shipmaster rising to the occasion |
-| Relationship                                |
-| `REDACTED`                                  |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Fledgling shipmaster rising to the occasion</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !mech!
 

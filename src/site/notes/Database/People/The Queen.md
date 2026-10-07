@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-queen/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T12:04:33.408-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Hive Cult]]"],"Rank":0,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":[null],"MECH_Model":["[[Database/Mobile Suits/Eubiont]]"],"MECH_Secret":true,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["`REDACTED`","`REDACTED`"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/the-queen/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T13:43:49.057-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Hive Cult]]"],"Rank":0,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":[null],"MECH_Model":["[[Database/Mobile Suits/Eubiont]]"],"MECH_Secret":true,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["`REDACTED`","`REDACTED`"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -42,13 +42,8 @@
 
 !/h!
 
-| Aspects      |
-| ------------ |
-| `REDACTED`   |
-| Relationship |
-| `REDACTED`   |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !h!
 

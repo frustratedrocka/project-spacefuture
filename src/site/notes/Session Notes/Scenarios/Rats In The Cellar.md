@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-07T12:18:24.509-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-07T12:31:17.238-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
 ---
 
 ## Summary
@@ -12,8 +12,8 @@ A successful, impossible decapitation strike against the [[Database/Things/Fishb
 | [[Session Notes/Session 01\|01]] | [[Player Characters/Vergen Koni\|Vergen Koni]] rescues [[Database/People/Delbrau Enger\|Delbrau Enger]] from under debris                                                                                                                                                  |
 | [[Session Notes/Session 01\|01]] | [[Player Characters/August Grier\|August Grier]] puts his body on the line to keep the rest of Second Wing from venting into space when a cored suit breaches the hull                                                                       |
 | [[Session Notes/Session 01\|01]] | Rebel ace pilot [[Database/People/Anatol Garza\|Anatol Garza]] in critical condition; [[Database/Mobile Suits/EW-14 Gundam Makhairos\|EW-14 Gundam Makhairos]] destroyed along with the rest of First Wing                                                                               |
-| [[Session Notes/Session 01\|01]] | [[Player Characters/Menodora Thaliana\|Mena]] hails a retreating [[Database/People/Vantrin Almeyer\|Vantrin]]: "You see the state of our ship and your suits; let us go or you'll wish we'd killed you." "Acknowledged."                       |
 | [[Session Notes/Session 01\|01]] | [[Player Characters/Lane Gable\|Lane]] gets the drop on [[Database/People/Vantrin Almeyer\|Vantrin]] and drives him off by frying his joints with [[Database/Mobile Suits/ES-01 Elegant Sky\|Elegant Sky]]'s EW suite                                                |
+| [[Session Notes/Session 01\|01]] | [[Player Characters/Menodora Thaliana\|Mena]] hails a retreating [[Database/People/Vantrin Almeyer\|Vantrin]]: "You see the state of our ship and your suits; let us go or you'll wish we'd killed you." "Acknowledged."                       |
 
 { .block-language-dataview}
 

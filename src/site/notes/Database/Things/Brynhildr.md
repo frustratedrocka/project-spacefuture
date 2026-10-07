@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/brynhildr/","tags":["npc","character","entity","location","ship","weird"],"noteIcon":"","updated":"2026-10-07T12:04:16.035-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity","location","ship","weird"],"aliases":null,"Portrait":"[[Admin/Attachments/Brynhildr.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Type":["[[Database/Glossary/Ship]]"],"Class":"[[Database/Glossary/Ship|Valkyrie-class cruiser]]","Scale":5,"Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Apsis pursuit cruiser","Relationship":"Relationship","Loyalty":"%% %%","Aspects":["Scourge of the deep belt","One battle, one Brynhildr",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/things/brynhildr/","tags":["npc","character","entity","location","ship","weird"],"noteIcon":"","updated":"2026-10-07T13:43:46.661-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity","location","ship","weird"],"aliases":null,"Portrait":"[[Admin/Attachments/Brynhildr.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Type":["[[Database/Glossary/Ship]]"],"Class":"[[Database/Glossary/Ship|Valkyrie-class cruiser]]","Scale":5,"Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Apsis pursuit cruiser","Relationship":"Relationship","Loyalty":"%% %%","Aspects":["Scourge of the deep belt","One battle, one Brynhildr",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -22,14 +22,8 @@
 
 
 
-| Aspects                   |
-| ------------------------- |
-| Apsis pursuit cruiser     |
-| Relationship              |
-| Scourge of the deep belt  |
-| One battle, one Brynhildr |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Apsis pursuit cruiser</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span>Scourge of the deep belt</span></td></tr><tr><td><span>One battle, one Brynhildr</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 
 

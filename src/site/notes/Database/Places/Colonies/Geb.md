@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T12:04:29.273-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T13:31:04.309-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 
@@ -15,10 +15,8 @@
 >> |**CONTROL**|Contested|
 >> |**PRESENCE**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
-| Aspects |
-| ------- |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Description
 

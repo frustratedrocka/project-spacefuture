@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["PC","character","entity","pilot"],"noteIcon":"","updated":"2026-10-07T12:04:11.418-04:00","dg-note-properties":{"tags":["PC","character","entity","pilot"],"aliases":["Mena"],"Player":"[[Admin/Player/Cynthia]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Places/Charun]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"MECH_Model":["[[Database/Mobile Suits/Kerbstomp]]"],"Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Ticket Out","MECH_Gear":["Mining Drill","Club"],"skill_5":[null],"approach_5":[[null]],"skill_4":[null],"approach_4":[null],"skill_3":["Persevere"],"approach_3":["Forcefully"],"skill_2":["Fight","Network"],"approach_2":["Boldly","Cleverly"],"skill_1":["Tinker","Understand","Acquire"],"approach_1":["Carefully","Quickly","Subtly"]}}
+{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["PC","character","entity","pilot"],"noteIcon":"","updated":"2026-10-07T13:43:39.778-04:00","dg-note-properties":{"tags":["PC","character","entity","pilot"],"aliases":["Mena"],"Player":"[[Admin/Player/Cynthia]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Changelog":["N/A"],"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Places/Charun]]"],"Strain":7,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"MECH_Model":["[[Database/Mobile Suits/Kerbstomp]]"],"Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"My Ticket Out","MECH_Gear":["Mining Drill","Club"],"skill_5":[null],"approach_5":[[null]],"skill_4":[null],"approach_4":[null],"skill_3":["Persevere"],"approach_3":["Forcefully"],"skill_2":["Fight","Network"],"approach_2":["Boldly","Cleverly"],"skill_1":["Tinker","Understand","Acquire"],"approach_1":["Carefully","Quickly","Subtly"]}}
 ---
+
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Menodora Thaliana
@@ -39,16 +40,8 @@
 > |4 Dsbl|Disabled|
 > |6 Doom|Doomed|
 
-| Aspects                        |
-| ------------------------------ |
-| Hive-Linked Lunarian Refugee   |
-| Never Put Down Roots           |
-| It's Good To Be Underestimated |
-| Allies In Strange Places       |
-| "No Such Thing As A Hard 'No'" |
-| Free Aspect                    |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Hive-Linked Lunarian Refugee</span></td></tr><tr><td><span>Never Put Down Roots</span></td></tr><tr><td><span>It's Good To Be Underestimated</span></td></tr><tr><td><span>Allies In Strange Places</span></td></tr><tr><td><span>"No Such Thing As A Hard 'No'"</span></td></tr><tr><td><span>Free Aspect</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Street-Trash Brawler</span></td></tr><tr><td><span>Franken-Software</span></td></tr><tr><td><span>My Ticket Out</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

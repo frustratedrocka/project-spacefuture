@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["npc","character","entity","ship","weird","location"],"noteIcon":"","updated":"2026-10-07T12:04:15.010-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity","ship","weird","location"],"aliases":null,"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Origin":null,"Assoc":null,"Strain":8,"Consequences":[[null],[null],[null]],"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Loyalty":null,"Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":"Relationship","MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["npc","character","entity","ship","weird","location"],"noteIcon":"","updated":"2026-10-07T13:43:45.369-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity","ship","weird","location"],"aliases":null,"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Origin":null,"Assoc":null,"Strain":8,"Consequences":[[null],[null],[null]],"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Loyalty":null,"Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":"Relationship","MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -22,13 +22,8 @@
 
 
 
-| Aspects                                           |
-| ------------------------------------------------- |
-| Rebel Destroyer, Closest Thing To Home            |
-| Relationship                                      |
-| Courtesy Of [[Database/Factions/Jovian Consortium\|the Consortium]] |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Rebel Destroyer, Closest Thing To Home</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span>Courtesy Of <a data-tooltip-position="top" aria-label="Jovian Consortium" data-href="Database/Factions/Jovian Consortium" href="Jovian Consortium" class="internal-link" target="_blank" rel="noopener nofollow">the Consortium</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 
 

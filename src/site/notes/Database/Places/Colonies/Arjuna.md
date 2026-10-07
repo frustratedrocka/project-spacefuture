@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/arjuna/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T12:04:31.291-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Republic Of Mars|ROM]]",null],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/arjuna/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T13:31:06.575-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Republic Of Mars|ROM]]",null],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 
@@ -15,10 +15,8 @@
 >> |**CONTROL**|Contested|
 >> |**PRESENCE**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">ROM</a></span>,<br><span>-</span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
-| Aspects |
-| ------- |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Description
 One of three colonies in [[Database/Glossary/The Belt\|The Belt]] that helped kick off [[Database/History/The Current Conflict\|The Current Conflict]] through disagreement with [[Database/Factions/Apsis\|Apsis]]. The colony didn't want to starve. Apsis disagreed.

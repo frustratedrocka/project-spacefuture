@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/artel-ward/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T12:04:53.440-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/Saul_Tigh.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Jovian Consortium]]"],"Rank":3,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Grizzled [[Fishbone]] XO","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["Hard Times Make Hard Asses",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/artel-ward/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T13:44:15.229-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/Saul_Tigh.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Jovian Consortium]]"],"Rank":3,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Grizzled [[Fishbone]] XO","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["Hard Times Make Hard Asses",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -42,14 +42,8 @@
 
 !/mech!
 
-| Aspects                    |
-| -------------------------- |
-| Grizzled [[Database/Things/Fishbone\|Fishbone]] XO   |
-| Relationship               |
-| `REDACTED`                 |
-| Hard Times Make Hard Asses |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Grizzled <a data-href="Database/Things/Fishbone" href="Fishbone" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a> XO</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span>Hard Times Make Hard Asses</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !mech!
 

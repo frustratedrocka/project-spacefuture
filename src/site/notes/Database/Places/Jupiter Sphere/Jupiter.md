@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location","entity"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-07T12:04:19.986-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Control":"Home / Headquarters","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Jupiter_OPAL_2024-1.webp]]","Concept":"Industrial Center Of Sol","Trouble":"Distance Necessitates Deliberation","Aspects":["Ruler Of The Heavens, In Fact And In Name","Wholly Owned & Incorporated"]}}
+{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location","entity"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-07T13:30:52.855-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Control":"Home / Headquarters","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Jupiter_OPAL_2024-1.webp]]","Concept":"Industrial Center Of Sol","Trouble":"Distance Necessitates Deliberation","Aspects":["Ruler Of The Heavens, In Fact And In Name","Wholly Owned & Incorporated"]}}
 ---
 
 
@@ -15,14 +15,8 @@
 >> |**CONTROL**|Home / Headquarters|
 >> |**PRESENCE**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
-| Aspects                                   |
-| ----------------------------------------- |
-| Industrial Center Of Sol                  |
-| Distance Necessitates Deliberation        |
-| Ruler Of The Heavens, In Fact And In Name |
-| Wholly Owned & Incorporated               |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Industrial Center Of Sol</span></td></tr><tr><td><span>Distance Necessitates Deliberation</span></td></tr><tr><td><span>Ruler Of The Heavens, In Fact And In Name</span></td></tr><tr><td><span>Wholly Owned &amp; Incorporated</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Description
 

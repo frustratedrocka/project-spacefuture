@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/graciela-tor/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T12:04:48.916-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/24.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":"[[Database/Things/Fishbone]]","Strain":4,"Consequences":[[null],[null],[null]],"Concept":"New [[Fishbone]] Chief Engineer","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["Work Hard, Gamble Hard",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Tinker"],"approach_3":["Forcefully"],"skill_2":["Sway","Acquire"],"approach_2":["Boldly","Cleverly"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Carefully","Subtly","Quickly"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/graciela-tor/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T13:44:11.505-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/24.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":"[[Database/Things/Fishbone]]","Strain":4,"Consequences":[[null],[null],[null]],"Concept":"New [[Fishbone]] Chief Engineer","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["Work Hard, Gamble Hard",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Tinker"],"approach_3":["Forcefully"],"skill_2":["Sway","Acquire"],"approach_2":["Boldly","Cleverly"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Carefully","Subtly","Quickly"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -42,14 +42,8 @@
 
 !/mech!
 
-| Aspects                         |
-| ------------------------------- |
-| New [[Database/Things/Fishbone\|Fishbone]] Chief Engineer |
-| Relationship                    |
-| `REDACTED`                      |
-| Work Hard, Gamble Hard          |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>New <a data-href="Database/Things/Fishbone" href="Fishbone" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a> Chief Engineer</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span>Work Hard, Gamble Hard</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !mech!
 

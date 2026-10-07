@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","entity","lore"],"noteIcon":"","updated":"2026-10-06T19:55:46.034-04:00","dg-note-properties":{"tags":["location","entity","lore"],"aliases":["Ferry"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":"[[Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif]]","Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","entity","lore"],"noteIcon":"","updated":"2026-10-07T13:31:07.746-04:00","dg-note-properties":{"tags":["location","entity","lore"],"aliases":["Ferry"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":"[[Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif]]","Concept":"Enormous Belt-Jupiter Cyclers","Trouble":"Requires Perpetual Motion","Aspects":[null]}}
 ---
 
 
@@ -15,10 +15,8 @@
 >> |**CONTROL**|Semi-Extraterritorial|
 >> |**PRESENCE**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium.md" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
-| Aspects |
-| ------- |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Enormous Belt-Jupiter Cyclers</span></td></tr><tr><td><span>Requires Perpetual Motion</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!cite] From Whence The Concept
 >> Not to be the fucker who is going to piss everyone off, but is there any "accounting for the sheer travel physics of space" tech in this universe?  

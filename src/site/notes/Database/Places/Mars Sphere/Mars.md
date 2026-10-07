@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars-sphere/mars/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T12:04:18.118-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp]]","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/places/mars-sphere/mars/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T13:30:49.978-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp]]","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"]}}
 ---
 
 
@@ -15,13 +15,8 @@
 >> |**CONTROL**|Semi-Occupied Territory|
 >> |**PRESENCE**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
-| Aspects                          |
-| -------------------------------- |
-| Unofficially Lost The Ground War |
-| Political Powder Keg             |
-| `REDACTED`                       |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Unofficially Lost The Ground War</span></td></tr><tr><td><span>Political Powder Keg</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Description
 

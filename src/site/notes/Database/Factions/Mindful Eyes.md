@@ -40,10 +40,9 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 
 
 
-| Character                                                                   | Aspects                                  |
-| --------------------------------------------------------------------------- | ---------------------------------------- |
-| [[Database/People/The Mother And The Father\|The Mother And The Father]] | `REDACTED` \- Relationship \- `REDACTED` |
-| [[Player Characters/Vergen Koni\|Vergen Koni]]                           | Mind's Eye Protector \- \- \- \-         |
+| Character                                         | Aspects                          |
+| ------------------------------------------------- | -------------------------------- |
+| [[Player Characters/Vergen Koni\|Vergen Koni]] | Mind's Eye Protector \- \- \- \- |
 
 { .block-language-dataview}
 

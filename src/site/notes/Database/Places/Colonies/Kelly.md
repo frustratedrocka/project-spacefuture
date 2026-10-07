@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/kelly/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T12:04:27.029-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Armada Ejecta]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/kelly/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T13:31:00.931-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Armada Ejecta]]"],"Portrait":null,"Concept":"Rowdy Space Australia","Trouble":null,"Aspects":[null]}}
 ---
 
 
@@ -15,10 +15,8 @@
 >> |**CONTROL**|Contested|
 >> |**PRESENCE**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta.md" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
-| Aspects |
-| ------- |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Rowdy Space Australia</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Description
 

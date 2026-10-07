@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T12:04:22.638-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":["Luna"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"No Man's Land","Faction_Presence":["[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Mindful Eyes]]","[[Database/Factions/Hive Cult]]","[[Database/Factions/Republic Of Mars]]"],"Portrait":"[[Admin/Attachments/Earth_Post_Kaboom.webp]]","Concept":"Humanity's Cradle Turned Life Support","Trouble":"Nuclear Winter","Aspects":["Being Strip-Mined For Fertile Soil","Access Restricted By Apsis"]}}
+{"dg-publish":true,"permalink":"/database/places/earth/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-07T13:30:56.535-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":["Luna"],"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"No Man's Land","Faction_Presence":["[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Mindful Eyes]]","[[Database/Factions/Hive Cult]]","[[Database/Factions/Republic Of Mars]]"],"Portrait":"[[Admin/Attachments/Earth_Post_Kaboom.webp]]","Concept":"Humanity's Cradle Turned Life Support","Trouble":"Nuclear Winter","Aspects":["Being Strip-Mined For Fertile Soil","Access Restricted By Apsis"]}}
 ---
 
 
@@ -15,14 +15,8 @@
 >> |**CONTROL**|No Man's Land|
 >> |**PRESENCE**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta.md" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Mindful Eyes.md" data-href="Database/Factions/Mindful Eyes.md" href="Database/Factions/Mindful Eyes.md" class="internal-link" target="_blank" rel="noopener nofollow">Mindful Eyes</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Hive Cult.md" data-href="Database/Factions/Hive Cult.md" href="Database/Factions/Hive Cult.md" class="internal-link" target="_blank" rel="noopener nofollow">Hive Cult</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
-| Aspects                               |
-| ------------------------------------- |
-| Humanity's Cradle Turned Life Support |
-| Nuclear Winter                        |
-| Being Strip-Mined For Fertile Soil    |
-| Access Restricted By Apsis            |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Humanity's Cradle Turned Life Support</span></td></tr><tr><td><span>Nuclear Winter</span></td></tr><tr><td><span>Being Strip-Mined For Fertile Soil</span></td></tr><tr><td><span>Access Restricted By Apsis</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Description
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/anatol-garza/","tags":["npc","character","pilot","entity","ooa"],"noteIcon":"","updated":"2026-10-07T12:04:55.157-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","pilot","entity","ooa"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":"[[Database/Factions/Rebels]]","Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Catatonic Rebel Ace","Relationship":"Relationship","Loyalty":"Casualty Of War","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":["[[Database/Mobile Suits/EW-14 Gundam Makhairos]]"],"MECH_Secret":false,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/anatol-garza/","tags":["npc","character","pilot","entity","ooa"],"noteIcon":"","updated":"2026-10-07T13:44:17.026-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","pilot","entity","ooa"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":"[[Database/Factions/Rebels]]","Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Catatonic Rebel Ace","Relationship":"Relationship","Loyalty":"Casualty Of War","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":["[[Database/Mobile Suits/EW-14 Gundam Makhairos]]"],"MECH_Secret":false,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -42,13 +42,8 @@
 
  
 
-| Aspects             |
-| ------------------- |
-| Catatonic Rebel Ace |
-| Relationship        |
-| Casualty Of War     |
-
-{ .block-language-dataview}
+> [!blank|flex embed clean] ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Catatonic Rebel Ace</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span>Casualty Of War</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
  
 
