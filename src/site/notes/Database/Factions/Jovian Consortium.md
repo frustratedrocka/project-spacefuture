@@ -32,10 +32,11 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 
 >[!blank|static wfull]
 
-| Character                                     | Aspects                                                                                          |
-| --------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [[Database/People/Artel Ward\|Artel Ward]] | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- Relationship \- `REDACTED`                                           |
-| [[Database/People/The CEO\|The CEO]]       | CEO of [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] \- Relationship \- When You Think Jovians, You Think CEO |
+| Character                                                                         | Aspects                                                                                          |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [[Database/People/Artel Ward\|Artel Ward]]                                     | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- Relationship \- `REDACTED`                                           |
+| [[Database/People/The CEO\|The CEO]]                                           | CEO of [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] \- Relationship \- When You Think Jovians, You Think CEO |
+| [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] | Key Mobile Suit Manufacturer \- Sells To Everyone, Including You \- `REDACTED`                   |
 
 { .block-language-dataview}
 

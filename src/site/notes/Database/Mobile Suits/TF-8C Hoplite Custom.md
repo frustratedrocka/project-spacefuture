@@ -1,19 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-c-hoplite-custom/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T21:00:41.574-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Cossack"],"MECH_Name":"Cossack","MECH_Model":["[[Database/Mobile Suits/TF-8C Hoplite Custom]]"],"Portrait":"[[Admin/Attachments/HopliteCustom_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Known_Users":["[[Player Characters/August Grier]]"],"Faction":["[[Database/Factions/Rebels]]"],"DEV_Into":null,"DEV_From":["[[Database/Mobile Suits/TF-8 Hoplite]]"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-c-hoplite-custom/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T23:26:54.975-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Cossack"],"Portrait":"[[Admin/Attachments/HopliteCustom_SQ.webp]]","MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Known_Users":["[[Player Characters/August Grier]]"],"Faction":["[[Database/Factions/Rebels]]"],"DEV_Into":null}}
 ---
 
 
-> [!infobox|embed left wsmall]
+> [!infobox|embed right wsmall] VITALS
 > # Cossack
 > ![Admin/Attachments/HopliteCustom_SQ.webp\|HopliteCustom_SQ.webp](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)
+>> [!caption]
+>> TF-8C Hoplite Custom
 >
->> [!blank|clean n-th]
->> |  |
+>> [!blank|clean n-th] USERS
+>> |   |
 >> |--|
->> |**FACTION** <br><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>> |**FACTION**<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 >> |**KNOWN PILOTS**<br><span><a data-tooltip-position="top" aria-label="Player Characters/August Grier.md" data-href="Player Characters/August Grier.md" href="Player Characters/August Grier.md" class="internal-link" target="_blank" rel="noopener nofollow">August Grier</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
->> |**DEVELOPED INTO**<br><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
->> |**DEVELOPED FROM**<br><span><a data-tooltip-position="top" aria-label="Database/Mobile Suits/TF-8 Hoplite.md" data-href="Database/Mobile Suits/TF-8 Hoplite.md" href="Database/Mobile Suits/TF-8 Hoplite.md" class="internal-link" target="_blank" rel="noopener nofollow">TF-8 Hoplite</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+> 
+>> [!blank|clean n-th] DEVELOPMENT
+>> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + direction + "</strong><br>"+ join(rows.display, ",<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>DEVELOPED FROM</strong><br><a data-tooltip-position="top" aria-label="Database/Mobile Suits/TF-8 Hoplite.md" data-href="Database/Mobile Suits/TF-8 Hoplite.md" href="Database/Mobile Suits/TF-8 Hoplite.md" class="internal-link" target="_blank" rel="noopener nofollow">TF-8 Hoplite</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>High-Performance Line Mech</span></td></tr><tr><td><span>Nothing Fancy</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -23,8 +26,6 @@
 
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>HAMMER AND ANVIL</strong> +1 when you Shoot a target already engaged in combat with an ally.</span></td></tr><tr><td><span><strong>DEAD MECH WALKING</strong> When you would be taken out, you may take one final turn before the character who took you out declares what happened to you.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
-
->[!blank|wfull]
 
 # Notes
 

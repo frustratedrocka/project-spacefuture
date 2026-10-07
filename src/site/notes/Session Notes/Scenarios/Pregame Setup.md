@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-06T19:58:51.269-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Rats In The Cellar]]","aliases":["Mission 00"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-06T23:34:13.069-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Rats In The Cellar]]","aliases":["Mission 00"]}}
 ---
 
 ## Summary
@@ -31,14 +31,14 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 ## Mobile Suits
 
 >[!cards|dataview collapse 6 img-tiny] MECHS
->  | Portrait                                                    | Mobile Suit                                                                   |
-> | ----------------------------------------------------------- | ----------------------------------------------------------------------------- |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ES-01 Elegant Sky\|ES-01 Elegant Sky]]**         |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]**           |
-> | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)          | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                         |
-> | ![Admin/Attachments/Hoplite_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_SQ.webp)          | **[[Database/Mobile Suits/TF-8 Hoplite\|TF-8 Hoplite]]**                   |
-> | ![Admin/Attachments/HopliteCustom_SQ.webp\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)    | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]**   |
-> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp)  | **[[Database/Mobile Suits/TF-8S Hoplite Striker\|TF-8S Hoplite Striker]]** |
+>  | Portrait                                                    | Mobile Suit                                                             |
+> | ----------------------------------------------------------- | ----------------------------------------------------------------------- |
+> | ![Admin/Attachments/HopliteCustom_SQ.webp\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)    | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|Cossack]]**          |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ES-01 Elegant Sky\|Elegant Sky]]**         |
+> | ![Admin/Attachments/Hoplite_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_SQ.webp)          | **[[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]]**                  |
+> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp)  | **[[Database/Mobile Suits/TF-8S Hoplite Striker\|Hoplite Striker]]** |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker]]**         |
+> | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)          | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                   |
 > 
 { .block-language-dataview}
 

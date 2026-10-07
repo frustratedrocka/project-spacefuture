@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-06T19:58:49.103-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-06T23:34:00.882-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
 ---
 
 ## Summary
@@ -41,15 +41,16 @@
 ## Mobile Suits
 
 >[!cards|dataview collapse 4 img-tiny] MECHS
->  | Portrait                                                    | Mobile Suit                                                                               |
-> | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ES-01 Elegant Sky\|ES-01 Elegant Sky]]**                     |
-> | ![Admin/Attachments/GB4_Makhairos.webp\|sban cover](/img/user/Admin/Attachments/GB4_Makhairos.webp)       | **[[Database/Mobile Suits/EW-14 Gundam Makhairos\|EW-14 Gundam Makhairos]]**           |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]**                       |
-> | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)          | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                                     |
-> | ![Admin/Attachments/Akoni_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni_SQ.webp)            | **[[Database/Mobile Suits/SE-832 Akoni\|SE-832 Akoni]]**                               |
-> | ![Admin/Attachments/Akoni-E_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni-E_SQ.webp)          | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|SE-832-E Akoni Command Type]]** |
-> | ![Admin/Attachments/HopliteCustom_SQ.webp\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)    | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]**               |
+>  | Portrait                                                    | Mobile Suit                                                               |
+> | ----------------------------------------------------------- | ------------------------------------------------------------------------- |
+> | ![Admin/Attachments/Akoni_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni_SQ.webp)            | **[[Database/Mobile Suits/SE-832 Akoni\|Akoni]]**                      |
+> | ![Admin/Attachments/Akoni-E_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni-E_SQ.webp)          | **[[Database/Mobile Suits/SE-832-E Akoni Command Type\|Akoni-E]]**     |
+> | ![Admin/Attachments/HopliteCustom_SQ.webp\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)    | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|Cossack]]**            |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ES-01 Elegant Sky\|Elegant Sky]]**           |
+> | ![Admin/Attachments/GB4_Makhairos.webp\|sban cover](/img/user/Admin/Attachments/GB4_Makhairos.webp)       | **[[Database/Mobile Suits/EW-14 Gundam Makhairos\|Gundam Makhairos]]** |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker]]**           |
+> | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)          | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                     |
+> | ![Admin/Attachments/RebelGruntSuit_SQ.webp\|sban cover](/img/user/Admin/Attachments/RebelGruntSuit_SQ.webp)   | **[[Database/Mobile Suits/AP-92 Rejunot\|Rejunot]]**                   |
 > 
 { .block-language-dataview}
 

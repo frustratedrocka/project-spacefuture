@@ -1,19 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/se-832-akoni/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T20:56:20.999-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Akoni"],"MECH_Name":"Akoni","MECH_Model":"[[Database/Mobile Suits/SE-832 Akoni]]","Portrait":"[[Admin/Attachments/Akoni_SQ.webp]]","Assoc":["[[Database/Things/Brynhildr]]"],"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Concept":"Apsis's First Line of Offense","MECH_Trouble":"Not Meant To Take Punishment","MECH_Relationship":null,"MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto","[[Database/Things/Neutron Accelerator Cannon]]"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mechs","**SUPPRESSION BARRAGE** +1 when you Shoot to create an advantage involving area denial"],"Known_Users":null,"Faction":["[[Database/Factions/Apsis]]"],"DEV_Into":["[[Database/Mobile Suits/SE-832-E Akoni Command Type]]"],"DEV_From":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/se-832-akoni/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T23:25:46.617-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Akoni"],"Portrait":"[[Admin/Attachments/Akoni_SQ.webp]]","MECH_Concept":"Apsis's First Line of Offense","MECH_Trouble":"Not Meant To Take Punishment","MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto","[[Database/Things/Neutron Accelerator Cannon]]"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mechs","**SUPPRESSION BARRAGE** +1 when you Shoot to create an advantage involving area denial"],"Known_Users":null,"Faction":["[[Database/Factions/Apsis]]"],"DEV_Into":["[[Database/Mobile Suits/SE-832-E Akoni Command Type]]"],"Assoc":["[[Database/Things/Brynhildr]]"]}}
 ---
 
 
-> [!infobox|embed left wsmall]
+> [!infobox|embed right wsmall] VITALS
 > # Akoni
 > ![Admin/Attachments/Akoni_SQ.webp\|Akoni_SQ.webp](/img/user/Admin/Attachments/Akoni_SQ.webp)
+>> [!caption]
+>> SE-832 Akoni
 >
->> [!blank|clean n-th]
->> |  |
+>> [!blank|clean n-th] USERS
+>> |   |
 >> |--|
->> |**FACTION** <br><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+>> |**FACTION**<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 >> |**KNOWN PILOTS**<br><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
->> |**DEVELOPED INTO**<br><span><a data-tooltip-position="top" aria-label="Database/Mobile Suits/SE-832-E Akoni Command Type.md" data-href="Database/Mobile Suits/SE-832-E Akoni Command Type.md" href="Database/Mobile Suits/SE-832-E Akoni Command Type.md" class="internal-link" target="_blank" rel="noopener nofollow">SE-832-E Akoni Command Type</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
->> |**DEVELOPED FROM**<br><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
+> 
+>> [!blank|clean n-th] DEVELOPMENT
+>> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + direction + "</strong><br>"+ join(rows.display, ",<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>DEVELOPED INTO</strong><br><a data-tooltip-position="top" aria-label="Database/Mobile Suits/SE-832-E Akoni Command Type.md" data-href="Database/Mobile Suits/SE-832-E Akoni Command Type.md" href="Database/Mobile Suits/SE-832-E Akoni Command Type.md" class="internal-link" target="_blank" rel="noopener nofollow">SE-832-E Akoni Command Type</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Apsis's First Line of Offense</span></td></tr><tr><td><span>Not Meant To Take Punishment</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -24,9 +27,8 @@
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>30 SECONDS TO DISPERSE</strong> +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mechs</span></td></tr><tr><td><span><strong>SUPPRESSION BARRAGE</strong> +1 when you Shoot to create an advantage involving area denial</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
->[!blank|wfull]
-
 # Notes
+
 The face of institutional violence in the late [[Database/History/Emergent Century\|Emergent Century]]. Apsis commissioned a "dedicated [[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]] killer," and [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] delivered. The Akoni series is meant to hit first and hit hard.
 
 ## Data
