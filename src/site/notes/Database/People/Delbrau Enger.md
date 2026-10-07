@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/delbrau-enger/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T03:16:25.495-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/28.png]]","Faction":["[[Database/Factions/Rebels]]","%% %%"],"Rank":5,"Origin":"`REDACTED`","Assoc":["%% %%","[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],"Leg In A Cast",[null]],"Concept":"[[Fishbone]] Lead Comms Officer","Relationship":"[[Vergen Koni|Verg]] Saved His Life","Loyalty":"`REDACTED`","Aspects":["Enthusiastic Wife Guy","%% %%",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
+{"dg-publish":true,"permalink":"/database/people/delbrau-enger/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T03:35:45.105-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/28.png]]","Faction":["[[Database/Factions/Rebels]]","%% %%"],"Rank":5,"Origin":"`REDACTED`","Assoc":["%% %%","[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],"Leg In A Cast",[null]],"Concept":"New [[Fishbone]] Lead Comms Officer","Relationship":"[[Vergen Koni|Verg]] Saved His Life","Loyalty":"`REDACTED`","Aspects":["Enthusiastic Wife Guy","%% %%",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"]}}
 ---
 
+%%%%
 > [!infobox|left wsmall embed] CHARACTER
 > # Delbrau Enger
 > ![Admin/Attachments/100 Human sci-fi faces/28.png\|28.png](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/28.png)
@@ -43,7 +44,7 @@
 
 | Aspects                              |
 | ------------------------------------ |
-| [[Database/Things/Fishbone\|Fishbone]] Lead Comms Officer      |
+| New [[Database/Things/Fishbone\|Fishbone]] Lead Comms Officer  |
 | [[Player Characters/Vergen Koni\|Verg]] Saved His Life |
 | `REDACTED`                           |
 | Enthusiastic Wife Guy                |
