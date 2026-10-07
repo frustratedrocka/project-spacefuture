@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-07T12:14:09.647-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-07T12:18:24.509-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
 ---
 
 ## Summary
@@ -19,10 +19,10 @@ A successful, impossible decapitation strike against the [[Database/Things/Fishb
 
 ## Sessions
 
-| Session                                     | Name             | Logline                                                                                                                                                                                          |
-| ------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Session Notes/Session 01\|Session 01]] | And So It Begins | [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] launches a surprise attack on the [[Database/Things/Fishbone\|Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship. |
-| [[Session Notes/Session 02\|Session 02]] | \-               | \`REDACTED\`                                                                                                                                                                                     |
+| Session                                     | Name             | Date               | Logline                                                                                                                                                                                          |
+| ------------------------------------------- | ---------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Session Notes/Session 01\|Session 01]] | And So It Begins | September 29, 2026 | [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] launches a surprise attack on the [[Database/Things/Fishbone\|Fishbone]], decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship. |
+| [[Session Notes/Session 02\|Session 02]] | \-               | October 13, 2026   | \`REDACTED\`                                                                                                                                                                                     |
 
 { .block-language-dataview}
 
