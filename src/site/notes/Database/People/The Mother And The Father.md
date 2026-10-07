@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-mother-and-the-father/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T04:10:11.039-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Mindful Eyes]]"],"Rank":0,"Origin":"","Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[""],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":4,"Breakdown":["","","",""],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/the-mother-and-the-father/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T04:17:05.419-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Mindful Eyes]]"],"Rank":0,"Origin":"","Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[""],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":4,"Breakdown":["","","",""],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -40,7 +40,7 @@
 > |4 Dsbl|`=this.Breakdown[2]`|
 > |6 Doom|`=this.Breakdown[3]`|
 
-!/mech!
+`=choice(this.MECH_Model[0] = null, "!/mech"+"!", choice(this.MECH_Secret = true, "!/h"+"!", " "))``
 
 | Aspects      |
 | ------------ |
