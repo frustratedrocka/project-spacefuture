@@ -16,7 +16,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Street-Trash Brawler</span></td></tr><tr><td><span>Franken-Software</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] KNOWN ARMAMENTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Mining Drill</span></td></tr><tr><td><span>Club</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/known-armaments.js' or 'Admin/Scripts/known-armaments/view.js'.</pre>
 
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>SMOKESCREEN</strong> Once per scene, the mech can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.</span></td></tr><tr><td><span><strong>FOX IN A TRAP</strong> Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

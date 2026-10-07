@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-06T23:34:13.069-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Rats In The Cellar]]","aliases":["Mission 00"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-07T14:06:14.688-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Rats In The Cellar]]","aliases":["Mission 00"]}}
 ---
 
 ## Summary
@@ -13,8 +13,8 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 { .block-language-dataview}
 
 ## Sessions
-> [!blank|embed clean] SESSION AGGREGATOR
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/scen-sessions.js' or 'Admin/Scripts/scen-sessions/view.js'.</pre>
+> [!blank|embed clean] SESSIONS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Name</span></th><th class="table-view-th"><span>Logline</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a></span></td><td><span>Origins</span></td><td><span>Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00B.md" data-href="Session Notes/Session 00B" href="Session Notes/Session 00B.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00B</a></span></td><td><span>Training Sim</span></td><td><span>Second Wing hits the combat sim during downtime between operations.</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/World Jam.md" data-href="Session Notes/World Jam" href="Session Notes/World Jam.md" class="internal-link" target="_blank" rel="noopener nofollow">World Jam</a></span></td><td><span>A Century Emerges</span></td><td><span>An impromptu worldbuilding session before character creation</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 ## NPCs
 >[!cards|dataview collapse 5 img-tiny] NPCs
