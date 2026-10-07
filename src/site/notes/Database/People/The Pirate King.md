@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-06T23:30:22.181-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","pilot","entity"],"aliases":["Pirate King"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Rank":0,"Origin":"[[Database/Places/Earth]]","Assoc":null,"Strain":5,"Consequences":[[null],[null],[null]],"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"MECH_Model":"[[Database/Mobile Suits/GS-79 Gundam Descolada]]","MECH_Secret":false,"Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"skill_5":["Lead"],"approach_5":[[null]],"skill_4":["Fight","Notice"],"approach_4":["Cleverly"],"skill_3":["Move","Know"],"approach_3":["Boldly","Quickly"],"skill_2":["Acquire","Shoot","Network","Understand"],"approach_2":["Forcefully","Carefully"],"skill_1":["Persevere","Tend","Tinker","Sway"],"approach_1":["Subtly"]}}
+{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-07T03:05:45.217-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","pilot","entity"],"aliases":["Pirate King"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Rank":0,"Origin":"[[Database/Places/Earth]]","Assoc":null,"Strain":5,"Consequences":[[null],[null],[null]],"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"MECH_Model":["[[Database/Mobile Suits/GS-79 Gundam Descolada]]"],"MECH_Secret":false,"Armor":6,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"skill_5":["Lead"],"approach_5":[[null]],"skill_4":["Fight","Notice"],"approach_4":["Cleverly"],"skill_3":["Move","Know"],"approach_3":["Boldly","Quickly"],"skill_2":["Acquire","Shoot","Network","Understand"],"approach_2":["Forcefully","Carefully"],"skill_1":["Persevere","Tend","Tinker","Sway"],"approach_1":["Subtly"]}}
 ---
 
 > [!infobox|left wsmall embed] CHARACTER
@@ -20,6 +20,8 @@
 > |4 Mod||
 > |6 Svr||
 
+`=choice(this.MECH_Model[0] = null, "!mech"+"!", choice(this.MECH_Secret = true, "!h"+"!", ""))`
+
 > [!infobox|right wsmall embed] MECH
 > # Gundam Descolada
 > ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)
@@ -37,6 +39,8 @@
 > |4 Dsbl|Disabled|
 > |6 Doom|Doomed|
 
+`=choice(this.MECH_Model[0] = null, "!/mech"+"!", choice(this.MECH_Secret = true, "!/h"+"!", ""))`
+
 | Aspects                                               |
 | ----------------------------------------------------- |
 | Flamboyant Living Symbol                              |
@@ -48,17 +52,29 @@
 
 { .block-language-dataview}
 
-> [!blank|flex embed clean] MECH ASPECTS
->  <pre class="dataview dataview-error">Dataview: Every row during operation 'where' failed with an error; first 3:
+`=choice(this.MECH_Model[0] = null, "!mech"+"!", choice(this.MECH_Secret = true, "!h"+"!", ""))`
 
-                - can only index into links with strings (a.b or a["b"])
-- can only index into links with strings (a.b or a["b"])
-- can only index into links with strings (a.b or a["b"])</pre> 
+> [!blank|flex embed clean] MECH ASPECTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Swashbuckling Space Duellist</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Composite Gunlance</span></td></tr><tr><td><span>Hooked Duelling Cape</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
+>[!blank|static wfull] SKILLS & APPROACHES
+
+`=choice(this.MECH_Model[0] = null, "!/mech"+"!", choice(this.MECH_Secret = true, "!/h"+"!", ""))`
+
 `REDACTED`
+
+> [!blank|embed clean] STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+`=choice(this.MECH_Model[0] = null, "!mech"+"!", choice(this.MECH_Secret = true, "!h"+"!", ""))`
+
+> [!blank|embed clean] MECH STUNTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>BOOST CHARGE</strong> You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.</span></td></tr><tr><td><span><strong>YOU LEAVE WHEN I LET YOU</strong> Once per scene, you may Fight Quickly as a reaction to launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost.</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+`=choice(this.MECH_Model[0] = null, "!/mech"+"!", choice(this.MECH_Secret = true, "!/h"+"!", ""))`
 
 > [!blank|static wfull]
 
