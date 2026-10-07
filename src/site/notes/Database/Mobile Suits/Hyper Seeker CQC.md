@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/hyper-seeker-cqc/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T22:16:59.575-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Hyper Seeker"],"MECH_Name":"Hyper Seeker","MECH_Model":["[[Database/Mobile Suits/Hyper Seeker CQC]]"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Known_Users":["[[Player Characters/Vergen Koni]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"DEV_Into":null,"DEV_From":["[[Database/Mobile Suits/MGU Seeker CQC]]","`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/hyper-seeker-cqc/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-06T22:24:41.060-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Hyper Seeker"],"MECH_Name":"Hyper Seeker","MECH_Model":["[[Database/Mobile Suits/Hyper Seeker CQC]]"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.webp]]","Armor":4,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Known_Users":["[[Player Characters/Vergen Koni]]"],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"DEV_Into":null,"DEV_From":["[[Database/Mobile Suits/MGU Seeker CQC]]","`REDACTED`"]}}
 ---
 
 
-> [!infobox|embed left wsmall]
+> [!infobox|embed right wsmall] VITALS
 > # Hyper Seeker
 > ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp)
 >
->> [!blank|clean n-th] 
+>> [!blank|clean n-th] USERS
 >> |   |
 >> |--|
 >> |**FACTION**<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Mindful Eyes.md" data-href="Database/Factions/Mindful Eyes.md" href="Database/Factions/Mindful Eyes.md" class="internal-link" target="_blank" rel="noopener nofollow">Mindful Eyes</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
@@ -24,8 +24,6 @@
 
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>HASTE SYSTEM</strong> Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.</span></td></tr><tr><td><span><strong>GRAPPLE CLAW</strong> You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
-
->[!blank|wfull]
 
 # Notes
 
