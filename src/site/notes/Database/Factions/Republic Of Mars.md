@@ -48,6 +48,7 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
 >  | Mobile Suits                                                  | Name                                                                |
 > | ------------------------------------------------------------- | ------------------------------------------------------------------- |
+> | ![Admin/Attachments/GM-II-AEUG_SQ.webp\|GM-II-AEUG_SQ.webp](/img/user/Admin/Attachments/GM-II-AEUG_SQ.webp) | **[[Database/Mobile Suits/MGU Seeker\|MGU Seeker]]**             |
 > | ![Admin/Attachments/GM-II-AEUG_SQ.webp\|GM-II-AEUG_SQ.webp](/img/user/Admin/Attachments/GM-II-AEUG_SQ.webp) | **[[Database/Mobile Suits/MGU-3 Seeker CQC\|MGU-3 Seeker CQC]]** |
 > 
 { .block-language-dataview}
