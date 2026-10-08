@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-08T17:11:01.671-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 02]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-08T17:41:04.332-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 02]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 # Next Session
@@ -14,13 +14,6 @@ Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Thing
 Hunting down the traitor who enabled [[Database/People/Vantrin Almeyer\|Vantrin]]'s team to get inside sensor range undetected and take out the [[Database/Things/Fishbone\|Fishbone]]'s brdige
 
 # Previously On Zero Sum
-
-FLATTEN this.SESH_Next.Scenario_Index = 1 AS NewScenario
-FLATTEN choice(
-	NewScenario,
-	this.SESH_Next.SESH_Prev.Scenario,
-	this.SESH_Next.Scenario
-) AS Scenario_Display
 
 | EP                                  | Impact                                                                                                                                                                                                       |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
