@@ -1,15 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-08T05:37:49.467-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","Tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-08T05:40:52.064-04:00","dg-note-properties":{"tags":["index","mission","Tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":null,"aliases":["Mission 01"]}}
 ---
 
 ## Summary
 A successful, impossible decapitation strike against the [[Database/Things/Fishbone\|Fishbone]] forces Second Wing to take center stage. Save the ship, then figure out what went wrong.
-
-## Sessions
-> [!blank|flex embed clean] SESSIONS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Name</span></th><th class="table-view-th"><span>Logline</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a></span></td><td><span>And So It Begins</span></td><td><span><a data-href="Database/People/Vantrin Almeyer" href="Vantrin Almeyer" class="internal-link" target="_blank" rel="noopener nofollow">Vantrin Almeyer</a> launches a surprise attack on the <a data-href="Database/Things/Fishbone" href="Fishbone" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a>, decapitating its command team in a single strike. Second wing is forced to step up in a desperate scramble to save the ship.</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 02.md" data-href="Session Notes/Session 02" href="Session Notes/Session 02.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 02</a></span></td><td><span><ul>
-<li dir="auto"></li>
-</ul></span></td><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 ## NPCs
 >[!cards|dataview collapse 4 img-tiny] NPCs
