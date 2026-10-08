@@ -50,8 +50,18 @@
     --page-bg-color-light: #1d1c21;
 }
 ---*/
+/*
 
-
+ ███████████ █████   █████ ██████████ ██████   ██████ ██████████
+░█░░░███░░░█░░███   ░░███ ░░███░░░░░█░░██████ ██████ ░░███░░░░░█
+░   ░███  ░  ░███    ░███  ░███  █ ░  ░███░█████░███  ░███  █ ░ 
+    ░███     ░███████████  ░██████    ░███░░███ ░███  ░██████   
+    ░███     ░███░░░░░███  ░███░░█    ░███ ░░░  ░███  ░███░░█   
+    ░███     ░███    ░███  ░███ ░   █ ░███      ░███  ░███ ░   █
+    █████    █████   █████ ██████████ █████     █████ ██████████
+   ░░░░░    ░░░░░   ░░░░░ ░░░░░░░░░░ ░░░░░     ░░░░░ ░░░░░░░░░░ 
+                                                                                                                           
+                                                                */
 
 /* ================================
    TEXT, COLOR, & THEME ADJUSTMENTS
@@ -158,6 +168,45 @@ body {
 	object-fit: cover !important;
 	object-position: 50% 40% !important;
 }
+
+/* Skills / Rank / Approaches table alignment */
+
+.callout[data-callout-metadata~="skills-table"] table.dataview :is(th, td):nth-child(1),
+.callout[data-callout-metadata~="skills-table"] + table.dataview :is(th, td):nth-child(1) {
+    text-align: right !important;
+}
+
+.callout[data-callout-metadata~="skills-table"] table.dataview :is(th, td):nth-child(2),
+.callout[data-callout-metadata~="skills-table"] + table.dataview :is(th, td):nth-child(2) {
+    text-align: center !important;
+}
+
+.callout[data-callout-metadata~="skills-table"] table.dataview :is(th, td):nth-child(3),
+.callout[data-callout-metadata~="skills-table"] + table.dataview :is(th, td):nth-child(3) {
+    text-align: left !important;
+}
+
+/*
+                                                            
+                                                            
+                                                            
+   ▒████▒   ░████░   ███  ███  ██████▒     ▒██▒    ████████ 
+  ▓██████   ██████   ███  ███  ███████▒    ▓██▓    ████████ 
+ ▒██▒  ░█  ▒██  ██▒  ███▒▒███  ██   ▒██    ████       ██    
+ ██▓       ██▒  ▒██  ███▓▓███  ██    ██    ████       ██    
+ ██░       ██    ██  ██▓██▓██  ██   ▒██   ▒█▓▓█▒      ██    
+ ██        ██    ██  ██▒██▒██  ███████▒   ▓█▒▒█▓      ██    
+ ██        ██    ██  ██░██░██  ██████▒    ██  ██      ██    
+ ██░       ██    ██  ██ ██ ██  ██         ██████      ██    
+ ██▓       ██▒  ▒██  ██    ██  ██        ░██████░     ██    
+ ▒██▒  ░█  ▒██  ██▒  ██    ██  ██        ▒██  ██▒     ██    
+  ▓██████   ██████   ██    ██  ██        ███  ███     ██    
+   ▒████▒   ░████░   ██    ██  ██        ██▒  ▒██     ██    
+                                                            
+                                                            
+                                                            
+                                                                                                                                 
+*/
 
 /* ================================================================
    ITS-style Dataview card grids on Digital Garden
@@ -406,6 +455,20 @@ table td > picture {
     text-align: center !important;
 }
 
+/*                                              
+                                                        
+███████ █████  █▒  ▒█ ██████ █      █████  ██   █ ██████
+   █      █    ██  ██ █      █        █    ██░  █ █     
+   █      █    ██░░██ █      █        █    █▒▓  █ █     
+   █      █    █▒▓▓▒█ █      █        █    █ █  █ █     
+   █      █    █ ██ █ ██████ █        █    █ ▓▓ █ ██████
+   █      █    █ █▓ █ █      █        █    █  █ █ █     
+   █      █    █    █ █      █        █    █  ▓▒█ █     
+   █      █    █    █ █      █        █    █  ░██ █     
+   █    █████  █    █ ██████ ██████ █████  █   ██ ██████
+                                                        
+                                                        
+*/
 
 /* =========================================================
    FANCY A STORY-STYLE TIMELINE
