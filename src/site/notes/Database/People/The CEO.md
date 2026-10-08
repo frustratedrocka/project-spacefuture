@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-08T00:33:50.610-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Rank":1,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":[null],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[null],"Stunts":[null],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"Skills":["Acquire 4","Fight 0","Interface 0","Know 3","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 3","Tend 0","Tinker 1","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 2","Subtly 0","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-08T01:02:09.094-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["Mild","Moderate","Severe"],"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Rank":1,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":[null],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[null],"Stunts":[null],"Strain":4,"MECH_Model":null,"MECH_Secret":null,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 4","Fight 0","Interface 0","Know 3","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 3","Tend 0","Tinker 1","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 2","Subtly 0","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -17,9 +17,9 @@
 >  
 > |HARM|CONSEQUENCE|
 > |----|-----|
-> |2 Mild||
-> |4 Mod||
-> |6 Svr||
+> |2 Mild|Mild|
+> |4 Mod|Moderate|
+> |6 Svr|Severe|
 
 !mech!
 
@@ -35,10 +35,10 @@
 > 
 > |HARM|BREAKDOWN|
 > |----|-----|
-> |2 Dent|`=this.Breakdown[0]`|
-> |2 Dmg|`=this.Breakdown[1]`|
-> |4 Dsbl|`=this.Breakdown[2]`|
-> |6 Doom|`=this.Breakdown[3]`|
+> |2 Dent|Dented|
+> |2 Dmg|Damaged|
+> |4 Dsbl|Disabled|
+> |6 Doom|Doomed|
 
 !/mech!
 
@@ -51,7 +51,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] GEAR ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Equipment</span></td></tr><tr><td><span>Equipment</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 >[!blank|static wfull] FORCE LINE BREAK WHERE NO MECH
 

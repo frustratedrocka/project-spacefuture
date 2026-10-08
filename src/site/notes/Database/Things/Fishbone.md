@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["npc","character","entity","ship","weird","location"],"noteIcon":"","updated":"2026-10-08T00:00:52.526-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity","ship","weird","location"],"aliases":null,"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Origin":null,"Assoc":null,"Strain":8,"Consequences":[[null],[null],[null]],"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Loyalty":null,"Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":"Relationship","MECH_Gear":["Equipment","Equipment"],"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"]}}
+{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["npc","character","entity","ship","weird","location"],"noteIcon":"","updated":"2026-10-08T05:07:15.302-04:00","dg-note-properties":{"Armor_LIVE":0,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity","ship","weird","location"],"aliases":null,"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Origin":null,"Assoc":null,"Strain":8,"Consequences":[[null],[null],[null]],"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Loyalty":null,"Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":8,"MECH_Relationship":"Relationship","Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"]}}
 ---
 
 
@@ -17,9 +17,10 @@
 >  
 > |HARM|BREAKDOWN|
 > |----|-----|
-> |2 Mild||
-> |4 Mod||
-> |6 Svr||
+> |2 Dent|Dented|
+> |2 Dmg|Damaged|
+> |4 Dsbl|Disabled|
+> |6 Doom|Doomed|
 
 !mech!
 
@@ -35,10 +36,10 @@
 > 
 > |HARM|BREAKDOWN|
 > |----|-----|
-> |2 Dent|`=this.Breakdown[0]`|
-> |2 Dmg|`=this.Breakdown[1]`|
-> |4 Dsbl|`=this.Breakdown[2]`|
-> |6 Doom|`=this.Breakdown[3]`|
+> |2 Dent|Dented|
+> |2 Dmg|Damaged|
+> |4 Dsbl|Disabled|
+> |6 Doom|Doomed|
 
 !/mech!
 
@@ -93,4 +94,4 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a></span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Rats In The Cellar.md" data-href="Session Notes/Scenarios/Rats In The Cellar" href="Session Notes/Scenarios/Rats In The Cellar.md" class="internal-link" target="_blank" rel="noopener nofollow">Rats In The Cellar</a></span></td><td><span>Original command staff and first wing of the <a data-href="Database/Things/Fishbone" href="Fishbone" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a> KIA by <a data-tooltip-position="top" aria-label="Vantrin Almeyer" data-href="Database/People/Vantrin Almeyer" href="Vantrin Almeyer" class="internal-link" target="_blank" rel="noopener nofollow">Vantrin</a> and the <a data-href="Database/Things/Brynhildr" href="Brynhildr" class="internal-link" target="_blank" rel="noopener nofollow">Brynhildr</a> team, via an impossible shot that could only have happened with help from a traitor</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] CHANGELOG
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01.md" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a></span></td><td><span><strong>OLD:</strong> -<br><strong>NEW:</strong> <a href="#DECLARED" class="tag" target="_blank" rel="noopener nofollow">#DECLARED</a> There is a side workshop / clean room near the hangar used for precision work on human-scale mobile suit parts.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

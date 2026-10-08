@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/brynhildr/","tags":["npc","character","entity","location","ship","weird"],"noteIcon":"","updated":"2026-10-08T00:01:20.855-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity","location","ship","weird"],"aliases":null,"Portrait":"[[Admin/Attachments/Brynhildr.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Type":["[[Database/Glossary/Ship]]"],"Class":"[[Database/Glossary/Ship|Valkyrie-class cruiser]]","Scale":5,"Rank":null,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Apsis pursuit cruiser","Relationship":"Relationship","Loyalty":"%% %%","Aspects":["Scourge of the deep belt","One battle, one Brynhildr",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"]}}
+{"dg-publish":true,"permalink":"/database/things/brynhildr/","tags":["npc","character","entity","location","ship","weird"],"noteIcon":"","updated":"2026-10-08T01:08:10.426-04:00","dg-note-properties":{"Armor_LIVE":0,"Breakdown":["Dented","Damaged","Disabled","Doomed"],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity","location","ship","weird"],"aliases":null,"Portrait":"[[Admin/Attachments/Brynhildr.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Type":["[[Database/Glossary/Ship]]"],"Class":"[[Database/Glossary/Ship|Valkyrie-class cruiser]]","Scale":5,"Rank":null,"Origin":null,"Assoc":null,"Strain":8,"Concept":"Apsis pursuit cruiser","Relationship":"Relationship","Loyalty":"%% %%","Aspects":["Scourge of the deep belt","One battle, one Brynhildr",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":null,"Armor":8,"MECH_Relationship":null,"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"]}}
 ---
 
 
@@ -17,9 +17,10 @@
 >  
 > |HARM|BREAKDOWN|
 > |----|-----|
-> |2 Mild||
-> |4 Mod||
-> |6 Svr||
+> |2 Dent|Dented|
+> |2 Dmg|Damaged|
+> |4 Dsbl|Disabled|
+> |6 Doom|Doomed|
 
 !mech!
 
@@ -35,10 +36,10 @@
 > 
 > |HARM|BREAKDOWN|
 > |----|-----|
-> |2 Dent||
-> |2 Dmg||
-> |4 Dsbl||
-> |6 Doom||
+> |2 Dent|Dented|
+> |2 Dmg|Damaged|
+> |4 Dsbl|Disabled|
+> |6 Doom|Doomed|
 
 !/mech!
 
