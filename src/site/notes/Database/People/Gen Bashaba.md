@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T13:44:12.934-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Lead"],"approach_3":["Carefully"],"skill_2":["Skill","Skill"],"approach_2":["Boldly","Cleverly"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Quickly","Subtly","Forcefully"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-08T00:49:32.260-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 3","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 1","Boldly 2","Forcefully 1","Cleverly 2","Subtly 1","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -53,24 +53,16 @@
 > [!blank|flex embed clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
->[!blank|static wfull] SKILLS & APPROACHES
+>[!blank|static wfull] FORCE LINE BREAK WHERE NO MECH
 
-!/mech!
+!/mech! !r!
 
-!r!
+> [!blank|flex embed clean skills-table] SKILLS & APPROACHES
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span>Lead</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Carefully</span></td></tr><tr><td><span></span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Boldly, Cleverly</span></td></tr><tr><td><span></span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span>Forcefully, Quickly, Subtly</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-|SKILLS|RANK|APPROACHES|
-|-----:|:---:|-----|
-|\-| **5** (Superhuman) |\-|
-|\-| **4** (Masterful) |\-|
-|Lead| **3** (Great) |Carefully|
-|Skill, Skill| **2** (Good) |Boldly, Cleverly|
-|Skill, Skill, Skill| **1** (Adequate) |Quickly,Subtly,Forcefully|
+   
 
- 
- 
-
-> [!blank|embed clean] STUNTS
+> [!blank|flex embed clean] STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !mech!

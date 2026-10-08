@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-queen/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T13:43:49.057-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Hive Cult]]"],"Rank":0,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":[null],"MECH_Model":["[[Database/Mobile Suits/Eubiont]]"],"MECH_Secret":true,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["`REDACTED`","`REDACTED`"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":[[null]],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Approach"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/the-queen/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-08T00:10:57.722-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Hive Cult]]"],"Rank":0,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":[null],"MECH_Model":["[[Database/Mobile Suits/Eubiont]]"],"MECH_Secret":true,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["`REDACTED`","`REDACTED`"],"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -53,24 +53,18 @@
 > [!blank|flex embed clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
->[!blank|static wfull] SKILLS & APPROACHES
+>[!blank|static wfull] FORCE LINE BREAK WHERE NO MECH
 
 !/h!
 
 !r!
 
-|SKILLS|RANK|APPROACHES|
-|-----:|:---:|-----|
-|\-| **5** (Superhuman) |\-|
-|\-| **4** (Masterful) |\-|
-|Skill| **3** (Great) |Approach|
-|Skill, Skill| **2** (Good) |Approach, Approach|
-|Skill, Skill, Skill| **1** (Adequate) |Approach,Approach,Approach|
+> [!blank|flex embed clean skills-table] SKILLS & APPROACHES
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>3</strong> (Great)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>2</strong> (Good)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
- 
- 
+   
 
-> [!blank|embed clean] STUNTS
+> [!blank|flex embed clean] STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !h!

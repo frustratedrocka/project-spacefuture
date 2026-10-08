@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/es-01-elegant-sky/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-07T12:05:21.263-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Elegant Sky"],"Portrait":"[[Admin/Attachments/DagDoll_SQ.webp]]","MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"DEV_From":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/es-01-elegant-sky/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-07T14:41:37.675-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Elegant Sky"],"Portrait":"[[Admin/Attachments/DagDoll_SQ.webp]]","MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"DEV_From":null}}
 ---
 
 
@@ -19,7 +19,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Long Range Fire Support</span></td></tr><tr><td><span>Complex Systems</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] KNOWN ARMAMENTS
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/known-armaments.js' or 'Admin/Scripts/known-armaments/view.js'.</pre>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Shield</span></td></tr><tr><td><span>Beam Rifle</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>COVERT FIRE</strong> +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.</span></td></tr><tr><td><span><strong>ELECTRONIC WARFARE</strong> You can Interface to attack and create advantages against other mobile suits remotely.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

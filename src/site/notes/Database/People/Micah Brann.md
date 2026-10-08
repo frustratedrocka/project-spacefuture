@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/micah-brann/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T13:44:08.472-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/21.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"[[Fishbone]] Lead MS Tech","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":"","MECH_Secret":false,"Armor":4,"Breakdown":["","","",""],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Tinker"],"approach_4":[[null]],"skill_3":["Skill"],"approach_3":["Carefully"],"skill_2":["Skill","Skill"],"approach_2":["Approach","Approach"],"skill_1":["Skill","Skill","Skill"],"approach_1":["Approach","Approach","Approach"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/micah-brann/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-08T00:46:31.049-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/21.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"[[Fishbone]] Lead MS Tech","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":"","MECH_Secret":false,"Armor":4,"Breakdown":["","","",""],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 4","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -53,24 +53,16 @@
 > [!blank|flex embed clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Equipment</span></td></tr><tr><td><span>Equipment</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
->[!blank|static wfull] SKILLS & APPROACHES
+>[!blank|static wfull] FORCE LINE BREAK WHERE NO MECH
 
-!/mech!
+!/mech! !r!
 
-!r!
+> [!blank|flex embed clean skills-table] SKILLS & APPROACHES
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span>Tinker</span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Carefully</span></td></tr><tr><td><span></span></td><td><span><strong>2</strong> (Good)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-|SKILLS|RANK|APPROACHES|
-|-----:|:---:|-----|
-|\-| **5** (Superhuman) |\-|
-|Tinker| **4** (Masterful) |\-|
-|Skill| **3** (Great) |Carefully|
-|Skill, Skill| **2** (Good) |Approach, Approach|
-|Skill, Skill, Skill| **1** (Adequate) |Approach,Approach,Approach|
+   
 
- 
- 
-
-> [!blank|embed clean] STUNTS
+> [!blank|flex embed clean] STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !mech!

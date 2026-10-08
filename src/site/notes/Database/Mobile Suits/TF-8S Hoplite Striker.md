@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-s-hoplite-striker/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-07T12:05:00.970-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Hoplite Striker"],"Portrait":"[[Admin/Attachments/Hoplite_Striker_SQ.webp]]","MECH_Concept":"Heavy Assault Line Mech","MECH_Trouble":"Lacks Fine Control","MECH_Gear":["Shoulder Missle Rack","Shotgun"],"MECH_Stunts":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Jovian Consortium]]"],"DEV_From":"[[Database/Mobile Suits/TF-8 Hoplite]]"}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-s-hoplite-striker/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-07T14:41:25.766-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Hoplite Striker"],"Portrait":"[[Admin/Attachments/Hoplite_Striker_SQ.webp]]","MECH_Concept":"Heavy Assault Line Mech","MECH_Trouble":"Lacks Fine Control","MECH_Gear":["Shoulder Missle Rack","Shotgun"],"MECH_Stunts":[null],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Jovian Consortium]]"],"DEV_From":"[[Database/Mobile Suits/TF-8 Hoplite]]"}}
 ---
 
 
@@ -16,7 +16,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Heavy Assault Line Mech</span></td></tr><tr><td><span>Lacks Fine Control</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] KNOWN ARMAMENTS
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/known-armaments.js' or 'Admin/Scripts/known-armaments/view.js'.</pre>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Shoulder Missle Rack</span></td></tr><tr><td><span>Shotgun</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

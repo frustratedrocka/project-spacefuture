@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-07T13:43:47.959-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"comments":true,"tags":["npc","character","pilot","entity"],"aliases":["Vantrin"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Consequences":[[null],[null],[null]],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":["[[Database/Mobile Suits/SE-832E Akoni Command Type]]"],"MECH_Secret":false,"Armor":4,"Breakdown":["Sparking Joints",[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"skill_5":[null],"approach_5":[null],"skill_4":[null],"approach_4":[null],"skill_3":["Fight"],"approach_3":["Cleverly"],"skill_2":["Move","Understand","Shoot"],"approach_2":["Subtly","Quickly"],"skill_1":["Know","Persevere","Lead","Sway"],"approach_1":["Carefully","Boldly","Forcefully"],"Stats_On":true,"Skills_On":false,"Stunts_On":true}}
+{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-08T00:50:15.075-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"Consequences":["Mild","Moderate","Severe"],"Breakdown":["Sparking Joints","Damaged","Disabled","Doomed"],"comments":true,"tags":["npc","character","pilot","entity"],"aliases":["Vantrin"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Strain":5,"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"MECH_Model":["[[Database/Mobile Suits/SE-832E Akoni Command Type]]"],"MECH_Secret":false,"Armor":4,"MECH_Relationship":"`REDACTED`","MECH_Gear":["Akoni Bazooka","Heat Tanto"],"Skills":["Acquire 0","Fight 3","Interface 0","Know 1","Lead 1","Move 2","Network 0","Notice 0","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 0","Tinker 0","Understand 2"],"Approaches":["Quickly 2","Boldly 1","Forcefully 2","Cleverly 3","Subtly 1","Carefully 1"],"Stats_On":true,"Skills_On":false,"Stunts_On":true}}
 ---
 
 
@@ -17,9 +17,9 @@
 >  
 > |HARM|CONSEQUENCE|
 > |----|-----|
-> |2 Mild||
-> |4 Mod||
-> |6 Svr||
+> |2 Mild|Mild|
+> |4 Mod|Moderate|
+> |6 Svr|Severe|
 
  
 
@@ -36,9 +36,9 @@
 > |HARM|BREAKDOWN|
 > |----|-----|
 > |2 Dent|Sparking Joints|
-> |2 Dmg||
-> |4 Dsbl||
-> |6 Doom||
+> |2 Dmg|Damaged|
+> |4 Dsbl|Disabled|
+> |6 Doom|Doomed|
 
  
 
@@ -53,24 +53,16 @@
 > [!blank|flex embed clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Akoni Bazooka</span></td></tr><tr><td><span>Heat Tanto</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
->[!blank|static wfull] SKILLS & APPROACHES
+>[!blank|static wfull] FORCE LINE BREAK WHERE NO MECH
 
- 
+  !r!
 
-!r!
+> [!blank|flex embed clean skills-table] SKILLS & APPROACHES
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span>Fight</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Cleverly</span></td></tr><tr><td><span>Move, Shoot, Understand</span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Forcefully, Quickly</span></td></tr><tr><td><span>Know, Lead, Persevere, Sway</span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span>Boldly, Carefully, Subtly</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-|SKILLS|RANK|APPROACHES|
-|-----:|:---:|-----|
-|\-| **5** (Superhuman) |\-|
-|\-| **4** (Masterful) |\-|
-|Fight| **3** (Great) |Cleverly|
-|Move, Understand, Shoot| **2** (Good) |Subtly, Quickly|
-|Know, Persevere, Lead, Sway| **1** (Adequate) |Carefully,Boldly,Forcefully|
+!/r!  
 
-!/r!
- 
-
-> [!blank|embed clean] STUNTS
+> [!blank|flex embed clean] STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
  

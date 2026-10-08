@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-seeker/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-07T12:05:11.732-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Seeker"],"Portrait":"[[Admin/Attachments/GM-II-AEUG_SQ.webp]]","MECH_Concept":null,"MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-seeker/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-07T14:41:32.190-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Seeker"],"Portrait":"[[Admin/Attachments/GM-II-AEUG_SQ.webp]]","MECH_Concept":null,"MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":null}}
 ---
 
 
@@ -16,7 +16,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] KNOWN ARMAMENTS
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/known-armaments.js' or 'Admin/Scripts/known-armaments/view.js'.</pre>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ew-14-gundam-makhairos/","tags":["Mech","entity","ooa"],"noteIcon":"","updated":"2026-10-07T12:05:19.109-04:00","dg-note-properties":{"tags":["Mech","entity","ooa"],"aliases":["Gundam Makhairos","Makhairos"],"Portrait":"[[Admin/Attachments/GB4_Makhairos.webp]]","MECH_Concept":"Prototype Superweapon, Wrecked Beyond Repair","MECH_Trouble":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ew-14-gundam-makhairos/","tags":["Mech","entity","ooa"],"noteIcon":"","updated":"2026-10-07T14:41:36.502-04:00","dg-note-properties":{"tags":["Mech","entity","ooa"],"aliases":["Gundam Makhairos","Makhairos"],"Portrait":"[[Admin/Attachments/GB4_Makhairos.webp]]","MECH_Concept":"Prototype Superweapon, Wrecked Beyond Repair","MECH_Trouble":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":null}}
 ---
 
 
@@ -16,7 +16,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Prototype Superweapon, Wrecked Beyond Repair</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] KNOWN ARMAMENTS
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/known-armaments.js' or 'Admin/Scripts/known-armaments/view.js'.</pre>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Beam Axe</span></td></tr><tr><td><span>Linear Rifle</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

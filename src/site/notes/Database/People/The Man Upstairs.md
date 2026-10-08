@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-07T13:43:53.909-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/Onassis.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":0,"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Strain":6,"Consequences":[[null],[null],[null]],"Concept":"Expert Shipping Magnate","Relationship":"Leading Your Enemy","Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`","`REDACTED`"],"Stunts":[null],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"skill_5":[[null]],"approach_5":[[null]],"skill_4":["Lead","Network","Acquire"],"approach_4":["Subtly","Forcefully"],"skill_3":["Sway","Understand","Skill"],"approach_3":["Carefully","Cleverly"],"skill_2":["Know","Notice","Persevere"],"approach_2":["Quickly","Boldly"],"skill_1":["Operate","Skill","Skill"],"approach_1":[[null]],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-08T00:22:05.668-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/Onassis.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":0,"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Strain":6,"Consequences":[[null],[null],[null]],"Concept":"Expert Shipping Magnate","Relationship":"Leading Your Enemy","Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`","`REDACTED`"],"Stunts":[null],"MECH_Model":null,"MECH_Secret":null,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"Skills":["Acquire 4","Fight 0","Interface 0","Know 2","Lead 4","Move 0","Network 4","Notice 2","Operate 1","Persevere 2","Shoot 0","Sway 3","Tend 0","Tinker 0","Understand 3"],"Approaches":["Quickly 2","Boldly 2","Forcefully 4","Cleverly 3","Subtly 4","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -53,24 +53,16 @@
 > [!blank|flex embed clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
->[!blank|static wfull] SKILLS & APPROACHES
+>[!blank|static wfull] FORCE LINE BREAK WHERE NO MECH
 
-!/mech!
+!/mech! !r!
 
-!r!
+> [!blank|flex embed clean skills-table] SKILLS & APPROACHES
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span>Acquire, Lead, Network</span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span>Forcefully, Subtly</span></td></tr><tr><td><span>Sway, Understand</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Carefully, Cleverly</span></td></tr><tr><td><span>Know, Notice, Persevere</span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Boldly, Quickly</span></td></tr><tr><td><span>Operate</span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-|SKILLS|RANK|APPROACHES|
-|-----:|:---:|-----|
-|\-| **5** (Superhuman) |\-|
-|Lead, Network, Acquire| **4** (Masterful) |Subtly, Forcefully|
-|Sway, Understand, Skill| **3** (Great) |Carefully, Cleverly|
-|Know, Notice, Persevere| **2** (Good) |Quickly, Boldly|
-|Operate, Skill, Skill| **1** (Adequate) ||
+   
 
- 
- 
-
-> [!blank|embed clean] STUNTS
+> [!blank|flex embed clean] STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !mech!
