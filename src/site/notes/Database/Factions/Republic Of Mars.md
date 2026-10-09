@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-10-06T19:57:17.311-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Republic Of Mars]]","Portrait":"[[Admin/Attachments/RFGuerillaPropPoster1.webp]]","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian","Martians"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-10-08T22:10:14.498-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Republic Of Mars]]","Portrait":"[[Admin/Attachments/RFGuerillaPropPoster1.webp]]","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian","Martians"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["Tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-09-29T14:16:13.237-04:00","dg-note-properties":{"tags":["Tracker","index"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-08T22:13:15.941-04:00","dg-note-properties":{"tags":["tracker","index"]}}
 ---
 
 
@@ -49,8 +49,8 @@ The current mission is simple: Intercept excess food shipments and redirect them
 > | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 > | ![Admin/Attachments/HopliteCustom_SQ.webp\|HopliteCustom_SQ.webp](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)       | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]** |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                   | **[[Database/Mobile Suits/ES-01 Elegant Sky\|ES-01 Elegant Sky]]**       |
-> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                   | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                       |
 > | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]**         |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                   | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                       |
 > 
 { .block-language-dataview}
 

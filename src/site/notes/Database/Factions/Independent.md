@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/independent/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-06T19:57:20.716-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Independent]]","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":null}}
+{"dg-publish":true,"permalink":"/database/factions/independent/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-08T22:10:20.489-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Independent]]","Beliefs":[[null]],"Paragon":"","Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":null}}
 ---
 
 

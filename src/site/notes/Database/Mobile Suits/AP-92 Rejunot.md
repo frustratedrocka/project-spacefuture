@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["Mech","entity"],"noteIcon":"","updated":"2026-10-08T17:37:07.111-04:00","dg-note-properties":{"tags":["Mech","entity"],"aliases":["Rejunot"],"Portrait":"[[Admin/Attachments/RebelGruntSuit_SQ.webp]]","MECH_Concept":"Modernized Rebel Grunt Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-08T22:10:41.814-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Rejunot"],"Portrait":"[[Admin/Attachments/RebelGruntSuit_SQ.webp]]","MECH_Concept":"Modernized Rebel Grunt Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":null}}
 ---
 
 

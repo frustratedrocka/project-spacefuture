@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-08T17:36:38.250-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"Home / Headquarters","Faction_Presence":null,"Portrait":"[[Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp]]","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-08T20:32:40.074-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"Home / Headquarters","Faction_Presence":null,"Portrait":"[[Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp]]","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null]}}
 ---
 
 
@@ -43,7 +43,7 @@ Unless and until there is a plan to account for any root-level interruption of t
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] EVENTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] CHANGELOG
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

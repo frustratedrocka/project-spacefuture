@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-fallen/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-06T20:09:24.413-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/the-fallen/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-08T22:10:01.203-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 # Characters
