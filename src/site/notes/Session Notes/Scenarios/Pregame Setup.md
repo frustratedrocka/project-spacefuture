@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-08T22:15:34.147-04:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Rats In The Cellar]]","aliases":["Mission 00"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/pregame-setup/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-08T23:51:26.745-04:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":"None","SCEN_Next":"[[Session Notes/Scenarios/Rats In The Cellar]]","aliases":["Mission 00"]}}
 ---
 
 ## Summary

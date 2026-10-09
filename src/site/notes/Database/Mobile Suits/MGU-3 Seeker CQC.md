@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-3-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-08T22:11:58.726-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker CQC"],"Portrait":"[[Admin/Attachments/GM-II-AEUG_SQ.webp]]","MECH_Concept":null,"MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":["[[Database/Mobile Suits/MGU Seeker]]"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-3-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-08T23:52:03.805-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker CQC"],"Portrait":"[[Admin/Attachments/GM-II-AEUG_SQ.webp]]","MECH_Concept":null,"MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":["[[Database/Mobile Suits/MGU Seeker]]"]}}
 ---
 
 
