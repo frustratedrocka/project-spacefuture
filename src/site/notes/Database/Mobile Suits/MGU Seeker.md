@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-seeker/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-08T23:52:04.417-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker"],"Portrait":"[[Admin/Attachments/GM-II-AEUG_SQ.webp]]","MECH_Concept":null,"MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-seeker/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-09T16:15:14.545-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker"],"Portrait":"[[Admin/Attachments/GM-II-AEUG_SQ.webp]]","MECH_Concept":null,"MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/kelly/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-08T23:51:39.730-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Armada Ejecta]]"],"Portrait":null,"Concept":"Rowdy Space Australia","Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/kelly/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-09T16:14:55.231-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Armada Ejecta]]"],"Portrait":null,"Concept":"Rowdy Space Australia","Trouble":null,"Aspects":[null]}}
 ---
 
 

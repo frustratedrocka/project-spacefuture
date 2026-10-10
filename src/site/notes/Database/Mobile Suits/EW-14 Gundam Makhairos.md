@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ew-14-gundam-makhairos/","tags":["mech","entity","ooa"],"noteIcon":"","updated":"2026-10-08T23:52:07.976-04:00","dg-note-properties":{"tags":["mech","entity","ooa"],"aliases":["Gundam Makhairos","Makhairos"],"Portrait":"[[Admin/Attachments/GB4_Makhairos.webp]]","MECH_Concept":"Prototype Superweapon, Wrecked Beyond Repair","MECH_Trouble":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ew-14-gundam-makhairos/","tags":["mech","entity","ooa"],"noteIcon":"","updated":"2026-10-09T16:15:17.477-04:00","dg-note-properties":{"tags":["mech","entity","ooa"],"aliases":["Gundam Makhairos","Makhairos"],"Portrait":"[[Admin/Attachments/GB4_Makhairos.webp]]","MECH_Concept":"Prototype Superweapon, Wrecked Beyond Repair","MECH_Trouble":null,"MECH_Gear":["Beam Axe","Linear Rifle"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":null}}
 ---
 
 
