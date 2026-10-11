@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-09T16:14:56.320-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/geb/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-11T13:16:29.804-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Contested","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":null,"Concept":null,"Trouble":null,"Aspects":[null]}}
 ---
 
 
@@ -27,7 +27,7 @@ One of three colonies in [[Database/Glossary/The Belt\|The Belt]] that helped ki
 ## Data
 
 > [!blank|embed clean] ASSOCIATED
-> <table class="dataview table-view-table"><thead><tr><th>Character</th><th>Origin</th><th>Associations</th></tr></thead><tbody></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/associated-characters.js' or 'Admin/Scripts/associated-characters/view.js'.</pre>
 
 > [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/World Jam.md" data-href="Session Notes/World Jam" href="Session Notes/World Jam.md" class="internal-link" target="_blank" rel="noopener nofollow">World Jam</a> - A Century Emerges</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td><span>0</span></td><td>August 04, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-queen/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-09T16:14:58.780-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Hive Cult]]"],"Rank":0,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":[null],"MECH_Model":["[[Database/Mobile Suits/Eubiont]]"],"MECH_Secret":true,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["`REDACTED`","`REDACTED`"],"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/the-queen/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-11T13:16:32.901-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Hive Cult]]"],"Rank":0,"Origin":null,"Assoc":null,"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":[null],"MECH_Model":["[[Database/Mobile Suits/Eubiont]]"],"MECH_Secret":true,"Armor":4,"Breakdown":[[null],[null],[null],[null]],"MECH_Relationship":"`REDACTED`","MECH_Gear":["`REDACTED`","`REDACTED`"],"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -60,7 +60,7 @@
 !r!
 
 > [!blank|flex embed clean skills-table] SKILLS & APPROACHES
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>3</strong> (Great)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>2</strong> (Good)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>3</strong> (Great)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>2</strong> (Good)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span></span></td></tr></tbody></table>
 
    
 
@@ -88,7 +88,17 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/World Jam.md" data-href="Session Notes/World Jam" href="Session Notes/World Jam.md" class="internal-link" target="_blank" rel="noopener nofollow">World Jam</a> - A Century Emerges</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td><span>0</span></td><td>August 04, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] EVENTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: missing ) after argument list
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19035:16)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:883194)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at eval (plugin:digitalgarden:13472:17)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:105:61)</pre>
 
 > [!blank|embed clean] CHANGELOG
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-09T16:15:06.769-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 3","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 1","Boldly 2","Forcefully 1","Cleverly 2","Subtly 1","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-11T13:16:45.010-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":null,"MECH_Secret":false,"Armor":null,"Breakdown":[null,null,null,null],"MECH_Relationship":null,"MECH_Gear":[null,null],"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 3","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 1","Boldly 2","Forcefully 1","Cleverly 2","Subtly 1","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
 ---
 
 
@@ -51,14 +51,24 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] GEAR ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: missing ) after argument list
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19035:16)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:883194)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at eval (plugin:digitalgarden:13472:17)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:105:61)</pre>
 
 >[!blank|static wfull] FORCE LINE BREAK WHERE NO MECH
 
 !/mech! !r!
 
 > [!blank|flex embed clean skills-table] SKILLS & APPROACHES
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span>Lead</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Carefully</span></td></tr><tr><td><span></span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Boldly, Cleverly</span></td></tr><tr><td><span></span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span>Forcefully, Quickly, Subtly</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span>Lead</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Carefully</span></td></tr><tr><td><span></span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Boldly, Cleverly</span></td></tr><tr><td><span></span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span>Forcefully, Quickly, Subtly</span></td></tr></tbody></table>
 
    
 

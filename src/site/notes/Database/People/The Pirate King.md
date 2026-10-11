@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-08T23:51:46.096-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["Mild","Moderate","Severe"],"Breakdown":["Dented","Damaged","Disabled","Doomed"],"tags":["npc","character","pilot","entity"],"aliases":["Pirate King"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Rank":0,"Origin":"[[Database/Places/Earth]]","Assoc":null,"Strain":5,"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"MECH_Model":["[[Database/Mobile Suits/GS-79 Gundam Descolada]]"],"MECH_Secret":false,"Armor":6,"MECH_Relationship":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"Skills":["Acquire 2","Fight 4","Interface 0","Know 3","Lead 5","Move 3","Network 2","Notice 4","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 1","Tinker 1","Understand 2"],"Approaches":["Quickly 3","Boldly 3","Forcefully 2","Cleverly 4","Subtly 1","Carefully 2"],"Stats_On":true,"Skills_On":false,"Stunts_On":true}}
+{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-11T13:16:34.064-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["Mild","Moderate","Severe"],"Breakdown":["Dented","Damaged","Disabled","Doomed"],"tags":["npc","character","pilot","entity"],"aliases":["Pirate King"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Rank":0,"Origin":"[[Database/Places/Earth]]","Assoc":null,"Strain":5,"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"MECH_Model":["[[Database/Mobile Suits/GS-79 Gundam Descolada]]"],"MECH_Secret":false,"Armor":6,"MECH_Relationship":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"Skills":["Acquire 2","Fight 4","Interface 0","Know 3","Lead 5","Move 3","Network 2","Notice 4","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 1","Tinker 1","Understand 2"],"Approaches":["Quickly 3","Boldly 3","Forcefully 2","Cleverly 4","Subtly 1","Carefully 2"],"Stats_On":true,"Skills_On":false,"Stunts_On":true}}
 ---
 
 
@@ -43,7 +43,17 @@
  
 
 > [!blank|flex embed clean] ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Flamboyant Living Symbol</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span>Exemplary Captain First, King Distant Second</span></td></tr><tr><td><span>Far Better To Live And Die Under The Brave Black Flag</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: missing ) after argument list
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19035:16)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:883194)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at eval (plugin:digitalgarden:13472:17)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:105:61)</pre>
 
  
 
@@ -58,7 +68,7 @@
   !r!
 
 > [!blank|flex embed clean skills-table] SKILLS & APPROACHES
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Lead</span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span>Fight, Notice</span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span>Cleverly</span></td></tr><tr><td><span>Know, Move</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Boldly, Quickly</span></td></tr><tr><td><span>Acquire, Network, Shoot, Understand</span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Carefully, Forcefully</span></td></tr><tr><td><span>Persevere, Sway, Tend, Tinker</span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span>Subtly</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Lead</span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span>Fight, Notice</span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span>Cleverly</span></td></tr><tr><td><span>Know, Move</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Boldly, Quickly</span></td></tr><tr><td><span>Acquire, Network, Shoot, Understand</span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Carefully, Forcefully</span></td></tr><tr><td><span>Persevere, Sway, Tend, Tinker</span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span>Subtly</span></td></tr></tbody></table>
 
 !/r!  
 
