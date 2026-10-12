@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-11T23:44:20.330-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Shield","Beam Rifle"],"tags":["pc","character","entity","pilot"],"aliases":["Lane"],"Player":"[[Admin/Player/Nestor]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Lane_Sq.webp]]","Portrait_Zoom":"[[Admin/Attachments/Lane_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":["[[Database/Places/Colonies/Arjuna]]"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke."],"Strain":4,"MECH_Model":["[[Database/Mobile Suits/ES-01 Elegant Sky]]"],"Armor":4,"MECH_Relationship":"My Last Piece Of Earth","Skills":["Acquire 0","Fight 0","Interface 2","Know 0","Lead 1","Move 0","Network 0","Notice 2","Operate 1","Persevere 0","Shoot 3","Sway 1","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 2","Boldly 1","Forcefully 1","Cleverly 2","Subtly 3","Carefully 1"],"cl":101}}
+{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-12T00:14:54.431-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Shield","Beam Rifle"],"tags":["pc","character","entity","pilot"],"aliases":["Lane"],"Player":"[[Admin/Player/Nestor]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Lane_Sq.webp]]","Portrait_Zoom":"[[Admin/Attachments/Lane_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":["[[Database/Places/Colonies/Arjuna]]"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke."],"Strain":4,"MECH_Model":["[[Database/Mobile Suits/ES-01 Elegant Sky]]"],"Armor":4,"MECH_Relationship":"My Last Piece Of Earth","Skills":["Acquire 0","Fight 0","Interface 2","Know 0","Lead 1","Move 0","Network 0","Notice 2","Operate 1","Persevere 0","Shoot 3","Sway 1","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 2","Boldly 1","Forcefully 1","Cleverly 2","Subtly 3","Carefully 1"],"cl":104}}
 ---
 
 # 
@@ -12,7 +12,7 @@
 >
 > 
 >
->>[!blank|clean n-th]
+>>[!blank|clean n-th] VITALS
 >> |  |  |
 >> |--|--|
 >> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta.md" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
@@ -20,12 +20,9 @@
 >> |**ASSOC.**|<span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Arjuna.md" data-href="Database/Places/Colonies/Arjuna.md" href="Database/Places/Colonies/Arjuna.md" class="internal-link" target="_blank" rel="noopener nofollow">Arjuna</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 >> | **STRAIN**| 4 |
 >  
->> [!blank|clean embed tbl-u-1]
->>  | Harm   | Consequence |
->> | ------ | ----------- |
->> | 2 Mild |             |
->> | 4 Mod  |             |
->> | 6 Svr  |             |
+>> [!blank|clean embed tbl-u-1] CONSEQUENCES
+>>  | Harm | Consequence |
+>> | ---- | ----------- |
 >> 
 { .block-language-dataview}
 
@@ -35,19 +32,15 @@
 > # Elegant Sky
 > ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)
 > 
->>[!blank|n-th clean embed]
+>>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |
 >> |--|--|
 >> |**MODEL**|[[Database/Mobile Suits/ES-01 Elegant Sky\|ES-01 Elegant Sky]]|
 >> | **ARMOR**|4 |
 > 
->> [!blank|clean embed tbl-u-1]
->>  | Harm   | Breakdown |
->> | ------ | --------- |
->> | 2 Dnt  |           |
->> | 2 Dmg  |           |
->> | 4 Dsbl |           |
->> | 6 Doom |           |
+>> [!blank|clean embed tbl-u-1] BREAKDOWN
+>>  | Harm | Breakdown |
+>> | ---- | --------- |
 >> 
 { .block-language-dataview}
 
@@ -69,7 +62,7 @@
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>COVERT FIRE</strong> +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.</span></td></tr><tr><td><span><strong>ELECTRONIC WARFARE</strong> You can Interface to attack and create advantages against other mobile suits remotely.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|static wfull]
+> [!blank|static wfull] ==🟢BEGIN MANUAL ENTRY ==
 
 # Notes
 
@@ -85,6 +78,8 @@ Attempted to pirate a [[Database/Factions/Jovian Consortium\|Jovian Consortium]]
 
 ### Phase Three: Crossing Paths
 What started as a race for goods, quickly became a cooperative hit on another supply run. Where Lane's suit faltered from previous damage, [[Player Characters/Vergen Koni\|Verg]] helped pick up the slack.
+
+
 
 ## Data
 

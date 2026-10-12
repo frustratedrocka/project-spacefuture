@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-11T23:44:20.342-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Mining Drill","Club"],"tags":["pc","character","entity","pilot"],"aliases":["Mena"],"Player":"[[Admin/Player/Cynthia]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Places/Charun]]"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"Strain":7,"MECH_Model":["[[Database/Mobile Suits/Kerbstomp]]"],"Armor":4,"MECH_Relationship":"My Ticket Out","Skills":["Acquire 1","Fight 2","Interface 0","Know 0","Lead 0","Move 0","Network 2","Notice 0","Operate 0","Persevere 3","Shoot 0","Sway 0","Tend 0","Tinker 1","Understand 1"],"Approaches":["Quickly 1","Boldly 2","Forcefully 3","Cleverly 2","Subtly 1","Carefully 1"],"cl":101}}
+{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-12T00:14:25.742-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Mining Drill","Club"],"tags":["pc","character","entity","pilot"],"aliases":["Mena"],"Player":"[[Admin/Player/Cynthia]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Places/Charun]]"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"Strain":7,"MECH_Model":["[[Database/Mobile Suits/Kerbstomp]]"],"Armor":4,"MECH_Relationship":"My Ticket Out","Skills":["Acquire 1","Fight 2","Interface 0","Know 0","Lead 0","Move 0","Network 2","Notice 0","Operate 0","Persevere 3","Shoot 0","Sway 0","Tend 0","Tinker 1","Understand 1"],"Approaches":["Quickly 1","Boldly 2","Forcefully 3","Cleverly 2","Subtly 1","Carefully 1"],"cl":104}}
 ---
 
 # 
@@ -12,7 +12,7 @@
 >
 > 
 >
->>[!blank|clean n-th]
+>>[!blank|clean n-th] VITALS
 >> |  |  |
 >> |--|--|
 >> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
@@ -20,12 +20,9 @@
 >> |**ASSOC.**|<span><a data-tooltip-position="top" aria-label="Database/Glossary/The Belt.md" data-href="Database/Glossary/The Belt.md" href="Database/Glossary/The Belt.md" class="internal-link" target="_blank" rel="noopener nofollow">The Belt</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Places/Charun.md" data-href="Database/Places/Charun.md" href="Database/Places/Charun.md" class="internal-link" target="_blank" rel="noopener nofollow">Charun</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 >> | **STRAIN**| 7 |
 >  
->> [!blank|clean embed tbl-u-1]
->>  | Harm   | Consequence |
->> | ------ | ----------- |
->> | 2 Mild |             |
->> | 4 Mod  |             |
->> | 6 Svr  |             |
+>> [!blank|clean embed tbl-u-1] CONSEQUENCES
+>>  | Harm | Consequence |
+>> | ---- | ----------- |
 >> 
 { .block-language-dataview}
 
@@ -35,19 +32,15 @@
 > # Kerbstomp
 > ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)
 > 
->>[!blank|n-th clean embed]
+>>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |
 >> |--|--|
 >> |**MODEL**|[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]|
 >> | **ARMOR**|4 |
 > 
->> [!blank|clean embed tbl-u-1]
->>  | Harm   | Breakdown |
->> | ------ | --------- |
->> | 2 Dnt  |           |
->> | 2 Dmg  |           |
->> | 4 Dsbl |           |
->> | 6 Doom |           |
+>> [!blank|clean embed tbl-u-1] BREAKDOWN
+>>  | Harm | Breakdown |
+>> | ---- | --------- |
 >> 
 { .block-language-dataview}
 
@@ -69,7 +62,7 @@
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>SMOKESCREEN</strong> Kerbstomp can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.</span></td></tr><tr><td><span><strong>FOX IN A TRAP</strong> Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|static wfull]
+> [!blank|static wfull] ==🟢BEGIN MANUAL ENTRY ==
 
 # Notes
 
@@ -88,6 +81,8 @@ Got involved in [[Database/Glossary/Fight Pits\|mobile suit gladiator fighting]]
 ### Phase Three: Crossing Paths
 
 [[Player Characters/August Grier\|August Grier]] found his way to the [[Database/Glossary/Fight Pits\|fighting pits]], not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.  
+
+
 
 ## Data
 

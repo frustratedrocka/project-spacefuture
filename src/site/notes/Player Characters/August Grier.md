@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-11T23:44:20.318-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Machinegun","Missile Launcher"],"tags":["pc","character","entity","pilot"],"aliases":["Auggie"],"Player":"[[Admin/Player/Mike]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Auggie_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Auggie_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Places/Colonies/Theseus]]"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"Strain":7,"MECH_Model":["[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/TF-8 Hoplite]]"],"Armor":4,"MECH_Relationship":"My Coffin","Skills":["Acquire 0","Fight 1","Interface 0","Know 0","Lead 0","Move 2","Network 0","Notice 0","Operate 1","Persevere 3","Shoot 2","Sway 0","Tend 1","Tinker 0","Understand 0"],"Approaches":["Quickly 2","Boldly 3","Forcefully 1","Cleverly 1","Subtly 1","Carefully 2"],"cl":101}}
+{"dg-publish":true,"permalink":"/player-characters/august-grier/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-12T00:15:26.517-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Machinegun","Missile Launcher"],"tags":["pc","character","entity","pilot"],"aliases":["Auggie"],"Player":"[[Admin/Player/Mike]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Auggie_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Auggie_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Places/Colonies/Theseus]]"],"Concept":"No-Longer-A-Child Soldier","Trouble":"\"My Life Is Expendable\"","Aspects":["Downed But Not Out","Front Towards Enemy","Stubbornness Is A Virtue","Free Aspect"],"Stunts":["**SUPPRESSIVE FIRE** Any time you're using a fully automatic weapon and you successfully Shoot to attack, you automatically create Adequate (1) opposition against movement in the target's zone until the end of your next turn as the hail of bullets pins down everyone in the area.","**A MOBILE SUIT IS A MELEE WEAPON** When engaging in melee combat and using your mobile suit's body weight to attack, you may Persevere instead of Fighting.","**ADVANCING UNDER FIRE** +1 when you move to advance under enemy fire, +2 when doing so without protection or armor. "],"Strain":7,"MECH_Model":["[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/TF-8 Hoplite]]"],"Armor":4,"MECH_Relationship":"My Coffin","Skills":["Acquire 0","Fight 1","Interface 0","Know 0","Lead 0","Move 2","Network 0","Notice 0","Operate 1","Persevere 3","Shoot 2","Sway 0","Tend 1","Tinker 0","Understand 0"],"Approaches":["Quickly 2","Boldly 3","Forcefully 1","Cleverly 1","Subtly 1","Carefully 2"],"cl":104}}
 ---
 
 # 
@@ -12,7 +12,7 @@
 >
 > 
 >
->>[!blank|clean n-th]
+>>[!blank|clean n-th] VITALS
 >> |  |  |
 >> |--|--|
 >> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
@@ -20,12 +20,9 @@
 >> |**ASSOC.**|<span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Theseus.md" data-href="Database/Places/Colonies/Theseus.md" href="Database/Places/Colonies/Theseus.md" class="internal-link" target="_blank" rel="noopener nofollow">Theseus</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 >> | **STRAIN**| 7 |
 >  
->> [!blank|clean embed tbl-u-1]
->>  | Harm   | Consequence |
->> | ------ | ----------- |
->> | 2 Mild |             |
->> | 4 Mod  |             |
->> | 6 Svr  |             |
+>> [!blank|clean embed tbl-u-1] CONSEQUENCES
+>>  | Harm | Consequence |
+>> | ---- | ----------- |
 >> 
 { .block-language-dataview}
 
@@ -35,19 +32,15 @@
 > # Cossack
 > ![Admin/Attachments/HopliteCustom_SQ.webp\|HopliteCustom_SQ.webp](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)
 > 
->>[!blank|n-th clean embed]
+>>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |
 >> |--|--|
 >> |**MODEL**|[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]|
 >> | **ARMOR**|4 |
 > 
->> [!blank|clean embed tbl-u-1]
->>  | Harm   | Breakdown |
->> | ------ | --------- |
->> | 2 Dnt  |           |
->> | 2 Dmg  |           |
->> | 4 Dsbl |           |
->> | 6 Doom |           |
+>> [!blank|clean embed tbl-u-1] BREAKDOWN
+>>  | Harm | Breakdown |
+>> | ---- | --------- |
 >> 
 { .block-language-dataview}
 
@@ -69,7 +62,7 @@
 > [!blank|embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>HAMMER AND ANVIL</strong> +1 when you Shoot a target already engaged in combat with an ally.</span></td></tr><tr><td><span><strong>DEAD MECH WALKING</strong> When you would be taken out, you may take one final turn before the character who took you out declares what happened to you.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|static wfull]
+> [!blank|static wfull] ==🟢BEGIN MANUAL ENTRY ==
 
 # Notes
 
@@ -86,6 +79,8 @@ Shot down during combat against Rebel forces. Captured, then turned to the resis
 
 ### Phase Three: Crossing Paths
 [[Player Characters/Menodora Thaliana\|Menodora Thaliana]] was interested in joining the rebellion, and heard August was someone who may have an in. She cannot take no for an answer.
+
+
 
 ## Data
 
