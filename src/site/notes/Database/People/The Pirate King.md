@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-11T23:44:19.934-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"tags":["npc","character","pilot","entity"],"aliases":["Pirate King"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Rank":0,"Origin":"[[Database/Places/Earth]]","Assoc":null,"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"Strain":5,"MECH_Model":["[[Database/Mobile Suits/GS-79 Gundam Descolada]]"],"MECH_Secret":false,"Armor":6,"MECH_Relationship":"`REDACTED`","Skills":["Acquire 2","Fight 4","Interface 0","Know 3","Lead 5","Move 3","Network 2","Notice 4","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 1","Tinker 1","Understand 2"],"Approaches":["Quickly 3","Boldly 3","Forcefully 2","Cleverly 4","Subtly 1","Carefully 2"],"Stats_On":true,"Skills_On":false,"Stunts_On":true,"cl":102}}
+{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-12T00:33:01.499-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"tags":["npc","character","pilot","entity"],"aliases":["Pirate King"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Rank":0,"Origin":"[[Database/Places/Earth]]","Assoc":null,"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"Strain":5,"MECH_Model":["[[Database/Mobile Suits/GS-79 Gundam Descolada]]"],"MECH_Secret":false,"Armor":6,"MECH_Relationship":"`REDACTED`","Skills":["Acquire 2","Fight 4","Interface 0","Know 3","Lead 5","Move 3","Network 2","Notice 4","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 1","Tinker 1","Understand 2"],"Approaches":["Quickly 3","Boldly 3","Forcefully 2","Cleverly 4","Subtly 1","Carefully 2"],"Stats_On":true,"Skills_On":false,"Stunts_On":true,"cl":103}}
 ---
 
 # 
@@ -11,14 +11,11 @@
 > 
 >
 >>[!blank|clean embed n-th] VITALS
->>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate[0], "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span></td></tr><tr><td><span><strong>ORIGIN</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Earth.md" data-href="Database/Places/Earth" href="Database/Places/Earth.md" class="internal-link" target="_blank" rel="noopener nofollow">Earth</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 >  
 >> [!blank|clean embed tbl-u-1] CONSEQUENCES
->>  | Harm   | Consequence |
->> | ------ | ----------- |
->> | 2 Mild |             |
->> | 4 Mod  |             |
->> | 6 Svr  |             |
+>>  | Harm | Consequence |
+>> | ---- | ----------- |
 >> 
 { .block-language-dataview}
 
@@ -35,12 +32,8 @@
 >> | **ARMOR**|`REDACTED`|
 > 
 >> [!blank|clean embed tbl-u-1] BREAKDOWN
->>  | Harm   | Breakdown |
->> | ------ | --------- |
->> | 2 Dnt  |           |
->> | 2 Dmg  |           |
->> | 4 Dsbl |           |
->> | 6 Doom |           |
+>>  | Harm | Breakdown |
+>> | ---- | --------- |
 >> 
 { .block-language-dataview}
 

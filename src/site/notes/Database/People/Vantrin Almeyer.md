@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-11T23:44:19.955-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: Sparking Joints","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Akoni Bazooka","Heat Tanto"],"comments":true,"tags":["npc","character","pilot","entity"],"aliases":["Vantrin"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"Strain":5,"MECH_Model":["[[Database/Mobile Suits/SE-832E Akoni Command Type]]"],"MECH_Secret":false,"Armor":4,"MECH_Relationship":"`REDACTED`","Skills":["Acquire 0","Fight 3","Interface 0","Know 1","Lead 1","Move 2","Network 0","Notice 0","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 0","Tinker 0","Understand 2"],"Approaches":["Quickly 2","Boldly 1","Forcefully 2","Cleverly 3","Subtly 1","Carefully 1"],"Stats_On":true,"Skills_On":false,"Stunts_On":true,"cl":102}}
+{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot","entity"],"noteIcon":"","updated":"2026-10-12T00:33:20.119-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: Sparking Joints","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Akoni Bazooka","Heat Tanto"],"comments":true,"tags":["npc","character","pilot","entity"],"aliases":["Vantrin"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`"],"Strain":5,"MECH_Model":["[[Database/Mobile Suits/SE-832E Akoni Command Type]]"],"MECH_Secret":false,"Armor":4,"MECH_Relationship":"`REDACTED`","Skills":["Acquire 0","Fight 3","Interface 0","Know 1","Lead 1","Move 2","Network 0","Notice 0","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 0","Tinker 0","Understand 2"],"Approaches":["Quickly 2","Boldly 1","Forcefully 2","Cleverly 3","Subtly 1","Carefully 1"],"Stats_On":true,"Skills_On":false,"Stunts_On":true,"cl":103}}
 ---
 
 # 
@@ -11,14 +11,11 @@
 > 
 >
 >>[!blank|clean embed n-th] VITALS
->>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate[0], "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td></tr><tr><td><span><strong>ORIGIN</strong></span></td><td><span><code>REDACTED</code></span></td></tr><tr><td><span><strong>ASSOC.</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Brynhildr.md" data-href="Database/Things/Brynhildr" href="Database/Things/Brynhildr.md" class="internal-link" target="_blank" rel="noopener nofollow">Brynhildr</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td></tr><tr><td><span><strong>ORIGIN</strong></span></td><td><span><code>REDACTED</code></span></td></tr><tr><td><span><strong>ASSOC.</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Brynhildr.md" data-href="Database/Things/Brynhildr" href="Database/Things/Brynhildr.md" class="internal-link" target="_blank" rel="noopener nofollow">Brynhildr</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 >  
 >> [!blank|clean embed tbl-u-1] CONSEQUENCES
->>  | Harm   | Consequence |
->> | ------ | ----------- |
->> | 2 Mild |             |
->> | 4 Mod  |             |
->> | 6 Svr  |             |
+>>  | Harm | Consequence |
+>> | ---- | ----------- |
 >> 
 { .block-language-dataview}
 
@@ -35,12 +32,9 @@
 >> | **ARMOR**|`REDACTED`|
 > 
 >> [!blank|clean embed tbl-u-1] BREAKDOWN
->>  | Harm   | Breakdown       |
->> | ------ | --------------- |
->> | 2 Dnt  | Sparking Joints |
->> | 2 Dmg  |                 |
->> | 4 Dsbl |                 |
->> | 6 Doom |                 |
+>>  | Harm  | Breakdown       |
+>> | ----- | --------------- |
+>> | 2 Dnt | Sparking Joints |
 >> 
 { .block-language-dataview}
 
