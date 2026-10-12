@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mech-catalog/","tags":["tracker","index"],"noteIcon":"","updated":"2026-10-08T22:15:27.451-04:00","dg-note-properties":{"tags":["tracker","index"]}}
+{"dg-publish":true,"permalink":"/mech-catalog/","tags":["tracker","index"],"noteIcon":"","updated":"2026-10-11T23:44:17.978-04:00","dg-note-properties":{"tags":["tracker","index"]}}
 ---
 
 > [!cards|dataview notion 5 img-small] FACTION MECHS

@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-11T13:16:28.217-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Stanford.webp]]","Concept":"Terrified Into Silence","Trouble":"Holding Its Breath","Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/theseus/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-11T23:44:20.148-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Under The Radar","Faction_Presence":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Stanford.webp]]","Concept":"Terrified Into Silence","Trouble":"Holding Its Breath","Aspects":["`REDACTED`"],"cl":102}}
 ---
 
+# 
 
 > [!INFOBOX] Theseus
 > # Theseus
 > ![Admin/Attachments/Stanford.webp\|Stanford.webp](/img/user/Admin/Attachments/Stanford.webp)
 >
->> [!blank|clean n-th] 
+> 
+>
+>> [!blank|clean n-th]  VITALS
 >> | | |
 >> |--|--|
 >> |**BODY**|[[Database/Glossary/Colony\|Colony]]|
@@ -16,18 +19,9 @@
 >> |**PRESENCE**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span>,<br><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
 > [!blank|flex embed clean] ASPECTS
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: missing ) after argument list
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19035:16)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:883194)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at eval (plugin:digitalgarden:13472:17)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:105:61)</pre>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Terrified Into Silence</span></td></tr><tr><td><span>Holding Its Breath</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
+ 
 # Discord Genesis
 >[!cite|bg-c-red] [[Player Characters/Vergen Koni\|Vergen Koni]]
 > I think Theseus is under the radar when it comes to [[Database/Factions/Apsis\|Apsis]] selective food deliveries, meaning they haven't got cut yet. 
@@ -60,7 +54,7 @@
 ## Data
 
 > [!blank|embed clean] ASSOCIATED
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/associated-characters.js' or 'Admin/Scripts/associated-characters/view.js'.</pre>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Origin</span></th><th class="table-view-th"><span>Associated</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/Vergen Koni.md" data-href="Player Characters/Vergen Koni" href="Player Characters/Vergen Koni.md" class="internal-link" target="_blank" rel="noopener nofollow">Vergen Koni</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a>, <a data-tooltip-position="top" aria-label="Database/Factions/Mindful Eyes.md" data-href="Database/Factions/Mindful Eyes" href="Database/Factions/Mindful Eyes.md" class="internal-link" target="_blank" rel="noopener nofollow">Mindful Eyes</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Theseus.md" data-href="Database/Places/Colonies/Theseus" href="Database/Places/Colonies/Theseus.md" class="internal-link" target="_blank" rel="noopener nofollow">Theseus</a></span></td><td><span>-</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/August Grier.md" data-href="Player Characters/August Grier" href="Player Characters/August Grier.md" class="internal-link" target="_blank" rel="noopener nofollow">August Grier</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Mars Sphere/Mars.md" data-href="Database/Places/Mars Sphere/Mars" href="Database/Places/Mars Sphere/Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Mars</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Theseus.md" data-href="Database/Places/Colonies/Theseus" href="Database/Places/Colonies/Theseus.md" class="internal-link" target="_blank" rel="noopener nofollow">Theseus</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a> - Origins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>1</td><td>September 01, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

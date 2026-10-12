@@ -1,24 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-11T20:03:33.043-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Kerbstomp"],"Portrait":"[[Admin/Attachments/Theseus_SQ.webp]]","MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Kerbstomp can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage."],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-11T23:44:19.635-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Kerbstomp"],"Portrait":"[[Admin/Attachments/Theseus_SQ.webp]]","MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Kerbstomp can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage."],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":["`REDACTED`"],"cl":101}}
 ---
 
+# 
 
-> [!infobox|embed right wsmall] INFOBOX
+> [!infobox|embed right flex wsmall] INFOBOX
 > # Kerbstomp
 > ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)
 >> [!caption]
 >> Kerbstomp
 >
->> [!blank|embed clean n-th] VITALS
+> 
+>
+>> [!blank|flex embed clean n-th] VITALS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr><tr><td><span><strong>KNOWN PILOTS</strong><br><a data-tooltip-position="top" aria-label="Player Characters/Menodora Thaliana.md" data-href="Player Characters/Menodora Thaliana" href="Player Characters/Menodora Thaliana.md" class="internal-link" target="_blank" rel="noopener nofollow">Menodora Thaliana</a></span></td></tr><tr><td><span><strong>DEVELOPED FROM</strong><br><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean] MECH ASPECTS
+> [!blank|flex embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Street-Trash Brawler</span></td></tr><tr><td><span>Franken-Software</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean] KNOWN ARMAMENTS
+> [!blank|flex embed clean] KNOWN ARMAMENTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Mining Drill</span></td></tr><tr><td><span>Club</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean] MECH STUNTS
+> [!blank|flex embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>SMOKESCREEN</strong> Kerbstomp can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.</span></td></tr><tr><td><span><strong>FOX IN A TRAP</strong> Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Notes

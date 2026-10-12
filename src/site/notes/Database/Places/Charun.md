@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","entity","lore"],"noteIcon":"","updated":"2026-10-11T13:16:30.981-04:00","dg-note-properties":{"tags":["location","entity","lore"],"aliases":["Ferry"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":"[[Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif]]","Concept":"Enormous Belt-Jupiter Cyclers","Trouble":"Requires Perpetual Motion","Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","entity","lore"],"noteIcon":"","updated":"2026-10-11T23:44:19.980-04:00","dg-note-properties":{"tags":["location","entity","lore"],"aliases":["Ferry"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":"[[Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif]]","Concept":"Enormous Belt-Jupiter Cyclers","Trouble":"Requires Perpetual Motion","Aspects":[null],"cl":102}}
 ---
 
+# 
 
 > [!INFOBOX] Charun
 > # Charun
 > ![Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif\|560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif](/img/user/Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif)
 >
->> [!blank|clean n-th] 
+> 
+>
+>> [!blank|clean n-th]  VITALS
 >> | | |
 >> |--|--|
 >> |**BODY**|[[Locations Hub\|Ferry]]|
@@ -17,6 +20,9 @@
 
 > [!blank|flex embed clean] ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Enormous Belt-Jupiter Cyclers</span></td></tr><tr><td><span>Requires Perpetual Motion</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+ 
+# Description
 
 > [!cite] From Whence The Concept
 >> Not to be the fucker who is going to piss everyone off, but is there any "accounting for the sheer travel physics of space" tech in this universe?  
@@ -36,20 +42,20 @@ There are five of them, all on staggered schedules. A charun arrives at Jupiter 
 
 
 
+`REDACTED`
+
 >[!blank|wfull] END MANUAL ENTRY
 
 ## Data
 
-> [!blank|embed clean]clean] ASSOCIATED
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/associated-characters.js' or 'Admin/Scripts/associated-characters/view.js'.</pre>
+> [!blank|embed clean] ASSOCIATED
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Origin</span></th><th class="table-view-th"><span>Associated</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/Menodora Thaliana.md" data-href="Player Characters/Menodora Thaliana" href="Player Characters/Menodora Thaliana.md" class="internal-link" target="_blank" rel="noopener nofollow">Menodora Thaliana</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Earth.md" data-href="Database/Places/Earth" href="Database/Places/Earth.md" class="internal-link" target="_blank" rel="noopener nofollow">Luna</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Glossary/The Belt.md" data-href="Database/Glossary/The Belt" href="Database/Glossary/The Belt.md" class="internal-link" target="_blank" rel="noopener nofollow">The Belt</a>, <a data-tooltip-position="top" aria-label="Database/Places/Charun.md" data-href="Database/Places/Charun" href="Database/Places/Charun.md" class="internal-link" target="_blank" rel="noopener nofollow">Charun</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a> - Origins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>1</td><td>September 01, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-| Session | Date | Event |
-| ------- | ---- | ----- |
-
-{ .block-language-dataview}
+> [!blank|embed clean] EVENTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] CHANGELOG
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

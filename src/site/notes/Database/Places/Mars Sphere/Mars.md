@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars-sphere/mars/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-11T13:16:25.885-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp]]","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"]}}
+{"dg-publish":true,"permalink":"/database/places/mars-sphere/mars/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-11T23:44:20.235-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp]]","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"],"cl":102}}
 ---
 
+# 
 
 > [!INFOBOX] Mars
 > # Mars
 > ![Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp\|Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp](/img/user/Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp)
 >
->> [!blank|clean n-th] 
+> 
+>
+>> [!blank|clean n-th]  VITALS
 >> | | |
 >> |--|--|
 >> |**BODY**|[[Locations Hub\|Planet]]|
@@ -18,18 +21,21 @@
 > [!blank|flex embed clean] ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Unofficially Lost The Ground War</span></td></tr><tr><td><span>Political Powder Keg</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
+ 
 # Description
 
 The new breadbasket now that [[Database/Places/Earth\|Earth]] is gone. *Officially* [[Database/History/The Ground War\|The Ground War]] ended in a stalemate and settled truce; unofficially, the terms strongly favored Jupiter.
 
 Mars as a political entity consists largely of farmers and farmer interests, with the [[Database/Factions/Republic Of Mars\|Republic Of Mars]] as the current form of its governing body.
 
+`REDACTED`
+
 >[!blank|wfull] END MANUAL ENTRY
 
 ## Data
 
 > [!blank|embed clean] ASSOCIATED
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/associated-characters.js' or 'Admin/Scripts/associated-characters/view.js'.</pre>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Origin</span></th><th class="table-view-th"><span>Associated</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/August Grier.md" data-href="Player Characters/August Grier" href="Player Characters/August Grier.md" class="internal-link" target="_blank" rel="noopener nofollow">August Grier</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Mars Sphere/Mars.md" data-href="Database/Places/Mars Sphere/Mars" href="Database/Places/Mars Sphere/Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Mars</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Theseus.md" data-href="Database/Places/Colonies/Theseus" href="Database/Places/Colonies/Theseus.md" class="internal-link" target="_blank" rel="noopener nofollow">Theseus</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/Gen Bashaba.md" data-href="Database/People/Gen Bashaba" href="Database/People/Gen Bashaba.md" class="internal-link" target="_blank" rel="noopener nofollow">Gen Bashaba</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a>, <a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Mars Sphere/Mars.md" data-href="Database/Places/Mars Sphere/Mars" href="Database/Places/Mars Sphere/Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Mars</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The Bastard.md" data-href="Database/People/The Bastard" href="Database/People/The Bastard.md" class="internal-link" target="_blank" rel="noopener nofollow">The Bastard</a></span></td><td><span>!r! <a data-href="Database/Factions/Republic Of Mars" href="Republic Of Mars" class="internal-link" target="_blank" rel="noopener nofollow">Republic Of Mars</a> !/r!</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Mars Sphere/Mars.md" data-href="Database/Places/Mars Sphere/Mars" href="Database/Places/Mars Sphere/Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Mars</a></span></td><td><span>-</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a> - Origins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>1</td><td>September 01, 2026</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/World Jam.md" data-href="Session Notes/World Jam" href="Session Notes/World Jam.md" class="internal-link" target="_blank" rel="noopener nofollow">World Jam</a> - A Century Emerges</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td><span>0</span></td><td>August 04, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

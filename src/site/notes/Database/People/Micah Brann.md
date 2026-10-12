@@ -1,25 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/micah-brann/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-11T13:16:41.897-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"tags":["npc","character","entity"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/21.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Fishbone]]"],"Strain":4,"Consequences":[[null],[null],[null]],"Concept":"[[Fishbone]] Lead MS Tech","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"MECH_Model":"","MECH_Secret":false,"Armor":4,"Breakdown":["","","",""],"MECH_Relationship":null,"MECH_Gear":["Equipment","Equipment"],"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 4","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false}}
+{"dg-publish":true,"permalink":"/database/people/micah-brann/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-11T23:44:19.865-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity"],"aliases":[null],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/21.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Fishbone]]"],"Concept":"[[Fishbone]] Lead MS Tech","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":"","MECH_Secret":false,"Armor":4,"MECH_Relationship":null,"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 4","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":102}}
 ---
 
+# 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Micah Brann
 > ![Admin/Attachments/100 Human sci-fi faces/21.png\|21.png](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/21.png)
 >
->>[!blank|clean n-th]
->> |  |  |
->> |--|--|
->> |**FACTION**|<span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
->> |**ORIGIN**|<code>REDACTED</code><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
->> |**ASSOC.**|<span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone.md" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
->> | **STRAIN**|`REDACTED`|
+> 
+>
+>>[!blank|clean embed n-th] VITALS
+>>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate[0], "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr><tr><td><span><strong>ORIGIN</strong></span></td><td><span><code>REDACTED</code></span></td></tr><tr><td><span><strong>ASSOC.</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 >  
-> |HARM|CONSEQUENCE|
-> |----|-----|
-> |2 Mild||
-> |4 Mod||
-> |6 Svr||
+>> [!blank|clean embed tbl-u-1] CONSEQUENCES
+>>  | Harm   | Consequence |
+>> | ------ | ----------- |
+>> | 2 Mild |             |
+>> | 4 Mod  |             |
+>> | 6 Svr  |             |
+>> 
+{ .block-language-dataview}
 
 !mech!
 
@@ -27,18 +28,21 @@
 > # `=this.MECH_Model[0].aliases[0]`
 > `=embed(link(this.MECH_Model[0].Portrait))`
 > 
->>[!blank|n-th clean]
+>>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |
 >> |--|--|
 >> |**MODEL**|`=link(this.MECH_Model[0])`|
 >> | **ARMOR**|`REDACTED`|
 > 
-> |HARM|BREAKDOWN|
-> |----|-----|
-> |2 Dent|`=this.Breakdown[0]`|
-> |2 Dmg|`=this.Breakdown[1]`|
-> |4 Dsbl|`=this.Breakdown[2]`|
-> |6 Doom|`=this.Breakdown[3]`|
+>> [!blank|clean embed tbl-u-1] BREAKDOWN
+>>  | Harm   | Breakdown |
+>> | ------ | --------- |
+>> | 2 Dnt  |           |
+>> | 2 Dmg  |           |
+>> | 4 Dsbl |           |
+>> | 6 Doom |           |
+>> 
+{ .block-language-dataview}
 
 !/mech!
 
@@ -80,23 +84,16 @@
 
 ## Quotes
 
+`REDACTED`
+
+
 ## Data
 
-> [!blank|embed clean] APPEARANCES
+> [!blank|flex embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean] EVENTS
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: missing ) after argument list
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19035:16)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:883194)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at eval (plugin:digitalgarden:13472:17)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:105:61)</pre>
+> [!blank|flex embed clean] EVENTS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean] CHANGELOG
+> [!blank|flex embed clean] CHANGELOG
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-11T13:16:30.278-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"Home / Headquarters","Faction_Presence":null,"Portrait":"[[Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp]]","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null]}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-11T23:44:20.056-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"Home / Headquarters","Faction_Presence":null,"Portrait":"[[Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp]]","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null],"cl":102}}
 ---
 
+# 
 
 > [!INFOBOX] Ceres
 > # Ceres
 > ![Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp\|Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp](/img/user/Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp)
 >
->> [!blank|clean n-th] 
+> 
+>
+>> [!blank|clean n-th]  VITALS
 >> | | |
 >> |--|--|
 >> |**BODY**|[[Locations Hub\|Dwarf Planet]]|
@@ -18,9 +21,7 @@
 > [!blank|flex embed clean] ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Nerve Center of the Sol System</span></td></tr><tr><td><span>As Awful As It Is Indispensable</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|flex embed clean] ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Nerve Center of the Sol System</span></td></tr><tr><td><span>As Awful As It Is Indispensable</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
-
+ 
 # Description
 Humanity's oldest colony in [[Database/Glossary/The Belt\|The Belt]]. The decade following [[Database/History/The Ground War\|The Ground War]] has seen it largely taken over by [[Database/Factions/Apsis\|Apsis]]. What was once the farthest into the frontier humanity had ever reached is now the core logistical and manufacturing hub that keeps the calories flowing and the solar system fed. 
 
@@ -37,7 +38,7 @@ Unless and until there is a plan to account for any root-level interruption of t
 ## Data
 
 > [!blank|embed clean] ASSOCIATED
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/associated-characters.js' or 'Admin/Scripts/associated-characters/view.js'.</pre>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Origin</span></th><th class="table-view-th"><span>Associated</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The Man Upstairs.md" data-href="Database/People/The Man Upstairs" href="Database/People/The Man Upstairs.md" class="internal-link" target="_blank" rel="noopener nofollow">The Man Upstairs</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Ceres.md" data-href="Database/Places/Colonies/Ceres" href="Database/Places/Colonies/Ceres.md" class="internal-link" target="_blank" rel="noopener nofollow">Ceres</a></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Places/Jupiter Sphere/Jupiter.md" data-href="Database/Places/Jupiter Sphere/Jupiter" href="Database/Places/Jupiter Sphere/Jupiter.md" class="internal-link" target="_blank" rel="noopener nofollow">Jupiter</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

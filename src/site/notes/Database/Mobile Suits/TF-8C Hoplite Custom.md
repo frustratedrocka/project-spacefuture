@@ -1,24 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-c-hoplite-custom/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-11T13:16:48.898-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Cossack"],"Portrait":"[[Admin/Attachments/HopliteCustom_SQ.webp]]","MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":"[[Database/Mobile Suits/TF-8 Hoplite]]"}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-c-hoplite-custom/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-11T23:44:19.735-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Cossack"],"Portrait":"[[Admin/Attachments/HopliteCustom_SQ.webp]]","MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":"[[Database/Mobile Suits/TF-8 Hoplite]]","cl":101}}
 ---
 
+# 
 
-> [!infobox|embed right wsmall] INFOBOX
+> [!infobox|embed right flex wsmall] INFOBOX
 > # Cossack
 > ![Admin/Attachments/HopliteCustom_SQ.webp\|HopliteCustom_SQ.webp](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)
 >> [!caption]
 >> TF-8C Hoplite Custom
 >
->> [!blank|embed clean n-th] VITALS
+> 
+>
+>> [!blank|flex embed clean n-th] VITALS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr><tr><td><span><strong>KNOWN PILOTS</strong><br><a data-tooltip-position="top" aria-label="Player Characters/August Grier.md" data-href="Player Characters/August Grier" href="Player Characters/August Grier.md" class="internal-link" target="_blank" rel="noopener nofollow">August Grier</a></span></td></tr><tr><td><span><strong>DEVELOPED FROM</strong><br><a data-tooltip-position="top" aria-label="Database/Mobile Suits/TF-8 Hoplite.md" data-href="Database/Mobile Suits/TF-8 Hoplite" href="Database/Mobile Suits/TF-8 Hoplite.md" class="internal-link" target="_blank" rel="noopener nofollow">TF-8 Hoplite</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean] MECH ASPECTS
+> [!blank|flex embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>High-Performance Line Mech</span></td></tr><tr><td><span>Nothing Fancy</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean] KNOWN ARMAMENTS
+> [!blank|flex embed clean] KNOWN ARMAMENTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Machinegun</span></td></tr><tr><td><span>Missile Launcher</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean] MECH STUNTS
+> [!blank|flex embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>HAMMER AND ANVIL</strong> +1 when you Shoot a target already engaged in combat with an ally.</span></td></tr><tr><td><span><strong>DEAD MECH WALKING</strong> When you would be taken out, you may take one final turn before the character who took you out declares what happened to you.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Notes

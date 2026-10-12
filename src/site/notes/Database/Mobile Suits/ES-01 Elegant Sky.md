@@ -1,27 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/es-01-elegant-sky/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-11T13:16:54.288-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Elegant Sky"],"Portrait":"[[Admin/Attachments/DagDoll_SQ.webp]]","MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"DEV_From":null}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/es-01-elegant-sky/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-11T23:44:19.554-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Elegant Sky"],"Portrait":"[[Admin/Attachments/DagDoll_SQ.webp]]","MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"DEV_From":null,"cl":101}}
 ---
 
+# 
 
-> [!infobox|embed right wsmall] INFOBOX
+> [!infobox|embed right flex wsmall] INFOBOX
 > # Elegant Sky
 > ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)
 >> [!caption]
 >> ES-01 Elegant Sky
 >
->> [!blank|embed clean n-th] VITALS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a><br><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span></td></tr><tr><td><span><strong>KNOWN PILOTS</strong><br><a data-tooltip-position="top" aria-label="Player Characters/Lane Gable.md" data-href="Player Characters/Lane Gable" href="Player Characters/Lane Gable.md" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 > 
->> [!blank|clean n-th] DEVELOPMENT
->> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/mech-dev.js' or 'Admin/Scripts/mech-dev/view.js'.</pre>
+>
+>> [!blank|flex embed clean n-th] VITALS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a><br><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span></td></tr><tr><td><span><strong>KNOWN PILOTS</strong><br><a data-tooltip-position="top" aria-label="Player Characters/Lane Gable.md" data-href="Player Characters/Lane Gable" href="Player Characters/Lane Gable.md" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean] MECH ASPECTS
+> [!blank|flex embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Long Range Fire Support</span></td></tr><tr><td><span>Complex Systems</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean] KNOWN ARMAMENTS
+> [!blank|flex embed clean] KNOWN ARMAMENTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Shield</span></td></tr><tr><td><span>Beam Rifle</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|embed clean] MECH STUNTS
+> [!blank|flex embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>COVERT FIRE</strong> +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.</span></td></tr><tr><td><span><strong>ELECTRONIC WARFARE</strong> You can Interface to attack and create advantages against other mobile suits remotely.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Notes

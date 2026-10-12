@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/mobile-suit/","tags":["lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-05T23:43:43.418-04:00","dg-note-properties":{"tags":["lore"]}}
+{"dg-publish":true,"permalink":"/database/glossary/mobile-suit/","tags":["lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-11T23:44:19.445-04:00","dg-note-properties":{"tags":["lore"]}}
 ---
 
 
