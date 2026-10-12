@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-08T22:10:18.899-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Hive Cult]]","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[Database/People/The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"aliases":["Cult"]}}
+{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-11T20:49:20.322-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Hive Cult]]","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[Database/People/The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"aliases":["Cult"]}}
 ---
 
 
@@ -38,7 +38,7 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 { .block-language-dataview}
 
 > [!blank|embed clean] SCRIPT
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/associated-locations.js' or 'Admin/Scripts/associated-locations/view.js'.</pre>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
 >  | Mobile Suits | Name |

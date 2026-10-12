@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-08T22:10:21.296-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Armada Ejecta]]","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors","Space Pirates"],"Portrait":"[[Admin/Attachments/CV_Recolor.webp]]"}}
+{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-11T20:49:21.226-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Armada Ejecta]]","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors","Space Pirates"],"Portrait":"[[Admin/Attachments/CV_Recolor.webp]]"}}
 ---
 
 
@@ -34,7 +34,7 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 { .block-language-dataview}
 
 > [!blank|embed clean] SCRIPT
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/associated-locations.js' or 'Admin/Scripts/associated-locations/view.js'.</pre>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
 >  | Mobile Suits                                                            | Name                                                                            |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-10-08T22:10:14.498-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Republic Of Mars]]","Portrait":"[[Admin/Attachments/RFGuerillaPropPoster1.webp]]","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian","Martians"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-10-11T20:49:13.907-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Republic Of Mars]]","Portrait":"[[Admin/Attachments/RFGuerillaPropPoster1.webp]]","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian","Martians"]}}
 ---
 
 
@@ -43,7 +43,7 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 { .block-language-dataview}
 
 > [!blank|embed clean] SCRIPT
-> <pre class="dataview dataview-error">Dataview: custom view not found for 'Admin/Scripts/associated-locations.js' or 'Admin/Scripts/associated-locations/view.js'.</pre>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/Places/Mars Sphere/Mars.md" data-href="Database/Places/Mars Sphere/Mars" href="Database/Places/Mars Sphere/Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Mars</a></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span></li></ul></td><td><span>Semi-Occupied Territory</span></td><td><span>-</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
 >  | Mobile Suits                                                  | Name                                                                |
