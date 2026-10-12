@@ -33,7 +33,7 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 > | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ES-01 Elegant Sky\|Elegant Sky]]**         |
 > | ![Admin/Attachments/Hoplite_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_SQ.webp)          | **[[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]]**                  |
 > | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp)  | **[[Database/Mobile Suits/TF-8S Hoplite Striker\|Hoplite Striker]]** |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker]]**         |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/MEU-1H Seeker CQC\|Hyper Seeker]]**        |
 > | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)          | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                   |
 > 
 { .block-language-dataview}
