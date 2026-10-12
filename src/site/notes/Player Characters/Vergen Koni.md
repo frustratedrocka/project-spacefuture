@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-11T13:16:19.411-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["Mild","Locked - Persevere 5","Moderate","Severe"],"Breakdown":["Dented","Damaged","Disabled","Doomed"],"tags":["pc","character","entity","pilot"],"aliases":["Verg"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/MGU-3 Seeker CQC]]"],"Armor":4,"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"Skills":["Acquire 0","Fight 2","Interface 0","Know 0","Lead 0","Move 3","Network 0","Notice 1","Operate 0","Persevere 1","Shoot 2","Sway 0","Tend 0","Tinker 1","Understand 0"],"Approaches":["Quickly 3","Boldly 2","Forcefully 1","Cleverly 2","Subtly 1","Carefully 1"]}}
+{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-11T19:57:02.187-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"tags":["pc","character","entity","pilot"],"aliases":["Verg"],"Player":"[[Admin/Player/Daeon]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Strain":5,"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"MECH_Model":["[[Database/Mobile Suits/Hyper Seeker CQC]]","[[Database/Mobile Suits/MGU-3 Seeker CQC]]"],"Armor":4,"MECH_Relationship":"Extension Of My Body","MECH_Gear":["Heat Sword","Grapple Shield"],"Skills":["Acquire 0","Fight 2","Interface 0","Know 0","Lead 0","Move 3","Network 0","Notice 1","Operate 0","Persevere 1","Shoot 2","Sway 0","Tend 0","Tinker 1","Understand 0"],"Approaches":["Quickly 3","Boldly 2","Forcefully 1","Cleverly 2","Subtly 1","Carefully 1"]}}
 ---
 
+# 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Vergen Koni
@@ -17,28 +18,36 @@
 >> |**ASSOC.**|<span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 >> | **STRAIN**| 5 |
 >  
-> |HARM|CONSEQUENCE|
-> |----|-----|
-> |2 Mild|Mild|
-> |4 Mod|Moderate|
-> |6 Svr|Severe|
+>> [!blank|clean embed tbl-u-1]
+>>  | Harm   | Consequence |
+>> | ------ | ----------- |
+>> | 2 Mild |             |
+>> | 4 Mod  |             |
+>> | 6 Svr  |             |
+>> 
+{ .block-language-dataview}
+
+ 
 
 > [!infobox|right wsmall embed] MECH
 > # Hyper Seeker
 > ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp)
 > 
->>[!blank|n-th clean]
+>>[!blank|n-th clean embed]
 >> |  |  |
 >> |--|--|
 >> |**MODEL**|[[Database/Mobile Suits/Hyper Seeker CQC\|Hyper Seeker CQC]]|
->> | **ARMOR**|4|
+>> | **ARMOR**|4 |
 > 
-> |HARM|BREAKDOWN|
-> |----|-----|
-> |2 Dent|Dented|
-> |2 Dmg|Damaged|
-> |4 Dsbl|Disabled|
-> |6 Doom|Doomed|
+>> [!blank|clean embed tbl-u-0]
+>>  | Harm   | Breakdown |
+>> | ------ | --------- |
+>> | 2 Dnt  |           |
+>> | 2 Dmg  |           |
+>> | 4 Dsbl |           |
+>> | 6 Doom |           |
+>> 
+{ .block-language-dataview}
 
 > [!blank|flex embed clean] ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Mind's Eye Protector</span></td></tr><tr><td><span>Subtle Paranoia</span></td></tr><tr><td><span>Speed Is Key</span></td></tr><tr><td><span>Respect The Fight</span></td></tr><tr><td><span>We Aren't Alone Here</span></td></tr><tr><td><span>Free Aspect</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -49,8 +58,8 @@
 > [!blank|flex embed clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Heat Sword</span></td></tr><tr><td><span>Grapple Shield</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-> [!blank|static wfull embed clean skills-table] SKILLS & APPROACHES
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span>Move</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Quickly</span></td></tr><tr><td><span>Fight, Shoot</span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Boldly, Cleverly</span></td></tr><tr><td><span>Notice, Persevere, Tinker</span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span>Carefully, Forcefully, Subtly</span></td></tr></tbody></table>
+> [!blank|static wfull clean skills-table] SKILLS & APPROACHES
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span>Move</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Quickly</span></td></tr><tr><td><span>Fight, Shoot</span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Boldly, Cleverly</span></td></tr><tr><td><span>Notice, Persevere, Tinker</span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span>Carefully, Forcefully, Subtly</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>LIKE LIGHTNING</strong> +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.</span></td></tr><tr><td><span><strong>HUMAN LOCOMOTIVE</strong> Once per scene, you may cross any number of zones in a single turn without having to roll.</span></td></tr><tr><td><span><strong>HUH, THAT'S ODD</strong> You've got an eye for the little things. +1 when you Notice small environment details.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -75,7 +84,7 @@ During the standoff with [[Database/Factions/Mindful Eyes\|Mindful Eyes]] and Re
 ## Data
 
 > [!blank|embed clean] APPEARANCES
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Admin/Scratchpads/QA EVENTS.md" data-href="Admin/Scratchpads/QA EVENTS" href="Admin/Scratchpads/QA EVENTS.md" class="internal-link" target="_blank" rel="noopener nofollow">QA EVENTS</a> - Event Logic Stress Test</span></td><td><span>-</span></td><td><span>-</span></td><td><span>-</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a> - Origins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>1</td><td>September 01, 2026</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00B.md" data-href="Session Notes/Session 00B" href="Session Notes/Session 00B.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00B</a> - Training Sim</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>2</td><td>September 15, 2026</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a> - And So It Begins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Rats In The Cellar.md" data-href="Session Notes/Scenarios/Rats In The Cellar" href="Session Notes/Scenarios/Rats In The Cellar.md" class="internal-link" target="_blank" rel="noopener nofollow">Rats In The Cellar</a></span></td><td>1</td><td>September 29, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Session</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00A.md" data-href="Session Notes/Session 00A" href="Session Notes/Session 00A.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00A</a> - Origins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>1</td><td>September 01, 2026</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 00B.md" data-href="Session Notes/Session 00B" href="Session Notes/Session 00B.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 00B</a> - Training Sim</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" href="Session Notes/Scenarios/Pregame Setup.md" class="internal-link" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td>2</td><td>September 15, 2026</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a> - And So It Begins</span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Rats In The Cellar.md" data-href="Session Notes/Scenarios/Rats In The Cellar" href="Session Notes/Scenarios/Rats In The Cellar.md" class="internal-link" target="_blank" rel="noopener nofollow">Rats In The Cellar</a></span></td><td>1</td><td>September 29, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] EVENTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 01.md" data-href="Session Notes/Session 01" href="Session Notes/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">01</a></span></td><td><span><a data-tooltip-position="top" aria-label="Session Notes/Scenarios/Rats In The Cellar.md" data-href="Session Notes/Scenarios/Rats In The Cellar" href="Session Notes/Scenarios/Rats In The Cellar.md" class="internal-link" target="_blank" rel="noopener nofollow">Rats In The Cellar</a></span></td><td><span><a data-href="Player Characters/Vergen Koni" href="Vergen Koni" class="internal-link" target="_blank" rel="noopener nofollow">Vergen Koni</a> rescues <a data-href="Database/People/Delbrau Enger" href="Delbrau Enger" class="internal-link" target="_blank" rel="noopener nofollow">Delbrau Enger</a> from under debris</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
