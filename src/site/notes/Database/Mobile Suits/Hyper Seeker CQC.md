@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/hyper-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-11T23:44:19.621-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Hyper Seeker"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.webp]]","MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"DEV_From":["[[Database/Mobile Suits/MGU-3 Seeker CQC]]","`REDACTED`"],"cl":101}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/hyper-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-12T05:34:47.773-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Hyper Seeker"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.webp]]","MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"DEV_From":["[[Database/Mobile Suits/MGU-3 Seeker CQC]]","`REDACTED`"],"cl":101}}
 ---
 
 # 
@@ -29,6 +29,8 @@
 Originally a [[Database/Mobile Suits/MGU Seeker\|Seeker]] - [[Database/History/The Ground War\|Ground War]] era [[Database/Factions/Republic Of Mars\|Martian]] grunt suit platform, meant as a counterpart to the [[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]].
 
 [[Player Characters/Vergen Koni\|Verg]] somehow acquired a [[Database/Mobile Suits/MGU-3 Seeker CQC\|cqc variant]] before formally linking up with the [[Database/Factions/Mindful Eyes\|Mindful eyes]]. Once he joined and proved himself as a competent pilot, the Eyes refit his Seeker with experimental [[Database/Things/Hivetech\|Hivetech]] salvaged from the irreparable wreckage of the `REDACTED`. The conversion work involved was significant enough that the Hyper Seeker can be considered an entirely new mobile suit.
+
+
 
 ## Data
 
