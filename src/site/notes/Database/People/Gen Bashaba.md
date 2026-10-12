@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-11T23:44:19.828-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":[null,null],"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":null,"MECH_Secret":false,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 3","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 1","Boldly 2","Forcefully 1","Cleverly 2","Subtly 1","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":102}}
+{"dg-publish":true,"permalink":"/database/people/gen-bashaba/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-12T00:28:23.215-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":[null,null],"comments":true,"tags":["npc","character","entity"],"aliases":null,"Portrait":"[[Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Republic Of Mars]]"],"Rank":2,"Origin":"[[Database/Places/Mars Sphere/Mars]]","Assoc":["[[Database/Things/Fishbone]]"],"Concept":"Fledgling shipmaster rising to the occasion","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":null,"MECH_Secret":false,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 3","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 1","Boldly 2","Forcefully 1","Cleverly 2","Subtly 1","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":103}}
 ---
 
 # 
@@ -11,14 +11,11 @@
 > 
 >
 >>[!blank|clean embed n-th] VITALS
->>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate[0], "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr><tr><td><span><strong>ASSOC.</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate[0], "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr><tr><td><span><strong>ASSOC.</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone.md" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 >  
 >> [!blank|clean embed tbl-u-1] CONSEQUENCES
->>  | Harm   | Consequence |
->> | ------ | ----------- |
->> | 2 Mild |             |
->> | 4 Mod  |             |
->> | 6 Svr  |             |
+>>  | Harm | Consequence |
+>> | ---- | ----------- |
 >> 
 { .block-language-dataview}
 
@@ -35,12 +32,8 @@
 >> | **ARMOR**|`REDACTED`|
 > 
 >> [!blank|clean embed tbl-u-1] BREAKDOWN
->>  | Harm   | Breakdown |
->> | ------ | --------- |
->> | 2 Dnt  |           |
->> | 2 Dmg  |           |
->> | 4 Dsbl |           |
->> | 6 Doom |           |
+>>  | Harm | Breakdown |
+>> | ---- | --------- |
 >> 
 { .block-language-dataview}
 
