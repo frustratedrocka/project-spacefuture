@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-13T07:25:53.085-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 02]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-13T08:12:01.869-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 02]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
+>[!infobox|right wsmall]
+> # LATEST OP
+> <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3Ft3GarGsTAAK4vC77zfNO?utm_source=generator&theme=0&si=1d4db610d8814c15" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+>
 # Next: [[Session Notes/Session 02\|Session 02]] - Oct 13, 2026
 *[[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]] Part 2*
 
