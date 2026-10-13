@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-13T06:50:43.432-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/People/Howe Nebreka]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Micah Brann]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":null,"Changelog":null}}
+{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-13T18:02:36.138-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/People/Howe Nebreka]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Micah Brann]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":["[[Entity]] Public ::: Private ::: 00YY-MM-DD"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[Cynthia]] ::: Star ::: Wish","[[Nestor]] ::: Star ::: Wish","[[Daeon]] ::: Star ::: Wish","[[Mike]] ::: Star ::: Wish"]}}
 ---
 
 
@@ -73,10 +73,22 @@
 !/r!
 
 
+
 # Notes
 
 
 
+
+## Stars & Wishes
+| Player     | Stars | Wishes |
+| ---------- | ----- | ------ |
+| `REDACTED` | Star  | Star   |
+| `REDACTED` | Star  | Star   |
+| `REDACTED` | Star  | Star   |
+| `REDACTED` | Star  | Star   |
+| `REDACTED` | Star  | Star   |
+
+{ .block-language-dataview}
 # 
 >[!cards|txt-c]
 >**Previous**
