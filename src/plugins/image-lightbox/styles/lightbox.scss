@@ -1,5 +1,5 @@
-.content img,
-.content svg:not(.svg-icon) {
+.content:not(.no-image-lightbox) img,
+.content:not(.no-image-lightbox) svg:not(.svg-icon) {
   cursor: zoom-in;
 }
 
