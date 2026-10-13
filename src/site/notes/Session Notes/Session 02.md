@@ -16,7 +16,7 @@
 > |Previous|Next|
 > |:---|---:|
 > |[[Session Notes/Session 01\|Session 01]]|[[Session Notes/Session 03\|Session 03]] |
-> |`=this.SESH_Prev.SESH_Name`|\- |
+> |And So It Begins|\- |
 >
 >## Present
 >> [!cards|4 collapse]
@@ -80,7 +80,7 @@
 # 
 >[!cards|txt-c]
 >**Previous**
->[[Session Notes/Session 01\|Session 01]] \- `=this.SESH_Prev.SESH_Name`
+>[[Session Notes/Session 01\|Session 01]] \- And So It Begins
 >
 >**Scenario**
 >[[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]]

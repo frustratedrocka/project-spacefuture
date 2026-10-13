@@ -14,7 +14,7 @@
 > |Previous|Next|
 > |:---|---:|
 > |[[Session Notes/Session 00A\|Session 00A]]|[[Session Notes/Session 01\|Session 01]] |
-> |Origins|\- |
+> |Origins|And So It Begins|
 >
 >## Present
 >> [!cards|3 collapse]
@@ -93,4 +93,4 @@ See [[Rules/1 Core Rules\|1 Core Rules]] and, **seriously read this in full if y
 >[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]
 >
 >**Next**
->[[Session Notes/Session 01\|Session 01]] \- 
+>[[Session Notes/Session 01\|Session 01]] \- And So It Begins
