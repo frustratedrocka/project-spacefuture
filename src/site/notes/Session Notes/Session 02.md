@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-12T17:18:10.399-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/People/Howe Nebreka]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Micah Brann]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":null,"Changelog":null}}
+{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-13T06:50:43.432-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/People/Howe Nebreka]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Micah Brann]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":null,"Changelog":null}}
 ---
 
 
 
+# 
 > [!infobox|embed embed ws-med table wikipedia]
 > # Vitals
 >> [!blank]
@@ -15,7 +16,7 @@
 > |Previous|Next|
 > |:---|---:|
 > |[[Session Notes/Session 01\|Session 01]]|[[Session Notes/Session 03\|Session 03]] |
-> |And So It Begins|\- |
+> |`=this.SESH_Prev.SESH_Name`|\- |
 >
 >## Present
 >> [!cards|4 collapse]
@@ -49,6 +50,8 @@
 > | --------- |
 > 
 { .block-language-dataview}
+> 
+> 
 
 # Session 02 \- 
 
@@ -56,14 +59,19 @@
 
 *The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.*
 
-> [!cite|bg-c-purple]+ Previously On *Zero Sum*
+
+> [!note|bg-c-purple] Housekeeping
+> - Retroactive compel: August's trouble pulled him into danger and caused him harm; +1 Fate point
+
+> [!cite|bg-c-purple]+ Previously On *Zero Sum*...
 > 
 > Your ship has just been brutalized.
 > 
-> Also, due to the gaping hole blown in the hull by an exploding mobile suit, a large portion of the ship's port compartments are currently off-limits to keep any more oxygen from venting. This section includes your quarters. Of the things that got left there when the attack hit, what do you feel worst about not having access to right now?
+> But, more immediately: due to the gaping hole blown in the hull by an exploding mobile suit, a large portion of the ship's port compartments are currently off-limits to keep any more oxygen from venting. This section includes your quarters. Of the things that got left there when the attack hit, what do you feel worst about not having access to right now?
 > 
 
 !/r!
+
 
 # Notes
 
@@ -72,7 +80,7 @@
 # 
 >[!cards|txt-c]
 >**Previous**
->[[Session Notes/Session 01\|Session 01]] \- And So It Begins
+>[[Session Notes/Session 01\|Session 01]] \- `=this.SESH_Prev.SESH_Name`
 >
 >**Scenario**
 >[[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]]
