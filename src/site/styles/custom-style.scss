@@ -455,6 +455,11 @@ table td > picture {
     text-align: center !important;
 }
 
+/* Hide empty, redundant inline tag anchors */
+a.tag[href^="#"]:empty {
+    display: none !important;
+}
+
 /*                                              
                                                         
 ███████ █████  █▒  ▒█ ██████ █      █████  ██   █ ██████
