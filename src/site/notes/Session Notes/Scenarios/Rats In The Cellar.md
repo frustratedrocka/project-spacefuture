@@ -23,9 +23,9 @@ A successful, impossible decapitation strike against the [[Database/Things/Fishb
 > | ![Admin/Attachments/100 Human sci-fi faces/24.png\|sban cover](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/24.png)                      | **[[Database/People/Graciela Tor\|Graciela Tor]]**       | *New [[Database/Things/Fishbone\|Fishbone]] Chief Engineer*                          |
 > | ![Admin/Attachments/100 Human sci-fi faces/79.png\|sban cover](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/79.png)                      | **[[Database/People/Howe Nebreka\|Howe Nebreka]]**       | *New [[Database/Things/Fishbone\|Fishbone]] Helmsman*                                |
 > | ![Admin/Attachments/100 Human sci-fi faces/21.png\|sban cover](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/21.png)                      | **[[Database/People/Micah Brann\|Micah Brann]]**         | *[[Database/Things/Fishbone\|Fishbone]] Lead MS Tech*                                |
+> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Parlica Replize\|Parlica Replize]]** | *[[Database/Things/Fishbone\|Fishbone]] Duty Nurse*                                  |
 > | ![Admin/Attachments/Sven_SQ.webp\|sban cover](/img/user/Admin/Attachments/Sven_SQ.webp)                                       | **[[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]** | *Strategic & Skilled Field Commander*                      |
 > | ![Admin/Attachments/Brynhildr.webp\|sban cover](/img/user/Admin/Attachments/Brynhildr.webp)                                     | **[[Database/Things/Brynhildr\|Brynhildr]]**             | *Apsis pursuit cruiser*                                    |
-> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Parlica Replize\|Parlica Replize]]**                 | *[[Database/Things/Fishbone\|Fishbone]] Duty Nurse*                                  |
 > 
 { .block-language-dataview}
 

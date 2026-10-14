@@ -6,7 +6,7 @@
 > <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3btu7KplmQVJKbQ4Geb64v?utm_source=generator&si=b73b3cd6d8044c58" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Next: [[Session Notes/Session 03\|Session 03]] - Oct 27, 2026
-*[[Scenario 02\|Scenario 02]] Part 1*
+*[[Session Notes/Scenarios/Mission 02\|Mission 02]] Part 1*
 
 ## Where Are You
 Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], now promoted to First (and only) Wing through process of elimination. 

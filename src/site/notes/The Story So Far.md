@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-story-so-far/","tags":["index","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-11T23:44:18.022-04:00","dg-note-properties":{"tags":["index","tracker"]}}
+{"dg-publish":true,"permalink":"/the-story-so-far/","tags":["index","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-14T01:00:23.784-04:00","dg-note-properties":{"tags":["index","tracker"]}}
 ---
 
 # Pregame Setup
@@ -18,7 +18,7 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 </div></div>
 
 
-# Mission 1
+# Rats In The Cellar
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-notes/scenarios/rats-in-the-cellar/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -33,3 +33,17 @@ A successful, impossible decapitation strike against the [[Database/Things/Fishb
 
 </div></div>
 
+
+# Mission 2
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Summary
+
+> [!blank|flex embed clean] IMPACT
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Session 03.md" data-href="Session Notes/Session 03" href="Session Notes/Session 03.md" class="internal-link" target="_blank" rel="noopener nofollow">03</a></span></td><td><span><a data-href="Entity" href="Entity" class="internal-link" target="_blank" rel="noopener nofollow">Entity</a> Public</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+
+
+</div></div>
