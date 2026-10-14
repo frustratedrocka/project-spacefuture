@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/parlica-replize/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-13T23:19:15.008-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity"],"aliases":[null],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":null,"Origin":null,"Assoc":["[[Database/Things/Fishbone]]"],"Concept":"[[Fishbone]] Duty Nurse","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":[null],"MECH_Secret":false,"Armor":4,"MECH_Relationship":null,"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 3","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 2"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":105}}
+{"dg-publish":true,"permalink":"/database/people/parlica-replize/","tags":["npc","character","entity"],"noteIcon":"","updated":"2026-10-14T01:10:12.168-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity"],"aliases":[null],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/50.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":null,"Origin":null,"Assoc":["[[Database/Things/Fishbone]]"],"Concept":"[[Fishbone]] Duty Nurse","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":[null],"MECH_Secret":false,"Armor":4,"MECH_Relationship":null,"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 3","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 2"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":105}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Parlica Replize
-> ![Admin/Attachments/GenericFeddie_SQ.webp\|GenericFeddie_SQ.webp](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)
+> ![Admin/Attachments/100 Human sci-fi faces/50.png\|50.png](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/50.png)
 >
 > 
 >
