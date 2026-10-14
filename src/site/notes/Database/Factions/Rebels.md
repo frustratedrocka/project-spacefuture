@@ -46,18 +46,18 @@ The current mission is simple: Intercept excess food shipments and redirect them
 > 
 { .block-language-dataview}
 
-| Character                                               | Aspects                                                                                                            |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [[Database/People/Anatol Garza\|Anatol Garza]]       | Catatonic Rebel Ace \- Relationship \- Casualty Of War                                                             |
-| [[Database/People/Artel Ward\|Artel Ward]]           | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- Relationship \- `REDACTED`                                                             |
-| [[Database/People/Delbrau Enger\|Delbrau Enger]]     | New [[Database/Things/Fishbone\|Fishbone]] Lead Comms Officer \- [[Player Characters/Vergen Koni\|Verg]] Saved His Life \- Coerced Betrayal Via Captive Family |
-| [[Database/People/Gen Bashaba\|Gen Bashaba]]         | Fledgling [[Database/Things/Fishbone\|Fishbone]] shipmaster rising to the occasion \- Relationship \- `REDACTED`                             |
-| [[Database/People/Graciela Tor\|Graciela Tor]]       | New [[Database/Things/Fishbone\|Fishbone]] Chief Engineer \- Relationship \- `REDACTED`                                                      |
-| [[Database/People/Howe Nebreka\|Howe Nebreka]]       | New [[Database/Things/Fishbone\|Fishbone]] Helmsman \- Relationship \- `REDACTED`                                                            |
-| [[Database/People/Mashola Thorne\|Mashola Thorne]]   | [[Database/Things/Fishbone\|Fishbone]] Sensor Tech \- Relationship \- `REDACTED`                                                             |
-| [[Database/People/Micah Brann\|Micah Brann]]         | [[Database/Things/Fishbone\|Fishbone]] Lead MS Tech \- Relationship \- `REDACTED`                                                            |
-| [[Database/People/Parlica Replize\|Parlica Replize]] | [[Database/Things/Fishbone\|Fishbone]] Duty Nurse \- Relationship \- `REDACTED`                                                              |
-| [[Database/Things/Fishbone\|Fishbone]]               | Rebel Destroyer, Closest Thing To Home \- Relationship \- \-                                                       |
+| Character                                               | Aspects                                                                                                             |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [[Database/People/Anatol Garza\|Anatol Garza]]       | Catatonic Rebel Ace \- Relationship \- Casualty Of War                                                              |
+| [[Database/People/Artel Ward\|Artel Ward]]           | Grizzled [[Database/Things/Fishbone\|Fishbone]] XO \- Relationship \- `REDACTED`                                                              |
+| [[Database/People/Delbrau Enger\|Delbrau Enger]]     | Disgraced [[Database/Things/Fishbone\|Fishbone]] Comms Officer \- [[Player Characters/Vergen Koni\|Verg]] Saved His Life \- Coerced Betrayal Via Captive Family |
+| [[Database/People/Gen Bashaba\|Gen Bashaba]]         | Fledgling [[Database/Things/Fishbone\|Fishbone]] shipmaster rising to the occasion \- Relationship \- `REDACTED`                              |
+| [[Database/People/Graciela Tor\|Graciela Tor]]       | New [[Database/Things/Fishbone\|Fishbone]] Chief Engineer \- Relationship \- `REDACTED`                                                       |
+| [[Database/People/Howe Nebreka\|Howe Nebreka]]       | New [[Database/Things/Fishbone\|Fishbone]] Helmsman \- Relationship \- `REDACTED`                                                             |
+| [[Database/People/Mashola Thorne\|Mashola Thorne]]   | [[Database/Things/Fishbone\|Fishbone]] Sensor Tech \- Relationship \- `REDACTED`                                                              |
+| [[Database/People/Micah Brann\|Micah Brann]]         | [[Database/Things/Fishbone\|Fishbone]] Lead MS Tech \- Relationship \- `REDACTED`                                                             |
+| [[Database/People/Parlica Replize\|Parlica Replize]] | [[Database/Things/Fishbone\|Fishbone]] Duty Nurse \- Relationship \- `REDACTED`                                                               |
+| [[Database/Things/Fishbone\|Fishbone]]               | Rebel Destroyer, Closest Thing To Home \- Relationship \- \-                                                        |
 
 { .block-language-dataview}
 { #FactionTable}

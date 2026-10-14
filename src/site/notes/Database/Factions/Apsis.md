@@ -38,12 +38,12 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 
 >[!blank|static wfull]
 
-| Character                                                 | Aspects                                                                                                            |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [[Database/People/Delbrau Enger\|Delbrau Enger]]       | New [[Database/Things/Fishbone\|Fishbone]] Lead Comms Officer \- [[Player Characters/Vergen Koni\|Verg]] Saved His Life \- Coerced Betrayal Via Captive Family |
-| [[Database/People/The Man Upstairs\|The Man Upstairs]] | Expert Shipping Magnate \- Leading Your Enemy \- `REDACTED`                                                        |
-| [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]   | Strategic & Skilled Field Commander \- `REDACTED` \- `REDACTED`                                                    |
-| [[Database/Things/Brynhildr\|Brynhildr]]               | Apsis pursuit cruiser \- Relationship \- !h! Inanimate Object !/h!                                                 |
+| Character                                                 | Aspects                                                                                                             |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [[Database/People/Delbrau Enger\|Delbrau Enger]]       | Disgraced [[Database/Things/Fishbone\|Fishbone]] Comms Officer \- [[Player Characters/Vergen Koni\|Verg]] Saved His Life \- Coerced Betrayal Via Captive Family |
+| [[Database/People/The Man Upstairs\|The Man Upstairs]] | Expert Shipping Magnate \- Leading Your Enemy \- `REDACTED`                                                         |
+| [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]]   | Strategic & Skilled Field Commander \- `REDACTED` \- `REDACTED`                                                     |
+| [[Database/Things/Brynhildr\|Brynhildr]]               | Apsis pursuit cruiser \- Relationship \- !h! Inanimate Object !/h!                                                  |
 
 { .block-language-dataview}
 
