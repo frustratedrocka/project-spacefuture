@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/threads/rat-hunt/","tags":["tracker","thread","RAT_HUNT"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-14T00:32:59.090-04:00","dg-note-properties":{"tags":["tracker","thread","RAT_HUNT"],"status":"Closed","Any":["#RAT_HUNT"],"All":[null],"Exclude":[null]}}
+{"dg-publish":true,"permalink":"/threads/rat-hunt/","tags":["tracker","thread","RAT_HUNT"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-14T04:08:41.950-04:00","dg-note-properties":{"tags":["tracker","thread","RAT_HUNT"],"status":"Closed","Any":["#RAT_HUNT"],"All":[null],"Exclude":[null]}}
 ---
 
 ## Summary
@@ -34,7 +34,8 @@
 
 { .block-language-dataview}
 
-> [!blank]
+> [!blank] SHIPS
+
 | Ship                                        | Aspects                                                                                                         |
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | [[Database/Things/Brynhildr\|Brynhildr]] | Apsis pursuit cruiser, Relationship, Scourge of the deep belt, One battle, one Brynhildr, \-                    |
