@@ -36,9 +36,9 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 
 >[!blank|static wfull]
 
-| Character                                       | Aspects                                                                   |
-| ----------------------------------------------- | ------------------------------------------------------------------------- |
-| [[Database/People/Gen Bashaba\|Gen Bashaba]] | Fledgling shipmaster rising to the occasion \- Relationship \- `REDACTED` |
+| Character                                       | Aspects                                                                                |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [[Database/People/Gen Bashaba\|Gen Bashaba]] | Fledgling [[Database/Things/Fishbone\|Fishbone]] shipmaster rising to the occasion \- Relationship \- `REDACTED` |
 
 { .block-language-dataview}
 

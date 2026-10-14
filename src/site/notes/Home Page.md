@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-13T08:12:01.869-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 02]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-13T23:27:19.985-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
->[!infobox|right wsmall]
-> # LATEST OP
-> <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3Ft3GarGsTAAK4vC77zfNO?utm_source=generator&theme=0&si=1d4db610d8814c15" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
->
-# Next: [[Session Notes/Session 02\|Session 02]] - Oct 13, 2026
-*[[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]] Part 2*
+>[!infobox|wm-sm]
+> <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3btu7KplmQVJKbQ4Geb64v?utm_source=generator&si=b73b3cd6d8044c58" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# Next: [[Session Notes/Session 03\|Session 03]] - Oct 27, 2026
+*[[Scenario 02\|Scenario 02]] Part 1*
 
 ## Where Are You
 Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], now promoted to First (and only) Wing through process of elimination. 
@@ -15,19 +14,25 @@ Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Thing
 **[[Database/Things/Fishbone\|Fishbone]]** - Rebel Destroyer, Closest Thing To Home. Control: [[Database/Factions/Rebels\|Rebels]], Courtesy Of the Consortium
 
 ## What Are You Doing
-Investigating the traitor who enabled [[Database/People/Vantrin Almeyer\|Vantrin]]'s team to get inside sensor range undetected and take out the [[Database/Things/Fishbone\|Fishbone]]'s bridge.
+En route to drydock for critical repairs; actual destination [[Database/Glossary/Colony\|Colony]] remains on a need-to-know basis. 
 
 # Previously On Zero Sum
 
-| EP                                  | Impact                                                                                                                                                                                                       |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Session Notes/Session 01\|01]] | Original command staff and First Wing of the [[Database/Things/Fishbone\|Fishbone]] KIA by [[Database/People/Vantrin Almeyer\|Vantrin]] and the [[Database/Things/Brynhildr\|Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor      |
-| [[Session Notes/Session 01\|01]] | XO [[Database/People/Artel Ward\|Artel Ward]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]], Chief Engineer [[Database/People/Graciela Tor\|Graciela Tor]], Helmsman [[Database/People/Howe Nebreka\|Howe Nebreka]], Chief Comms Officcer [[Database/People/Delbrau Enger\|Delbrau Enger]]; others you don't already personally know |
-| [[Session Notes/Session 01\|01]] | [[Player Characters/Vergen Koni\|Vergen Koni]] rescues [[Database/People/Delbrau Enger\|Delbrau Enger]] from under debris                                                                                                                                                  |
-| [[Session Notes/Session 01\|01]] | [[Player Characters/August Grier\|August Grier]] puts his body on the line to keep the rest of Second Wing from venting into space when a cored suit breaches the hull                                                                       |
-| [[Session Notes/Session 01\|01]] | Rebel ace pilot [[Database/People/Anatol Garza\|Anatol Garza]] in critical condition; [[Database/Mobile Suits/EW-14 Gundam Makhairos\|EW-14 Gundam Makhairos]] destroyed along with the rest of First Wing                                                                               |
-| [[Session Notes/Session 01\|01]] | [[Player Characters/Lane Gable\|Lane]] gets the drop on [[Database/People/Vantrin Almeyer\|Vantrin]] and drives him off by frying his joints with [[Database/Mobile Suits/ES-01 Elegant Sky\|Elegant Sky]]'s EW suite                                                |
-| [[Session Notes/Session 01\|01]] | [[Player Characters/Menodora Thaliana\|Mena]] hails a retreating [[Database/People/Vantrin Almeyer\|Vantrin]]: "You see the state of our ship and your suits; let us go or you'll wish we'd killed you." "Acknowledged."                       |
+| EP                                  | Impact                                                                                                                                                                                                                                                                     |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 01\|01]] | Original command staff and First Wing of the [[Database/Things/Fishbone\|Fishbone]] KIA by [[Database/People/Vantrin Almeyer\|Vantrin]] and the [[Database/Things/Brynhildr\|Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor #RAT_HUNT                                                          |
+| [[Session Notes/Session 01\|01]] | XO [[Database/People/Artel Ward\|Artel Ward]] brevets new command: Captain [[Database/People/Gen Bashaba\|Gen Bashaba]], Chief Engineer [[Database/People/Graciela Tor\|Graciela Tor]], Helmsman [[Database/People/Howe Nebreka\|Howe Nebreka]], Chief Comms Officcer [[Database/People/Delbrau Enger\|Delbrau Enger]]; others you don't already personally know                                                               |
+| [[Session Notes/Session 01\|01]] | [[Player Characters/Vergen Koni\|Vergen Koni]] rescues [[Database/People/Delbrau Enger\|Delbrau Enger]] from under debris #RAT_HUNT                                                                                                                                                                                                      |
+| [[Session Notes/Session 01\|01]] | [[Player Characters/August Grier\|August Grier]] puts his body on the line to keep the rest of Second Wing from venting into space when a cored suit breaches the hull                                                                                                                                     |
+| [[Session Notes/Session 01\|01]] | Rebel ace pilot [[Database/People/Anatol Garza\|Anatol Garza]] in critical condition; [[Database/Mobile Suits/EW-14 Gundam Makhairos\|EW-14 Gundam Makhairos]] destroyed along with the rest of First Wing                                                                                                                                             |
+| [[Session Notes/Session 01\|01]] | [[Player Characters/Lane Gable\|Lane]] gets the drop on [[Database/People/Vantrin Almeyer\|Vantrin]] and drives him off by frying his joints with [[Database/Mobile Suits/ES-01 Elegant Sky\|Elegant Sky]]'s EW suite                                                                                                              |
+| [[Session Notes/Session 01\|01]] | [[Player Characters/Menodora Thaliana\|Mena]] hails a retreating [[Database/People/Vantrin Almeyer\|Vantrin]]: "You see the state of our ship and your suits; let us go or you'll wish we'd killed you." "Acknowledged."                                                                                     |
+| [[Session Notes/Session 02\|02]] | [[Player Characters/Lane Gable\|Lane Gable]] recovered data from wreck of the bridge via EVA. Data indicated a worm was deployed into the [[Database/Things/Fishbone\|Fishbone]]'s sensor systems 2 days prior to attack. #RAT_HUNT                                                                                                |
+| [[Session Notes/Session 02\|02]] | Investigation exposed [[Database/People/Delbrau Enger\|Delbrau Enger]] as the saboteur; he confessed that [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] was holding his family hostage on [[Database/Places/Colonies/Pallas\|Pallas]] to force his compliance. #RAT_HUNT                                                                                             |
+| [[Session Notes/Session 02\|02]] | [[Player Characters/Vergen Koni\|Vergen Koni]] stops [[Database/People/Howe Nebreka\|Howe Nebreka]] from summarily beating the shit out of [[Database/People/Delbrau Enger\|Del]] before [[Database/People/Gen Bashaba\|Gen Bashaba]] orders both to stand down. #RAT_HUNT                                                                                                           |
+| [[Session Notes/Session 02\|02]] | [[Player Characters/Vergen Koni\|Verg]] and [[Player Characters/Menodora Thaliana\|Menodora Thaliana]] get in a screaming match over what to do about [[Database/People/Delbrau Enger\|Del]], intense enough that it pings every other hive member on the [[Database/Things/Fishbone\|Fishbone]], notably the (for lack of better term) closeted [[Database/People/Graciela Tor\|Graciela Tor]] #RAT_HUNT |
+| [[Session Notes/Session 02\|02]] | [[Player Characters/August Grier\|August Grier]] escorted [[Database/People/Delbrau Enger\|Del]] to the brig on [[Database/People/Gen Bashaba\|Gen Bashaba]]'s orders; made clear he'd do much worse if it were up to him. Del's fate pending decision from Bashaba, after discussion with [[Database/People/Artel Ward\|Artel Ward]]. #RAT_HUNT                                    |
+| [[Session Notes/Session 02\|02]] | [[Player Characters/Lane Gable\|Lane Gable]] EVAs to his sealed-off quarters to retrieve box of cigars; had to bribe [[Database/People/Micah Brann\|Micah Brann]] with one of them                                                                                                                                                    |
 
 { .block-language-dataview}
 

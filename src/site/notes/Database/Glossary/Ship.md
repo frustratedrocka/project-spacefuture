@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/ship/","tags":["lore","index"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-11T23:44:19.458-04:00","dg-note-properties":{"tags":["lore","index"]}}
+{"dg-publish":true,"permalink":"/database/glossary/ship/","tags":["lore","index"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-13T23:38:12.680-04:00","dg-note-properties":{"tags":["lore","index"]}}
 ---
 
 ## A brief history of space battles
@@ -24,6 +24,9 @@ If you're sitting, lying down, or otherwise attached to furniture, you are liter
 
 >[!note] On The Other Hand...
 >This is not *that* hard science fiction, and zero g *sucks*. Gundam itself is, generously, less than consistent about how it actually presents spaceship gravity, up to and including at least one instance of a character taking a bubble bath while on a ship in flight. So feel free to mostly treat this as flavor except when the problems of zero gravity are dramatically relevant.
+
+## Communications
+Solar-scale communication requires approximately one fuckton of power per light-second per kilobyte. In/out communication is therefore extremely restricted and slow - think airplane wifi where local devices piggyback of the vehicle's connection. Also like airplane wifi, the ship's servers store a large quantity of material that gets updated to the greatest extent possible during handshakes with colonies and satellites. This largely means intel, technical documents, and other requirements for keeping the ship running. On most vessels, this also includes media - books, movies, games, etc. - to keep crews from losing their minds or finding more *creatively disastrous* ways to entertain themselves on long voyages. Rarely official; evern more rarely does command decide to notice.
 
 ```base
 filters:
