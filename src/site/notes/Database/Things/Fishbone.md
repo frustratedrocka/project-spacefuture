@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["npc","character","entity","ship","weird","location"],"noteIcon":"","updated":"2026-10-14T03:44:40.438-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":[[null],[null],[null]],"Breakdown":["2 Dnt ::: ","2 Dmg ::: Gaping Hole In Hull","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity","ship","weird","location"],"aliases":null,"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":null,"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Loyalty":null,"Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":8,"MECH_Model":null,"MECH_Secret":null,"Armor":8,"MECH_Relationship":"Relationship","Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":104}}
+{"dg-publish":true,"permalink":"/database/things/fishbone/","tags":["npc","character","entity","ship","weird","location"],"noteIcon":"","updated":"2026-10-14T16:33:43.647-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":8,"Consequences":[[null],[null],[null]],"Breakdown":["2 Dnt ::: ","2 Dmg ::: Gaping Hole In Hull","4 Dsbl ::: Wrecked Point Defenses","6 Doom ::: "],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity","ship","weird","location"],"aliases":null,"Portrait":"[[Admin/Attachments/PCShip.webp]]","Type":"[[Database/Glossary/Ship]]","Class":"[[Database/Glossary/Ship|Guernica-Class Destroyer]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Courtesy Of the Consortium","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Rank":5,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":null,"Concept":"Rebel Destroyer, Closest Thing To Home","Relationship":"Relationship","Loyalty":null,"Aspects":["Courtesy Of [[Jovian Consortium|the Consortium]]",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":8,"MECH_Model":null,"MECH_Secret":null,"Armor":8,"MECH_Relationship":"Relationship","Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":104}}
 ---
 
 # 
 
-> [!infobox|left wsmall embed] CHARACTER
+> [!infobox|left wsmall embed table-unwrap-coulumn-1] CHARACTER
 > # Fishbone
 > ![Admin/Attachments/PCShip.webp\|PCShip.webp](/img/user/Admin/Attachments/PCShip.webp)
 >
@@ -18,13 +18,11 @@
 >> |**ASSOC.**|<span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 >> |**ARMOR**|`REDACTED`|
 >
->> [!blank|clean embed tbl-u-1] BREAKDOWN
->>  | Harm   | Breakdown           |
->> | ------ | ------------------- |
->> | 2 Dnt  |                     |
->> | 2 Dmg  | Gaping Hole In Hull |
->> | 4 Dsbl |                     |
->> | 6 Doom |                     |
+>> [!blank|table-unwrap-column-1] BREAKDOWN
+>>  | Harm   | Breakdown              |
+>> | ------ | ---------------------- |
+>> | 2 Dmg  | Gaping Hole In Hull    |
+>> | 4 Dsbl | Wrecked Point Defenses |
 >> 
 { .block-language-dataview}
 

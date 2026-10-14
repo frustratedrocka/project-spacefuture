@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-13T23:59:05.557-04:00","dg-note-properties":{"Advances_Banked":1,"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Shield","Beam Rifle"],"tags":["pc","character","entity","pilot"],"aliases":["Lane"],"Player":"[[Admin/Player/Nestor]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Lane_Sq.webp]]","Portrait_Zoom":"[[Admin/Attachments/Lane_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":["[[Database/Places/Colonies/Arjuna]]"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke."],"Strain":4,"MECH_Model":["[[Database/Mobile Suits/ES-01 Elegant Sky]]"],"Armor":4,"MECH_Relationship":"My Last Piece Of Earth","Skills":["Acquire 0","Fight 0","Interface 2","Know 0","Lead 1","Move 0","Network 0","Notice 2","Operate 1","Persevere 0","Shoot 3","Sway 1","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 2","Boldly 1","Forcefully 1","Cleverly 2","Subtly 3","Carefully 1"],"cl":108}}
+{"dg-publish":true,"permalink":"/player-characters/lane-gable/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-14T17:41:46.369-04:00","dg-note-properties":{"Advances_Banked":1,"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Shield","Beam Rifle"],"tags":["pc","character","entity","pilot"],"aliases":["Lane"],"Player":"[[Admin/Player/Nestor]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Lane_Sq.webp]]","Portrait_Zoom":"[[Admin/Attachments/Lane_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"Origin":"[[Database/Places/Earth]]","Assoc":["[[Database/Places/Colonies/Arjuna]]"],"Concept":"Pirate Turned Freedom Fighter","Trouble":"\"If Not Me, Then Nobody\"","Aspects":["Everyone Dies Around Me","Underdogs Can Win","Can Solve Things Without Violence","Free Aspect"],"Stunts":["**I SHOT FIRST** Once per session, when you successfully Notice to defend against someone's attempt to harm you, you may attack them first, regardless of other ordering rules. If you are in a conflict, you may spend a fate point when you do this; if you don't, the attack replaces your declared action for the round.","**JUST A MACHINE** You take a function-first approach to your mech, treating it as a vehicle like any other. You may Operate instead Moving while piloting your mech.","**LEAD THE ATTACK** When you successfully Lead to create an advantage by pointing out an enemy target, gain an extra free invoke."],"Strain":4,"MECH_Model":["[[Database/Mobile Suits/ES-01 Elegant Sky]]"],"Armor":4,"MECH_Relationship":"My Last Piece Of Earth","Skills":["Acquire 0","Fight 0","Interface 2","Know 0","Lead 1","Move 0","Network 0","Notice 2","Operate 1","Persevere 0","Shoot 3","Sway 1","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 2","Boldly 1","Forcefully 1","Cleverly 2","Subtly 3","Carefully 1"],"cl":110}}
 ---
 
 # 
@@ -72,20 +72,21 @@
  > 
  > **[[Session Notes/Session 02\|What in your quarters are you most upset about losing access to?]]**
  > Box of good cigars
+ > 
+ > 
  
- 
-## Preflight RITUAL
-Brief meditation while waiting for his turn on the catapult. Priority checks are weapons and thruster control.
-
-## Phase Trio
-### Phase One: Inciting Incident
-Attempted to pirate a [[Database/Factions/Jovian Consortium\|Jovian Consortium]] supply run, but they had been waiting. Lost the rest of his pirate band but managed to take the supplies.
-
-### Phase Two: Crossing Paths
-[[Player Characters/Menodora Thaliana\|Menodora Thaliana]] and Lane met at the gladiator pit, and Lane decided to put a bet on her mech, (bad odds) as a lark, only to be impressed by what she pulled off. 
-
-### Phase Three: Crossing Paths
-What started as a race for goods, quickly became a cooperative hit on another supply run. Where Lane's suit faltered from previous damage, [[Player Characters/Vergen Koni\|Verg]] helped pick up the slack.
+> [!columns|3]+ PHASE TRIO
+> **Phase One: Inciting Incident**
+> Attempted to pirate a [[Database/Factions/Jovian Consortium\|Jovian Consortium]] supply run, but they had been waiting. Lost the rest of his pirate band but managed to take the supplies.
+> *"Everyone Dies Around Me"*
+> 
+> **Phase Two: Crossing Paths**
+> [[Player Characters/Menodora Thaliana\|Menodora Thaliana]] and Lane met at the gladiator pit, and Lane decided to put a bet on her mech, (bad odds) as a lark, only to be impressed by what she pulled off. 
+> *"Underdogs Can Win"*
+> 
+> **Phase Three: Crossing Paths**
+> What started as a race for goods, quickly became a cooperative hit on another supply run. Where Lane's suit faltered from previous damage, [[Player Characters/Vergen Koni\|Verg]] helped pick up the slack.
+> *"Can Solve Things Without Violence"*
 
 
 

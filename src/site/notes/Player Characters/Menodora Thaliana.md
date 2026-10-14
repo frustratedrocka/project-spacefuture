@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-13T23:56:05.984-04:00","dg-note-properties":{"Advances_Banked":1,"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Mining Drill","Club"],"tags":["pc","character","entity","pilot"],"aliases":["Mena"],"Player":"[[Admin/Player/Cynthia]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Places/Charun]]"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"Strain":7,"MECH_Model":["[[Database/Mobile Suits/Kerbstomp]]"],"Armor":4,"MECH_Relationship":"My Ticket Out","Skills":["Acquire 1","Fight 2","Interface 0","Know 0","Lead 0","Move 0","Network 2","Notice 0","Operate 0","Persevere 3","Shoot 0","Sway 0","Tend 0","Tinker 1","Understand 1"],"Approaches":["Quickly 1","Boldly 2","Forcefully 3","Cleverly 2","Subtly 1","Carefully 1"],"cl":108}}
+{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-14T17:40:00.063-04:00","dg-note-properties":{"Advances_Banked":1,"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Mining Drill","Club"],"tags":["pc","character","entity","pilot"],"aliases":["Mena"],"Player":"[[Admin/Player/Cynthia]]","SESH_Start":"[[Session Notes/Session 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Places/Charun]]"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"Strain":7,"MECH_Model":["[[Database/Mobile Suits/Kerbstomp]]"],"Armor":4,"MECH_Relationship":"My Ticket Out","Skills":["Acquire 1","Fight 2","Interface 0","Know 0","Lead 0","Move 0","Network 2","Notice 0","Operate 0","Persevere 3","Shoot 0","Sway 0","Tend 0","Tinker 1","Understand 1"],"Approaches":["Quickly 1","Boldly 2","Forcefully 3","Cleverly 2","Subtly 1","Carefully 1"],"cl":110}}
 ---
 
 # 
@@ -72,19 +72,21 @@
 > 
 > **[[Session Notes/Session 02\|What in your quarters are you most upset about losing access to?]]**
 > Painkillers, for migraines from [[Database/History/The Hive Mind\|The Hive Mind]] connection
+> 
+> 
 
-## Phase Trio
-
-### Phase One: Inciting Incident
-Got involved in [[Database/Glossary/Fight Pits\|mobile suit gladiator fighting]] with [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]. With word of the rebellion, decided to join up because maybe it would help her find out who was responsible for the Moondrop.
-
-### Phase Two: Crossing Paths
-
-[[Player Characters/Vergen Koni\|Vergen Koni]] had pinged a connection with [[Database/History/The Hive Mind\|The Hive Mind]] from Menodora. Finding another Hive-Linked individual, He and her seem to be Kindred spirits. 
-
-### Phase Three: Crossing Paths
-
-[[Player Characters/August Grier\|August Grier]] found his way to the [[Database/Glossary/Fight Pits\|fighting pits]], not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.  
+> [!columns|3]+ PHASE TRIO
+> **Phase One: Inciting Incident**
+> Got involved in [[Database/Glossary/Fight Pits\|mobile suit gladiator fighting]] with [[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]. With word of the rebellion, decided to join up because maybe it would help her find out who was responsible for the Moondrop.
+> *"It's Good To be Underestimated"*
+> 
+> **Phase Two: Crossing Paths**
+> [[Player Characters/Vergen Koni\|Vergen Koni]] had pinged a connection with [[Database/History/The Hive Mind\|The Hive Mind]] from Menodora. Finding another Hive-Linked individual, He and her seem to be Kindred spirits. 
+> *"Allies In Strange Places"*
+> 
+> **Phase Three: Crossing Paths**
+> [[Player Characters/August Grier\|August Grier]] found his way to the [[Database/Glossary/Fight Pits\|fighting pits]], not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.  
+> *"No Such Thing As A Hard 'No'"*
 
 
 

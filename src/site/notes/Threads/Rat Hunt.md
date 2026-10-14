@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/threads/rat-hunt/","tags":["tracker","thread","RAT_HUNT"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-14T04:08:41.950-04:00","dg-note-properties":{"tags":["tracker","thread","RAT_HUNT"],"status":"Closed","Any":["#RAT_HUNT"],"All":[null],"Exclude":[null]}}
+{"dg-publish":true,"permalink":"/threads/rat-hunt/","tags":["tracker","thread","RAT_HUNT"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-14T10:32:26.384-04:00","dg-note-properties":{"tags":["tracker","thread","RAT_HUNT"],"status":"Closed","Any":["#RAT_HUNT"],"All":[null],"Exclude":[null]}}
 ---
 
 ## Summary
@@ -28,9 +28,9 @@
 
 >[!blank] LOCATIONS
 
-| Location                                       | Concept | Trouble | Faction                                           | Control | Presence |
-| ---------------------------------------------- | ------- | ------- | ------------------------------------------------- | ------- | -------- |
-| [[Database/Places/Colonies/Pallas\|Pallas]] | \-      | \-      | [[Database/Factions/Independent\|Independent]] | \-      | \-       |
+| Location                                       | Concept                            | Trouble | Faction                                           | Control      | Presence                                                                                                                           |
+| ---------------------------------------------- | ---------------------------------- | ------- | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| [[Database/Places/Colonies/Pallas\|Pallas]] | !r! Cold War Vienna In Space? !/r! | \-      | [[Database/Factions/Independent\|Independent]] | Den Of Spies | [[Database/Factions/Apsis\|Apsis]]<br>[[Database/Factions/Rebels\|Rebels]]<br>[[Database/Factions/Republic Of Mars\|ROM]] |
 
 { .block-language-dataview}
 
