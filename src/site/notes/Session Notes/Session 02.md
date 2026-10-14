@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-13T18:02:36.138-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/People/Howe Nebreka]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Micah Brann]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":["[[Entity]] Public ::: Private ::: 00YY-MM-DD"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[Cynthia]] ::: Star ::: Wish","[[Nestor]] ::: Star ::: Wish","[[Daeon]] ::: Star ::: Wish","[[Mike]] ::: Star ::: Wish"]}}
+{"dg-publish":true,"permalink":"/session-notes/session-02/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-13T21:59:58.247-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-13","SESH_Name":"Operation Bilge Rat","SESH_Next":"[[Session Notes/Session 03]]","SESH_Prev":"[[Session Notes/Session 01]]","Scenario":"[[Session Notes/Scenarios/Rats In The Cellar]]","Scenario_Index":2,"Logline":"The rat hunt commences as the Fishbone limps towards drydock and the crew mourn the fallen.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/People/Howe Nebreka]]","[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Micah Brann]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":["#DECLARED [[Menodora Thaliana|Mena]] & [[Vergen Koni|Verg]] as hive have very basic telepathy if physically proximate to other hive - emotional rebus. [[Vergen Koni|Verg]] has a physical mark on his face that looks like a burn but isn't that slightly pulates when using this."],"Changelog":["[[Vergen Koni]] ::: Shoot 2, Notice 1 ::: Notice 2, Shoot 1","[[August Grier]] ::: Persevere 3, Shoot 2 ::: Shoot 3, Persevere 2",null],"Stars_Wishes":["[[Ben]] ::: Everyone's handling of the argument, esp. the above table checkin going in ::: Drag the mystery out a bit longer","[[Cynthia]] ::: Everyone going at each other's throats, knowing there's trust enough to do it without it being personal ::: Continue finding footing in character and see what that leads to; keep getting really personal w/ Brynhildr and Vantrin","[[Daeon]] ::: Everyone handling their shit well, finding their footing, OOC checkin ::: I talk less, felt like I was doing maybe a little too much","[[Mike]] ::: All the back and forth, tension, able to go off on each other and keep it IC ::: Still not finding Auggie's voice as naturally as I did with Frost. He's supposed to be less comeposed, more chomping at the bit","[[Nestor]] ::: Everyone's roleplaying was good, also the whole game setup, driving wedges and hard character decisions ::: Another mech fight!"]}}
 ---
 
 
@@ -34,7 +34,7 @@
 >> **[[Player Characters/Vergen Koni\|Verg]]**
 >
 >---
->
+> 
 >## Appearing
 > | NPCs |
 >| ---- |
@@ -80,13 +80,13 @@
 
 
 ## Stars & Wishes
-| Player     | Stars | Wishes |
-| ---------- | ----- | ------ |
-| `REDACTED` | Star  | Star   |
-| `REDACTED` | Star  | Star   |
-| `REDACTED` | Star  | Star   |
-| `REDACTED` | Star  | Star   |
-| `REDACTED` | Star  | Star   |
+| Player     | Stars                                                                                                   | Wishes                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| `REDACTED` | Everyone's handling of the argument, esp. the above table checkin going in                              | Drag the mystery out a bit longer                                                                                               |
+| `REDACTED` | Everyone going at each other's throats, knowing there's trust enough to do it without it being personal | Continue finding footing in character and see what that leads to; keep getting really personal w/ Brynhildr and Vantrin         |
+| `REDACTED` | Everyone handling their shit well, finding their footing, OOC checkin                                   | I talk less, felt like I was doing maybe a little too much                                                                      |
+| `REDACTED` | All the back and forth, tension, able to go off on each other and keep it IC                            | Still not finding Auggie's voice as naturally as I did with Frost. He's supposed to be less comeposed, more chomping at the bit |
+| `REDACTED` | Everyone's roleplaying was good, also the whole game setup, driving wedges and hard character decisions | Another mech fight!                                                                                                             |
 
 { .block-language-dataview}
 # 

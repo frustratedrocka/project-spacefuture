@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T10:04:01.770-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-13T21:53:34.570-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Pilot Creation
@@ -179,7 +179,7 @@ Breakthroughs occur at the **END OF A SCENARIO**. They are more significant than
 - Rewrite your character's high concept, if you care to.
 - If you have any moderate or severe [[Rules/4 Challenges, Conflicts, & Contests#Consequences\|consequences]] not yet in recovery, you can begin the recovery process and rename them. Any that were in recovery may now be cleared.
 - If you have an extreme consequence that has not yet been renamed, you may rename it now. Extreme consequences can never be cleared, only processed.
-- Switch the ratings of any two approaches that are within 1 step of each other (e.g. switch Carefully 2 and Subtly 3; becomes Carefully 3, Subtly 2). 
+- Switch the ratings of any two approaches that are within 1 rank of each other (e.g. switch Carefully 2 and Subtly 3; becomes Carefully 3, Subtly 2). 
 - Choose one:
 	- Increase the rating of one skill by 1.
 	- Add a new skill to your sheet at Adequate (1) rating.
