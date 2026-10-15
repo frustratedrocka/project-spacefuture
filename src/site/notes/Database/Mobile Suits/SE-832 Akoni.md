@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/se-832-akoni/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-11T23:44:19.675-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Akoni"],"Portrait":"[[Admin/Attachments/Akoni_SQ.webp]]","MECH_Concept":"Apsis's First Line of Offense","MECH_Trouble":"Not Meant To Take Punishment","MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto","[[Database/Things/Neutron Accelerator Cannon]]"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mechs","**SUPPRESSION BARRAGE** +1 when you Shoot to create an advantage involving area denial"],"Faction":["[[Database/Factions/Apsis]]"],"DEV_From":null,"Assoc":["[[Database/Things/Brynhildr]]"],"cl":101}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/se-832-akoni/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-15T16:09:36.511-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Akoni"],"Portrait":"[[Admin/Attachments/Akoni_SQ.webp]]","MECH_Concept":"Apsis's First Line of Offense","MECH_Trouble":"Not Meant To Take Punishment","MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto","[[Database/Things/Neutron Accelerator Cannon]]"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mechs","**SUPPRESSION BARRAGE** +1 when you Shoot to create an advantage involving area denial"],"Faction":["[[Database/Factions/Apsis]]"],"DEV_From":null,"Assoc":["[[Database/Things/Brynhildr]]"],"cl":101}}
 ---
 
 # 
@@ -26,7 +26,7 @@
 
 # Notes
 
-The face of institutional violence in the late [[Database/History/Emergent Century\|Emergent Century]]. Apsis commissioned a "dedicated [[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]] killer," and [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] delivered. The Akoni series is meant to hit first and hit hard.
+The face of institutional violence in the late [[Database/History/Emergent Century Timeline\|Emergent Century Timeline]]. Apsis commissioned a "dedicated [[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]] killer," and [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] delivered. The Akoni series is meant to hit first and hit hard.
 
 ## Data
 

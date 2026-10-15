@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-14T08:44:31.130-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-15T16:09:36.531-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 >[!infobox|wm-sm]
@@ -27,7 +27,7 @@ En route to drydock for critical repairs; actual destination [[Database/Glossary
 | [[Session Notes/Session 01\|01]] | Rebel ace pilot [[Database/People/Anatol Garza\|Anatol Garza]] in critical condition; [[Database/Mobile Suits/EW-14 Gundam Makhairos\|EW-14 Gundam Makhairos]] destroyed along with the rest of First Wing                                                                                                                                                        |
 | [[Session Notes/Session 01\|01]] | [[Player Characters/Lane Gable\|Lane]] gets the drop on [[Database/People/Vantrin Almeyer\|Vantrin]] and drives him off by frying his joints with [[Database/Mobile Suits/ES-01 Elegant Sky\|Elegant Sky]]'s EW suite                                                                                                                         |
 | [[Session Notes/Session 01\|01]] | [[Player Characters/Menodora Thaliana\|Mena]] hails a retreating [[Database/People/Vantrin Almeyer\|Vantrin]]: "You see the state of our ship and your suits; let us go or you'll wish we'd killed you." "Acknowledged."                                                                                                |
-| [[Session Notes/Session 02\|02]] | [[Player Characters/Lane Gable\|Lane Gable]] recovers data from wreck of the bridge via EVA indicating a worm was deployed into the [[Database/Things/Fishbone\|Fishbone]]'s sensor systems 2 days prior to attack. #RAT_HUNT                                                                                                                 |
+| [[Session Notes/Session 02\|02]] | [[Player Characters/Lane Gable\|Lane Gable]] recovers data from wreck of the bridge via EVA indicating a worm was deploy`ed into the [[Database/Things/Fishbone\|Fishbone]]'s sensor systems 2 days prior to attack. #RAT_HUNT                                                                                                                |
 | [[Session Notes/Session 02\|02]] | Investigation exposes [[Database/People/Delbrau Enger\|Delbrau Enger]] as the saboteur; he confesses that [[Database/People/Vantrin Almeyer\|Vantrin Almeyer]] is holding his family hostage on [[Database/Places/Colonies/Pallas\|Pallas]] to force his compliance. #RAT_HUNT                                                                                                         |
 | [[Session Notes/Session 02\|02]] | [[Player Characters/Vergen Koni\|Vergen Koni]] stops [[Database/People/Howe Nebreka\|Howe Nebreka]] from summarily beating the shit out of [[Database/People/Delbrau Enger\|Del]], both for the sabotage itself and for not telling the rebels about the hostage situation to maybe organize a rescue, before [[Database/People/Gen Bashaba\|Gen Bashaba]] orders both to stand down. #RAT_HUNT |
 | [[Session Notes/Session 02\|02]] | [[Player Characters/Vergen Koni\|Verg]] and [[Player Characters/Menodora Thaliana\|Menodora Thaliana]] get in a screaming match over what to do about [[Database/People/Delbrau Enger\|Del]], intense enough that it pings every other hive member on the [[Database/Things/Fishbone\|Fishbone]], notably the (for lack of better term) closeted [[Database/People/Graciela Tor\|Graciela Tor]] #RAT_HUNT            |
@@ -76,14 +76,14 @@ En route to drydock for critical repairs; actual destination [[Database/Glossary
 >
 >**[[The Story So Far\|The Story So Far]]**
 >
->**[[Database/History/Emergent Century\|EC Timeline]]**
+>**[[Database/History/Emergent Century Timeline\|EC Timeline]]**
 >
 >**[[Solar Map\|Solar Map]]**
 >
 >**[[Mech Catalog\|Mech Catalog]]**
 
 # Fiction Primer
-It is the year 0092 of the [[Database/History/Emergent Century\|Emergent Century]], and...
+It is the year 0092 of the [[Database/History/Emergent Century Timeline\|Emergent Century Timeline]], and...
 
 ## The System Is At War
 Eleven years ago, [[Database/History/The Ground War\|The Ground War]] ended with the formation of [[Database/Factions/Apsis\|Apsis]] as an ostensibly-neutral mediating body to prevent humanity's death by self-inflicted starvation. 
