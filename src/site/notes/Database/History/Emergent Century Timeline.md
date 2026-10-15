@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/emergent-century-timeline/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-15T16:14:17.578-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/emergent-century-timeline/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-15T16:19:09.240-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
@@ -53,4 +53,3 @@ XO <a data-href="Artel Ward" href="Artel Ward" class="internal-link" target="_bl
 <p dir="auto">Investigation exposes <a data-href="Delbrau Enger" href="Delbrau Enger" class="internal-link" target="_blank" rel="noopener nofollow">Delbrau Enger</a> as the saboteur; he confesses that <a data-href="Vantrin Almeyer" href="Vantrin Almeyer" class="internal-link" target="_blank" rel="noopener nofollow">Vantrin Almeyer</a> is holding his family hostage on <a data-href="Pallas" href="Pallas" class="internal-link" target="_blank" rel="noopener nofollow">Pallas</a> to force his compliance. <a href="#RAT_HUNT" class="tag" target="_blank" rel="noopener nofollow">#RAT_HUNT</a><br>-- <em><a data-tooltip-position="top" aria-label="Session Notes/Session 02.md" data-href="Session Notes/Session 02.md" href="Session Notes/Session 02.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 02</a></em> <br></p>
 </div></div>
 </div></div></span></p>
-
