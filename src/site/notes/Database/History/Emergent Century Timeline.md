@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/emergent-century-timeline/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-15T16:21:42.138-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/emergent-century-timeline/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-15T16:22:04.434-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
-> [!timeline|no-icon no-fancy no-icon bg-c-gray ttl-c]- The Hive Emerges
+> [!timeline|no-icon no-icon bg-c-gray ttl-c]- The Hive Emerges
 >
 >> [!|no-icon bg-c-gray]+ EC 0072
 >> Fungal infection first takes root in wheat exports. First infectees report strange symptoms. 
@@ -11,7 +11,7 @@
 >> [!|no-icon bg-c-gray]+ EC 0073 - EC 0075 - Growing Awareness
 >> As infection spreads, [[Database/History/The Hive Mind\|The Hive Mind]] starts to realize what's happening and accrete into a single unified political entity. Fear and general human shittiness lead to quarantines, crackdowns, atrocities, exploitation, and development of [[Database/Things/Hivetech\|Hivetech]].
 
-> [!timeline|no-icon no-fancy no-icon bg-c-gray ttl-c]- **[[Database/History/The Ground War\|The Ground War]]**
+> [!timeline|no-icon no-icon bg-c-gray ttl-c]- **[[Database/History/The Ground War\|The Ground War]]**
 >> [!|no-icon bg-c-gray]+ EC 0076
 >> The conflict that will become known as [[Database/History/The Ground War\|The Ground War]] begins. Open violence erupts as [[Database/Places/Earth\|Earth]], [[Database/Places/Mars Sphere/Mars\|Mars]], [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], and[[Database/Glossary/The Belt\|The Belt]] all start fighting - initially over what to do about the Hive situation. Long-simmering resentments forced into the open fuel a spiral of destructive escalation.
 >
@@ -27,7 +27,7 @@
 >> [!|no-icon bg-c-gray]+ EC 0081 - The Ceres Accords
 >>The war *officially* ends in a truce and an armistice rather than a surrender. Unofficially, it's a stalemate that still heavily favors the [[Database/Factions/Jovian Consortium\|Jovian Consortium]]. [[Database/Factions/Apsis\|Apsis]] is established on [[Database/Places/Colonies/Ceres\|Ceres]] as an ostensibly-neutral body under the oversight of stellar shipping magnate [[Database/People/The Man Upstairs\|The Man Upstairs]].
 
->[!TIMELINE| no-fancy no-icon bg-c-gray ttl-c]- Here We Go Again
+>[!TIMELINE|no-icon bg-c-gray ttl-c]- Here We Go Again
 >
 >> [!|no-icon bg-c-gray]+ 2 Feb 0092
 >> Eleven years since the Accords, Apsis are all-but-openly anything but neutral. An Apsis reallocation cuts rations to the colonies of [[Database/Places/Colonies/Kelly\|Kelly]], [[Database/Places/Colonies/Arjuna\|Arjuna]], and [[Database/Places/Colonies/Geb\|Geb]] below starvation levels, as retaliation for increasingly serious demonstration against Apsis's restrictions.
