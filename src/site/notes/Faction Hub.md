@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-11T23:44:20.363-04:00","dg-note-properties":{"tags":["tracker","index"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-15T03:05:22.717-04:00","dg-note-properties":{"tags":["tracker","index"]}}
 ---
-
 
 # Factions
 
@@ -461,3 +460,5 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 { .block-language-dataview}
 
 </div></div>
+
+
