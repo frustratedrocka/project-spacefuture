@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/emergent-century-timeline/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-15T16:22:04.434-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/emergent-century-timeline/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-15T16:22:34.841-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
@@ -38,7 +38,7 @@
 >> [!|no-icon bg-c-gray]+ Spring & Summer 0092
 >>  The [[Database/Factions/Rebels\|Rebels]] emerge as a semi-unified, cell-based guerilla force made of [[Database/Factions/Armada Ejecta\|Armada Ejecta]], [[Database/Factions/Jovian Consortium\|Jovian Consortium]] defectors, [[Database/Factions/Republic Of Mars\|Martian]] militants, and civilians who are taking the opportunity to join up and actually fight for change. The young rebellion is receiving a surprising amount of under-the-table backing from within the political establishment, and significant open backing from those Belt colonies they're able to reliably defend.
 
-<p><span><div data-callout-metadata="no-icon  bg-c-purple ttl-c" data-callout-fold="" data-callout="timeline" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">CAMPAIGN START</div></div><div class="callout-content">
+<p><span><div data-callout-metadata="no-icon  bg-c-red ttl-c" data-callout-fold="" data-callout="timeline" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">CAMPAIGN START</div></div><div class="callout-content">
 <div data-callout-metadata="no-icon bg-c-white" data-callout-fold="+" data-callout="" class="callout is-collapsible node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">5 Sep 0092</div><div class="callout-fold"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevron-down"><path d="m6 9 6 6 6-6"></path></svg></div></div><div class="callout-content">
 <p dir="auto"><a href="#INTEL" class="tag" target="_blank" rel="noopener nofollow">#INTEL</a> <a data-href="Vantrin Almeyer" href="Vantrin Almeyer" class="internal-link" target="_blank" rel="noopener nofollow">Vantrin Almeyer</a> turns <a data-href="Delbrau Enger" href="Delbrau Enger" class="internal-link" target="_blank" rel="noopener nofollow">Delbrau Enger</a> as an unwilling asset by holding his family hostage on <a data-href="Pallas" href="Pallas" class="internal-link" target="_blank" rel="noopener nofollow">Pallas</a><br>-- <em><a data-tooltip-position="top" aria-label="Session Notes/Session 02.md" data-href="Session Notes/Session 02.md" href="Session Notes/Session 02.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 02</a></em> <br></p>
 </div></div>
