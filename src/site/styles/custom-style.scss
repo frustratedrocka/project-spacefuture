@@ -679,6 +679,61 @@ a.tag[href^="#"]:empty {
         - var(--timeline-line-width) / 2
     );
 }
+
+
+/* =========================================================
+   TIMELINE - PADDING AND CONNECTOR CORRECTIONS
+   ========================================================= */
+
+.callout[data-callout="timeline"] {
+    --timeline-gap: 24px;
+    --timeline-line-color: var(--text-muted);
+}
+
+/* Outer timeline padding and vertical spacing */
+.callout[data-callout="timeline"]
+> .callout-content {
+    padding: 18px 12px 24px !important;
+    row-gap: 12px;
+}
+
+/* Allow connectors and nodes to extend outside cards */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout {
+    overflow: visible !important;
+}
+
+/* Padding inside individual event cards */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout
+> .callout-content {
+    padding: 12px 16px !important;
+}
+
+/* Horizontal connectors */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout::before {
+    display: block;
+    z-index: 2;
+    background-color: var(--timeline-line-color);
+    pointer-events: none;
+}
+
+/* Circular nodes */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout::after {
+    display: block;
+    z-index: 3;
+    background-color: var(--background-primary);
+    border-color: var(--timeline-line-color);
+    pointer-events: none;
+}
+
+
 /* =========================================================
             uuuuuuuuuuuuuuuuuuuu
           u" uuuuuuuuuuuuuuuuuu "u
