@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T10:05:39.330-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-22T16:42:14.030-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -33,7 +33,7 @@ There are 15 skills in this game, each of which is a verb that covers a broad ra
 |     [[Rules/3 Skills, Approaches, & Stunts# Tinker\|Tinker]]     |    X     |        X         |        |        |
 | [[Rules/3 Skills, Approaches, & Stunts# Understand\|Understand]] |    X     |        X         |        |   X    |
 ## Untrained Action
-Your character having a skill ranked on their sheet at all means they're **AT LEAST ADEQUATE** at it - notable competence under pressure through training, inclination, or intuition, even if it's not their focus. But there may be situations where what you're trying to do falls under a skill that you have no rank in. In these cases, roll a number of dice equal to your **WEAKEST APPROACH** against the opposition. For example, if someone's not in especially good shape (no Move rank), they can still at least attempt to run for their life in an emergency.
+Your character having a skill ranked on their sheet at all means they're **AT LEAST ADEQUATE** at it - notable competence under pressure through training, inclination, or intuition, even if it's not their focus. But there may be situations where what you're trying to do falls under a skill that you have no rank in. In these cases, roll a number of dice equal to your **WEAKEST APPROACH** against the opposition. For example, if someone's not in especially good shape (no Move rank), they can still at least attempt to run for their life in an emergency. This prevents you from ever rolling a larger pool for an unranked skill than you could have for a ranked one.
 
 There may, however, be cases where not having a skill ranked means something is outright impossible for you (e.g. good luck performing heart surgery if you don't know what you're doing). These are context-dependent and subject to the GM's ruling in the moment. As an ambiguous example that would require a ruling, someone who doesn't have Operate ranked might be capable of routine city driving in day-to-day life without issue, but never developed the skill to drive under pressure or off-road before that's suddenly put to the test. At that point, what they're specifically trying to do and the conditions they're trying to do it in determine whether they have any chance of success or not.
 
@@ -71,7 +71,7 @@ Defend actions occur simultaneously with and as a result of someone else attacki
 If multiple characters are using the same approach, they resolve in this order: hostile [[Rules/5 Running The Game#Major NPCs\|5 Running The Game#Major NPCs]] first, then PCs and their allies, then all other NPCs before moving to the next approach .Allied characters using the same approach may freely decide their action order between themselves.
 
 > [!callout|bg-c-red no-icon ]+ EXAMPLE OF PLAY: LONG SHOTS
-Two characters are engaged in a sniper duel. Let's say they both use the same tactics - in this case, each one sticks to the sturdiest and best-camouflaged cover they can find that still offers a line of fire, then waits, only occasionally poking their head up to scan the distance through their scopes. This means they're both Shooting Carefully, so they'll compare their Carefully values, then their Shoot values if those are tied, then roll off if both of those are also tied. Or, one character could try to get the drop on their opponent with a rapid potshot at where they think their enemy is (Shoot Quickly), or attempt a trick shot (Shoot Cleverly), potentially at the price of a higher opposition, using an approach they're weaker in, or a different cost if things go wrong.
+Two characters are engaged in a sniper duel. Let's say they both use the same tactics - in this case, each one sticks to the sturdiest and best-camouflaged cover they can find that still offers a line of fire, then waits, only occasionally poking their head up to scan the distance through their scopes. This means they're both Shooting Carefully, so the tiebreaker ordering above applies. Or, one character could try to get the drop on their opponent with a rapid potshot at where they think their enemy is (Shoot Quickly), or attempt a trick shot (Shoot Cleverly), potentially at the price of using an approach they're weaker in, or a different cost if things go wrong.
 
 ## Controlled Opposition
 Every task has some approaches that are inherently better suited for it than others. You *can* try and Move that boulder Forcefully with your bare hands, but you'll have a much easier time if you Cleverly rig up a lever to make more efficient use of your strength. This means that **APPROACH AFFECTS OPPOSITION** - the difficulty of an action is determined by asking "how good would someone have to be to accomplish this the way you're trying to do it?" and looking to the [[Rules/1 Core Rules#Interpreting Results\|adjective ladder]] for the answer.
@@ -81,26 +81,28 @@ For example, imagine you're trying to defuse an unsophisticated and amateurish b
 But what if you're not under ideal conditions? If there's intense time pressure, Carefully working one wire at a time would need you to be Masterful (4), maybe even Superhuman (5) if there's only seconds left by the time you even reach the bomb. Approaching Forcefully using the trash bin, however, would still be Great (3) opposition, since with this method of containment, it doesn't matter when the timer runs out as long as the container's in place before it does.
 
 > [!callout|bg-c-red no-icon ]+ EXAMPLE OF PLAY: IF YOU SEE ME RUNNING....
-> Let's put a  character in that exact situation, with a jury-rigged bomb that needs to be dealt with. Khara, with Tinker 3, Cleverly 4, and Quickly 2, is stuck in a room with a bomb. She's analytical and methodical as a rule, and she knows her procedures well, so if she had time, thoroughly inspecting the bomb to figure out how to defuse it would be easy. But she doesn't, and it isn't; the bomb's actively ticking down and it's got to be done right now or never. Since the time pressure is working against her preferred method of he'd need to be Masterful - 4 hits or better - to defuse it Carefully, which is her best approach. Khara's Quickly approach is weaker, but it also reduces the opposition to Good. So now, she has a choice to make: does she use her best approach when the situation makes that approach harder, or does she use an approach that she's weaker in but that better suits the needs of the moment?
+> Let's put a character in that exact situation, with a jury-rigged bomb that needs to be dealt with. Khara, with Tinker 3, Cleverly 4, and Quickly 2, is stuck in a room with a bomb. She's analytical and methodical as a rule, and she knows her procedures well, so if she had time, thoroughly inspecting the bomb to figure out how to defuse it would be easy. But she doesn't, and it isn't; the bomb's actively ticking down and it's got to be done right now or never. Since the time pressure is working against her, she'd need to be Masterful - 4 hits or better - to defuse it Cleverly, which is her best approach. Khara's Quickly approach is weaker, but it also reduces the opposition to Good. So now, she has a choice to make: does she use her best approach when the situation makes that approach harder, or does she use an approach that she's weaker in but that better suits the needs of the moment?
 > 
 > Either way, it's a moment of high tension as she wipes the sweat off her brow and leans in, desperately hoping that she can pull this off before time runs out, searching for anything that can give her an edge. This may be where using a relevant [[Rules/3 Skills, Approaches, & Stunts#Stunts\|stunt]] or [[Rules/1 Core Rules#Aspects & Fate Points\|invoking aspects]] comes in - leaning hard on fundamental truths about your character and the situation you're in to find the resolve or leverage you need to tip the scales.
 
 ### Setting The Stakes
-Your descriptions of what you're doing  help shape what success or failure look like, and the types of costs that might come with a failure or tie. 
+In addition to influencing opposition, your descriptions of what you're doing shape what success or failure look like, and the types of costs that might come with a failure or tie. 
 
 Saying "I'm waiting for a clean opening and window to act, and I don't go for it if one doesn't appear" when you Tinker Subtly to plant a hidden microphone in a public place is a signal to the GM: you expect failure to mean "no opening appears," not "I get caught." 
 
-Now, the GM *could* still have you get caught anyway, but however that plays out would still have to be consistent with how you've described yourself specifically trying to avoid that, and the threshold for how badly the roll has to go for it to happen has increased. In this case, it would be a severe cost (since your narration has established it as the worst-case scenario you're going out of your way to avoid), so it would need a catastrophic failure to even possibly occur ("A door opens and someone you couldn't have seen while casing the place walks in, catching you red handed.").
+Now, the GM *could* still have you get caught anyway, but however that plays out would still have to be consistent with how you've described yourself specifically trying to avoid that, and the threshold for how badly the roll has to go for it to happen has increased. In this case, it would be a severe cost (since your narration has established it as the worst-case scenario you're going out of your way to avoid), so it would need a catastrophic failure to even possibly occur ("A door opens and someone you couldn't have seen while casing the place walks in, catching you red handed."). However, placing additional conditions on an action may also increase opposition, and you still can't narrate all uncertainty out of a roll.
 
 It's also important that you communicate *what you're actually trying to accomplish*, not just the physical action you're performing. This defines what success actually means, and it's not always obvious or self-explanatory. For example, "I'm intentionally singing terribly at the top of my lungs" is probably Sway Boldly no matter what, but could have multiple motives behind it, like creating a distraction, entertaining a small child, emptying a room, or getting people to pay you to stop. If your GM doesn't know what you really want, they can end up miscalibrating the opposition or narrating a result that's way off the mark from what you meant. 
 
 For their part, the GM should ask you for clarification if they're unsure - their side of this is discussed in more depth in [[Rules/7 General GM Guidance#What Do You Want To Accomplish\|7 General GM Guidance#What Do You Want To Accomplish]] later on.
 
 # Stunts
-#TODO 
+Stunts reflect a character's individual specialties. They're more specific and situational than aspects, but also more powerful. Where aspects are broad facts and permissions that can both help you and cause problems, stunts are specific mechanical abilities that always work the same way when the fictional situation they describe occurs. 
 
 ## Building a Good Stunt
-#TODO 
+Good stunts say something about your character and reward you for playing into their nature. If they're reckless, maybe they get better at doing something when they're being reckless. If they come from a particular culture, maybe they get a flat bonus when interacting with others from that culture. If the rules normally don't allow the character to function quite the way you see them working, maybe the character gets to break the rules under specific conditions. 
+
+If you want to write a stunt that provides a bonus or otherwise involves use of a specific skill, you must have that skill ranked at least Adequate (1). 
 
 ### Adding Bonuses
 
@@ -108,7 +110,7 @@ Stunts can give skills an automatic bonus under a particular, narrow circumstanc
 
 The usual numeric bonus is +1 hit to your total. For some stunts, it may be appropriate to add a second-tier bonus that instead gives a +2 if an even narrower condition is met. A +2 flat bonus in this dice system is extremely powerful, so a +2 stunt bonus **MUST** therefore be highly situational and significantly raise the stakes.
 
-Alternately, these stunts can give bonuses roughly equivalent to +1 hit. This usually means a free invoke, but can also include converting ties into successes, imposing penalties on opponents, and more. 
+Alternately, these stunts can give bonuses roughly equivalent to +1 hit. This usually means a free invoke, but can also include converting ties into successes, imposing penalties on opponents, and more.
 
 >[!note|show-title]+ HANG ON, THE ACTUAL FATE BOOK SAYS +2 HERE!
 >I know, but the fudgectomy that's been performed to replace its dice system with the variable-size D10 pool has seriously compressed the numbers. A +2 flat bonus is notable but not game-breaking when opposition scales from 1 through 8; when that opposition loses almost half of its possible outcomes, the bonus has to shrink to match.
@@ -126,16 +128,16 @@ The second type of stunt changes the rules of the game. This is a broad categor
 - Allowing a character to declare a minor fact is always true. For instance, a survivalist always has survival items like matches on their person, even under unlikely circumstances. This type of stunt establishes that you do not need to [[Rules/1 Core Rules#Declaring a Story Detail\| invoke for story details]] for the given fact.
 - Allowing a character to make a specific rules exception. For instance, a character might have two more strain boxes or another mild consequence slot.
 
-Write this type of stunt as follows:
+As with numeric bonus stunts, these must remain situational. For example, if a stunt that changes what a skill covers is so flexible that the substitute skill is usable in almost every possible scenario that would normally call for the skill it's replacing, then it's too broad and needs to be rewritten to cover a narrower range.
+
+If you get stuck while designing a rule-changing stunt, try writing it out like this:
 
 Because I *[describe how you are amazing or have a cool bit of gear]*, I can *[describe your amazing feat]*, but only *[describe a circumstance or limitation]*.
-
-Example Rule-Changing Stunt: Because I *"don’t believe in magic"*, I can *ignore the effects of a supernatural ability*, but only *once per game session*.
 
 **EXAMPLES**
 - **WHO NEEDS A TAILGUNNER** When you use ranged weaponry mounted or built in to a vehicle you're currently Operating, you may Operate instead of Shooting to attack.
 - **BUILT DIFFERENT** Once per session, you may refuse a compel, block a hostile invocation, or otherwise ignore the negative effects of your consequences without spending a fate point to do so.
-- #TODO Example 3
+- **UNSHAKEABLE SKEPTICISM** Because I *"don’t believe in magic"*, I can *ignore the effects of a supernatural ability*, but only *once per game session*.
 
 # Skill Details
 The action examples and stunts listed below are **SAMPLES**, not limitations. You can and should come up with creative uses of these skills outside of what's listed here. As long as you respect the broad distinctions between skills, the field of possibilities is wide open to you. The GM has final word on which skill and approach an action uses based on how you've described it (e.g. it doesn't matter how wide your Network is; if you're trying to get distant contacts to give you money, you're Acquiring it - though you can certainly Network to create an advantage by identifying an easy way to Acquire what you need). 
@@ -159,7 +161,7 @@ Acquire does not cover burglary, pickpocketing, or other, more physical ways of 
 **SAVVY INVESTOR** When you Acquire to create an advantage involving a return on an investment made in a previous session, you get an additional free invoke (In other words, you can't retroactively declare that you did this; it has to actually have been set up in play). 
 
 ## Fight
-#TODO Fight
+#TODO Punch, kick, bite, knee, elbow, poke in the eye, chop the throat, etc. 
 
 #TODO **OVERCOME**
 #TODO **CREATE AN ADVANTAGE**
@@ -167,6 +169,11 @@ Acquire does not cover burglary, pickpocketing, or other, more physical ways of 
 #TODO **DEFEND**
 
 ### Sample Stunts
+**A CROSS BETWEEN HOCKEY AND MURDER** +1 when you Fight as part of an athletic competition, +2 if doing so is clearly against the rules and meaningfully risks a serious penalty *(note: in a game heavily focused on sports, this stunt would need to be rewritten into something narrower and less ubiquitous)*
+
+**FLANKING MANEUVER** +1 when you Fight Cleverly against a target already engaged with at least one of your allies.
+
+#TODO **MY NUTS TO YOUR FIST STYLE** You were purposely trained wrong as a joke. You make it work regardless. #TODO make this work
 
 ## Interface
 #TODO Hacking and electronic warfare
@@ -175,6 +182,8 @@ Acquire does not cover burglary, pickpocketing, or other, more physical ways of 
 #TODO **CREATE AN ADVANTAGE**
 #TODO **ATTACK**
 #TODO **DEFEND**
+
+**IT'S A UNIX SYSTEM, I KNOW THIS** The creators of this universe don't actually understand its technology. Once per session, you may rattle off a string of meaningless technobabble to automatically tie any Interface attempt against passive opposition.
 
 ## Know 
 >[!NOTE|show-title]+ An Odd Name Out
@@ -199,7 +208,6 @@ Know factual information, either from memory or through deliberate study. How yo
 Lead a group of people. Command troops in battle; rally a crowd; de-escalate an angry mob. 
 
 #TODO **OVERCOME**
-
 #TODO **CREATE AN ADVANTAGE**
 
 ### Sample Stunts
@@ -208,34 +216,44 @@ Lead a group of people. Command troops in battle; rally a crowd; de-escalate an 
 
 **RALLY THE TROOPS** +1 when you Lead to create an advantage for your allies before they head into a difficult or dangerous situation, +2 if you'll have the hardest job. You cannot invoke the aspect created or manipulated by this roll yourself if you take the +2.
 
-**TACTICAL GENIUS** You may spend a fate point, sacrifice your turn, and Lead Cleverly to overcome an opposition equal to the number of enemy characters in the current conflict. If you succeed, your opposition must reveal their planned actions. Your side may then declare your own actions in response before the round's actions start to resolve.
+**TACTICAL GENIUS** You may spend a fate point, sacrifice your turn, and Lead Cleverly to overcome an opposition equal to the number of enemy characters in the current conflict. If you succeed, your opposition must reveal their planned actions. Your side may then declare your own actions in response before the round's actions start to resolve. *(See [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|4 Challenges, Conflicts, & Contests#Simultaneous Initiative]] for normal declaration rules)*
 
 ## Move
-#TODO Athleticism
+#TODO Athletics / acrobatics / physically moving yourself and other things
 
 #TODO **OVERCOME**
 #TODO **CREATE AN ADVANTAGE**
-#TODO **DEFEND**
+#TODO **DEFEND** Don't be where the damage is.
+
+### Sample Stunts
+
+**BACKSTABBER** You may Move Subtly instead of Fighting to sneak up on and attack a target as long as they are completely oblivious to your presence.
 
 ## Network
-#TODO Contacts
+#TODO Contacts & people networks
 
 #TODO **OVERCOME**
 #TODO **CREATE AN ADVANTAGE**
 
+### Sample Stunts
+
+**FRIENDS AND FAMILY DISCOUNT** You may Network instead of Acquiring when attempting to source goods and services.
+
+**I KNOW A GUY WHO KNOWS A GUY** #TODO
+
+**PHONE A FRIEND** You may spend a fate point to Network instead of Knowing when you recall information. On a success, you create a friendly NPC subject matter expert. On a tie, that expert dislikes you and/or demands some kind of favor or compensation in exchange for their assistance.
+
 ## Notice
-#TODO Exactly what it says on the tin
+#TODO Exactly what it says on the tin. Your Notice rank serves as passive opposition when defending against actions you're unaware of (minimum 1).
 
 **OVERCOME** #TODO 
-
 **CREATE AN ADVANTAGE** #TODO 
-
 **DEFEND** #TODO 
 
 ### Sample Stunts
 **ELEMENTARY** You can figure out most of what there is to know about someone at a glance. You may Notice instead of Knowing when you try to learn the background of a character you can observe.
 
-**READ THE ENEMY** Once per session, you may delay your action declaration during a [[Rules/4 Challenges, Conflicts, & Contests#Conflicts\|conflict]]. If you do, you learn what your opponents intend to do this round. You may then declare your own action before the round's actions start to resolve.
+**READ THE ENEMY** Once per session, you may delay your action declaration during a [[Rules/4 Challenges, Conflicts, & Contests#Conflicts\|conflict]]. If you do, you learn what your opponents intend to do this round. You may then declare your own action before the round's actions start to resolve. *(See [[Rules/4 Challenges, Conflicts, & Contests#Simultaneous Initiative\|4 Challenges, Conflicts, & Contests#Simultaneous Initiative]] for normal declaration rules)*
 
 ## Operate
 Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is an extension of you, so you Move your mech just as you Move yourself). If the vehicle has built-in ranged weaponry of any kind (e.g. fighter jet, tank, cobbled-together post-apocalyptic flamethrower truck), using it is still Shooting.
@@ -259,48 +277,74 @@ Operate all kinds of vehicles and heavy machinery *except* a mech (your mech is 
 **PEDAL TO THE METAL** You can coax more speed out of your vehicle than seems possible. Whenever you're engaged in any contest where vehicle speed is the primary factor (e.g, a chase, a race, a deadline), and your Operate roll ties the opposition, it's considered a success.
 
 ## Persevere
-#TODO Physique + will merge
+#TODO Physique + will merge. For each rank of Persevere up to Masterful (4), gain an additional box of Strain (see [[Rules/4 Challenges, Conflicts, & Contests#Strain\|4 Challenges, Conflicts, & Contests#Strain]]). At Superhuman (5), gain a second Mild Consequence slot
 
-#TODO **OVERCOME**
+**OVERCOME** Push through environmental hazards, exhaustion, and protracted ordeals.
+
 #TODO **CREATE AN ADVANTAGE**
+
 **DEFEND** Shrug off or ignore damage through grit, determination, or sheer toughness.
 
 ### Sample Stunts
 **BUILT DIFFERENT** Through sheer stubbornness or heroic effort, you can push through punishment that would take out anyone else. Once per session, you may ignore the effects of your consequences for a single action, or refuse a compel or hostile invoke of a consequence for free.
 
-## Shoot
-#TODO Guns go pew pew
+**A MECH IS A MELEE WEAPON** You may Persevere instead of Fighting when you use your mech's body weight to attack in melee combat.
 
-#TODO **OVERCOME**
+## Shoot
+#TODO Guns go pew pew bang bang
+
+#TODO **OVERCOME** Inanimate targets
 #TODO **CREATE AN ADVANTAGE**
-#TODO **ATTACK**
-#TODO **DEFEND**
+#TODO **ATTACK** Self explanatory
+#TODO **DEFEND** Suppressive / covering fire
+
+### Sample Stunts
+
+**CURVE THE BULLET** #TODO 
+
+**ONE FOR EACH OF YOU** #TODO Shooting multiple targets when dual-wielding pistols and attacking
+
+**SATURATION FIRE** #TODO 
 
 ## Sway
 #TODO Convince, Deceive, Provoke all in one
 
 #TODO **OVERCOME**
 #TODO **CREATE AN ADVANTAGE**
-#TODO **ATTACK**
+#TODO **ATTACK** Inflict direct psychological harm. Sticks and stones may break their bones, but words can straight *unmake them*. 
+
+### Sample Stunts
+
+**GLAD I THOUGHT OF IT** +1 when you Sway Subtly to plant an idea in a conversation and make another character believe they came up with it themselves.
+
+**HAVE THE LAMBS STOPPED SCREAMING** #TODO
+
+**MAGICIAN'S CHOICE** You choose your words carefully and build in escape hatches that let you sneakily redefine a question after someone answers it, so that what sounds like a free choice always leads to the same result. #TODO
 
 ## Tend
-#TODO Doctor
+#TODO Doctor / medicine skill. Physical + mental.
 
 #TODO **OVERCOME**
 #TODO **CREATE AN ADVANTAGE**
 
 ## Tinker
-#TODO Craft
+#TODO Crafting, smithing, tuning, disassembling.
 
 #TODO **OVERCOME**
 #TODO **CREATE AN ADVANTAGE**
 
 ### Sample Stunts
+**BACKYARD BALLISTICS** +1 when you Tinker to create weapons in a hurry out of whatever supplies are at hand, +2 if the resulting weapon presents significant danger to its user.
+
 **I'LL MAKE DO** You're used to having to make things work in a pinch. You may Tinker to treat a mech's breakdown using the normal rules for renaming and clearing consequences instead of waiting until the end of the scenario.
 
 ## Understand
-#TODO Empathy
+#TODO Empathy and reading people. What makes them tick. What they need. What buttons to push.
 
-#TODO **OVERCOME**
-#TODO **CREATE AN ADVANTAGE**
-#TODO **DEFEND**
+#TODO **OVERCOME** Analyze a character's behavior and determine their motivations
+#TODO **CREATE AN ADVANTAGE** Identify a character's psychological vulnerabilities or wounds.  
+
+**DEFEND** Primarily against Sway. Determine whether a character believes what they're saying, or whether they're hiding something. Blunt the emotional impact of a bully's verbal assault by recognizing that it emerges more from their own pathetic need to dominate than from anything to do with you.
+
+### Sample Stunts
+**TELL ME ABOUT YOUR MOTHER** You may Understand instead of Tending to treat a character's mental consequences.

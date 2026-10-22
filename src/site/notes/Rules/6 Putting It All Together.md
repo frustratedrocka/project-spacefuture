@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/6-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-14T08:20:22.209-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/6-putting-it-all-together/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-17T03:09:48.070-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # SETUP
@@ -163,7 +163,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 **GM** The bar's on fire in the rear view mirror, your asset is bleeding out in the back seat of your car, the streets are filled with panicking civilians trying to get clear as you tear down the road, and you've got two cars in pursuit with their occupants shooting at you. What do you do?
 
 >[!callout|no-t no-i c-plain bg-yellow collapse]
->The two pursuing cars, and their occupants, count as a pair of [[Rules/5 Running The Game\|5 Running The Game]]. The GM has assigned them Good ranks in Operate and Shoot, which will double to form dice pools of 4 for most of their actions during this conflict. He's also given each car 3 strain boxes, since the vehicles themselves aren't trivial to take out and there's people in both, but they're still nowhere near tough enough to get consequence tracks. 
+>The two pursuing cars, and their occupants, count as a pair of [[Rules/5 Running The Game#Throwaway NPCs\|5 Running The Game#Throwaway NPCs]]. The GM has assigned them Good ranks in Operate and Shoot, which will double to form dice pools of 4 for most of their actions during this conflict. He's also given each car 3 strain boxes, since the vehicles themselves aren't trivial to take out and there's people in both, but they're still nowhere near tough enough to get consequence tracks. 
 >
 >The GM writes down the actions for the two pursuing cars. Pretty simple: One's going to keep firing (Shoot Forcefully), the other's going to try and run the players' car off the road (Operate Forcefully).
 
@@ -202,11 +202,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 **ZACH** That's a problem for later, worth it. *(Marks 2 boxes of Strain)* Ok, who's next?
 
-**GM** Brigit, what's your Forcefully?
-
-**BRIGIT** 3!
-
-**GM** Awesome, then you're up next. Since you're basically creating an area hazard I'll say this is passive, just Opp 1. 
+**GM** Brigit, you're on. Since you're basically creating an area hazard I'll say this is passive, just Opp 1. 
 
 **BRIGIT** Easy money. *(rolls 7 dice; gets 1)* ...Famous last words, never mind. Still tied, 1.
 
@@ -214,8 +210,6 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >The GM could write "Hail of Lead [B]" or something similar on an index card to mark this boost, but since speed of play is the priority right now and it's probably about to get used immediately, he leaves it up to everyone's memory instead.
->
->Since the two cars have the same Forcefully rank (nonexistent) and the same rank in the skills they're using (2), they could roll off - but since they're on the same side, they get to coordinate, and the GM gets to choose which one goes first. 
 
 **GM** First car up next, going to shoot right back at you. Alex, you're defending here to try and keep the car in one piece, what's that look like?
 
@@ -263,9 +257,9 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 > 
 > Which, he realizes, also means this is a good time to compel "Narrow Alley." Alex is driving, so the GM assumes this will affect him most. 
 
-**GM** *(passes Alex a fate point)* As you all figure out what you want to do this round, Alex, you should be aware that the alley doesn't seem like it's going to get any wider, and there's enough things jutting out into it that one wrong move could get you wedged in and stuck. This is going to be some *very* tricky driving, and doing it at any kind of speed is going to be almost impossible. 
+**GM** *(passes Alex a fate point)* As you all figure out what you want to do this round, Alex, you should be aware that the alley doesn't seem like it's going to get any wider, and there's enough things jutting out into it that one wrong move could get you wedged in and stuck. This is going to be some *very* tricky driving, and doing it at any kind of speed is going to be almost impossible. You won't be getting out of here this round. 
 
-**ALEX** (*Takes the fate point*) Was afraid of that. Alright, slow and steady then, let's focus on getting out of here in one piece. 
+**ALEX** (*Takes the fate point*) Was afraid of that. Alright, slow and steady then, let's focus on getting out at all. 
 
 **GM** Ok, Operate Carefully it is! (*marks Alex down as Carefully*)
 
@@ -297,19 +291,7 @@ This NPC was invented on the spot when Brigit got that success with a cost, so h
 >[!callout|no-t no-i c-plain bg-yellow collapse]
 >Brigit's Shoot Forcefully action currently has no target, but since she said she was waiting to riddle the first thing to come into the alley after the PCs with bullets, she's able to hold it until one does appear (if one does).
 
-**GM** Brigit, you're Shooting Forcefully but there's currently nothing to shoot at, we'll come back to you if you get a target. Zach, what's your Cleverly again?
-
-**ZACH** Good.
-
-**GM** And your Know?
-
-**ZACH** Also Good.
-
-**GM** Great, rolling off then, 1d10.
-
-**ZACH** Oh boy, tell me they didn't have the same idea I did. (*rolls*) 6.
-
-**GM** (*rolls*) And 2, you're up first. How well can you read that map in the car in a bumpy narrow alley at night? You'll need to be Good.
+**GM** Brigit, you're Shooting Forcefully but there's currently nothing to shoot at, we'll come back to you if you get a target. Zach, over to you. How well can you read that map in the car in a bumpy narrow alley at night? You'll need to be Good.
 
 **ZACH** Well when you put it that way... (*rolls 4 dice - 8, 10, 1*) I AM good, actually. 
 

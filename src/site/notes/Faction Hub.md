@@ -47,8 +47,8 @@ The current mission is simple: Intercept excess food shipments and redirect them
 >  | Portrait                                                                  | Model                                                                       |
 > | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 > | ![Admin/Attachments/HopliteCustom_SQ.webp\|HopliteCustom_SQ.webp](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)       | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]** |
-> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                   | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                       |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                   | **[[Database/Mobile Suits/ES-01 Elegant Sky\|ES-01 Elegant Sky]]**       |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                   | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                       |
 > | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/MEU-1H Seeker CQC\|MEU-1H Seeker CQC]]**       |
 > 
 { .block-language-dataview}
@@ -295,10 +295,9 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 
 >[!blank|static wfull]
 
-| Character                                               | Aspects                                                                                  |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [[Database/People/The Pirate King\|The Pirate King]] | Flamboyant Living Symbol \- Relationship \- Exemplary Captain First, King Distant Second |
-| [[Player Characters/Lane Gable\|Lane Gable]]         | Pirate Turned Freedom Fighter \- \- \- \-                                                |
+| Character                                       | Aspects                                   |
+| ----------------------------------------------- | ----------------------------------------- |
+| [[Player Characters/Lane Gable\|Lane Gable]] | Pirate Turned Freedom Fighter \- \- \- \- |
 
 { .block-language-dataview}
 

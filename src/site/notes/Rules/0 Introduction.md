@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-08-10T02:29:28.770-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/0-introduction/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-20T14:10:40.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Wtf Am I Reading?!
@@ -7,12 +7,16 @@ Why, the obligatory "what is a roleplaying game" section, of course!
 
 A role-playing game (RPG) is make-believe guided by rules. You and your friends *play the roles* of imaginary characters in an imaginary world, and decide what those characters do about the exciting and interesting situations they find themselves in. Together, those decisions cause a story about the characters to emerge from everyone's shared imagination. 
 
-The rules of the game mostly exist to determine the outcome when there's doubt about what should happen next. If it's not clear whether a character should succeed or fail at what they're doing, or if something should go wrong with the attempt that complicates their lives, they roll dice and use the results to see how well they do.
+The game is played through a conversation. One player - the GM - describes a situation. The other players describe what they do about it, and those actions affect the situation. Play continues passing back and forth indefinitely. 
+
+The rules of the game mostly exist to define the boundaries of everyone's authority over the fiction and determine the the outcome when there's doubt about what should happen next. If it's not clear whether a character should succeed or fail at what they're doing, or if something should go wrong with the attempt that complicates their lives, they roll dice and use the results to see how well they do.
 
 ## Glossary
 - **PLAYER** Everyone at the table is a player in the game. Most of them are responsible for a single **PC** (Player Character) at a time; if the rules talk about "players", they're talking about one of these. Usually, players only change characters when their current one dies or otherwise permanently exits the story, but some groups using "troupe style" play assemble a large group of PCs and switch between them as needed.
 - **GM** Game Master, by long tradition. Ideally I'd prefer to call this "Facilitator" or "Game Manager" but I'm under no illusions about either of those ever catching on. The GM is a player with different duties than the rest. Most players are responsible for only a single character; the GM is responsible for playing everyone else, referred to as **NPCs** (Non-Player Characters), as well as the parts of the world the PCs interact with that aren't characters. The GM is *not* responsible for telling the story - their job is to set up interesting decisions for the PCs, then respond appropriately to the choices the players make. A story about the PCs naturally emerges from those decisions.
 - **D10** A 10-sided die. Nearly all roleplaying games use the same notation to handle their die rolls: "roll *X* d *Y*" means "roll a die with *Y* sides, *X* times." Typically, you'll want to pick up that many dice and roll them all at once instead of rolling one at a time; it's *much* faster and with how frequently dice are rolled in most games, that time adds up. 
+- **SESSION** A single meeting of a game group, typically running between two and four hours. Some groups prefer longer sessions, some prefer shorter; the logistics of life and player energy levels and attention spans will determine the right length for your sessions.
+- **CAMPAIGN** A series of sessions that create one continuous story, typically following roughly the same group of PCs from beginning to end. Some campaigns last only a couple sessions; some run consistently for years.
 - **FICTION** The imagined reality of the game, existing as a shared understanding in the minds of everyone at the table. This term is all-encompassing. When you play the game, you look to the fiction first to see what's going on, then decide what your character does about the problems the fiction says they're dealing with, using the resources and abilities the fiction says they have available (including but *not limited to* options mechanically represented on the character sheet). The fiction is in a constant state of flux, changing every time the players and GM act. Whenever there's significant uncertainty over how the fiction should change based on what's happening, the rules of the game engage to help determine the answer.
 
 There will be more terms you'll need to know as you work your way through the rules, but they'll be defined as they become relevant. For now, the above is enough to get you started here, and will transfer to almost any other RPG.

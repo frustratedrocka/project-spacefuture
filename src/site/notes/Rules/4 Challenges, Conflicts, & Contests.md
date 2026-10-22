@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-09-20T20:24:14.317-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/4-challenges-conflicts-and-contests/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-22T17:11:32.961-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Challenges
+#TODO Verbatim from [[Rules/Fate SRD/Fate Condensed (UNEDITED SRD)#Challenges\|Fate Condensed (UNEDITED SRD)#Challenges]]; needs consistency pass
 Many of the difficulties your characters face can be handled with a single roll in the course of a scene—disarm the bomb, find the tome of eldritch lore, or decode the cypher. But sometimes things are more fluid, more complicated, and it’s just not as simple as finding the tome of eldritch lore because the yacht you’re searching is careening through Hong Kong harbor while a monsoon rages outside and the boat’s library is on fire—which is totally not your fault.
 
 In complicated circumstances with no opposition, you’ll want to use a challenge: a series of overcome actions that tackle a bigger issue. Challenges let the entire group work together in a scene, and they keep things dynamic.
@@ -130,6 +131,7 @@ If you concede or take an [[Rules/4 Challenges, Conflicts, & Contests#Extreme Co
 If your mech is ever taken out while you're in it, it is destroyed, and whoever took you out gets to decide what happens to you just like when you're taken out on foot. See [[Rules/2 Character Creation#Replacing Your Mech\|2 Character Creation#Replacing Your Mech]] for what to do if you survive.
 
 # Contests
+#TODO Verbatim from [[Rules/Fate SRD/Fate Condensed (UNEDITED SRD)#Contests\|Fate Condensed (UNEDITED SRD)#Contests]], needs consistency pass
 
 A contest is when two or more sides are in direct opposition but there isn’t a conflict. This doesn’t mean one side doesn’t _want_ to hurt the other. Contests may involve the group trying to escape a threat before it cuts off any chance of victory.
 
