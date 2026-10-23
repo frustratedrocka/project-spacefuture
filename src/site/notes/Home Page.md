@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T00:01:25.441-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T18:48:20.536-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 >[!infobox|wm-sm]
@@ -17,7 +17,6 @@ Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Thing
 En route to drydock for critical repairs; actual destination [[Database/Glossary/Colony\|Colony]] remains on a need-to-know basis. 
 
 # Previously On Zero Sum
-**ONGOING THREADS** (Live_Threads:: #RAT_HUNT)
 | EP                                  | Impact                                                                                                                                                                                                                                                                                |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Session Notes/Session 01\|01]] | Original command staff and First Wing of the [[Database/Things/Fishbone\|Fishbone]] KIA by [[Database/People/Vantrin Almeyer\|Vantrin]] and the [[Database/Things/Brynhildr\|Brynhildr]] team, via an impossible shot that could only have happened with help from a traitor #RAT_HUNT                                                                     |
