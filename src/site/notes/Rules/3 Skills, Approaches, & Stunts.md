@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-22T16:42:14.030-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/3-skills-approaches-and-stunts/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-22T23:45:17.888-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 A **SKILL** is **WHAT YOU'RE DOING**. It's a word that describes a broad array of competencies - such as Move, Fight, or Understand - which your character might have gained through innate talent, training or years of trial and error. 
@@ -86,11 +86,11 @@ But what if you're not under ideal conditions? If there's intense time pressure,
 > Either way, it's a moment of high tension as she wipes the sweat off her brow and leans in, desperately hoping that she can pull this off before time runs out, searching for anything that can give her an edge. This may be where using a relevant [[Rules/3 Skills, Approaches, & Stunts#Stunts\|stunt]] or [[Rules/1 Core Rules#Aspects & Fate Points\|invoking aspects]] comes in - leaning hard on fundamental truths about your character and the situation you're in to find the resolve or leverage you need to tip the scales.
 
 ### Setting The Stakes
-In addition to influencing opposition, your descriptions of what you're doing shape what success or failure look like, and the types of costs that might come with a failure or tie. 
+In addition to influencing opposition, your descriptions of what you're doing **SHAPE WHAT SUCCESS AND FAILURE LOOK LIKE**, and the types of costs that might come with a failure or tie. 
 
 Saying "I'm waiting for a clean opening and window to act, and I don't go for it if one doesn't appear" when you Tinker Subtly to plant a hidden microphone in a public place is a signal to the GM: you expect failure to mean "no opening appears," not "I get caught." 
 
-Now, the GM *could* still have you get caught anyway, but however that plays out would still have to be consistent with how you've described yourself specifically trying to avoid that, and the threshold for how badly the roll has to go for it to happen has increased. In this case, it would be a severe cost (since your narration has established it as the worst-case scenario you're going out of your way to avoid), so it would need a catastrophic failure to even possibly occur ("A door opens and someone you couldn't have seen while casing the place walks in, catching you red handed."). However, placing additional conditions on an action may also increase opposition, and you still can't narrate all uncertainty out of a roll.
+Now, the GM *could* still have you get caught anyway, but however that plays out would still have to be consistent with how you've described yourself specifically trying to avoid that, and the threshold for how badly the roll has to go for it to happen has increased. In this case, it would be a severe cost (since your narration has established it as the worst-case scenario you're going out of your way to avoid), so it would need a catastrophic failure to even possibly occur ("A door opens and someone you couldn't have seen while casing the place walks in, catching you red handed."). However, placing additional conditions on an action may also **INCREASE OPPOSITION**, and you still **CAN'T ELIMINATE RISK** or narrate all uncertainty out of a roll.
 
 It's also important that you communicate *what you're actually trying to accomplish*, not just the physical action you're performing. This defines what success actually means, and it's not always obvious or self-explanatory. For example, "I'm intentionally singing terribly at the top of my lungs" is probably Sway Boldly no matter what, but could have multiple motives behind it, like creating a distraction, entertaining a small child, emptying a room, or getting people to pay you to stop. If your GM doesn't know what you really want, they can end up miscalibrating the opposition or narrating a result that's way off the mark from what you meant. 
 
@@ -182,6 +182,8 @@ Acquire does not cover burglary, pickpocketing, or other, more physical ways of 
 #TODO **CREATE AN ADVANTAGE**
 #TODO **ATTACK**
 #TODO **DEFEND**
+
+### Sample Stunts
 
 **IT'S A UNIX SYSTEM, I KNOW THIS** The creators of this universe don't actually understand its technology. Once per session, you may rattle off a string of meaningless technobabble to automatically tie any Interface attempt against passive opposition.
 

@@ -26,9 +26,10 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 
 >[!blank|static wfull]
 
-| Character                                       | Aspects                                   |
-| ----------------------------------------------- | ----------------------------------------- |
-| [[Player Characters/Lane Gable\|Lane Gable]] | Pirate Turned Freedom Fighter \- \- \- \- |
+| Character                                               | Aspects                                                                                  |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [[Database/People/The Pirate King\|The Pirate King]] | Flamboyant Living Symbol \- Relationship \- Exemplary Captain First, King Distant Second |
+| [[Player Characters/Lane Gable\|Lane Gable]]         | Pirate Turned Freedom Fighter \- \- \- \-                                                |
 
 { .block-language-dataview}
 
