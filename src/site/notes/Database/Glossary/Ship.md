@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/ship/","tags":["lore","index"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-13T23:38:12.000-04:00","dg-note-properties":{"tags":["lore","index"]}}
+{"dg-publish":true,"permalink":"/database/glossary/ship/","tags":["lore","index"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-13T23:38:12.680-04:00","dg-note-properties":{"tags":["lore","index"]}}
 ---
 
 ## A brief history of space battles

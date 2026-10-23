@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T19:32:33.718-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T19:55:45.635-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Taking Action

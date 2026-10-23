@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/categories/aspects/","tags":["rules","category"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:47:26.000-04:00","dg-note-properties":{"tags":["rules","category"]}}
+{"dg-publish":true,"permalink":"/rules/categories/aspects/","tags":["rules","category"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:47:26.528-04:00","dg-note-properties":{"tags":["rules","category"]}}
 ---
 
 # [[Rules/1 Core Rules\|1 Core Rules]]

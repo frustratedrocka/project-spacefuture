@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-13T22:13:45.000-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Mindful Eyes]]","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
+{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-13T22:13:45.999-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Mindful Eyes]]","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
 ---
 
 
@@ -43,6 +43,7 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 | Character                                                                   | Aspects                                  |
 | --------------------------------------------------------------------------- | ---------------------------------------- |
 | [[Database/People/The Mother And The Father\|The Mother And The Father]] | `REDACTED` \- Relationship \- `REDACTED` |
+| [[Player Characters/Vergen Koni\|Vergen Koni]]                           | Mind's Eye Protector \- \- \- \-         |
 
 { .block-language-dataview}
 

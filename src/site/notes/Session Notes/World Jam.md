@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/world-jam/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-15T13:23:23.000-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-08-04","SESH_Name":"A Century Emerges","SESH_Next":"[[Session Notes/Session 00A]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":"0","Logline":"An impromptu worldbuilding session before character creation","Attending":null,"NPCs":["[[Database/People/The Man Upstairs]]","[[Database/People/The CEO]]","[[Database/People/The Pirate King]]","[[Database/People/The Mother And The Father]]","[[Database/People/The Queen]]"],"Locations":["[[Database/Places/Earth]]","[[Database/Places/Jupiter Sphere/Jupiter]]","[[Database/Places/Mars Sphere/Mars]]","[[Database/Glossary/The Belt]]","[[Database/Places/Colonies/Arjuna]]","[[Database/Places/Colonies/Geb]]","[[Database/Places/Colonies/Kelly]]"],"Mechs":[null],"Impact":["Luna is dropped onto Earth ::: #HISTORY ::: 0078-05-23","[[Apsis]] reallocation cuts food to [[Kelly]], [[Geb]], [[Arjuna]] colonies below starvation levels ::: #HISTORY ::: 0092-02-02","[[Rebels]] respond to cuts by escalating to armed revolt ::: #HISTORY ::: 0092-03-15"],"Changelog":null}}
+{"dg-publish":true,"permalink":"/session-notes/world-jam/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T19:53:27.318-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-08-04","SESH_Name":"A Century Emerges","SESH_Next":"[[Session Notes/Episode 00A]]","SESH_Prev":"None","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":"0","Logline":"An impromptu worldbuilding session before character creation","Attending":null,"NPCs":["[[Database/People/The Man Upstairs]]","[[Database/People/The CEO]]","[[Database/People/The Pirate King]]","[[Database/People/The Mother And The Father]]","[[Database/People/The Queen]]"],"Locations":["[[Database/Places/Earth]]","[[Database/Places/Jupiter Sphere/Jupiter]]","[[Database/Places/Mars Sphere/Mars]]","[[Database/Glossary/The Belt]]","[[Database/Places/Colonies/Arjuna]]","[[Database/Places/Colonies/Geb]]","[[Database/Places/Colonies/Kelly]]"],"Mechs":[null],"Impact":["Luna is dropped onto Earth ::: #HISTORY ::: 0078-05-23","[[Apsis]] reallocation cuts food to [[Kelly]], [[Geb]], [[Arjuna]] colonies below starvation levels ::: #HISTORY ::: 0092-02-02","[[Rebels]] respond to cuts by escalating to armed revolt ::: #HISTORY ::: 0092-03-15"],"Changelog":null}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -12,7 +12,7 @@
 >
 > |Previous|Next|
 > |:---|---:|
-> |[[None\|None]]|[[Session Notes/Session 00A\|Session 00A]] |
+> |[[None\|None]]|[[Session Notes/Episode 00A\|Episode 00A]] |
 > |N/A|Origins|
 >
 >
@@ -94,6 +94,6 @@ Player Created Factions
 >[[Session Notes/Scenarios/Pregame Setup\|Pregame Setup]]
 >
 >**Next**
->[[Session Notes/Session 00A\|Session 00A]] \- Origins
+>[[Session Notes/Episode 00A\|Episode 00A]] \- Origins
 
  
