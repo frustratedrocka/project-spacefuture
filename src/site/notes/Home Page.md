@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T18:48:20.536-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T19:32:55.110-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Session 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 >[!infobox|wm-sm]
@@ -36,12 +36,11 @@ En route to drydock for critical repairs; actual destination [[Database/Glossary
 { .block-language-dataview}
 
 >[!cards|dataview 4 collapse img-tiny txt-c]
->  | Portrait                                                                  | Player Character                                                  | "*"+Concept+"*"                 |
-> | ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------- |
-> | ![Admin/Attachments/Auggie_SQ.webp\|Auggie_SQ.webp](/img/user/Admin/Attachments/Auggie_SQ.webp)                     | **[[Player Characters/August Grier\|August Grier]]**           | *No-Longer-A-Child Soldier*     |
-> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                         | **[[Player Characters/Lane Gable\|Lane Gable]]**               | *Pirate Turned Freedom Fighter* |
-> | ![Admin/Attachments/Menodora_SQ.webp\|Menodora_SQ.webp](/img/user/Admin/Attachments/Menodora_SQ.webp)                 | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** | *Hive-Linked Lunarian Refugee*  |
-> | ![Admin/Attachments/Verg_Profile_pic_SQ.webp\|Verg_Profile_pic_SQ.webp](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.webp) | **[[Player Characters/Vergen Koni\|Vergen Koni]]**             | *Mind's Eye Protector*          |
+>  | Portrait                                                  | Player Character                                                  | "*"+Concept+"*"                 |
+> | --------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------- |
+> | ![Admin/Attachments/Auggie_SQ.webp\|Auggie_SQ.webp](/img/user/Admin/Attachments/Auggie_SQ.webp)     | **[[Player Characters/August Grier\|August Grier]]**           | *No-Longer-A-Child Soldier*     |
+> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)         | **[[Player Characters/Lane Gable\|Lane Gable]]**               | *Pirate Turned Freedom Fighter* |
+> | ![Admin/Attachments/Menodora_SQ.webp\|Menodora_SQ.webp](/img/user/Admin/Attachments/Menodora_SQ.webp) | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** | *Hive-Linked Lunarian Refugee*  |
 > 
 { .block-language-dataview}
 

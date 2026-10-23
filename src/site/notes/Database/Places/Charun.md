@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","entity","lore"],"noteIcon":"","updated":"2026-10-15T16:01:37.557-04:00","dg-note-properties":{"tags":["location","entity","lore"],"aliases":["Ferry"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":"[[Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif]]","Concept":"Enormous Belt-Jupiter Cyclers","Trouble":"Requires Perpetual Motion","Aspects":[null],"cl":102}}
+{"dg-publish":true,"permalink":"/database/places/charun/","tags":["location","entity","lore"],"noteIcon":"","updated":"2026-10-15T16:01:37.000-04:00","dg-note-properties":{"tags":["location","entity","lore"],"aliases":["Ferry"],"Type":"[[Locations Hub|Ferry]]","Faction":["[[Database/Factions/Independent]]"],"Control":"Semi-Extraterritorial","Faction_Presence":["[[Database/Factions/Jovian Consortium]]"],"Portrait":"[[Admin/Attachments/560px-JumpShip_(Hyperspace_Jump_-_Cartoon)-1991675039.gif]]","Concept":"Enormous Belt-Jupiter Cyclers","Trouble":"Requires Perpetual Motion","Aspects":[null],"cl":102}}
 ---
 
 # 

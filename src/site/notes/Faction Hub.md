@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-15T03:05:22.717-04:00","dg-note-properties":{"tags":["tracker","index"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-15T03:05:22.000-04:00","dg-note-properties":{"tags":["tracker","index"]}}
 ---
 
 # Factions
@@ -34,22 +34,20 @@ The current mission is simple: Intercept excess food shipments and redirect them
 >[!blank|wfull]
 
 >[!cards|dataview 4 collapse img-tiny txt-c] PCS
->  | Portrait                                                                  | Player Character                                                  |
-> | ------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-> | ![Admin/Attachments/Auggie_SQ.webp\|Auggie_SQ.webp](/img/user/Admin/Attachments/Auggie_SQ.webp)                     | **[[Player Characters/August Grier\|August Grier]]**           |
-> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)                         | **[[Player Characters/Lane Gable\|Lane Gable]]**               |
-> | ![Admin/Attachments/Menodora_SQ.webp\|Menodora_SQ.webp](/img/user/Admin/Attachments/Menodora_SQ.webp)                 | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** |
-> | ![Admin/Attachments/Verg_Profile_pic_SQ.webp\|Verg_Profile_pic_SQ.webp](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.webp) | **[[Player Characters/Vergen Koni\|Vergen Koni]]**             |
+>  | Portrait                                                  | Player Character                                                  |
+> | --------------------------------------------------------- | ----------------------------------------------------------------- |
+> | ![Admin/Attachments/Auggie_SQ.webp\|Auggie_SQ.webp](/img/user/Admin/Attachments/Auggie_SQ.webp)     | **[[Player Characters/August Grier\|August Grier]]**           |
+> | ![Admin/Attachments/Lane_Sq.webp\|Lane_Sq.webp](/img/user/Admin/Attachments/Lane_Sq.webp)         | **[[Player Characters/Lane Gable\|Lane Gable]]**               |
+> | ![Admin/Attachments/Menodora_SQ.webp\|Menodora_SQ.webp](/img/user/Admin/Attachments/Menodora_SQ.webp) | **[[Player Characters/Menodora Thaliana\|Menodora Thaliana]]** |
 > 
 { .block-language-dataview}
 
 > [!cards|dataview collapse 4 img-tiny] PC MECHS
->  | Portrait                                                                  | Model                                                                       |
-> | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-> | ![Admin/Attachments/HopliteCustom_SQ.webp\|HopliteCustom_SQ.webp](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)       | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]** |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                   | **[[Database/Mobile Suits/ES-01 Elegant Sky\|ES-01 Elegant Sky]]**       |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/MEU-1H Seeker CQC\|MEU-1H Seeker CQC]]**       |
-> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                   | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                       |
+>  | Portrait                                                            | Model                                                                       |
+> | ------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+> | ![Admin/Attachments/HopliteCustom_SQ.webp\|HopliteCustom_SQ.webp](/img/user/Admin/Attachments/HopliteCustom_SQ.webp) | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]** |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)             | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                       |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)             | **[[Database/Mobile Suits/ES-01 Elegant Sky\|ES-01 Elegant Sky]]**       |
 > 
 { .block-language-dataview}
 
@@ -72,10 +70,11 @@ The current mission is simple: Intercept excess food shipments and redirect them
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Concept</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Arjuna.md" data-href="Database/Places/Colonies/Arjuna" href="Database/Places/Colonies/Arjuna.md" class="internal-link" target="_blank" rel="noopener nofollow">Arjuna</a></span></td><td><span>-</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span>Contested</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars" href="Database/Factions/Republic Of Mars.md" class="internal-link" target="_blank" rel="noopener nofollow">ROM</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span></td><td><span>Rebel Destroyer, Closest Thing To Home</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span>Courtesy Of the Consortium</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Geb.md" data-href="Database/Places/Colonies/Geb" href="Database/Places/Colonies/Geb.md" class="internal-link" target="_blank" rel="noopener nofollow">Geb</a></span></td><td><span>-</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span>Contested</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium" href="Database/Factions/Jovian Consortium.md" class="internal-link" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Kelly.md" data-href="Database/Places/Colonies/Kelly" href="Database/Places/Colonies/Kelly.md" class="internal-link" target="_blank" rel="noopener nofollow">Kelly</a></span></td><td><span>Rowdy Space Australia</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span>Contested</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
->  | Mobile Suits                                                          | Name                                                                            |
-> | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/RebelGruntSuit_SQ.webp\|RebelGruntSuit_SQ.webp](/img/user/Admin/Attachments/RebelGruntSuit_SQ.webp) | **[[Database/Mobile Suits/AP-92 Rejunot\|AP-92 Rejunot]]**                   |
-> | ![Admin/Attachments/GB4_Makhairos.webp\|GB4_Makhairos.webp](/img/user/Admin/Attachments/GB4_Makhairos.webp)         | **[[Database/Mobile Suits/EW-14 Gundam Makhairos\|EW-14 Gundam Makhairos]]** |
+>  | Mobile Suits                                                              | Name                                                                            |
+> | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/RebelGruntSuit_SQ.webp\|RebelGruntSuit_SQ.webp](/img/user/Admin/Attachments/RebelGruntSuit_SQ.webp)     | **[[Database/Mobile Suits/AP-92 Rejunot\|AP-92 Rejunot]]**                   |
+> | ![Admin/Attachments/GB4_Makhairos.webp\|GB4_Makhairos.webp](/img/user/Admin/Attachments/GB4_Makhairos.webp)             | **[[Database/Mobile Suits/EW-14 Gundam Makhairos\|EW-14 Gundam Makhairos]]** |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/MEU-1H Seeker CQC\|MEU-1H Seeker CQC]]**           |
 > 
 { .block-language-dataview}
 
@@ -365,7 +364,6 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 | Character                                                                   | Aspects                                  |
 | --------------------------------------------------------------------------- | ---------------------------------------- |
 | [[Database/People/The Mother And The Father\|The Mother And The Father]] | `REDACTED` \- Relationship \- `REDACTED` |
-| [[Player Characters/Vergen Koni\|Vergen Koni]]                           | Mind's Eye Protector \- \- \- \-         |
 
 { .block-language-dataview}
 

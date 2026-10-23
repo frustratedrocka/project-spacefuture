@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-seeker/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-15T16:01:53.344-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker"],"Portrait":"[[Admin/Attachments/GB4_Seeker_SQ.webp]]","MECH_Concept":"Martian Ground War Grunt Suit","MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":null,"cl":101}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-seeker/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-15T16:01:53.000-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker"],"Portrait":"[[Admin/Attachments/GB4_Seeker_SQ.webp]]","MECH_Concept":"Martian Ground War Grunt Suit","MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":null,"cl":101}}
 ---
 
 # 

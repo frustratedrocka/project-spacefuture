@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/emergent-century-timeline/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-15T16:22:34.841-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/emergent-century-timeline/","tags":[null],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-15T16:22:34.000-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 
