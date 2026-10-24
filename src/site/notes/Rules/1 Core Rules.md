@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T19:55:45.635-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T19:57:04.112-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Taking Action
@@ -16,7 +16,7 @@ Some of these terms may not make sense to you yet; that's fine. Most of them wil
 
 >[!NOTE]+ What The Fudge?
 >"But `REDACTED`," I hear, "you said you'd be running Fate, why am I seeing the Storypath dice mechanics? I want my annoying-to-find and unusable-for-anything-else fudge dice! BRING BACK MY CLICKY CLACKY MATH CUBES!" 
->And to that I say: a fixed pool of four fudge dice creates a predictable curve where about 65 percent of your results are within +/- 1 of the numbers on your sheet, and over 86% are within +/- 2. That's great for Fate's default pulp adventure style, but for something a little grimmer, I want a bit more swing in the numbers. Variable D10 dice pools hit the right mathematical sweet spot, and this implementation slots cleanly into the rest of Fate's mechanical framework with only minimal adjustment to the numbers.
+>And to that I say: a fixed pool of four fudge dice creates a predictable curve where about 65 percent of your results are within +/- 1 of the numbers on your sheet, and over 86% are within +/- 2. That's great for Fate's default pulp adventure style, but for something a little grimmer where a random grunt can still get lucky and absolutely ruin your day, I want a bit more swing in the numbers. Variable D10 dice pools hit the right mathematical sweet spot, and this implementation slots cleanly into the rest of Fate's mechanical framework with only minimal adjustment to the numbers.
 >And if you don't believe Fate has a very strong narrative voice, feast your eyes on *literally any piece of cover or interior art* in its core books. It's somethin'. 
 
 ## Interpreting Results
