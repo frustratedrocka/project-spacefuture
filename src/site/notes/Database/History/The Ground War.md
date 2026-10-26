@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/history/the-ground-war/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-11T23:44:19.520-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/database/history/the-ground-war/","tags":["lore"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-26T09:38:31.486-04:00","dg-note-properties":{"tags":["lore"]}}
 ---
 
 [[Database/History/The Hive Mind\|The Hive Mind]] starts in space as fungal infection in food supply, entity on [[Database/Places/Earth\|Earth]] notices what's happening, doesn't like it, drops biggest concentration of the hive on [[Database/Places/Earth\|Earth]], Earth overcorrects, massive war ensues. 

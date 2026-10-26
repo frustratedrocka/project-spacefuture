@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/ship/","tags":["lore","index"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-26T09:21:26.784-04:00","dg-note-properties":{"tags":["lore","index"]}}
+{"dg-publish":true,"permalink":"/database/glossary/ship/","tags":["lore","index"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-26T09:42:57.850-04:00","dg-note-properties":{"tags":["lore","index"]}}
 ---
 
 ## A brief history of space battles
@@ -29,6 +29,8 @@ If you're sitting, lying down, or otherwise attached to furniture, you are liter
 Solar-scale communication requires approximately one fuckton of power per light-second per kilobyte. In/out communication is therefore extremely restricted and slow - think airplane wifi where local devices piggyback of the vehicle's connection. Also like airplane wifi, the ship's servers store a large quantity of material that gets updated to the greatest extent possible during handshakes with colonies and satellites. This largely means intel, technical documents, and other requirements for keeping the ship running. On most vessels, this also includes media - books, movies, games, ~~porn~~, etc. - to keep crews from losing their minds or finding more *creatively disastrous* ways to entertain themselves on long voyages. Rarely official; even more rarely does command decide to notice.
 
 The [[Database/Places/Charun\|Charun]] ferries are large enough to effectively solve the power concern, but their typically high passenger count means that bandwidth is so spread out that, for individuals, there's no real benefit. This also means that the Charuns function as a kind of regularly-scheduled bulk data transfer protocol (or, put more simply, the mail) from the inner rings to Jupiter and vice-versa, albeit with a month or more of lag in each direction. 
+
+The solar system's network of [[Database/Glossary/Satellites\|Satellites]] helps considerably, but you still need to 1. know roughly where the nearest satellite is and 2. actually maintain the connection long enough to send and receive all the data.
 
 
 ```base
