@@ -1,28 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-25T22:56:26.846-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Episode 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-26T00:28:46.795-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Episode 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
+>[!infobox|wm-sm]
+> # Official Playlist
+> <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3btu7KplmQVJKbQ4Geb64v?utm_source=generator&si=b73b3cd6d8044c58" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+> <iframe data-testid="embed-iframe" style="border-radius:12px"
+
 > [!cards|3]
->**[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)**
+>**[LIVE SHEETS](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)**
 > 
->**[[Rules Hub\|Rules Hub]]**
+>**[[Rules Hub\|RULES]]**
 > 
-> **[[Admin/Lines & Veils\|Lines & Veils]]**
+> **[[Admin/Lines & Veils\|SAFETY]]**
 
 > [!cards|5]
 > 
->**[[Faction Hub\|Faction Hub]]**
+>**[[Faction Hub\|FACTIONS]]**
 >
->**[[The Story So Far\|The Story So Far]]**
+>**[[The Story So Far\|RECAP]]**
 >
->**[[Database/History/Emergent Century Timeline\|EC Timeline]]**
+>**[[Database/History/Emergent Century Timeline\|TIMELINE]]**
 >
->**[[Solar Map\|Solar Map]]**
+>**[[Solar Map\|MAP]]**
 >
->**[[Mech Catalog\|Mech Catalog]]**
-
->[!infobox|wm-sm]
-> <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3btu7KplmQVJKbQ4Geb64v?utm_source=generator&si=b73b3cd6d8044c58" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+>**[[Mech Catalog\|MECHS]]**
 
 
 # Next: [[Session Notes/Episode 03\|Episode 03]] - Oct 27, 2026
