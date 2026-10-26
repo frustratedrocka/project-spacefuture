@@ -13,7 +13,7 @@
 > 
 >
 >> [!blank|flex embed clean n-th] VITALS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Modernized Rebel Grunt Suit</span></td></tr><tr><td><span>Rushed Into Production</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
