@@ -1,10 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-25T22:16:19.905-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Episode 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-25T22:56:26.846-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Episode 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
+
+> [!cards|3]
+>**[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)**
+> 
+>**[[Rules Hub\|Rules Hub]]**
+> 
+> **[[Admin/Lines & Veils\|Lines & Veils]]**
+
+> [!cards|5]
+> 
+>**[[Faction Hub\|Faction Hub]]**
+>
+>**[[The Story So Far\|The Story So Far]]**
+>
+>**[[Database/History/Emergent Century Timeline\|EC Timeline]]**
+>
+>**[[Solar Map\|Solar Map]]**
+>
+>**[[Mech Catalog\|Mech Catalog]]**
 
 >[!infobox|wm-sm]
 > <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3btu7KplmQVJKbQ4Geb64v?utm_source=generator&si=b73b3cd6d8044c58" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 
 
 # Next: [[Session Notes/Episode 03\|Episode 03]] - Oct 27, 2026
@@ -63,26 +81,6 @@ En route to drydock for critical repairs; actual destination [[Database/Glossary
 >> - "Old Conflicts Dormant, Not Dead"
 >> - "Lurking Shadow Of The [[Database/Factions/Hive Cult\|Hive Cult]]"
 >> - "Who Gets To Write The Future?"
-
-# Links & OVERVIEWS
-> [!cards|3]
->**[Character Sheets](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)**
-> 
->**[[Rules Hub\|Rules Hub]]**
-> 
-> **[[Admin/Lines & Veils\|Lines & Veils]]**
-
-> [!cards|5]
-> 
->**[[Faction Hub\|Faction Hub]]**
->
->**[[The Story So Far\|The Story So Far]]**
->
->**[[Database/History/Emergent Century Timeline\|EC Timeline]]**
->
->**[[Solar Map\|Solar Map]]**
->
->**[[Mech Catalog\|Mech Catalog]]**
 
 # Fiction Primer
 It is the year 0092 of the [[Database/History/Emergent Century Timeline\|Emergent Century Timeline]], and...
