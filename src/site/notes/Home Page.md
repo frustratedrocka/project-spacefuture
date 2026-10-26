@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-26T00:31:00.775-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Episode 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-26T00:35:03.998-04:00","dg-note-properties":{"SESH_Next":"[[Session Notes/Episode 03]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 >[!infobox|wm-sm]
 > # Official Playlist
 > <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3btu7KplmQVJKbQ4Geb64v?utm_source=generator&si=b73b3cd6d8044c58" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+>
+>> [!bug|title-center bg-c-gray]- TROUBLESHOOTING
+>> *If you're logged into spotify through your browser already, press the big play button first or it won't recognize the login when you try to start individual tracks. Yes, this *is* stupid.*
 
 > [!cards|3]
 >**[LIVE SHEETS](https://docs.google.com/spreadsheets/d/1diM1FI2RMmI5YziXIw98c7jBDa9AqwFYBWn2rrIPmno/edit?usp=sharing)**
