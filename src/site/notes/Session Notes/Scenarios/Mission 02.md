@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-02/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-25T22:56:53.469-04:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":[["Rats In The Cellar"]],"SCEN_Next":null}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/mission-02/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-25T22:59:58.216-04:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":[["Rats In The Cellar"]],"SCEN_Next":null}}
 ---
 
 ## Summary
@@ -39,5 +39,4 @@
 > [[The Story So Far\|The Story So Far]]
 > 
 > **Next**
-> `=link(this.SCEN_Next)`
-
+> \-

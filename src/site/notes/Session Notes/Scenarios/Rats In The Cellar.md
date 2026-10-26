@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-24T16:45:00.478-04:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":"[[Session Notes/Scenarios/Mission 02]]","aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-25T22:59:28.992-04:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":"[[Session Notes/Scenarios/Mission 02]]","aliases":["Mission 01"]}}
 ---
 
 ## Summary
