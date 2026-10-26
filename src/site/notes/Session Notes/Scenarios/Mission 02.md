@@ -9,7 +9,7 @@
 
 ## Sessions
 > [!blank|flex embed clean] SESSIONS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Episode</span></th><th class="table-view-th"><span>Name</span></th><th class="table-view-th"><span>Logline</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Episode 03.md" data-href="Session Notes/Episode 03.md" href="Session Notes/Episode 03.md" class="internal-link" target="_blank" rel="noopener nofollow">Episode 03</a></span></td><td><span>-</span></td><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Episode</span></th><th class="table-view-th"><span>Name</span></th><th class="table-view-th"><span>Logline</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Session Notes/Episode 03.md" data-href="Session Notes/Episode 03" href="Session Notes/Episode 03.md" class="internal-link" target="_blank" rel="noopener nofollow">Episode 03</a></span></td><td><span>-</span></td><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 ## NPCs
 >[!cards|dataview collapse 4 img-tiny] NPCs
