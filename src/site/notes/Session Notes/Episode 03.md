@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/episode-03/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T20:01:58.575-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-27","SESH_Name":"Shore Leave","SESH_Next":"[[Session 04]]","SESH_Prev":"[[Session Notes/Episode 02]]","Scenario":"[[Session Notes/Scenarios/Mission 02]]","Scenario_Index":1,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/Things/Blender's Edge]]","[[Database/People/Squad Leader]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":["[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/ELS-00 Elegant Sky]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]","[[Database/Mobile Suits/MGU Seeker]]","[[Database/Mobile Suits/TF-8 Hoplite]]"],"Impact":["[[Entity]] Public ::: Private ::: 0092-10-9"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
+{"dg-publish":true,"permalink":"/session-notes/episode-03/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-25T22:09:18.024-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-27","SESH_Name":"Shore Leave","SESH_Next":"[[Session 04]]","SESH_Prev":"[[Session Notes/Episode 02]]","Scenario":"[[Session Notes/Scenarios/Mission 02]]","Scenario_Index":1,"Logline":"The [[Fishbone]] makes port at [[Hygiea]], with an arrangement in place in exchange for repairs and nothing pressing in the meantime. Enjoy shore leave!","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/Things/Blender's Edge]]","[[Database/People/Beujolais Rigg]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":["[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/ELS-00 Elegant Sky]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]","[[Database/Mobile Suits/MGU Seeker]]","[[Database/Mobile Suits/TF-8 Hoplite]]"],"Impact":["[[Entity]] Public ::: Private ::: 0092-10-9"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
 ---
 
 
@@ -57,7 +57,7 @@
 
 # Episode 03 \- 
 
-*`=choice(!contains(this.Logline, "!r"+"!") or (contains(this.Logline, "!r"+"!") and contains(this.Logline, "!/r"+"!") and "__DG_PUBLISH__" != "__DG_PUBLISH__"), this.Logline, "REDACTED")`*
+*The [[Database/Things/Fishbone\|Fishbone]] makes port at [[Database/Places/Colonies/Hygiea\|Hygiea]], with an arrangement in place in exchange for repairs and nothing pressing in the meantime. Enjoy shore leave!*
 
 !/r!
 
@@ -69,6 +69,7 @@
 `REDACTED`
  
 
+# 
 
 
 # Notes 
