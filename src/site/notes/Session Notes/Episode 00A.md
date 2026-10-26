@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/episode-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T20:01:58.601-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Episode 00B]]","SESH_Prev":"[[Session Notes/World Jam]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars Sphere/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Places/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/ELS-00 Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/episode-00-a/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-26T10:44:21.336-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":true,"SESH_Date":"2026-09-01","SESH_Name":"Origins","SESH_Next":"[[Session Notes/Episode 00B]]","SESH_Prev":"[[Session Notes/World Jam]]","Scenario":"[[Session Notes/Scenarios/Pregame Setup]]","Scenario_Index":1,"Logline":"Meet Second Wing. Group character creation session including all-around Phase Trio backstory generation.","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"Locations":["[[Database/Places/Colonies/Theseus]]","[[Database/Places/Mars Sphere/Mars]]","[[Database/Places/Earth|Luna]]","[[Database/Places/Charun]]","[[Database/Places/Colonies/Arjuna]]"],"NPCs":[null],"Mechs":["[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/ELS-00 Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]"]}}
 ---
 
 > [!infobox|embed ws-med table wikipedia]
@@ -122,7 +122,7 @@ Got involved in mobile suit [[gladiator\|gladiator]] fighting with [[Database/Mo
 
 ### Phase Three: Crossing Paths
 
-[[Player Characters/August Grier\|August Grier]] found his way to the [[fighting pits\|fighting pits]], not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.
+[[Player Characters/August Grier\|August Grier]] found his way to the [[Database/Glossary/Fight Pits\|Fight Pits]], not to fight, but to steal parts and pilots. He, perhaps unfortunately, found both.
 
 #### Phase Three Aspect: “There’s no such thing as a ‘Hard No’”
 
