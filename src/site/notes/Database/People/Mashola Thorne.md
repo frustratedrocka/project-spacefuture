@@ -11,7 +11,7 @@
 > 
 >
 >>[!blank|clean embed n-th] VITALS
->>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr><tr><td><span><strong>ORIGIN</strong></span></td><td><span><code>REDACTED</code></span></td></tr><tr><td><span><strong>ASSOC.</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels.md" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr><tr><td><span><strong>ORIGIN</strong></span></td><td><span><code>REDACTED</code></span></td></tr><tr><td><span><strong>ASSOC.</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone.md" href="Database/Things/Fishbone.md" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 >  
 >> [!blank|clean embed tbl-u-1] CONSEQUENCES
 >>  | Harm | Consequence |
@@ -40,7 +40,7 @@
 !/mech!
 
 > [!blank|flex embed clean] ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-href="Database/Things/Fishbone" href="Fishbone" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a> Sensor Tech</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-href="Fishbone" href="Fishbone" class="internal-link" target="_blank" rel="noopener nofollow">Fishbone</a> Sensor Tech</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !mech!
 

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-27T03:54:00.924-04:00","dg-note-properties":{"Advances_Banked":0,"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Heat Sword","Grapple Shield"],"tags":["pc","character","entity","pilot"],"aliases":["Verg"],"Player":"[[Admin/Player/`REDACTED`]]","SESH_Start":"[[Session Notes/Episode 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"Strain":5,"MECH_Model":["[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/MGU-3 Seeker CQC]]"],"Armor":6,"MECH_Relationship":"Extension Of My Body","Skills":["Acquire 0","Fight 2","Interface 0","Know 0","Lead 0","Move 3","Network 0","Notice 2","Operate 0","Persevere 1","Shoot 1","Sway 0","Tend 0","Tinker 1","Understand 0"],"Approaches":["Quickly 3","Boldly 2","Forcefully 1","Cleverly 2","Subtly 1","Carefully 1"],"cl":111}}
+{"dg-publish":true,"permalink":"/player-characters/vergen-koni/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-27T18:19:33.979-04:00","dg-note-properties":{"Advances_Banked":0,"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Heat Sword","Grapple Shield"],"tags":["pc","character","entity","pilot"],"aliases":["Verg"],"Player":"[[Admin/Player/`REDACTED`]]","SESH_Start":"[[Session Notes/Episode 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Verg_Profile_pic_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Verg_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"Origin":"[[Database/Places/Colonies/Theseus]]","Assoc":null,"Concept":"Mind's Eye Protector","Trouble":"Subtle Paranoia","Aspects":["Speed Is Key","Respect The Fight","We Aren't Alone Here","Free Aspect"],"Stunts":["**LIKE LIGHTNING** +1 when you Fight Quickly to charge into another zone and attack a target there, +2 if you're rushing into fire.","**HUMAN LOCOMOTIVE** Once per scene, you may cross any number of zones in a single turn without having to roll.","**HUH, THAT'S ODD** You've got an eye for the little things. +1 when you Notice small environment details."],"Strain":5,"MECH_Model":["[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/MGU-3 Seeker CQC]]"],"Armor":6,"MECH_Relationship":"Extension Of My Body","Skills":["Acquire 0","Fight 2","Interface 0","Know 0","Lead 0","Move 3","Network 0","Notice 2","Operate 0","Persevere 1","Shoot 1","Sway 0","Tend 0","Tinker 1","Understand 0"],"Approaches":["Quickly 3","Boldly 2","Forcefully 1","Cleverly 2","Subtly 1","Carefully 1"],"cl":112}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Vergen Koni
-> ![Admin/Attachments/Verg_Profile_pic_SQ.webp\|cover\|250x200](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.webp)
+> ![Admin/Attachments/Verg_Profile_pic_SQ.webp\|Verg_Profile_pic_SQ.webp](/img/user/Admin/Attachments/Verg_Profile_pic_SQ.webp)
 > > [!caption] 
 > > 
 >
@@ -30,7 +30,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # Hyper Seeker
-> ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|cover\|250x275](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp)
+> ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp)
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

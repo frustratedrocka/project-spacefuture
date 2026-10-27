@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/episode-03/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-27T16:11:48.055-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-27","SESH_Name":"Shore Leave","SESH_Next":"[[Session 04]]","SESH_Prev":"[[Session Notes/Episode 02]]","Scenario":"[[Session Notes/Scenarios/Mission 02]]","Scenario_Index":1,"Logline":"The [[Fishbone]] makes port at [[Hygiea]], with an arrangement in place in exchange for repairs and nothing pressing in the meantime. Enjoy shore leave!","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/Things/Blender's Edge]]","[[Database/People/Beujolais Rigg]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":["[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/ELS-00 Elegant Sky]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]","[[Database/Mobile Suits/MGU Seeker]]","[[Database/Mobile Suits/TF-8 Hoplite]]"],"Impact":["[[Fishbone]] arrives at [[Hygiea]] and offers aid in exchange for critical repairs ::: #FROM_THE_ASHES ::: 0092-10-10"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
+{"dg-publish":true,"permalink":"/session-notes/episode-03/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-27T18:16:11.399-04:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-10-27","SESH_Name":"Shore Leave","SESH_Next":"[[Session 04]]","SESH_Prev":"[[Session Notes/Episode 02]]","Scenario":"[[Session Notes/Scenarios/Mission 02]]","Scenario_Index":1,"Logline":"The [[Fishbone]] makes port at [[Hygiea]], with an arrangement in place in exchange for repairs and nothing pressing in the meantime. Enjoy shore leave!","Attending":["[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]","[[Database/People/Delbrau Enger]]","[[Database/People/Graciela Tor]]","[[Database/Things/Blender's Edge]]","[[Database/People/Beujolais Rigg]]"],"Locations":["[[Database/Things/Fishbone]]","[[Database/Places/Colonies/Hygiea]]"],"Mechs":["[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/ELS-00 Elegant Sky]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]","[[Database/Mobile Suits/MGU Seeker]]","[[Database/Mobile Suits/TF-8 Hoplite]]"],"Impact":["[[Fishbone]] arrives at [[Hygiea]] and offers aid in exchange for critical repairs ::: #FROM_THE_ASHES ::: 0092-10-10"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
 ---
 
 
@@ -19,13 +19,10 @@
 > |The Saboteur|\- |
 >
 >## Present
->> [!cards|4 collapse]
->> 
->> ![Admin/Attachments/Auggie_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Auggie_Zoom.webp)
->>  **[[Player Characters/August Grier\|Auggie]]**
+>> [!cards|3 collapse]
 >> 
 >> ![Admin/Attachments/Lane_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Lane_Zoom.webp)
->> **[[Player Characters/Lane Gable\|Lane]]**
+>>  **[[Player Characters/Lane Gable\|Lane]]**
 >> 
 >> ![Admin/Attachments/Mena_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Mena_Zoom.webp)
 >> **[[Player Characters/Menodora Thaliana\|Mena]]**

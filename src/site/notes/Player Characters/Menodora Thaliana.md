@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-27T03:53:46.563-04:00","dg-note-properties":{"Advances_Banked":1,"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Mining Drill","Club"],"tags":["pc","character","entity","pilot"],"aliases":["Mena"],"Player":"[[Admin/Player/`REDACTED`]]","SESH_Start":"[[Session Notes/Episode 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Places/Charun]]"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"Strain":7,"MECH_Model":["[[Database/Mobile Suits/Kerbstomp]]"],"Armor":4,"MECH_Relationship":"My Ticket Out","Skills":["Acquire 1","Fight 2","Interface 0","Know 0","Lead 0","Move 0","Network 2","Notice 0","Operate 0","Persevere 3","Shoot 0","Sway 0","Tend 0","Tinker 1","Understand 1"],"Approaches":["Quickly 1","Boldly 2","Forcefully 3","Cleverly 2","Subtly 1","Carefully 1"],"cl":111}}
+{"dg-publish":true,"permalink":"/player-characters/menodora-thaliana/","tags":["pc","character","entity","pilot"],"noteIcon":"","updated":"2026-10-27T18:19:26.623-04:00","dg-note-properties":{"Advances_Banked":1,"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Mining Drill","Club"],"tags":["pc","character","entity","pilot"],"aliases":["Mena"],"Player":"[[Admin/Player/`REDACTED`]]","SESH_Start":"[[Session Notes/Episode 01]]","SESH_End":"N/A","SESH_Active":true,"Portrait":"[[Admin/Attachments/Menodora_SQ.webp]]","Portrait_Zoom":"[[Admin/Attachments/Mena_Zoom.webp]]","Faction":["[[Database/Factions/Rebels]]"],"Origin":"[[Database/Places/Earth|Luna]]","Assoc":["[[Database/Glossary/The Belt]]","[[Database/Places/Charun]]"],"Concept":"Hive-Linked Lunarian Refugee","Trouble":"Never Put Down Roots","Aspects":["It's Good To Be Underestimated","Allies In Strange Places","\"No Such Thing As A Hard 'No'\"","Free Aspect"],"Stunts":["**IF YOU CAN BUILD IT, I CAN BREAK IT** Not the most elegant of solutions, but engineering is not just a skill for putting things together. +1 when you Tinker to dismantle a machine.","**WHEN ALL YOU HAVE IS A POTATO PEELER** +1 when you Fight with something that *should not count* as a weapon. +2 if the \"weapon\" is as dangerous to you as it is to your opponent.","**HIGH SCHOOL NEVER ENDS** +1 when you Understand to figure out who is actually in charge in a room."],"Strain":7,"MECH_Model":["[[Database/Mobile Suits/Kerbstomp]]"],"Armor":4,"MECH_Relationship":"My Ticket Out","Skills":["Acquire 1","Fight 2","Interface 0","Know 0","Lead 0","Move 0","Network 2","Notice 0","Operate 0","Persevere 3","Shoot 0","Sway 0","Tend 0","Tinker 1","Understand 1"],"Approaches":["Quickly 1","Boldly 2","Forcefully 3","Cleverly 2","Subtly 1","Carefully 1"],"cl":112}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Menodora Thaliana
-> ![Admin/Attachments/Menodora_SQ.webp\|cover\|250x200](/img/user/Admin/Attachments/Menodora_SQ.webp)
+> ![Admin/Attachments/Menodora_SQ.webp\|Menodora_SQ.webp](/img/user/Admin/Attachments/Menodora_SQ.webp)
 > > [!caption] 
 > > 
 >
@@ -30,7 +30,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # Kerbstomp
-> ![Admin/Attachments/Theseus_SQ.webp\|cover\|250x275](/img/user/Admin/Attachments/Theseus_SQ.webp)
+> ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |
