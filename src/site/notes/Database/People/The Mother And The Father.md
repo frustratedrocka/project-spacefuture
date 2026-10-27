@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-mother-and-the-father/","tags":["npc","character","entity","major","paragon"],"noteIcon":"","updated":"2026-10-22T23:50:23.490-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity","major","paragon"],"aliases":[null],"Perf_Notes":[null],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Mindful Eyes]]"],"Rank":0,"Origin":"","Assoc":[""],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[""],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":[null],"MECH_Secret":false,"Armor":4,"MECH_Relationship":null,"Skills":["Acquire 2","Fight 4","Interface 0","Know 3","Lead 5","Move 3","Network 2","Notice 4","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 1","Tinker 1","Understand 2"],"Approaches":["Quickly 3","Boldly 3","Forcefully 2","Cleverly 4","Subtly 1","Carefully 2"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":109}}
+{"dg-publish":true,"permalink":"/database/people/the-mother-and-the-father/","tags":["npc","character","entity","major","paragon"],"noteIcon":"","updated":"2026-10-27T04:30:07.847-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity","major","paragon"],"aliases":[null],"Perf_Notes":[null],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Mindful Eyes]]"],"Rank":0,"Origin":"","Assoc":[""],"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[""],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":[null],"MECH_Secret":false,"Armor":4,"MECH_Relationship":null,"Skills":["Acquire 2","Fight 4","Interface 0","Know 3","Lead 5","Move 3","Network 2","Notice 4","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 1","Tinker 1","Understand 2"],"Approaches":["Quickly 3","Boldly 3","Forcefully 2","Cleverly 4","Subtly 1","Carefully 2"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # The Mother And The Father
-> ![Admin/Attachments/GenericFeddie_SQ.webp\|GenericFeddie_SQ.webp](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)
+> ![Admin/Attachments/GenericFeddie_SQ.webp\|cover\|250x250](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)
 >
 > 
 >
@@ -23,7 +23,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # `=this.MECH_Model[0].aliases[0]`
-> `=embed(link(this.MECH_Model[0].Portrait))`
+> `=embed(link(this.MECH_Model[0].Portrait, "cover|250x250"))`
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

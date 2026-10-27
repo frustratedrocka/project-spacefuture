@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-13T22:13:45.999-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Mindful Eyes]]","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
+{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-27T03:23:25.238-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Mindful Eyes]]","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
 ---
 
 
@@ -38,16 +38,10 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 
 >[!blank|static wfull]
 
+> [!blank|flex embed clean] CHARACTERS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The Mother And The Father.md" data-href="Database/People/The Mother And The Father" href="Database/People/The Mother And The Father.md" class="internal-link" target="_blank" rel="noopener nofollow">The Mother And The Father</a></span></td><td><span><code>REDACTED</code> - Relationship - <code>REDACTED</code></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/Vergen Koni.md" data-href="Player Characters/Vergen Koni" href="Player Characters/Vergen Koni.md" class="internal-link" target="_blank" rel="noopener nofollow">Vergen Koni</a></span></td><td><span>Mind's Eye Protector - - - -</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-
-| Character                                                                   | Aspects                                  |
-| --------------------------------------------------------------------------- | ---------------------------------------- |
-| [[Database/People/The Mother And The Father\|The Mother And The Father]] | `REDACTED` \- Relationship \- `REDACTED` |
-| [[Player Characters/Vergen Koni\|Vergen Koni]]                           | Mind's Eye Protector \- \- \- \-         |
-
-{ .block-language-dataview}
-
-> [!blank|embed clean] SCRIPT
+> [!blank|embed clean] LOCATIONS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Concept</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/Places/Earth.md" data-href="Database/Places/Earth" href="Database/Places/Earth.md" class="internal-link" target="_blank" rel="noopener nofollow">Earth</a></span></td><td><span>Humanity's Cradle Turned Life Support</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td><td><span>No Man's Land</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Mindful Eyes.md" data-href="Database/Factions/Mindful Eyes" href="Database/Factions/Mindful Eyes.md" class="internal-link" target="_blank" rel="noopener nofollow">Mindful Eyes</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS

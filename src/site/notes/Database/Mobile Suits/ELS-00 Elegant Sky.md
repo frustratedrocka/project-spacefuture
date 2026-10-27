@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/els-00-elegant-sky/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-15T16:01:57.710-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Elegant Sky"],"Portrait":"[[Admin/Attachments/DagDoll_SQ.webp]]","MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"DEV_From":null,"cl":101}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/els-00-elegant-sky/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T03:38:19.988-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Elegant Sky"],"Portrait":"[[Admin/Attachments/DagDoll_SQ.webp]]","MECH_Concept":"Long Range Fire Support","MECH_Trouble":"Complex Systems","MECH_Gear":["Shield","Beam Rifle"],"MECH_Stunts":["**COVERT FIRE** +1 when Shooting undetected. +2 when breaking cover and entering same zone as hostile.","**ELECTRONIC WARFARE** You can Interface to attack and create advantages against other mobile suits remotely."],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Armada Ejecta]]"],"DEV_From":null,"cl":102}}
 ---
 
 # 
 
 > [!infobox|embed right flex wsmall] INFOBOX
 > # Elegant Sky
-> ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)
+> ![Admin/Attachments/DagDoll_SQ.webp\|hs-med cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)
 >> [!caption]
 >> ELS-00 Elegant Sky
 >

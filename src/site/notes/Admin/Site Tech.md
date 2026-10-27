@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/site-tech/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-26T11:30:06.079-04:00","dg-note-properties":{"tags":[null]}}
+{"dg-publish":true,"permalink":"/admin/site-tech/","tags":[null],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-26T11:31:42.415-04:00","dg-note-properties":{"tags":[null]}}
 ---
 
 I've been using Obsidian as the primary note-taking hub for every campaign I've run since I discovered it existed, and have gone through a few different templates and workflows. For this campaign, I wanted to actually commit to something I've wanted for a while but was never able to figure out: publishing a curated player-facing view of the vault to serve as a world database and quick reference for "Who was this guy? What happened last time we saw them? How'd we end up banned from Argo, again?"

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character","entity","major","paragon"],"noteIcon":"","updated":"2026-10-22T23:50:00.822-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":[null,null],"tags":["npc","character","entity","major","paragon"],"aliases":["TMU"],"Perf_Notes":[null],"Portrait":"[[Admin/Attachments/Onassis.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":0,"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Concept":"Expert Shipping Magnate","Relationship":"Leading Your Enemy","Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`","`REDACTED`"],"Stunts":[null],"Strain":6,"MECH_Model":null,"MECH_Secret":null,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 4","Fight 0","Interface 0","Know 2","Lead 4","Move 0","Network 4","Notice 2","Operate 1","Persevere 2","Shoot 0","Sway 3","Tend 0","Tinker 0","Understand 3"],"Approaches":["Quickly 2","Boldly 2","Forcefully 4","Cleverly 3","Subtly 4","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":109}}
+{"dg-publish":true,"permalink":"/database/people/the-man-upstairs/","tags":["npc","character","entity","major","paragon"],"noteIcon":"","updated":"2026-10-27T04:31:37.497-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":[null,null],"tags":["npc","character","entity","major","paragon"],"aliases":["TMU"],"Perf_Notes":[null],"Portrait":"[[Admin/Attachments/Onassis.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":0,"Origin":"[[Database/Places/Colonies/Ceres]]","Assoc":["[[Database/Places/Jupiter Sphere/Jupiter]]"],"Concept":"Expert Shipping Magnate","Relationship":"Leading Your Enemy","Loyalty":"`REDACTED`","Aspects":["`REDACTED`","`REDACTED`","`REDACTED`"],"Stunts":[null],"Strain":6,"MECH_Model":null,"MECH_Secret":null,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 4","Fight 0","Interface 0","Know 2","Lead 4","Move 0","Network 4","Notice 2","Operate 1","Persevere 2","Shoot 0","Sway 3","Tend 0","Tinker 0","Understand 3"],"Approaches":["Quickly 2","Boldly 2","Forcefully 4","Cleverly 3","Subtly 4","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # The Man Upstairs
-> ![Admin/Attachments/Onassis.webp\|Onassis.webp](/img/user/Admin/Attachments/Onassis.webp)
+> ![Admin/Attachments/Onassis.webp\|cover\|250x250](/img/user/Admin/Attachments/Onassis.webp)
 >
 > 
 >
@@ -23,7 +23,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # `=this.MECH_Model[0].aliases[0]`
-> `=embed(link(this.MECH_Model[0].Portrait))`
+> `=embed(link(this.MECH_Model[0].Portrait, "cover|250x250"))`
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

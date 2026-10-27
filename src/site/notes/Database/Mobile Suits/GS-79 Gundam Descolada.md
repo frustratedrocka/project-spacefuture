@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/gs-79-gundam-descolada/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-15T16:01:56.174-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Gundam Descolada","Descolada"],"Portrait":"[[Admin/Attachments/Descolada_SQ.webp]]","MECH_Concept":"Swashbuckling Space Duellist","MECH_Trouble":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"MECH_Stunts":["**BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.","**YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost.","`REDACTED`"],"Faction":["[[Database/Factions/Armada Ejecta]]"],"DEV_From":null,"cl":101}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/gs-79-gundam-descolada/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T03:38:03.561-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Gundam Descolada","Descolada"],"Portrait":"[[Admin/Attachments/Descolada_SQ.webp]]","MECH_Concept":"Swashbuckling Space Duellist","MECH_Trouble":"`REDACTED`","MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"MECH_Stunts":["**BOOST CHARGE** You love a big entrance. +1 when you Fight Boldly to charge an enemy in another zone, +2 if you're flying headlong into oncoming fire.","**YOU LEAVE WHEN I LET YOU** Once per scene, you may Fight Quickly as a reaction to launch your hook onto an enemy and prevent their escape from your melee range. The enemy may defend against this. If you succeed, the enemy's intended action is lost.","`REDACTED`"],"Faction":["[[Database/Factions/Armada Ejecta]]"],"DEV_From":null,"cl":102}}
 ---
 
 # 
 
 > [!infobox|embed right flex wsmall] INFOBOX
 > # Gundam Descolada
-> ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)
+> ![Admin/Attachments/Descolada_SQ.webp\|hs-med cover](/img/user/Admin/Attachments/Descolada_SQ.webp)
 >> [!caption]
 >> GS-79 Gundam Descolada
 >

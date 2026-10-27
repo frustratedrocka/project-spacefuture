@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-11T23:44:19.281-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Hive Cult]]","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[Database/People/The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"aliases":["Cult"]}}
+{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-27T03:23:37.517-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Hive Cult]]","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[Database/People/The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"aliases":["Cult"]}}
 ---
 
 
@@ -31,13 +31,10 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 
 >[!blank|static wfull]
 
-| Character                                   | Aspects                                  |
-| ------------------------------------------- | ---------------------------------------- |
-| [[Database/People/The Queen\|The Queen]] | `REDACTED` \- Relationship \- `REDACTED` |
+> [!blank|flex embed clean] CHARACTERS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The Queen.md" data-href="Database/People/The Queen" href="Database/People/The Queen.md" class="internal-link" target="_blank" rel="noopener nofollow">The Queen</a></span></td><td><span><code>REDACTED</code> - Relationship - <code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-{ .block-language-dataview}
-
-> [!blank|embed clean] SCRIPT
+> [!blank|embed clean] LOCATIONS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Concept</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/Places/Earth.md" data-href="Database/Places/Earth" href="Database/Places/Earth.md" class="internal-link" target="_blank" rel="noopener nofollow">Earth</a></span></td><td><span>Humanity's Cradle Turned Life Support</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td><td><span>No Man's Land</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Hive Cult.md" data-href="Database/Factions/Hive Cult" href="Database/Factions/Hive Cult.md" class="internal-link" target="_blank" rel="noopener nofollow">Hive Cult</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS

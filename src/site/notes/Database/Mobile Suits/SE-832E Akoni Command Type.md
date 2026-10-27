@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/se-832-e-akoni-command-type/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-15T16:01:50.451-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Akoni-E","Akoni Command Type"],"Portrait":"[[Admin/Attachments/Akoni-E_SQ.webp]]","MECH_Concept":"Apsis's First Line Of Offense, Enhanced","MECH_Trouble":"Designed To Punch Down","MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto","Beam Saber"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mobile suits.","`REDACTED`"],"Faction":["[[Database/Factions/Apsis]]"],"DEV_From":["[[Database/Mobile Suits/SE-832 Akoni]]"],"Assoc":["[[Database/Things/Brynhildr]]"],"cl":101}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/se-832-e-akoni-command-type/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T03:44:02.866-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Akoni-E","Akoni Command Type"],"Portrait":"[[Admin/Attachments/Akoni-E_SQ.webp]]","MECH_Concept":"Apsis's First Line Of Offense, Enhanced","MECH_Trouble":"Designed To Punch Down","MECH_Gear":["Gatling Cannon","Akoni Bazooka","Underslung SMG","Heat Tanto","Beam Saber"],"MECH_Stunts":["**30 SECONDS TO DISPERSE** +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mobile suits.","`REDACTED`"],"Faction":["[[Database/Factions/Apsis]]"],"DEV_From":["[[Database/Mobile Suits/SE-832 Akoni]]"],"Assoc":["[[Database/Things/Brynhildr]]"],"cl":102}}
 ---
 
 # 
 
 > [!infobox|embed right flex wsmall] INFOBOX
 > # Akoni-E
-> ![Admin/Attachments/Akoni-E_SQ.webp\|Akoni-E_SQ.webp](/img/user/Admin/Attachments/Akoni-E_SQ.webp)
+> ![Admin/Attachments/Akoni-E_SQ.webp\|hs-med cover](/img/user/Admin/Attachments/Akoni-E_SQ.webp)
 >> [!caption]
 >> SE-832E Akoni Command Type
 >

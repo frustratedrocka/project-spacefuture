@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot","entity","major","paragon"],"noteIcon":"","updated":"2026-10-22T23:50:33.804-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"tags":["npc","character","pilot","entity","major","paragon"],"aliases":["Pirate King"],"Perf_Notes":["Have *fun* with it"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Rank":0,"Origin":"[[Database/Places/Earth]]","Assoc":null,"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"Strain":5,"MECH_Model":["[[Database/Mobile Suits/GS-79 Gundam Descolada]]"],"MECH_Secret":false,"Armor":6,"MECH_Relationship":"`REDACTED`","Skills":["Acquire 2","Fight 4","Interface 0","Know 3","Lead 5","Move 3","Network 2","Notice 4","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 1","Tinker 1","Understand 2"],"Approaches":["Quickly 3","Boldly 3","Forcefully 2","Cleverly 4","Subtly 1","Carefully 2"],"Stats_On":true,"Skills_On":false,"Stunts_On":true,"cl":109}}
+{"dg-publish":true,"permalink":"/database/people/the-pirate-king/","tags":["npc","character","pilot","entity","major","paragon"],"noteIcon":"","updated":"2026-10-27T04:28:49.728-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Composite Gunlance","Hooked Duelling Cape","`REDACTED`","`REDACTED`"],"tags":["npc","character","pilot","entity","major","paragon"],"aliases":["Pirate King"],"Perf_Notes":["Have *fun* with it"],"Portrait":"[[Admin/Attachments/Harlock.webp]]","Faction":["[[Database/Factions/Armada Ejecta]]"],"Rank":0,"Origin":"[[Database/Places/Earth]]","Assoc":null,"Concept":"Flamboyant Living Symbol","Relationship":"Relationship","Loyalty":"Exemplary Captain First, King Distant Second","Aspects":["%% %%","Far Better To Live And Die Under The Brave Black Flag","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","`REDACTED`","`REDACTED`"],"Strain":5,"MECH_Model":["[[Database/Mobile Suits/GS-79 Gundam Descolada]]"],"MECH_Secret":false,"Armor":6,"MECH_Relationship":"`REDACTED`","Skills":["Acquire 2","Fight 4","Interface 0","Know 3","Lead 5","Move 3","Network 2","Notice 4","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 1","Tinker 1","Understand 2"],"Approaches":["Quickly 3","Boldly 3","Forcefully 2","Cleverly 4","Subtly 1","Carefully 2"],"Stats_On":true,"Skills_On":false,"Stunts_On":true,"cl":111}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # The Pirate King
-> ![Admin/Attachments/Harlock.webp\|Harlock.webp](/img/user/Admin/Attachments/Harlock.webp)
+> ![Admin/Attachments/Harlock.webp\|cover\|250x250](/img/user/Admin/Attachments/Harlock.webp)
 >
 > 
 >
@@ -23,7 +23,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # Gundam Descolada
-> ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)
+> ![Admin/Attachments/Descolada_SQ.webp\|cover\|250x250](/img/user/Admin/Attachments/Descolada_SQ.webp)
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

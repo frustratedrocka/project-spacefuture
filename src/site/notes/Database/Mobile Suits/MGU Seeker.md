@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-seeker/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-15T16:01:53.344-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker"],"Portrait":"[[Admin/Attachments/GB4_Seeker_SQ.webp]]","MECH_Concept":"Martian Ground War Grunt Suit","MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":null,"cl":101}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-seeker/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T03:38:37.338-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker"],"Portrait":"[[Admin/Attachments/FV_Seeker.webp]]","MECH_Concept":"Martian Ground War Grunt Suit","MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":null,"cl":102}}
 ---
 
 # 
 
 > [!infobox|embed right flex wsmall] INFOBOX
 > # Seeker
-> ![Admin/Attachments/GB4_Seeker_SQ.webp\|GB4_Seeker_SQ.webp](/img/user/Admin/Attachments/GB4_Seeker_SQ.webp)
+> ![Admin/Attachments/FV_Seeker.webp\|hs-med cover](/img/user/Admin/Attachments/FV_Seeker.webp)
 >> [!caption]
 >> MGU Seeker
 >

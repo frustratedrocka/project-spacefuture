@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-queen/","tags":["npc","character","entity","major","paragon"],"noteIcon":"","updated":"2026-10-22T23:50:58.363-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["`REDACTED`","`REDACTED`"],"tags":["npc","character","entity","major","paragon"],"aliases":[null],"Perf_Notes":[null],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Hive Cult]]"],"Rank":0,"Origin":null,"Assoc":null,"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":[null],"Strain":4,"MECH_Model":["[[Database/Mobile Suits/Eubiont]]"],"MECH_Secret":true,"Armor":4,"MECH_Relationship":"`REDACTED`","Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":109}}
+{"dg-publish":true,"permalink":"/database/people/the-queen/","tags":["npc","character","entity","major","paragon"],"noteIcon":"","updated":"2026-10-27T03:58:56.350-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["`REDACTED`","`REDACTED`"],"tags":["npc","character","entity","major","paragon"],"aliases":[null],"Perf_Notes":[null],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","portrait_Link":"![[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Hive Cult]]"],"Rank":0,"Origin":null,"Assoc":null,"Concept":"`REDACTED`","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":[null,null,null],"Stunts":[null],"Strain":4,"MECH_Model":["[[Database/Mobile Suits/Eubiont]]"],"MECH_Secret":true,"Armor":4,"MECH_Relationship":"`REDACTED`","Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # The Queen
-> ![Admin/Attachments/GenericFeddie_SQ.webp\|GenericFeddie_SQ.webp](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)
+> ![Admin/Attachments/GenericFeddie_SQ.webp\|cover\|250x275](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)
 >
 > 
 >
@@ -23,7 +23,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # Eubiont
-> ![Admin/Attachments/Eubiont_SQ.webp\|Eubiont_SQ.webp](/img/user/Admin/Attachments/Eubiont_SQ.webp)
+> ![Admin/Attachments/FV_Eubiont.webp\|cover\|250x275](/img/user/Admin/Attachments/FV_Eubiont.webp)
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

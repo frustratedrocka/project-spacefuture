@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-11T23:44:19.261-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Armada Ejecta]]","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors","Space Pirates"],"Portrait":"[[Admin/Attachments/CV_Recolor.webp]]"}}
+{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-27T03:22:47.758-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Armada Ejecta]]","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors","Space Pirates"],"Portrait":"[[Admin/Attachments/CV_Recolor.webp]]"}}
 ---
 
 
@@ -26,22 +26,18 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 
 >[!blank|static wfull]
 
-| Character                                               | Aspects                                                                                  |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [[Database/People/The Pirate King\|The Pirate King]] | Flamboyant Living Symbol \- Relationship \- Exemplary Captain First, King Distant Second |
-| [[Player Characters/Lane Gable\|Lane Gable]]         | Pirate Turned Freedom Fighter \- \- \- \-                                                |
+> [!blank|flex embed clean] CHARACTERS
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/People/The Pirate King.md" data-href="Database/People/The Pirate King" href="Database/People/The Pirate King.md" class="internal-link" target="_blank" rel="noopener nofollow">The Pirate King</a></span></td><td><span>Flamboyant Living Symbol - Relationship - Exemplary Captain First, King Distant Second</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Player Characters/Lane Gable.md" data-href="Player Characters/Lane Gable" href="Player Characters/Lane Gable.md" class="internal-link" target="_blank" rel="noopener nofollow">Lane Gable</a></span></td><td><span>Pirate Turned Freedom Fighter - - - -</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
-{ .block-language-dataview}
-
-> [!blank|embed clean] SCRIPT
+> [!blank|embed clean] LOCATIONS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Concept</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Database/Places/Earth.md" data-href="Database/Places/Earth" href="Database/Places/Earth.md" class="internal-link" target="_blank" rel="noopener nofollow">Earth</a></span></td><td><span>Humanity's Cradle Turned Life Support</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td><td><span>No Man's Land</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Database/Places/Colonies/Kelly.md" data-href="Database/Places/Colonies/Kelly" href="Database/Places/Colonies/Kelly.md" class="internal-link" target="_blank" rel="noopener nofollow">Kelly</a></span></td><td><span>Rowdy Space Australia</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" href="Database/Factions/Rebels.md" class="internal-link" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span>Contested</span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Armada Ejecta.md" data-href="Database/Factions/Armada Ejecta" href="Database/Factions/Armada Ejecta.md" class="internal-link" target="_blank" rel="noopener nofollow">Armada Ejecta</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
->  | Mobile Suits                                                            | Name                                                                            |
-> | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                 | **[[Database/Mobile Suits/ELS-00 Elegant Sky\|ELS-00 Elegant Sky]]**         |
-> | ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)             | **[[Database/Mobile Suits/GS-79 Gundam Descolada\|GS-79 Gundam Descolada]]** |
-> | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp)                 | **[[Database/Mobile Suits/TF-8 Hoplite\|TF-8 Hoplite]]**                     |
-> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/TF-8S Hoplite Striker\|TF-8S Hoplite Striker]]**   |
+>  | Mobile Suits                                                          | Name                                                                            |
+> | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)               | **[[Database/Mobile Suits/ELS-00 Elegant Sky\|ELS-00 Elegant Sky]]**         |
+> | ![Admin/Attachments/Descolada_SQ.webp\|Descolada_SQ.webp](/img/user/Admin/Attachments/Descolada_SQ.webp)           | **[[Database/Mobile Suits/GS-79 Gundam Descolada\|GS-79 Gundam Descolada]]** |
+> | ![Admin/Attachments/169_Hoplite.webp\|169_Hoplite.webp](/img/user/Admin/Attachments/169_Hoplite.webp)             | **[[Database/Mobile Suits/TF-8 Hoplite\|TF-8 Hoplite]]**                     |
+> | ![Admin/Attachments/FV_HopliteStriker.webp\|FV_HopliteStriker.webp](/img/user/Admin/Attachments/FV_HopliteStriker.webp) | **[[Database/Mobile Suits/TF-8S Hoplite Striker\|TF-8S Hoplite Striker]]**   |
 > 
 { .block-language-dataview}

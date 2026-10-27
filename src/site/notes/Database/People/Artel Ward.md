@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/artel-ward/","tags":["npc","character","entity","minor"],"noteIcon":"","updated":"2026-10-22T23:47:13.296-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":[null,null],"comments":true,"tags":["npc","character","entity","minor"],"aliases":[null],"Perf_Notes":["Mass Effect 2 Lt. Bailey - Aggressively Canadian"],"Portrait":"[[Admin/Attachments/Saul_Tigh.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Jovian Consortium]]"],"Rank":3,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":["[[Database/Things/Fishbone]]"],"Concept":"Grizzled [[Fishbone]] XO","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["Hard Times Make Hard Asses",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":null,"MECH_Secret":null,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":109}}
+{"dg-publish":true,"permalink":"/database/people/artel-ward/","tags":["npc","character","entity","minor"],"noteIcon":"","updated":"2026-10-27T04:34:27.152-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":[null,null],"comments":true,"tags":["npc","character","entity","minor"],"aliases":[null],"Perf_Notes":["Mass Effect 2 Lt. Bailey - Aggressively Canadian"],"Portrait":"[[Admin/Attachments/Saul_Tigh.webp]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Jovian Consortium]]"],"Rank":3,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":["[[Database/Things/Fishbone]]"],"Concept":"Grizzled [[Fishbone]] XO","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["Hard Times Make Hard Asses",null,null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":null,"MECH_Secret":null,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 0","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 0","Subtly 0","Carefully 0"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Artel Ward
-> ![Admin/Attachments/Saul_Tigh.webp\|Saul_Tigh.webp](/img/user/Admin/Attachments/Saul_Tigh.webp)
+> ![Admin/Attachments/Saul_Tigh.webp\|cover\|250x250](/img/user/Admin/Attachments/Saul_Tigh.webp)
 >
 > 
 >
@@ -23,7 +23,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # `=this.MECH_Model[0].aliases[0]`
-> `=embed(link(this.MECH_Model[0].Portrait))`
+> `=embed(link(this.MECH_Model[0].Portrait, "cover|250x250"))`
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

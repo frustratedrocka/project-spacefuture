@@ -30,12 +30,12 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 >[!cards|dataview collapse 6 img-tiny] MECHS
 >  | Portrait                                                    | Mobile Suit                                                             |
 > | ----------------------------------------------------------- | ----------------------------------------------------------------------- |
-> | ![Admin/Attachments/HopliteCustom_SQ.webp\|sban cover](/img/user/Admin/Attachments/HopliteCustom_SQ.webp)    | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|Cossack]]**          |
+> | ![Admin/Attachments/FV_Cossack.webp\|sban cover](/img/user/Admin/Attachments/FV_Cossack.webp)          | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|Cossack]]**          |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ELS-00 Elegant Sky\|Elegant Sky]]**        |
-> | ![Admin/Attachments/Hoplite_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_SQ.webp)          | **[[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]]**                  |
-> | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp)  | **[[Database/Mobile Suits/TF-8S Hoplite Striker\|Hoplite Striker]]** |
+> | ![Admin/Attachments/169_Hoplite.webp\|sban cover](/img/user/Admin/Attachments/169_Hoplite.webp)         | **[[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]]**                  |
+> | ![Admin/Attachments/FV_HopliteStriker.webp\|sban cover](/img/user/Admin/Attachments/FV_HopliteStriker.webp)   | **[[Database/Mobile Suits/TF-8S Hoplite Striker\|Hoplite Striker]]** |
 > | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/MEU-1H Seeker CQC\|Hyper Seeker]]**        |
-> | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)          | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                   |
+> | ![Admin/Attachments/169_Kerbstomp.webp\|sban cover](/img/user/Admin/Attachments/169_Kerbstomp.webp)       | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                   |
 > 
 { .block-language-dataview}
 
