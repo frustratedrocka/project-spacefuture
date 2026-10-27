@@ -69,7 +69,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
 >  | Mobile Suits                                                | Name                                                                            |
 > | ----------------------------------------------------------- | ------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/FV_Rejunot.webp\|FV_Rejunot.webp](/img/user/Admin/Attachments/FV_Rejunot.webp)     | **[[Database/Mobile Suits/AP-92 Rejunot\|AP-92 Rejunot]]**                   |
+> | ![Admin/Attachments/169_Rejunot.webp\|169_Rejunot.webp](/img/user/Admin/Attachments/169_Rejunot.webp)   | **[[Database/Mobile Suits/AP-92 Rejunot\|AP-92 Rejunot]]**                   |
 > | ![Admin/Attachments/FV_Makhairos.webp\|FV_Makhairos.webp](/img/user/Admin/Attachments/FV_Makhairos.webp) | **[[Database/Mobile Suits/EW-14 Gundam Makhairos\|EW-14 Gundam Makhairos]]** |
 > 
 { .block-language-dataview}

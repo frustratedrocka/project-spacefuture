@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T03:43:57.179-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Rejunot"],"Portrait":"[[Admin/Attachments/FV_Rejunot.webp]]","MECH_Concept":"Modernized Rebel Grunt Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":null,"cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T04:50:07.719-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Rejunot"],"Portrait":"[[Admin/Attachments/169_Rejunot.webp]]","MECH_Concept":"Modernized Rebel Grunt Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":null,"cl":102}}
 ---
 
 # 
 
 > [!infobox|embed right flex wsmall] INFOBOX
 > # Rejunot
-> ![Admin/Attachments/FV_Rejunot.webp\|hs-med cover](/img/user/Admin/Attachments/FV_Rejunot.webp)
+> ![Admin/Attachments/169_Rejunot.webp\|hs-med cover](/img/user/Admin/Attachments/169_Rejunot.webp)
 >> [!caption]
 >> AP-92 Rejunot
 >
