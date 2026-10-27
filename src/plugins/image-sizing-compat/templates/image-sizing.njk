@@ -1,0 +1,123 @@
+<script>
+/* Digital Garden image sizing compatibility.
+ * Recover numeric Obsidian dimensions and ITS named sizes from the alt suffix
+ * that Digital Garden currently emits. Does not alter image URLs or links.
+ *
+ * Examples:
+ *   Admin/Attachments/Sven_SQ.webpcover250x250 -> 250px x 250px, cropped
+ *   Haro.webpws-med right                     -> 300px wide, natural height
+ *   Mech.webpcover hs-med wsmall              -> 200px x 300px, cropped
+ */
+(function () {
+  "use strict";
+
+  const IMAGE_SELECTOR = ".content img[alt]";
+  const lastApplied = new WeakMap();
+
+  // Presets from ITS Image Adjustments' pixel sizing convention.
+  const WIDTHS = {
+    wtiny: 100, wsmall: 200, "ws-med": 300, "wm-sm": 400,
+    wmed: 500, "wm-tl": 600, wtall: 700
+  };
+  const HEIGHTS = {
+    htiny: 100, hsmall: 200, "hs-med": 300, "hm-sm": 400,
+    hmed: 500, "hm-tl": 600, htall: 700
+  };
+  const WIDTH_TOKEN = /(?:^|[\s|])(wtiny|wsmall|ws-med|wm-sm|wmed|wm-tl|wtall)(?=$|[\s|])/g;
+  const HEIGHT_TOKEN = /(?:^|[\s|])(htiny|hsmall|hs-med|hm-sm|hmed|hm-tl|htall)(?=$|[\s|])/g;
+  const NUMERIC_SIZE = /(?:^|[\s|])(?:cover\|?)?([1-9]\d{0,3})x([1-9]\d{0,3})(?=$|[\s|])/;
+  const EXTENSION = /\.(?:png|jpe?g|webp|gif|avif|svg|bmp)/gi;
+  const COVER_TOKEN = /(?:^|[\s|])cover(?=$|[\s|]|[1-9]\d{0,3}x)/;
+
+  function suffixFromAlt(alt) {
+    // DG may fuse modifiers directly to the filename extension; stripping the
+    // filename avoids accidentally detecting modifiers in an image's path.
+    let found = null;
+    EXTENSION.lastIndex = 0;
+    let m;
+    while ((m = EXTENSION.exec(alt)) !== null) found = m;
+    return (found ? alt.slice(found.index + found[0].length) : alt)
+      .trim().toLowerCase();
+  }
+
+  function lastPreset(text, tokenPattern, presets) {
+    tokenPattern.lastIndex = 0;
+    let size = null;
+    let m;
+    while ((m = tokenPattern.exec(text)) !== null) size = presets[m[1]];
+    return size;
+  }
+
+  function parseModifiers(alt) {
+    const suffix = suffixFromAlt(alt);
+    if (!suffix) return null;
+
+    const numeric = suffix.match(NUMERIC_SIZE);
+    const width = numeric ? Number(numeric[1]) : lastPreset(suffix, WIDTH_TOKEN, WIDTHS);
+    const height = numeric ? Number(numeric[2]) : lastPreset(suffix, HEIGHT_TOKEN, HEIGHTS);
+    if (width == null && height == null) return null;
+
+    return { width, height, cover: COVER_TOKEN.test(suffix) };
+  }
+
+  function applySize(img) {
+    const alt = img.getAttribute("alt") || "";
+    if (lastApplied.get(img) === alt) return;
+
+    const size = parseModifiers(alt);
+    if (!size) return;
+
+    // Named width-only and height-only sizes must preserve natural aspect ratio.
+    img.style.setProperty("width", size.width == null ? "auto" : size.width + "px", "important");
+    img.style.setProperty("height", size.height == null ? "auto" : size.height + "px", "important");
+    img.style.setProperty("max-width", "100%", "important");
+    img.style.setProperty("max-height", "none", "important");
+
+    // Preserve cover cropping for numeric embeds. When both dimensions are
+    // specified without cover, match the v1.0 behavior (contain).
+    if (size.cover || (size.width != null && size.height != null)) {
+      img.style.setProperty("object-fit", size.cover ? "cover" : "contain", "important");
+      img.style.setProperty("object-position", "center center", "important");
+    } else if (lastApplied.has(img)) {
+      // An alt edit might have changed a cover embed to a width-only preset.
+      img.style.removeProperty("object-fit");
+      img.style.removeProperty("object-position");
+    }
+
+    // Intentionally do not modify float, display, or margin. DG already
+    // handles the 'right' modifier, as confirmed on the published HarOS page.
+    lastApplied.set(img, alt);
+  }
+
+  function scan(node) {
+    if (!node || node.nodeType !== 1) return;
+    if (node.matches && node.matches(IMAGE_SELECTOR)) applySize(node);
+    if (node.querySelectorAll) node.querySelectorAll(IMAGE_SELECTOR).forEach(applySize);
+  }
+
+  function start() {
+    scan(document.body);
+    const observer = new MutationObserver(function (mutations) {
+      for (const mutation of mutations) {
+        if (mutation.type === "attributes") {
+          if (mutation.target.matches(IMAGE_SELECTOR)) applySize(mutation.target);
+        } else {
+          for (const node of mutation.addedNodes) scan(node);
+        }
+      }
+    });
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true,
+      attributes: true,
+      attributeFilter: ["alt"]
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", start, { once: true });
+  } else {
+    start();
+  }
+})();
+</script>

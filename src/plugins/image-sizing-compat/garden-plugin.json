@@ -1,0 +1,10 @@
+{
+  "id": "image-sizing-compat",
+  "name": "Obsidian / ITS Image Sizing Compatibility",
+  "version": "1.1.0",
+  "description": "Restore numeric Obsidian/Dataview image dimensions and ITS named width/height sizes from published image metadata.",
+  "author": "Project Spacefuture",
+  "slots": {
+    "common.footer": "templates/image-sizing.njk"
+  }
+}
