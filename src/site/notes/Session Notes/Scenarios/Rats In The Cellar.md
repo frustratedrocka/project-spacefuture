@@ -38,7 +38,7 @@ A successful, impossible decapitation strike against the [[Database/Things/Fishb
 > | ![Admin/Attachments/Akoni-E_SQ.webp\|sban cover](/img/user/Admin/Attachments/Akoni-E_SQ.webp)          | **[[Database/Mobile Suits/SE-832E Akoni Command Type\|Akoni-E]]**      |
 > | ![Admin/Attachments/169_Cossack.webp\|sban cover](/img/user/Admin/Attachments/169_Cossack.webp)         | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|Cossack]]**            |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ELS-00 Elegant Sky\|Elegant Sky]]**          |
-> | ![Admin/Attachments/FV_Makhairos.webp\|sban cover](/img/user/Admin/Attachments/FV_Makhairos.webp)        | **[[Database/Mobile Suits/EW-14 Gundam Makhairos\|Gundam Makhairos]]** |
+> | ![Admin/Attachments/169_Makhairos.webp\|sban cover](/img/user/Admin/Attachments/169_Makhairos.webp)       | **[[Database/Mobile Suits/EW-14 Gundam Makhairos\|Gundam Makhairos]]** |
 > | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/MEU-1H Seeker CQC\|Hyper Seeker]]**          |
 > | ![Admin/Attachments/169_Kerbstomp.webp\|sban cover](/img/user/Admin/Attachments/169_Kerbstomp.webp)       | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                     |
 > | ![Admin/Attachments/169_Rejunot.webp\|sban cover](/img/user/Admin/Attachments/169_Rejunot.webp)         | **[[Database/Mobile Suits/AP-92 Rejunot\|Rejunot]]**                   |

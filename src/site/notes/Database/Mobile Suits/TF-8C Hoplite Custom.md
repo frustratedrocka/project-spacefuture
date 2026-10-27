@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-c-hoplite-custom/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T03:42:39.030-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Cossack"],"Portrait":"[[Admin/Attachments/FV_Cossack.webp]]","MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":"[[Database/Mobile Suits/TF-8 Hoplite]]","cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-c-hoplite-custom/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T04:51:43.102-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Cossack"],"Portrait":"[[Admin/Attachments/169_Cossack.webp]]","MECH_Concept":"High-Performance Line Mech","MECH_Trouble":"Nothing Fancy","MECH_Gear":["Machinegun","Missile Launcher"],"MECH_Stunts":["**HAMMER AND ANVIL** +1 when you Shoot a target already engaged in combat with an ally.","**DEAD MECH WALKING** When you would be taken out, you may take one final turn before the character who took you out declares what happened to you."],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":"[[Database/Mobile Suits/TF-8 Hoplite]]","cl":102}}
 ---
 
 # 
 
 > [!infobox|embed right flex wsmall] INFOBOX
 > # Cossack
-> ![Admin/Attachments/FV_Cossack.webp\|hs-med cover](/img/user/Admin/Attachments/FV_Cossack.webp)
+> ![Admin/Attachments/169_Cossack.webp\|hs-med cover](/img/user/Admin/Attachments/169_Cossack.webp)
 >> [!caption]
 >> TF-8C Hoplite Custom
 >
