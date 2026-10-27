@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/meu-1-h-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T03:37:46.221-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Hyper Seeker"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.webp]]","MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"DEV_From":["[[Database/Mobile Suits/MGU-3 Seeker CQC]]","`REDACTED`"],"cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/meu-1-h-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T09:45:48.307-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Hyper Seeker"],"Portrait":"[[Admin/Attachments/Hyper_Seeker_CQC_SQ.webp]]","MECH_Concept":"Speedy CQC","MECH_Trouble":"Unstable Core","MECH_Gear":["Heat Sword","Grapple Shield"],"MECH_Stunts":["**HASTE SYSTEM** Once per session, +2 when you Move Quickly. You may attempt to activate this again, but must roll Move Quickly against opposition equal to the number of activations this session, counting the triggering one. On a tie, your suit takes harm equal to the opposition. On a failure, your suit suffers an automatic Breakdown at an available level equal to or greater than the opposition.","**GRAPPLE CLAW** You yank an enemy combatant close to you. +1 when you Move to create an advantage by grappling an enemy towards you."],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Mindful Eyes]]"],"DEV_From":["[[Database/Mobile Suits/MGU-3 Seeker CQC]]","`REDACTED`"],"cl":102}}
 ---
 
 # 
 
 > [!infobox|embed right flex wsmall] INFOBOX
 > # Hyper Seeker
-> ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|hs-med cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp)
+> ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp)
 >> [!caption]
 >> MEU-1H Seeker CQC
 >

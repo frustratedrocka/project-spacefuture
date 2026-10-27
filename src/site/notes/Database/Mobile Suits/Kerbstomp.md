@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T04:43:56.984-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Kerbstomp"],"Portrait":"[[Admin/Attachments/169_Kerbstomp.webp]]","MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Kerbstomp can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage."],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":["`REDACTED`"],"cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/kerbstomp/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T09:48:22.850-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Kerbstomp"],"Portrait":"[[Admin/Attachments/FV_Kerbstomp.webp]]","MECH_Concept":"Street-Trash Brawler","MECH_Trouble":"Franken-Software","MECH_Gear":["Mining Drill","Club"],"MECH_Stunts":["**SMOKESCREEN** Kerbstomp can launch chaff to create a debris field for a one time defense boost. +1 to defend against ranged attacks once per session unless circumstances prevent refilling chaff launchers.","**FOX IN A TRAP** Once per combat, the mech can sever a limb without suffering a breakdown to create an advantage."],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":["`REDACTED`"],"cl":102}}
 ---
 
 # 
 
 > [!infobox|embed right flex wsmall] INFOBOX
 > # Kerbstomp
-> ![Admin/Attachments/169_Kerbstomp.webp\|hs-med cover](/img/user/Admin/Attachments/169_Kerbstomp.webp)
+> ![Admin/Attachments/FV_Kerbstomp.webp\|FV_Kerbstomp.webp](/img/user/Admin/Attachments/FV_Kerbstomp.webp)
 >> [!caption]
 >> Kerbstomp
 >

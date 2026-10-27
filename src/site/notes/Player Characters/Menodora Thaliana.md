@@ -30,7 +30,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # Kerbstomp
-> ![Admin/Attachments/169_Kerbstomp.webp\|cover\|250x275](/img/user/Admin/Attachments/169_Kerbstomp.webp)
+> ![Admin/Attachments/FV_Kerbstomp.webp\|cover\|250x275](/img/user/Admin/Attachments/FV_Kerbstomp.webp)
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

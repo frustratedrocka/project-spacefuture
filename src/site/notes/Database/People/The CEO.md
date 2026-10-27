@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character","entity","major","paragon"],"noteIcon":"","updated":"2026-10-27T04:34:45.897-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity","major","paragon"],"aliases":[null],"Perf_Notes":["Jodie Foster?"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Rank":1,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":[null],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[null],"Stunts":[null],"Strain":4,"MECH_Model":null,"MECH_Secret":null,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 4","Fight 0","Interface 0","Know 3","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 3","Tend 0","Tinker 1","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 2","Subtly 0","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
+{"dg-publish":true,"permalink":"/database/people/the-ceo/","tags":["npc","character","entity","major","paragon"],"noteIcon":"","updated":"2026-10-27T09:44:41.153-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Equipment","Equipment"],"tags":["npc","character","entity","major","paragon"],"aliases":[null],"Perf_Notes":["Jodie Foster?"],"Portrait":"[[Admin/Attachments/GenericFeddie_SQ.webp]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Rank":1,"Origin":"[[Database/Places/Jupiter Sphere/Jupiter]]","Assoc":[null],"Concept":"CEO of [[Storm's Eye Heavy Industries]]","Relationship":"Relationship","Loyalty":"When You Think Jovians, You Think CEO","Aspects":[null],"Stunts":[null],"Strain":4,"MECH_Model":null,"MECH_Secret":null,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 4","Fight 0","Interface 0","Know 3","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 3","Tend 0","Tinker 1","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 2","Subtly 0","Carefully 3"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # The CEO
-> ![Admin/Attachments/GenericFeddie_SQ.webp\|cover\|250x250](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)
+> ![Admin/Attachments/GenericFeddie_SQ.webp\|GenericFeddie_SQ.webp](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)
 >
 > 
 >
@@ -23,7 +23,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # `=this.MECH_Model[0].aliases[0]`
-> `=embed(link(this.MECH_Model[0].Portrait, "cover|250x250"))`
+> `=embed(this.MECH_Model[0].Portrait)`
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

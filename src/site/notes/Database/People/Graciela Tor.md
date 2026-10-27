@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/graciela-tor/","tags":["npc","character","entity","minor"],"noteIcon":"","updated":"2026-10-27T04:32:19.027-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":[null,null],"comments":true,"tags":["npc","character","entity","minor"],"aliases":["Graciela"],"Perf_Notes":["Light Southern"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/24.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":"[[Database/Things/Fishbone]]","Concept":"New [[Fishbone]] Chief Engineer","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["Work Hard, Gamble Hard","Closet Hiver",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":null,"MECH_Secret":false,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 2","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 2","Tend 0","Tinker 3","Understand 0"],"Approaches":["Quickly 1","Boldly 2","Forcefully 3","Cleverly 2","Subtly 1","Carefully 1"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
+{"dg-publish":true,"permalink":"/database/people/graciela-tor/","tags":["npc","character","entity","minor"],"noteIcon":"","updated":"2026-10-27T09:44:50.088-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":[null,null],"comments":true,"tags":["npc","character","entity","minor"],"aliases":["Graciela"],"Perf_Notes":["Light Southern"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/24.png]]","Faction":["[[Database/Factions/Rebels]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":"[[Database/Things/Fishbone]]","Concept":"New [[Fishbone]] Chief Engineer","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["Work Hard, Gamble Hard","Closet Hiver",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":null,"MECH_Secret":false,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 2","Fight 0","Interface 0","Know 0","Lead 0","Move 0","Network 0","Notice 0","Operate 0","Persevere 0","Shoot 0","Sway 2","Tend 0","Tinker 3","Understand 0"],"Approaches":["Quickly 1","Boldly 2","Forcefully 3","Cleverly 2","Subtly 1","Carefully 1"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Graciela Tor
-> ![Admin/Attachments/100 Human sci-fi faces/24.png\|cover\|250x250](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/24.png)
+> ![Admin/Attachments/100 Human sci-fi faces/24.png\|24.png](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/24.png)
 >
 > 
 >
@@ -23,7 +23,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # `=this.MECH_Model[0].aliases[0]`
-> `=embed(link(this.MECH_Model[0].Portrait, "cover|250x250"))`
+> `=embed(this.MECH_Model[0].Portrait)`
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

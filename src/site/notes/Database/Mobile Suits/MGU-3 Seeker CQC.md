@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-3-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T04:50:18.354-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker CQC"],"Portrait":"[[Admin/Attachments/169_SeekerCQC.webp]]","MECH_Concept":"Martian Ground War Era Fast-Attack Suit","MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":["[[Database/Mobile Suits/MGU Seeker]]"],"cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-3-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T09:48:37.295-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker CQC"],"Portrait":"[[Admin/Attachments/FV_SeekerCQC.webp]]","MECH_Concept":"Martian Ground War Era Fast-Attack Suit","MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]"],"DEV_From":["[[Database/Mobile Suits/MGU Seeker]]"],"cl":102}}
 ---
 
 # 
 
 > [!infobox|embed right flex wsmall] INFOBOX
 > # Seeker CQC
-> ![Admin/Attachments/169_SeekerCQC.webp\|hs-med cover](/img/user/Admin/Attachments/169_SeekerCQC.webp)
+> ![Admin/Attachments/FV_SeekerCQC.webp\|FV_SeekerCQC.webp](/img/user/Admin/Attachments/FV_SeekerCQC.webp)
 >> [!caption]
 >> MGU-3 Seeker CQC
 >

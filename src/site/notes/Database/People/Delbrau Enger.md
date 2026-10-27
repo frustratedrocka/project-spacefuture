@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/delbrau-enger/","tags":["npc","character","entity","minor"],"noteIcon":"","updated":"2026-10-27T04:32:27.925-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: Leg In A Cast","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":[null,null],"comments":true,"tags":["npc","character","entity","minor"],"aliases":["Del"],"Perf_Notes":["Irish Accent"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/28.png]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Apsis]]"],"Rank":5,"Origin":"`REDACTED`","Assoc":["[[Database/Places/Colonies/Pallas]]","[[Database/Things/Fishbone]]"],"Concept":"Disgraced [[Fishbone]] Comms Officer","Relationship":"[[Vergen Koni|Verg]] Saved His Life","Loyalty":"Coerced Betrayal Via Captive Family","Aspects":["Formerly-Enthusiastic Family Man","%% %%",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":null,"MECH_Secret":null,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 0","Fight 0","Interface 2","Know 0","Lead 0","Move 0","Network 0","Notice 3","Operate 1","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 2","Subtly 0","Carefully 0"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
+{"dg-publish":true,"permalink":"/database/people/delbrau-enger/","tags":["npc","character","entity","minor"],"noteIcon":"","updated":"2026-10-27T09:44:54.350-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: Leg In A Cast","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":[null,null],"comments":true,"tags":["npc","character","entity","minor"],"aliases":["Del"],"Perf_Notes":["Irish Accent"],"Portrait":"[[Admin/Attachments/100 Human sci-fi faces/28.png]]","Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Apsis]]"],"Rank":5,"Origin":"`REDACTED`","Assoc":["[[Database/Places/Colonies/Pallas]]","[[Database/Things/Fishbone]]"],"Concept":"Disgraced [[Fishbone]] Comms Officer","Relationship":"[[Vergen Koni|Verg]] Saved His Life","Loyalty":"Coerced Betrayal Via Captive Family","Aspects":["Formerly-Enthusiastic Family Man","%% %%",null],"Stunts":["**STUNT** Description","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":null,"MECH_Secret":null,"Armor":null,"MECH_Relationship":null,"Skills":["Acquire 0","Fight 0","Interface 2","Know 0","Lead 0","Move 0","Network 0","Notice 3","Operate 1","Persevere 0","Shoot 0","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 0","Boldly 0","Forcefully 0","Cleverly 2","Subtly 0","Carefully 0"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Delbrau Enger
-> ![Admin/Attachments/100 Human sci-fi faces/28.png\|cover\|250x250](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/28.png)
+> ![Admin/Attachments/100 Human sci-fi faces/28.png\|28.png](/img/user/Admin/Attachments/100%20Human%20sci-fi%20faces/28.png)
 >
 > 
 >
@@ -24,7 +24,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # `=this.MECH_Model[0].aliases[0]`
-> `=embed(link(this.MECH_Model[0].Portrait, "cover|250x250"))`
+> `=embed(this.MECH_Model[0].Portrait)`
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

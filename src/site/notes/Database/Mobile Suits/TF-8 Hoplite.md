@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-hoplite/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T03:36:02.552-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Hoplite"],"Portrait":"[[Admin/Attachments/169_Hoplite.webp]]","MECH_Concept":"Iconic Line Mech","MECH_Trouble":"Yesterday's News","MECH_Gear":["Machine Gun","Missile Launcher","Heat Hawk"],"MECH_Stunts":["**DUCT TAPE AND PRAYERS** You may Tinker to treat and rename a Hoplite's Breakdown using the normal rules for clearing consequences.","**HAMMER AND ANVIL** +1 when you Shoot Carefully to attack a target already engaged in combat with an ally."],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Jovian Consortium]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Independent]]"],"DEV_From":null,"cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/tf-8-hoplite/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T09:48:44.282-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Hoplite"],"Portrait":"[[Admin/Attachments/FV_Hoplite.webp]]","MECH_Concept":"Iconic Line Mech","MECH_Trouble":"Yesterday's News","MECH_Gear":["Machine Gun","Missile Launcher","Heat Hawk"],"MECH_Stunts":["**DUCT TAPE AND PRAYERS** You may Tinker to treat and rename a Hoplite's Breakdown using the normal rules for clearing consequences.","**HAMMER AND ANVIL** +1 when you Shoot Carefully to attack a target already engaged in combat with an ally."],"Faction":["[[United Terran Sphere Navy]]","[[Database/Factions/Jovian Consortium]]","[[Database/Factions/Armada Ejecta]]","[[Database/Factions/Independent]]"],"DEV_From":null,"cl":102}}
 ---
 
 # 
 
 > [!infobox|embed right flex wsmall] INFOBOX
 > # Hoplite
-> ![Admin/Attachments/169_Hoplite.webp\|hs-med cover](/img/user/Admin/Attachments/169_Hoplite.webp)
+> ![Admin/Attachments/FV_Hoplite.webp\|FV_Hoplite.webp](/img/user/Admin/Attachments/FV_Hoplite.webp)
 >> [!caption]
 >> TF-8 Hoplite
 >

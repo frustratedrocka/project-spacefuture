@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot","entity","major"],"noteIcon":"","updated":"2026-10-27T04:29:16.689-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Akoni Bazooka","Beam Saber"],"comments":true,"tags":["npc","character","pilot","entity","major"],"aliases":["Vantrin"],"Perf_Notes":["Icy Calm"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","**A MATTER OF LEVERAGE** +1 when you Sway a character by threatening something or someone they care about and are in a position to follow through."],"Strain":5,"MECH_Model":["[[Database/Mobile Suits/SE-832E Akoni Command Type]]"],"MECH_Secret":false,"Armor":4,"MECH_Relationship":"`REDACTED`","Skills":["Acquire 0","Fight 3","Interface 0","Know 1","Lead 1","Move 2","Network 0","Notice 0","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 0","Tinker 0","Understand 2"],"Approaches":["Quickly 2","Boldly 1","Forcefully 2","Cleverly 3","Subtly 1","Carefully 1"],"Stats_On":true,"Skills_On":false,"Stunts_On":true,"cl":111}}
+{"dg-publish":true,"permalink":"/database/people/vantrin-almeyer/","tags":["npc","character","pilot","entity","major"],"noteIcon":"","updated":"2026-10-27T09:44:24.670-04:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Akoni Bazooka","Beam Saber"],"comments":true,"tags":["npc","character","pilot","entity","major"],"aliases":["Vantrin"],"Perf_Notes":["Icy Calm"],"Portrait":"[[Admin/Attachments/Sven_SQ.webp]]","Faction":["[[Database/Factions/Apsis]]"],"Rank":4,"Origin":"`REDACTED`","Assoc":["[[Database/Things/Brynhildr]]"],"Concept":"Strategic & Skilled Field Commander","Relationship":"`REDACTED`","Loyalty":"`REDACTED`","Aspects":["Ice In His Veins","`REDACTED`","`REDACTED`"],"Stunts":["`REDACTED`","**A MATTER OF LEVERAGE** +1 when you Sway a character by threatening something or someone they care about and are in a position to follow through."],"Strain":5,"MECH_Model":["[[Database/Mobile Suits/SE-832E Akoni Command Type]]"],"MECH_Secret":false,"Armor":4,"MECH_Relationship":"`REDACTED`","Skills":["Acquire 0","Fight 3","Interface 0","Know 1","Lead 1","Move 2","Network 0","Notice 0","Operate 0","Persevere 1","Shoot 2","Sway 1","Tend 0","Tinker 0","Understand 2"],"Approaches":["Quickly 2","Boldly 1","Forcefully 2","Cleverly 3","Subtly 1","Carefully 1"],"Stats_On":true,"Skills_On":false,"Stunts_On":true,"cl":111}}
 ---
 
 # 
 
 > [!infobox|left wsmall embed] CHARACTER
 > # Vantrin Almeyer
-> ![Admin/Attachments/Sven_SQ.webp\|cover\|250x250](/img/user/Admin/Attachments/Sven_SQ.webp)
+> ![Admin/Attachments/Sven_SQ.webp\|Sven_SQ.webp](/img/user/Admin/Attachments/Sven_SQ.webp)
 >
 > 
 >
 >>[!blank|clean embed n-th] VITALS
->>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td></tr><tr><td><span><strong>ORIGIN</strong></span></td><td><span><code>REDACTED</code></span></td></tr><tr><td><span><strong>ASSOC.</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Brynhildr.md" data-href="Database/Things/Brynhildr.md" href="Database/Things/Brynhildr.md" class="internal-link" target="_blank" rel="noopener nofollow">Brynhildr</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" href="Database/Factions/Apsis.md" class="internal-link" target="_blank" rel="noopener nofollow">Apsis</a></span></td></tr><tr><td><span><strong>ORIGIN</strong></span></td><td><span><code>REDACTED</code></span></td></tr><tr><td><span><strong>ASSOC.</strong></span></td><td><span><a data-tooltip-position="top" aria-label="Database/Things/Brynhildr.md" data-href="Database/Things/Brynhildr" href="Database/Things/Brynhildr.md" class="internal-link" target="_blank" rel="noopener nofollow">Brynhildr</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 >  
 >> [!blank|clean embed tbl-u-1] CONSEQUENCES
 >>  | Harm | Consequence |
@@ -23,7 +23,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # Akoni-E
-> ![Admin/Attachments/Akoni-E_SQ.webp\|cover\|250x250](/img/user/Admin/Attachments/Akoni-E_SQ.webp)
+> ![Admin/Attachments/Akoni-E_SQ.webp\|Akoni-E_SQ.webp](/img/user/Admin/Attachments/Akoni-E_SQ.webp)
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |
