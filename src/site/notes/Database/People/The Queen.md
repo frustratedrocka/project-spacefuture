@@ -23,7 +23,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # Eubiont
-> ![Admin/Attachments/FV_Eubiont.webp\|cover\|250x275](/img/user/Admin/Attachments/FV_Eubiont.webp)
+> ![Admin/Attachments/Eubiont_SQ.png\|cover\|250x275](/img/user/Admin/Attachments/Eubiont_SQ.png)
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

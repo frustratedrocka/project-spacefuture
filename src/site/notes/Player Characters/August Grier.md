@@ -30,7 +30,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # Cossack
-> ![Admin/Attachments/FV_Cossack.webp\|cover\|250x275](/img/user/Admin/Attachments/FV_Cossack.webp)
+> ![Admin/Attachments/Cossack_Custom_SQ.webp\|cover\|250x275](/img/user/Admin/Attachments/Cossack_Custom_SQ.webp)
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |

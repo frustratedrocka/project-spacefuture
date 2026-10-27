@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-seeker/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T09:54:05.906-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker"],"Portrait":"[[Admin/Attachments/FV_Seeker.webp]]","MECH_Concept":"Martian Ground War Grunt Suit","MECH_Trouble":null,"MECH_Gear":[null,null],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Independent]]"],"DEV_From":null,"cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-seeker/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T16:04:59.035-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker"],"Portrait":"[[Admin/Attachments/GB4_Seeker_SQ.webp]]","MECH_Concept":"Martian Ground War Grunt Suit","MECH_Trouble":null,"MECH_Gear":["Guided Bore Launcher","Shield"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Independent]]"],"DEV_From":null,"cl":102}}
 ---
 
 # 
 
 > [!infobox|embed right flex wsmall] INFOBOX
 > # Seeker
-> ![Admin/Attachments/FV_Seeker.webp\|FV_Seeker.webp](/img/user/Admin/Attachments/FV_Seeker.webp)
+> ![Admin/Attachments/GB4_Seeker_SQ.webp\|GB4_Seeker_SQ.webp](/img/user/Admin/Attachments/GB4_Seeker_SQ.webp)
 >> [!caption]
 >> MGU Seeker
 >
@@ -19,7 +19,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Martian Ground War Grunt Suit</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] KNOWN ARMAMENTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Guided Bore Launcher</span></td></tr><tr><td><span>Shield</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

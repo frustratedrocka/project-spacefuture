@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/neutron-accelerator-cannon/","tags":["lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-11T23:44:20.294-04:00","dg-note-properties":{"tags":["lore"]}}
+{"dg-publish":true,"permalink":"/database/things/neutron-accelerator-cannon/","tags":["lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-27T14:44:31.264-04:00","dg-note-properties":{"tags":["lore"]}}
 ---
 
-![HiNu_HyperMegaBazookaLauncher.webp\|right wmed](/img/user/Admin/Attachments/HiNu_HyperMegaBazookaLauncher.webp)
+![HiNu_HyperMegaBazookaLauncher.webp\|loc sban p+tc\|1000x425](/img/user/Admin/Attachments/HiNu_HyperMegaBazookaLauncher.webp)
 
 Uncommon [[Database/Factions/Apsis\|Apsis]] portable artillery, closer to a warship's main gun than to standard MS armament. An extremely high-risk high-reward weapon, with enormous drawbacks and limitations. Best used only when an entire operation has been built around making the most of its single shot per engagement.

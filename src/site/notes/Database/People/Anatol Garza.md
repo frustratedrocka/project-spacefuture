@@ -23,7 +23,7 @@
 
 > [!infobox|right wsmall embed] MECH
 > # Gundam Makhairos
-> ![Admin/Attachments/FV_Makhairos.webp\|FV_Makhairos.webp](/img/user/Admin/Attachments/FV_Makhairos.webp)
+> ![Admin/Attachments/GB4_Makhairos.webp\|GB4_Makhairos.webp](/img/user/Admin/Attachments/GB4_Makhairos.webp)
 > 
 >>[!blank|n-th clean embed] MECH VITALS
 >> |  |  |
