@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-25T22:59:28.992-04:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":"[[Session Notes/Scenarios/Mission 02]]","aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-27T22:11:29.286-04:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":"[[Session Notes/Scenarios/Into The Blender]]","aliases":["Mission 01"]}}
 ---
 
 ## Summary
@@ -59,5 +59,5 @@ A successful, impossible decapitation strike against the [[Database/Things/Fishb
 > [[The Story So Far\|The Story So Far]]
 > 
 > **Next**
-> [[Session Notes/Scenarios/Mission 02\|Mission 02]]
+> [[Session Notes/Scenarios/Into The Blender\|Into The Blender]]
 

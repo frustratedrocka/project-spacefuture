@@ -30,7 +30,7 @@
 
 
 # Next: [[Session Notes/Episode 03\|Episode 03]] - Oct 27, 2026
-*[[Session Notes/Scenarios/Mission 02\|Mission 02]] Part 1*
+*[[Session Notes/Scenarios/Into The Blender\|Into The Blender]] Part 1*
 
 ## Where Are You
 Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], now promoted to First (and only) Wing through process of elimination. 

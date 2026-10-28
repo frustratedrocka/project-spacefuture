@@ -16,7 +16,7 @@
 > |Previous|Next|
 > |:---|---:|
 > |[[Session Notes/Episode 01\|Episode 01]]|[[Session Notes/Episode 03\|Episode 03]] |
-> |And So It Begins|\- |
+> |And So It Begins|Shore Leave|
 >
 >## Present
 >> [!cards|4 collapse]
@@ -211,4 +211,4 @@ Graciela Tor starts to interrogate Vergen on explaining what the fuck just happe
 >[[Session Notes/Scenarios/Rats In The Cellar\|Rats In The Cellar]]
 >
 >**Next**
->[[Session Notes/Episode 03\|Episode 03]] \- 
+>[[Session Notes/Episode 03\|Episode 03]] \- Shore Leave
