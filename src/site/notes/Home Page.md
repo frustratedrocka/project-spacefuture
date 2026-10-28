@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["tracker","gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-27T23:00:58.417-04:00","dg-note-properties":{"tags":["tracker","gardenEntry"],"SESH_Next":"[[Session Notes/Episode 04]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["tracker","gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-27T23:44:54.397-04:00","dg-note-properties":{"tags":["tracker","gardenEntry"],"SESH_Next":"[[Session Notes/Episode 04]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 >[!infobox|wm-sm wikipedia]
@@ -33,12 +33,12 @@
 *[[Session Notes/Scenarios/Into The Blender\|Into The Blender]] Part 2*
 
 ## Where Are You
-Aboard the [[Database/Factions/Rebels\|Rebels]]-affiliated ship [[Database/Things/Fishbone\|Fishbone]], now promoted to First (and only) Wing through process of elimination. 
+The primary approach lane to [[Database/Places/Colonies/Hygiea\|Hygiea]]
 
 **[[Database/Places/Colonies/Hygiea\|Hygiea]]** - Remote Industrial Colony Throwing In With Rebels. Control: [[Database/Factions/Rebels\|Rebels]], Safe Harbor
 
 ## What Are You Doing
-En route to drydock for critical repairs; actual destination [[Database/Glossary/Colony\|Colony]] remains on a need-to-know basis. 
+Defending the colony against an incoming raid by the mercenary company [[Database/Things/Blender's Edge\|Blender's Edge]], in exchange for their help repairing the [[Database/Things/Fishbone\|Fishbone]].
 
 # Previously On Zero Sum
 
