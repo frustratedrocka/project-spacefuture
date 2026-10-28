@@ -14,6 +14,7 @@
 > [!cards|dataview collapse 4 img-tiny] FACTION MECHS
 >  | Mobile Suits                                                            | Name                                                                          |
 > | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+> | ![Admin/Attachments/Challenger_SQ.webp\|Challenger_SQ.webp](/img/user/Admin/Attachments/Challenger_SQ.webp)           | **[[Database/Mobile Suits/KUD-20 Telomane\|KUD-20 Telomane]]**             |
 > | ![Admin/Attachments/GB4_Seeker_SQ.webp\|GB4_Seeker_SQ.webp](/img/user/Admin/Attachments/GB4_Seeker_SQ.webp)           | **[[Database/Mobile Suits/MGU Seeker\|MGU Seeker]]**                       |
 > | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp)                 | **[[Database/Mobile Suits/TF-8 Hoplite\|TF-8 Hoplite]]**                   |
 > | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/TF-8S Hoplite Striker\|TF-8S Hoplite Striker]]** |

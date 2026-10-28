@@ -18,6 +18,7 @@
 > | ![Admin/Attachments/RebelGruntSuit_SQ.webp\|RebelGruntSuit_SQ.webp](/img/user/Admin/Attachments/RebelGruntSuit_SQ.webp)     | **[[Database/Mobile Suits/AP-92 Rejunot\|Rejunot]]**                   | Modernized Rebel Grunt Suit                  |
 > | ![Admin/Attachments/GB4_Seeker_SQ.webp\|GB4_Seeker_SQ.webp](/img/user/Admin/Attachments/GB4_Seeker_SQ.webp)             | **[[Database/Mobile Suits/MGU Seeker\|Seeker]]**                       | Martian Ground War Grunt Suit                |
 > | ![Admin/Attachments/GB4_Seeker_CQC_SQ.webp\|GB4_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/GB4_Seeker_CQC_SQ.webp)     | **[[Database/Mobile Suits/MGU-3 Seeker CQC\|Seeker CQC]]**             | Martian Ground War Era Fast-Attack Suit      |
+> | ![Admin/Attachments/Challenger_SQ.webp\|Challenger_SQ.webp](/img/user/Admin/Attachments/Challenger_SQ.webp)             | **[[Database/Mobile Suits/KUD-20 Telomane\|Telomane]]**                | Hot-Rodded Pit Fighter                       |
 > 
 { .block-language-dataview}
 
