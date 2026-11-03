@@ -25,14 +25,11 @@
 
 ## Mobile Suits
 >[!cards|dataview collapse 4 img-tiny] MECHS
->  | Portrait                                                    | Mobile Suit                                                      |
-> | ----------------------------------------------------------- | ---------------------------------------------------------------- |
-> | ![Admin/Attachments/Cossack_Custom_SQ.webp\|sban cover](/img/user/Admin/Attachments/Cossack_Custom_SQ.webp)   | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|Cossack]]**   |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ELS-00 Elegant Sky\|Elegant Sky]]** |
-> | ![Admin/Attachments/Hoplite_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_SQ.webp)          | **[[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]]**           |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/MEU-1H Seeker CQC\|Hyper Seeker]]** |
-> | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)          | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**            |
-> | ![Admin/Attachments/Challenger_SQ.webp\|sban cover](/img/user/Admin/Attachments/Challenger_SQ.webp)       | **[[Database/Mobile Suits/KUD-20 Telomane\|Telomane]]**       |
+>  | Portrait                                              | Mobile Suit                                                |
+> | ----------------------------------------------------- | ---------------------------------------------------------- |
+> | ![Admin/Attachments/Hoplite_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hoplite_SQ.webp)    | **[[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]]**     |
+> | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)    | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**      |
+> | ![Admin/Attachments/Challenger_SQ.webp\|sban cover](/img/user/Admin/Attachments/Challenger_SQ.webp) | **[[Database/Mobile Suits/KUD-20 Telomane\|Telomane]]** |
 > 
 { .block-language-dataview}
 
