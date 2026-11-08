@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/episode-04/","tags":["session","sortie"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-27T22:45:28.868-04:00","dg-note-properties":{"tags":["session","sortie"],"SESH_Done":false,"SESH_Date":"2026-11-10","SESH_Name":"Puree","SESH_Next":"[[Episode 05]]","SESH_Prev":"[[Session Notes/Episode 03]]","Scenario":"[[Session Notes/Scenarios/Into The Blender]]","Scenario_Index":2,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Beujolais Rigg]]"],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":["[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/ELS-00 Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]","[[Database/Mobile Suits/MGU Seeker]]","[[Database/Mobile Suits/KUD-20 Telomane]]"],"Impact":["[[Entity]] Public ::: Private ::: 00YY-MM-DD"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
+{"dg-publish":true,"permalink":"/session-notes/episode-04/","tags":["session","sortie"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-03T17:52:28.772-05:00","dg-note-properties":{"tags":["session","sortie"],"SESH_Done":false,"SESH_Date":"2026-11-10","SESH_Name":"Puree","SESH_Next":"[[Episode 05]]","SESH_Prev":"[[Session Notes/Episode 03]]","Scenario":"[[Session Notes/Scenarios/Into The Blender]]","Scenario_Index":2,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Beujolais Rigg]]"],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":["[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/ELS-00 Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]","[[Database/Mobile Suits/MGU Seeker]]","[[Database/Mobile Suits/KUD-20 Telomane]]"],"Impact":["[[Entity]] Public ::: Private ::: 00YY-MM-DD"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
 ---
 
 
@@ -19,16 +19,13 @@
 > |Shore Leave|\- |
 >
 >## Present
->> [!cards|4 collapse]
+>> [!cards|3 collapse]
 >> 
 >> ![Admin/Attachments/Auggie_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Auggie_Zoom.webp)
 >>  **[[Player Characters/August Grier\|Auggie]]**
 >> 
 >> ![Admin/Attachments/Lane_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Lane_Zoom.webp)
 >> **[[Player Characters/Lane Gable\|Lane]]**
->> 
->> ![Admin/Attachments/Mena_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Mena_Zoom.webp)
->> **[[Player Characters/Menodora Thaliana\|Mena]]**
 >> 
 >> ![Admin/Attachments/Verg_Zoom.webp\|cover ht-sm](/img/user/Admin/Attachments/Verg_Zoom.webp)
 >> **[[Player Characters/Vergen Koni\|Verg]]**
