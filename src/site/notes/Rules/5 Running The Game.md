@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T13:33:40.445-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T15:00:29.230-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Most of this game's rules apply to everyone, but if you're the GM, there's a few additional ones you need to know about that cover your additional responsibilities.
@@ -40,11 +40,23 @@ This method also allows for representing a group of NPCs as a single mechanical 
 
 If a throwaway NPC turns out to be more relevant to the ongoing fiction than you expected, or if you find that you liked what you came up with and want to *make them* more relevant, take a minute to upgrade them to a Minor NPC as appropriate. If they become especially important down the line, consider upgrading them again to Major.
 
+### Grunts
+#TODO from [[Rules/Fate SRD/Adversary Toolkit (UNEDITED SRD)\|Adversary Toolkit (UNEDITED SRD)]]
+Throwaway NPC + mech = grunt. These poor unglamorous rank-and-file troops are the backbone of most mech conflicts. You'll be using a lot of them over the course of your campaign. Depending on the desired tone of your game, you may want these to die in droves, or still require even a hardened ace to take them seriously. 
+
 ## Minor NPCs
 NPCs who aren't expected to be major recurring characters, but are worth enough attention to have a name and some amount of actual definition. The process of statting out minor NPCs is similar to [[Rules/2 Character Creation#Lightning Round Character Discovery\|Lightning Round Character Creation]], in that you start with only a few critical pieces of information (one aspect, best skill, best approach) and fill in more of the NPC's details as you discover who they are through play, but with two key differences:
 
 1. Lightning Round for players sets their initial best skill and approach at 3, while for NPCs, that number can be higher or lower as best reflects their role and the needs of the fiction.
 2. Minor NPCs get up to 4 strain boxes (if they get any at all; 0 boxes is a valid option), with no consequence slots. If they take more harm than they can absorb, they're simply taken out. Minor NPCs aren't meant to stick around - but if they somehow do, it's worth considering whether to promote them to Major.
+
+### Specialists
+When a minor NPC needs a combat stunt in a hurry, choose **ONE** of the following. These are generally too broad for PCs, but they're more acceptable as templates for minor NPCs because they aren't expected to be around for long. If a minor NPC makes it through multiple conflicts and gets promoted, consider rewriting 
+- **UNSTOPPABLE** +1 when you attack Quickly, Boldly, or Forcefully with your best skill
+- **IMMOVABLE** +1 when you defend Quickly, Forcefully, or Boldly with your best skill
+- **AOE** Once per session, you can attack everyone in a zone with your best skill
+- **SNIPER** +1 when you Shoot Cleverly, Subtly, or Carefully and invoke an aspect representing careful aim
+- **AMBUSHER** +1 when you Fight Cleverly, Subtly, or Carefully and invoke an aspect representing stealth or subterfuge
 
 ## Major NPCs 
 NPCs who become especially important to the story, typically by showing up repeatedly or being at the center of something critical to the PC's goals, should be statted out just like a PC. Sometimes, they should have *better* stats than your PCs - if someone's meant to be a boss-level threat or some other kind of major obstacle, give them higher skill and approach ranks, more stunts, and whatever else it takes to make them appropriately dangerous. 
@@ -54,6 +66,10 @@ Unless there's a specific reason not to, each major NPC should have an aspect sl
 Examples: "*The Ultimate Opponent We Must Overcome,*" "*Determined To Bring Us To Justice*," "*Owes Us A Life-Debt,*" "*We Keep Wrecking His Cabbage Stand,*" "*Barely Cares We Exist,*" "*Stuck His Neck Out For Us And Regrets It.*"
 
 A word of caution: friendly NPCs should never outshine the PCs. This isn't to say they can't be stronger, smarter, more influential or otherwise more important *in the world*, but they should never be more important *to the story* that emerges at the table - don't let them take over situations and solve the PCs' problems for them. Your players are at your table, at least in part, because they want to be the ones to solve those problems and make those choices; letting an NPC do it for them cheats them out of that fun. Remember, the PCs are the stars of the show and the people the game is actually about; an NPC, no matter how big a deal they are, is ultimately part of the supporting cast.
+
+### Aces
+#TODO from [[Rules/Fate SRD/Adversary Toolkit (UNEDITED SRD)\|Adversary Toolkit (UNEDITED SRD)]]
+
 
 ## Weird "NPCs"
 In Fate, things that aren't characters can still *behave* like characters mechanically. The Weird bucket includes everything from unfathomably powerful monsters who exist outside the normal character-building restrictions to a horde containing hundreds of armored shock troops to a rapidly-spreading fire to a painstakingly restored '57 Pontiac named Celia and more. If it's important to the fiction, can act on it or be affected by it in some way, *and* deserves to exist in more mechanical detail than being an aspect in the scene or on another character's sheet allows, then it's worth writing out as a Weird NPC in its own right.
