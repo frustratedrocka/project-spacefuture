@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/episode-04/","tags":["session","sortie"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-03T17:52:28.772-05:00","dg-note-properties":{"tags":["session","sortie"],"SESH_Done":false,"SESH_Date":"2026-11-10","SESH_Name":"Puree","SESH_Next":"[[Episode 05]]","SESH_Prev":"[[Session Notes/Episode 03]]","Scenario":"[[Session Notes/Scenarios/Into The Blender]]","Scenario_Index":2,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Beujolais Rigg]]"],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":["[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/ELS-00 Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]","[[Database/Mobile Suits/MGU Seeker]]","[[Database/Mobile Suits/KUD-20 Telomane]]"],"Impact":["[[Entity]] Public ::: Private ::: 00YY-MM-DD"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
+{"dg-publish":true,"permalink":"/session-notes/episode-04/","tags":["session","sortie"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T10:16:58.833-05:00","dg-note-properties":{"tags":["session","sortie"],"SESH_Done":false,"SESH_Date":"2026-11-10","SESH_Name":"Puree","SESH_Next":"[[Episode 05]]","SESH_Prev":"[[Session Notes/Episode 03]]","Scenario":"[[Session Notes/Scenarios/Into The Blender]]","Scenario_Index":2,"Logline":"First Wing's shore leave is interrupted by an attack from the mercenary company [[Blender's Edge]].","Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Beaujolais Rigg]]"],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":["[[Database/Mobile Suits/TF-8C Hoplite Custom]]","[[Database/Mobile Suits/ELS-00 Elegant Sky]]","[[Database/Mobile Suits/Kerbstomp]]","[[Database/Mobile Suits/MEU-1H Seeker CQC]]","[[Database/Mobile Suits/TF-8S Hoplite Striker]]","[[Database/Mobile Suits/MGU Seeker]]","[[Database/Mobile Suits/KUD-20 Telomane]]"],"Impact":["[[Entity]] Public ::: Private ::: 00YY-MM-DD"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
 ---
 
 
@@ -54,17 +54,17 @@
 
 # Episode 04 \- 
 
-*`=choice(!contains(this.Logline, "!r"+"!") or (contains(this.Logline, "!r"+"!") and contains(this.Logline, "!/r"+"!") and "__DG_PUBLISH__" != "__DG_PUBLISH__"), this.Logline, "REDACTED")`*
+*First Wing's shore leave is interrupted by an attack from the mercenary company [[Database/Things/Blender's Edge\|Blender's Edge]].*
 
 !/r!
 
 # 
 
-> [!note|bg-c-purple]+ Housekeeping
-> [[Player Characters/Menodora Thaliana\|Mena]], we've already established that your drill's motor is disconnected during [[Database/Glossary/Fight Pits\|pit fights]]. Have a fate point (should be up to 3) as a Gear Destruction compel; you're without your drill until you have time and a hangar to plug it back in.
+> [!example]+ Housekeeping
+> ~~[[Player Characters/Menodora Thaliana\|Mena]], we've already established that your drill's motor is disconnected during [[Database/Glossary/Fight Pits\|pit fights]]. Have a fate point (should be up to 3) as a Gear Destruction compel; you're without your drill until you have time and a hangar to plug it back in.~~
 
 > [!cite|bg-c-purple]+ Previously On *Zero Sum*...
-> 
+> Let's start with the good news: the [[Database/Things/Fishbone\|Fishbone]] is finally undergoing much-needed repairs. The friendly colony of Hygiea has agreed to patch the 
 
 #  
 
