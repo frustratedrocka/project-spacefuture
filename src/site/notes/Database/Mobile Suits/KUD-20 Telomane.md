@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/kud-20-telomane/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T23:07:48.470-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Telomane"],"Portrait":"[[Admin/Attachments/Challenger_SQ.webp]]","MECH_Concept":"Hot-Rodded Pit Fighter","MECH_Trouble":null,"MECH_Gear":["Dual Katanas","`REDACTED`"],"MECH_Stunts":["`REDACTED`"],"Faction":["[[Database/Factions/Independent]]","`REDACTED`"],"DEV_From":"`REDACTED`","cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/kud-20-telomane/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-10T15:39:51.162-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Telomane"],"Portrait":"[[Admin/Attachments/Challenger_SQ.webp]]","MECH_Concept":"Hot-Rodded Pit Fighter","MECH_Trouble":null,"MECH_Gear":["Dual Katanas","`REDACTED`"],"MECH_Stunts":["`REDACTED`"],"Faction":["[[Database/Factions/Independent]]","`REDACTED`"],"DEV_From":"`REDACTED`","cl":102}}
 ---
 
 # 

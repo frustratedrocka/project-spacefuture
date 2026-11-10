@@ -26,7 +26,7 @@
 
 # Notes
 
-The face of institutional violence in the late [[Database/History/Emergent Century Timeline\|Emergent Century Timeline]]. Apsis commissioned a "dedicated [[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]] killer," and [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] delivered. The Akoni series is meant to hit first and hit hard.
+The face of institutional violence in the late [[Emergent Century Timeline\|Emergent Century Timeline]]. Apsis commissioned a "dedicated [[Database/Mobile Suits/TF-8 Hoplite\|Hoplite]] killer," and [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]] delivered. The Akoni series is meant to hit first and hit hard.
 
 ## Data
 

@@ -22,7 +22,7 @@
 >
 >**[[The Story So Far\|RECAP]]**
 >
->**[[Database/History/Emergent Century Timeline\|TIMELINE]]**
+>**[[Emergent Century Timeline\|TIMELINE]]**
 >
 >**[[Solar Map\|MAP]]**
 
@@ -77,7 +77,7 @@ Defending the colony against an incoming raid by the mercenary company [[Databas
 >> - "Who Gets To Write The Future?"
 
 # Fiction Primer
-It is the year 0092 of the [[Database/History/Emergent Century Timeline\|Emergent Century Timeline]], and...
+It is the year 0092 of the [[Emergent Century Timeline\|Emergent Century Timeline]], and...
 
 ## The System Is At War
 Eleven years ago, [[Database/History/The Ground War\|The Ground War]] ended with the formation of [[Database/Factions/Apsis\|Apsis]] as an ostensibly-neutral mediating body to prevent humanity's death by self-inflicted starvation. 

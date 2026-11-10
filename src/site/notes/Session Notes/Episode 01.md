@@ -78,7 +78,7 @@
 > [!cite|bg-c-purple]+ Preamble
 > 
 > 
-> It is the year 0092 of the [[Database/History/Emergent Century Timeline\|Emergent Century]]. 
+> It is the year 0092 of the [[Emergent Century Timeline\|Emergent Century]]. 
 > 
 > Nearly a hundred years ago, mankind extended its reach beyond the solar system's [[Inner Rings\|Inner Rings]]. Humanity began to spread into space in earnest, terraforming [[Database/Places/Mars Sphere/Mars\|Mars]], building industry around the moons of [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], and filling [[Database/Glossary/The Belt\|The Belt]] with enormous rotating colonies. Here in space, people are born and raised. And die.
 > 
