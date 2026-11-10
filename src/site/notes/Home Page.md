@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["tracker","gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-27T23:44:54.397-04:00","dg-note-properties":{"tags":["tracker","gardenEntry"],"SESH_Next":"[[Session Notes/Episode 04]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["tracker","gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T13:05:34.992-05:00","dg-note-properties":{"tags":["tracker","gardenEntry"],"SESH_Next":"[[Session Notes/Episode 04]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 >[!infobox|wm-sm wikipedia]
@@ -16,7 +16,7 @@
 > 
 > **[[Admin/Lines & Veils\|SAFETY]]**
 
-> [!cards|5]
+> [!cards|4]
 > 
 >**[[Faction Hub\|FACTIONS]]**
 >
@@ -25,8 +25,6 @@
 >**[[Database/History/Emergent Century Timeline\|TIMELINE]]**
 >
 >**[[Solar Map\|MAP]]**
->
->**[[Mech Catalog\|MECHS]]**
 
 
 # Next: [[Session Notes/Episode 04\|Episode 04]] - Nov 10, 2026

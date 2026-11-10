@@ -1,1131 +1,633 @@
 ---
-{"dg-publish":true,"permalink":"/rules/fate-srd/adversary-toolkit-unedited-srd/","tags":["rules","SRD"],"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:39:48.623-04:00","dg-note-properties":{"tags":["rules","SRD"]}}
+{"dg-publish":true,"permalink":"/rules/fate-srd/adversary-toolkit-unedited-srd/","tags":["rules","SRD"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T14:04:12.611-05:00","dg-note-properties":{"tags":["rules","SRD"]}}
 ---
 
-# Fate Accelerated Edition
+# Fate Adversary Toolkit SRD
 
-©2013 Evil Hat Productions, LLC. Refer to the licensing pages at http://www.faterpg.com/licensing/ for details.
+©2017 Evil Hat Productions, LLC. Refer to the licensing pages at http://www.faterpg.com/licensing/ for details.
 
 This is the System Reference Document for use with the Creative Commons Attribution Unported license. The following attribution must be provided in your text, wherever you put your own copyright, in the same size as your copyright text:
 
-This work is based on Fate Core System and Fate Accelerated Edition (found at http://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, `REDACTED` Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
+This work is based on the Fate Adversary Toolkit SRD (found at http://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by Brian Engard, Lara Turner, Joshua Yearsley, and Anna Meade, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
 
-# Get Started!
+# Types of Adversaries
 
-Remember those books where the teenage wizards struggle against the Dark Lord of Evil? That movie where the dwarves fight to recapture their mountain home from a dragon? That animated TV show about mystical knights and their army of clones righting wrongs across the galaxy?
+As we talk about adversaries in this book, keep in mind the Fate Fractal: everything is a character (Fate Core, page 270). An adversary is not necessarily a person, monster, or other kind of creature you can punch. Rather, it’s a thing that exists to hinder, challenge, or oppose the players.
 
-Aren’t those awesome?
+There are three main types of adversaries: enemies, obstacles, and constraints.
 
-Here’s your chance to put yourself in the heroes’ shoes in stories like those.
+## Enemies
 
-Fate Accelerated Edition is a tabletop roleplaying game, where you and your friends gather around and tell stories full of danger, excitement, and adventure. You might have played games similar to this before—Dungeons & Dragons is a very popular one—but don’t worry if you haven’t; this booklet will guide you through it.
+Enemies are the goons, super-villains, giant robots, and hyper-intelligent ape warriors. This is the enemy’s defining characteristic: it can be fought directly, even if only under certain circumstances. Enemies have many of the same statistics as the PCs do: they have skills, they have at least one aspect, and the more important enemies have stunts, too. They can take stress, and some can take consequences.
 
-Here’s what you’ll need to play:
+There are four types of enemies: threats, hitters, bosses, and fillers.
 
-- Three to five people. One of you will be the gamemaster, the others players. We’ll talk about what those mean later.
-- Fate Dice™, at least four, preferably four per person. These are a special kind of six-sided dice that are marked on two sides with a plus symbol [+], two sides with a minus symbol [-], and two sides are blank [ ]. You can get these dice from many hobby and game stores, often under their original name—Fudge dice. We call them Fate Dice in this book, but you can call them whatever you like. Evil Hat will offer Fate Dice for sale at www.evilhat.com later in 2013.
+- Threats exist to soak up hits. They look big and dangerous, they get in the PCs’ faces, and they absorb both stress and attention. Threats have large stress tracks, and can usually absorb at least a mild consequence. Their skills tend to be defensive, and their stunts usually let them grab the PCs’ attention and hold it.
+- Hitters deal damage. They can’t take much punishment, but they hit really hard. Their peak skill is usually Fight, Shoot, or a setting-specific equivalent. Their stress tracks are small, and they can rarely absorb consequences. Their stunts focus on hurting the PCs.
+- Bosses are the lynchpins of an organization. You’ll typically include one or two at most in a conflict, and they’re often powerful. They have multiple high skills, can always absorb at least a mild consequence, and always have stunts. Their stunts’ uses depend on their purpose in the fight. Some might be built to deal damage, others to avoid attention.
+- Fillers are everyone else. These are paper people, enemies who exist as color, fragile minions who let the PCs look cool while taking them down. They never have consequences and rarely have a stress track with more than two boxes. They can act and be taken down as groups, don’t have stunts, and typically are good at only one thing.
 
----
+## Obstacles
 
-If you don't want to use Fudge dice, you don't have to–any set of regular six-sided dice will work. If you're using regular dice, you read 5 or 6 as [+], 1 or 2 as [-], and 3 or 4 as [ ].  
+Unlike enemies, obstacles can’t be attacked directly. Instead, they must be avoided, circumvented, or simply dealt with. They always have skills and aspects, and never have stunts, stress, or consequences. Obstacles can’t be punched into submission; they have to be endured or avoided.
 
----
+There are three types of enemies: hazards, blocks, and distractions.
 
-The Deck of Fate is an alternative to Fate Dice. It’s a deck of cards that mimics the probability of Fate Dice, and it’s designed to be used in the same way Fate Dice are. The Deck of Fate will be available from Evil Hat in 2013 or 2014.  
+- Hazards hurt the players or threaten to do so—fire jets, spinning fan blades, or bombs that might explode at any second. A hazard has a skill and an aspect that define its purpose.
+- Blocks get in the PCs’ way. They can do damage, but mostly they deny access. A steel door with a complex keypad, a sophisticated AI counter-hacking measure, a magical force field: all of these are blocks. A block has a skill and an aspect that define its purpose.
+- Distractions exist to make the PCs think about what they need to accomplish in a scene. Distractions give them a difficult choice: the villain is getting away, but there’s a bus full of innocent civilians about to go off the cliff! Distractions don’t always have stats. When they do, it’s typically just an aspect and passive opposition to roll against. Distractions are more about narrative challenge than mechanical challenge.
 
-- Character sheets, one for each player. You can download these from www.evilhat.com.
-- Index cards or sticky notes or similar slips of paper.
-- Tokens for fate points. These can be poker chips, beads, pennies, or anything similar. Get a handful—about 30 or 40.
+## Constraints
 
-Next, let’s talk about how to use Fate Accelerated to tell stories together. 
+While enemies and obstacles are distinct types of adversaries, constraints are modifiers of enemies and obstacles. By adding a constraint to an enemy or an obstacle, you’ll make it harder to deal with.
 
-# Telling Stories Together
+There are three types of constraints: countdowns, limitations, and resistances.
 
-So you’ve gathered your friends, your dice, and your index cards, and you’re ready to play Fate Accelerated Edition (we’ll call it FAE from now on). Time to tell some stories!
+- Countdowns create urgency. The bomb will blow in thirty seconds! The stagecoach will go off the cliff in two exchanges! The ritual will finish in one hour! You decide what unit of time you’ll use to create that urgency, but countdowns typically work in days, hours, minutes, or exchanges. The important thing is that there must be a consequence for the clock striking zero. It could be the arrival of more enemies or obstacles, someone’s death or transformation, or some sort of dramatic change to the status quo, making a new aspect.
+- Limitations prevent the PCs from taking certain actions. It’s not an out-and-out restriction, though; a PC should always be free to take the limited action if she wants to deal with the consequences of doing so. Maybe the PCs are fighting in a nuclear reactor, and firing off gunshots could be disastrous. Maybe the monster is actually a PC’s brother, transformed. Maybe the villain has a dead-man switch. Again, it’s all about consequence: if you engage in this action, this will happen.
+- Resistances make other adversaries hard to handle in a particular way. The dragon’s scales are impervious to mortal weaponry. The mob boss is protected by dirty cops. The bomb is so complex that disarming it using conventional means will almost certainly detonate it. Resistances force the PCs to vary their tactics, to come up with a Plan B. A really good resistance fuels the bulk of the session: because the dragon’s scales are immune to mortal weaponry, we must go on a quest to find the one sword that will hurt it.
 
-## What Do You Mean, “Tell Stories”?
+# Building Adversaries
 
-FAE is all about telling stories. You create a group of characters and follow them through some imaginary adventure that you all take turns telling little parts of.
+Building adversaries is a lot like building anything else in Fate. All of the adversary types use the same building blocks as characters: aspects, skills, stunts, stress tracks, and consequences. Some adversaries have all of these components, while others just have one or two. Most fall somewhere in between.
 
-Think about a movie, video game, or TV show you like where the characters go on adventures—something like The Legend of Korra or Star Wars or The Avengers or the Zelda games or Doctor Whoor The Lord of the Rings. Now imagine a similar sort of story, where you and your friends around the table make the decisions for the characters as they move through the story, and the story changes as you make those decisions.
+When you’re creating adversaries and you’re faced with the choice of using rules in this book or another Fate book, use whichever feels better. Use whichever does the job the way you want it done. There’s no need to stick with a choice, either. You might be playing Shadow of the Century and decide that throwing in some mooks and a lieutenant from that book is appropriate for one fight, while in the next you’ll use some threats, hitters, and a boss from this book. That’s fine. Heck, throw them into the same fight if you want to!
 
-Sometimes someone makes a decision to try something and you don’t know for sure how it would turn out; that’s when you roll dice to see what happens next. The higher you roll, the better the chance that things work out the way you want them to.
+The bottom line is that everything in this book is Fate, and you can use it with—or instead of—other Fate books with little to no tweaking. If you’re playing something like Fate Accelerated or The Dystopian Universe RPG, you might want to swap out skills for approaches or means, but that’s easy enough and everything else should work just fine.
 
-## So How Do We Do It?
+You can also combine the advice in this chapter with the rules in other Fate books. If you want to run a straight-up Atomic Robo RPG or Dresden Files Accelerated Edition game without any of the rules presented here, you can still use the advice in this book to help you use those rules more effectively.
 
-Well, first you need to figure out what kind of story you’re going to tell. What genre are you interested in? Fantasy? Science fiction? Modern-day adventure? Will you play in the world of a TV show or comic book or movie that you love, or will you create your own world? For some great advice about how to design the framework of your game, see Game Creation in Fate Core, available for free at www.evilhat.com.
+Have fun.
 
-Next, it’s time to choose who will be the players, and who will be the gamemaster. Of the people around the table, all but one are referred to as players. Each player takes on the role of one player character or PC in the story, and puts themselves in their character’s shoes to make the decisions that their character would make. The remaining person is called the gamemaster or GM. The GM’s job is to present challenges to the players and to portray all the characters that aren’t controlled by the players (non-player characters or NPCs).
+## Enemies
 
-Once you decide who the GM will be, and what the genre and framework of the story will be, it’s time for the players to make their characters—that’s in the **next chapter**.
+Enemies have one thing in common: you can punch them. Or more accurately, you can defeat them by attacking them. All enemies have aspects, skills, and stress tracks. Some have stunts, and some have consequences.
 
-### Telling Stories “Together”? What Do You Mean?
+Enemies are the most familiar type of adversary because they are the most similar to player characters. The NPCs opposing the PCs are typically enemies, but enemies don’t have to be people (or robots, or gorillas, or whatever). It might be an idol in a magic circle that pulses with malevolent energy—as long as you can defeat it by dealing it stress, it’s an enemy. A fire raging out of control could be an enemy; it’ll attack nearby PCs and take stress whenever they hose it down or combat it with other firefighting techniques.
 
-All the people at the table, GM and players alike, are responsible for telling the story. When you make a decision for your character (or for one of the NPCs, if you’re the GM), think about two things.
+Enemies are your bread and butter as a GM. They’re the main course. They’re the lion’s share of the adversaries you’ll use, because fighting things in Fate is dramatic and interesting, whether it’s a fistfight or an argument on the floor of the Galactic Senate.
 
-First, put yourself in your character’s shoes and think hard about what they would do—even if it’s not the best idea. If you’re playing a character that sometimes makes poor decisions, don’t be afraid to make a poor decision for them on purpose.
+There are four types of enemies: threats, hitters, bosses, and fillers.
 
-Second—and this is really important—think about the story that’s being told. Think about the choice that would make that story even better: more interesting, more exciting, funnier. Would a certain choice give another player’s character a chance to be awesome? Strongly consider making that choice.
+### Threats
 
-That’s how you tell great stories together—by not being afraid for your character to make mistakes, and by making choices that make the story more interesting for everyone at the table—not just you.
+Threats exist to threaten: that is, they draw the PCs’ attention, hold it, and soak up punishment. They’re not necessarily the hardest hitters, but leaving them to their own devices is problematic. They get up in the PCs’ faces and make the PCs want to get rid of them. Threats are your tanks; they’re meat shields for the really important or nasty enemies in the fight.
 
-# Who Do You Want To Be?  
+#### Aspects
 
-Once you’ve decided what kind of story you’ll be telling in your game, you decide who your character is—what they look like, what they’re good at, and what they believe.
+Threats have a high concept and a trouble. If a threat’s particularly important, give her a third aspect. Emphasize her physical size, toughness, immovability, or stubbornness. Give her an Achilles’ heel that the PCs can exploit.
 
-## What Kind of Characters Can I Play?
+#### Skills
 
-Think about the setting that you’ve decided to play in and make that your main guide. Are you playing in a school for young sorcerers? Play a young sorcerer! Are you playing space pilots fighting an evil empire? Play a space pilot! Make sure your character has a reason to interact and cooperate with the characters the other players are making.
+Set the threat’s apex skill to one step above the PCs’ highest-rated skill or, if you want a particularly tough threat, two steps above. Then, give your threat two more skills rated one step below the apex skill. If you want to define the threat further, give her three more skills rated one step below that.
 
-## How Do I Make the Character?
+A physical threat prioritizes Physique, then Fight or Shoot. Skills like Athletics and Will are useful for getting out of the way or resisting mental or social attacks. A social threat prioritizes Will, then some combination of Empathy, Rapport, Provoke, and Deceive. Lore is useful for creating advantages.
 
-Now it’s time to start writing stuff down. Grab a pencil and a copy of the character sheet. Some people like to use form-fillable PDFs on a laptop or tablet computer. Any of that’s fine, but you definitely want something that lets you erase and change.
+#### Stunts
 
-### Aspects in a Nutshell
+Threats need at least one stunt that they can use to make the PCs want to deal with them. A really tough threat could also have a stunt that makes her tougher, giving her an Armor rating or extra stress boxes. Here are some examples of threatening stunts:
 
-An aspect is a word, phrase, or sentence that describes something centrally important to your character. It can be a motto your character lives by, a personality quirk, a description of a relationship you have with another character, an important possession or bit of equipment your character has, or any other part of your character that is vitally important.
+Grenadier: By spending a fate point, you can physically attack everyone in a zone.
 
-Aspects allow you to change the story in ways that tie in with your character’s tendencies, skills, or problems. You can also use them to **establish facts about the setting**, such as the presence of magic or the existence of a useful ally, dangerous enemy, or secret organization.
+Bodyguard: Designate a character, place, or object to guard. Whenever that thing is attacked and you are in the same zone, you can spend a fate point to redirect the attack to yourself. You gain Armor:1 against this attack.
 
-Your character will have a handful of aspects (between three and five), including a high concept and a trouble. We discuss aspects in detail in _Aspects and Fate Points_—but for now, this should help you get the idea.
+Naysayer: +2 to create advantages with Provoke by fomenting arguments that undermine the PCs or make them look foolish.
 
-### High Concept
+#### Quick-and-Dirty Enemy Stunts
 
-First, decide on your character’s high concept. This is a single phrase or sentence that neatly sums up your character, saying who you are, what you do, what your “deal” is. When you think about your high concept, try to think of two things: how this aspect could help you, and how it might make things harder for you. Good high concept aspects do both.
+If you need a stunt for an enemy quickly, pick one of these and call it a day. Some of these might be a touch powerful for a PC, but they’re fine for an NPC who might not be around for more than one fight.
 
----
+- When you attack with your apex skill, you get Weapon:2.
+- When you defend with your apex skill, you get Armor:2.
+- Twice per session, you can use your apex skill in place of any other skill.
+- Once per session, you can attack everyone in a zone with your apex skill.
 
-Examples: Feline Captain of Cirrus Skimmer; Suncaller of the Andral Desert; Chief Field Agent of IGEMA
+#### Stress and Consequences
 
----
+Physical threats have large physical stress tracks because of their high Physique, while social threats have similarly large mental stress tracks because of their high Will.
 
-### Trouble
+If you’re using Fate rules that don’t grant additional stress boxes for high skill ratings, consider giving the threat a stunt that does so. In addition, all threats have at least a mild consequence slot; particularly tough ones also have a moderate slot.
 
-Next, decide on the thing that always gets you into trouble. It could be a personal weakness, or a recurring enemy, or an important obligation—anything that makes your life complicated.
+#### Using Threats
 
----
+Threats always get right up in the PCs’ faces. They don’t let up. They don’t go easy. They attack constantly, relentlessly, making nuisances of themselves. When a threat gets taken out, the PCs should be relieved. Don’t be cautious with your threats; they exist to soak up punishment, and they have the chops to do so.
 
-Examples: Steel Assassins Want Me Dead; Cast Now, Ask Questions Later; Gotta Look Out for My Little Brother
+Put at least one threat into most fights. An easy fight has one, a standard fight has two or three, and a climactic encounter probably has four or five. Any conflict with a boss should have at least two threats to take the heat off of the boss, and any fight with a hitter should have at least one threat to distract the PCs.
 
----
+When you’re describing threats, play up their menace. The bodyguards are big and tough, brandishing nasty-looking weapons. The king’s chamberlain brooks no nonsense, does not tolerate fools, and is looking for an opportunity to get the rabble-rousing PCs tossed out of the palace. Threats get in the way of the PCs’ plans; they exist to thwart and stymie. They’re roadblocks.
 
-### Another Aspect
+### Hitters
 
-Now compose another aspect. Think of something really important or interesting about your character. Are they the strongest person in their hometown? Do they carry a mighty sword known through history? Do they talk too much? Are they filthy rich?
+Hitters are often easily overlooked, but they’re able to strike with devastating effect. They don’t necessarily hit hard every time, but under optimal circumstances, they can really make the PCs hurt.
 
-### Optional: One or Two Additional Aspects
+That said, hitters can dish it out but typically can’t take it. Often, the PCs won’t know that a hitter is a threat until it’s done some damage, but once the PCs know about it, they should be able to take it down fairly quickly. Hitters are glass cannons.
 
-If you wish, you may create one or two more aspects. These aspects might describe your character’s relationship with other player characters or with an NPC. Or, like the third aspect you composed above, it might describe something especially interesting about your character.
+#### Aspects
 
-If you prefer, you can leave one or both of these aspects blank right now and fill them in later, after the game has started.
+Hitters have a high concept and a trouble. If a hitter is particularly important, give her a third aspect. Emphasize how dangerous she is or why she’s difficult to notice. Give her a weakness that points to some oversight, overconfidence, or other exploitable flaw.
 
-### Name and Appearance
+#### Skills
 
-Describe your character’s appearance and give them a name.
+Set the hitter’s apex skill to one step above the PCs’ highest-rated skill or, if you want a particularly dangerous hitter, two steps above. Then, give your hitter two more skills rated one step below the apex skill. If you want to define the hitter further, give her three more skills rated one step below that.
 
----
+Prioritize skills that deal stress to the PCs. For physical hitters, Fight or Shoot are the most important. Other skills should focus on mobility or keeping attention elsewhere; Sneak, Deceive, and Athletics are all good choices. For social hitters, Provoke, Deceive, and Rapport could all be used to good effect. Other important skills are Empathy, Notice, and Contacts. Don’t give hitters skills like Physique or Will. If an enemy is both tough and hits really hard, it’s a boss, not a hitter.
 
-**CREATING CHARACTERS: THE 30-SECOND VERSION**
+#### Stunts
 
-- Write two aspects: a high concept and a trouble.
-- Write another aspect.
-- Give your character a name and describe their appearance.
-- Choose approaches.
-- Set your refresh to 3.
-- You may write up to two more aspects and choose a stunt if you wish, or you may do that during play.
+A hitter always has, at the very least, a stunt that confers Weapon:2 on her primary attack. If you want to make her particularly dangerous, give her a stunt that makes her harder to spot too. Another excellent type of stunt to give a hitter is a way to hit really hard with a non-standard skill under the right circumstances; this way, the hitter can do her job, but becomes less effective when confronted directly. Here are some examples:
 
----
+Sniper: When you attack with Shoot and invoke an aspect representing careful aim, you gain Weapon:2 on the attack.
 
-### Approaches  
+Sneak Attack: Provided you haven’t been spotted by your target yet, you can attack with Sneak instead of Fight.
 
-Choose your approaches.
+Ninja Vanish: By spending a fate point, you can make yourself vanish from the scene entirely. Then, at the end of any later turn, you can spend another fate point to make yourself reappear anywhere in the scene and immediately attack.
 
-Approaches are descriptions of how you accomplish tasks. Everyone has the same six approaches:
+#### Stress and Consequences
 
-- Careful
-- Clever
-- Flashy
-- Forceful
-- Quick
-- Sneaky
+Most hitters will have the bare minimum stress track. If you want a hitter to be particularly important or nasty, give her a mild consequence slot. Otherwise, don’t give her any consequence slots. Hitters show up, hit hard, and die off quickly.
 
-Each approach is rated with a bonus. Choose one at Good (+3), two at Fair (+2), two at Average (+1), and one at Mediocre (+0). You can improve these later. We talk about what each approach means and how you use them in _How to Do Stuff: Outcomes, Approaches, and Actions_.
+#### Using Hitters
 
----
+Where threats are all about relentless assault, using a hitter effectively is a game of patience and opportunity. At first, the PCs might not even clearly see there is a hitter in the scene. Keep your hitter unseen or unnoticed, maneuver her into position, and then strike without remorse. Don’t be afraid to spend a fate point or two to make a hitter’s attack count; she may not get a second chance. Once the PCs start focusing on your hitter, don’t spend a lot of resources trying to protect her. Let the PCs feel awesome. Hitters are meant to be fragile, and protecting them generally isn’t worth it, especially once they’ve pulled their trick off.
 
-**THE LADDER**
+Don’t use hitters in every conflict. If you put a hitter in a conflict, a PC will likely take a consequence. Putting two in a fight means you might put down some serious hurt. Three could mean that a PC gets taken out.
 
-In Fate, we use a ladder of adjectives and numbers to rate a character’s approaches, the result of a roll, difficulty ratings for simple checks, etc.
+When you do use hitters, put in other enemies to distract from the hitter. Threats are perfect for this, and fillers can be good too. As for obstacles, a distraction or a block can make for good camouflage, too.
 
-Here’s the ladder:
+### Bosses
 
-|   |   |
-|---|---|
-|+8|Legendary|
-|+7|￼Epic|
-|￼+6|Fantastic|
-|+5|￼Superb|
-|￼+4|Great|
-|￼+3|Good|
-|+2|￼Fair|
-|￼+1|Average|
-|￼0|Mediocre|
-|-1|￼Poor|
-|￼-2|Terrible|
+Where threats and hitters are specialized enemies, and fillers are generic bad guys, bosses are those special enemies who the PCs just can’t wait to take down. Bosses are the focal point of a set-piece battle, the big personalities that drive the adventure, the antagonists that hound the PCs at every turn.
 
----
+#### Aspects
 
-Your approaches can say a lot about who you are. Here are some examples:
+Bosses have a full spread of five aspects. Give your boss a high concept that drives home what she’s all about. Is she the Corrupt Police Captain? The Necromancer General? Your boss’s trouble should be a closely guarded secret that the PCs can exploit if they find out about it.
 
-- The Brute:  
-    Forceful +3, Careful and Flashy +2, Sneaky and Quick +1, Clever +0
-- The All-Star:  
-    Quick +3, Forceful and Flashy +2, Clever and Careful +1, Sneaky +0
-- The Trickster:  
-    Clever +3, Sneaky and Flashy +2, Forceful and Quick +1, Careful +0
-- The Guardian:  
-    Careful +3, Forceful and Clever +2, Sneaky and Quick +1, Flashy +0
-- The Thief:  
-    Sneaky +3, Careful and Quick +2, Clever and Flashy +1, Forceful +0
-- The Swashbuckler:  
-    Flashy +3, Quick and Clever +2, Forceful and Sneaky +1, Careful +0
+For the other three aspects, come up with some unique shticks that your boss relies on, things that’ll make her memorable. Maybe the corrupt police captain is an Expert Martial Artist, or maybe the necromancer general carries the All-Seeing Staff.
 
-### Stunts and Refresh
+#### Skills
 
-A stunt is a special trait that changes the way an approach works for your character. Generally, stunts give you a bonus (almost always +2) to a certain approach when used with a particular action under specific circumstances. We’ll talk more about stunts in _Stunts_. Choose one stunt to start, or you can wait and add a stunt during the game. Later, when your character advances, you can choose more.
+A good boss has highly rated skills, and lots of them. Bosses are far more versatile than either hitters or threats and, unlike those two types of enemies, it’s entirely within your purview to make a boss who’s both good at dealing damage and good at taking it.
 
-Your refresh is the number of fate points you begin each game session with—unless you ended the previous session with more unspent fate points than your refresh, in which case you start with the number you had left last time. By default, your refresh starts at three and is reduced by one for each stunt after the first three you choose—essentially, your first three stunts are free! As your character advances, you’ll get opportunities to add to your refresh. Your refresh may never go below one.
+First, look at the highest-rated PC skill. Either give your boss one skill rated at two steps higher, or two skills rated at one step higher. If your boss has one apex skill, give her two skills rated at one step lower, then three rated at one step below that, and so on until you’ve filled out every step of the ladder down to Fair (+2). If the boss has two apex skills, give her three rated at one step below, then four, and so on down until Fair (+2). All of her other skills are Average (+1).
 
----
+Your boss should prioritize skills that support her personality. The corrupt police captain probably has high social skills, some good combat skills, and skills like Drive, Lore, and Crafts down toward the bottom of her pyramid. The necromancer general probably prioritizes Lore above all else, then goes on to prioritize things like Resources, Provoke, Contacts, and Crafts, then leaves more physically oriented skills for the bottom of her pyramid. Of course, you can always subvert these expectations.
 
-**HOW MANY STUNTS?**
+#### Stunts
 
-By default, FAE suggests choosing one stunt to start with.
+A boss always has at least one stunt, and as many as three. Create stunts that make the boss memorable, stunts that bring in more bad guys to fight, stunts that make the boss hard to deal with, and stunts that represent her social status or allies. Here are some examples:
 
-However, if this is your first time playing a Fate game, you might find it easier to pick your first stunt after you’ve had a chance to play a bit, to give you an idea of what a good stunt might be. Just add your stunt during or after your first game session.
+Connected: Once per session, you can draw on your contacts to bring in reinforcements. These reinforcements take the form of either one hitter with an apex skill rated equal to your Contacts, two threats with apex skills rated one step lower than your Contacts, or Fair (+2) fillers equal in number to your Contacts. When you use this stunt, you can spend one fate point to gain +2 to Contacts, to a maximum of Great (+4), for the purpose of bringing in these reinforcements.
 
-On the other hand, if you’re an experienced Fate gamer, you might look ahead and discover that, just like in Fate Core, your character is entitled to three free stunts before it starts costing you refresh. In that case, let the least experienced member of your game group be your guide; if someone is new to the game and only takes one to start with, that’s what everyone should do. If you’re all experienced, and you want to start with more powerful characters, just take all three to start and off you go.
+Escape Plan: Once per session, if you would get taken out, you can spend a fate point to concede instead.
 
----
+Mook Shield: Whenever you are attacked, you can spend a fate point to divert the attack to nearby filler enemies.
 
-# HowTo Do Stuff: Outcomes, Actions, and Approaches
+#### Stress and Consequences
 
-Now it’s time to start doing something. You need to leap from one moving train car to another. You need to search the entire library for that spell you really need. You need to distract the guard so you can sneak into the fortress. How do you figure out what happens?
+Bosses have stress tracks of varying lengths based on their skills, but all bosses have at least a mild and a moderate consequence slot, and a particularly nasty boss has a severe consequence slot too.
 
-First you narrate what your character is trying to do. Your character’s own aspects provide a good guide for what you can do. If you have an aspect that suggests you can perform magic, then cast that spell. If your aspects describe you as a swordsman, draw that blade and have at it. These story details don’t have additional mechanical impact. You don’t get a bonus from your magic or your sword, unless you choose to spend a fate point to invoke an appropriate aspect. Often, the ability to use an aspect to make something true in the story is bonus enough!
+#### Using Bosses
 
-How do you know if you’re successful? Often, you just succeed, because the action isn’t hard and nobody’s trying to stop you. But if failure provides an interesting twist in the story, or if something unpredictable could happen, you need to break out the dice.
+All bosses are memorable, with personalities and goals of their own. To that end, taking a boss down should always be a big deal, and probably shouldn’t happen every session. You can let the PCs fight a boss frequently, but be careful with your bosses—don’t be afraid to concede. They’re not as disposable as other kinds of enemies are, so it’s a viable tactic to concede, so the boss can threaten the PCs later. But don’t rob the PCs of their victory, either. When the PCs do defeat a boss, make it a big deal, and reward them accordingly.
 
----
+Most fights with a boss contain only one, though you could have two or even three in a really climactic encounter. That should be the exception rather than the rule, though, and it’s often useful to call out which boss is a bigger deal than the others. In an encounter, use your boss’s personality to inform how she behaves. An aggressive, combative boss will get right up in the PCs’ faces, while a cautious, politically oriented boss will hide behind minions.
 
-**TAKING ACTION: THE 30-SECOND VERSION**
+### Fillers
 
-1. Describe what you want your character to do. See if someone or something can stop you.  
-    
-2. Decide what action you’re taking: create an advantage, overcome, attack, or defend.  
-    
-3. Decide on your approach.  
-    
-4. Roll dice and add your approach’s bonus.  
-    
-5. Decide whether to modify your roll with aspects.  
-    
-6. Figure out your outcome.  
-    
+When you want to fill your scene with enemies, but you don’t want the complexity of adding more hitters, threats, or bosses, then fillers are what you need. Fillers are easy to run and keep track of, and they let the PCs feel like badasses as they take down hordes of bad guys.
 
----
+#### Aspects
 
-## Dice or Cards
+Give your filler enemy a name that encapsulates its function in the scene, like Mob Enforcer, Crazed Velociraptor, or Flamethrower Turret. A filler’s name is an aspect, and its only aspect.
 
-Part of determining your outcome is generating a random number, which is usually done in one of two ways: rolling four Fate Dice, or drawing a card from a Deck of Fate.
+#### Skills
 
-Fate Dice: Fate Dice (sometimes called Fudge dice, after the game they were originally designed for) are one way to determine outcomes. You always roll Fate Dice in a set of four. Each die will come up as [+], [ ], or [-], and you add them together to get the total of the roll. For example:
+First, decide on your filler’s quality: Average, Fair, or Good:
 
-  
--+0+ = +1  
-+-00 =  
-+++- = +2  
--000 = −1  
+- An Average filler has one Average (+1) skill.
+- A Fair filler has one Fair (+2) skill.
+- A Good filler has one Good (+3) skill and one Average (+1) skill.
 
-Deck of Fate: The Deck of Fate is a deck of cards that copies the statistical spread of Fate Dice. You can choose to use them instead of dice—either one works great.
+You can use skills from Fate Core or whatever Fate game you’re playing, or you can make up brand-new skills specific to your fillers. Those mob enforcers might have Fair (+2) Tommy Guns, while the crazed velociraptors might have Good (+3) Claws & Fangs and Average (+1) Dodge. If a filler enemy ever does something that isn’t covered by its skills, it rolls at Mediocre (+0) or it automatically fails (if that would be simpler).
 
----
+#### Stunts
 
-These rules are written with the assumption that you’re rolling Fate Dice, but use whichever one your group prefers. Anytime you’re told to roll dice, that also means you can draw from the Deck of Fate instead.  
+Fillers don’t get stunts. They exist to be simple, and stunts make them more complex than they need to be. You can, at your option, make them dangerous fillers, giving them Weapon:1.
 
----
+#### Stress and Consequences
 
-## Outcomes
+A filler has one 1-stress box per quality step—so a Good filler has three 1-stress boxes, for example. Unlike characters and other types of enemies, a filler can mark off as many of its stress boxes as it likes to absorb a single hit. So, if a filler takes a 2-stress hit, it can mark off two of its stress boxes.
 
-Once you roll your dice, add your approach bonus (we’ll talk about that in a moment) and any bonuses from aspects or stunts. Compare the total to a target number, which is either a fixed difficulty or the result of the GM’s roll for an NPC. Based on that comparison, your outcome is:
+Fillers never have consequence slots.
 
-- You fail if your total is less than your opponent’s total.
-- It’s a tie if your total is equal to your opponent’s total.
-- You succeed if your total is greater than your opponent’s total.
-- You succeed with style if your total is at least three greater than your opponent’s total.
+#### Grouping Fillers
 
-Now that we’ve covered outcomes, we can talk about actions and how the outcomes work with them.
+To make fillers simpler and more effective, you can group a number of them into a single enemy. A filler group has all of the skills that its fillers have. For every two fillers with the same skill in the group, add a +1 bonus to that skill. A filler group’s skills can never be rated higher than Great (+4), however.
 
-## Actions
+A crazed velociraptor groups up with a mob enforcer, so the group has Good (+3) Claws & Fangs, Fair (+2) Tommy Gun, and Average (+1) Dodge. Later, when a second mob enforcer joins, the group’s Tommy Gun increases to Good (+3).
 
-So you’ve narrated what your PC is trying to do, and you’ve established that there’s a chance you could fail. Next, figure out what action best describes what you’re trying to do. There are four basic actions that cover anything you do in the game.
+To make the group’s stress track, arrange the stress boxes of each filler in the group into a single track. Divide up the track so you can figure out when each filler in the group gets taken out, with weaker fillers on the left and stronger fillers on the right.
 
-### Create an Advantage
+The group of two mob enforcers and a velociraptor would have a stress track that looks like this:
 
-Creating an advantage is anything you do to try to help yourself or one of your friends. Taking a moment to very carefully aim your proton blaster, spending several hours doing research in the school library, or tripping the thug who’s trying to rob you—these all count as creating an advantage. The target of your action may get a chance to use the defend action to stop you. The advantage you create lets you do one of the following three things:
+[1] [1] | [1] [1] | [1] [1] [1]
 
-- Create a new situation aspect.
-- Discover an existing situation aspect or another character’s aspect that you didn’t know about.
-- Take advantage of an existing aspect.
+When the group takes stress, start ticking off boxes on the left, and move to the right until all the stress has been absorbed, or the entire group has been taken out. Because the track is divided up by each filler, you’ll be able to tell when each filler gets taken out, letting you reduce the group’s skills appropriately. When fillers are grouped, it’s entirely possible for PCs to take out multiple fillers in one go.
 
-If you’re creating a new aspect or discovering an existing one:
+#### Using Fillers
 
-- - **If you fail:** Either you don’t create or discover the aspect at all, or you create or discover it but anopponent gets to invoke the aspect for free. The second option works best if the aspect you create or discover is something that other people could take advantage of (like Rough Terrain). You may have to reword the aspect to show that it benefits the other character instead of you—work it out in whatever way makes the most sense with the player who gets the free invocation. You can still invoke the aspect if you’d like, but it’ll cost you a fate point.
-    - **If you tie:** If you’re creating a new aspect, you get a **boost**. Name it and invoke it once for free—after that, the boost goes away. If you’re trying to discover an existing aspect, treat this as a success (see below).
-    - If you succeed: You create or discover the aspect, and you or an ally may invoke it once for free. Write the aspect on an index card or sticky note and place it on the table.
-    - If you succeed with style: You create or discover the aspect, and you or an ally may invoke it twicefor free. Usually you can’t invoke the same aspect twice on the same roll, but this is an exception; success with style gives you a BIG advantage!
-    
+Fillers are there to be color. They fill out the ranks of the enemy team, but they’re not particularly dangerous or durable. Don’t be afraid to drop a bunch of them into a fight, grouping them up to keep things simple and make them a little more threatening. Fillers are easy come, easy go, so don’t go out of your way to protect them. You can also put fillers in a support role, creating advantages that they pass to more powerful enemies. A group of goons laying down distracting covering fire can make the hitter sneaking up behind the PCs that much more dangerous by passing him a free invoke or two.
 
-If you’re trying to take advantage of an aspect you already know about:
+## Obstacles
 
-- If you fail: You don’t get any additional benefit from the aspect. You can still invoke it in the future if you’d like, at the cost of a fate point.
-- If you tie or succeed: You get one free invocation on the aspect for you or an ally to use later. You might want to draw a circle or a box on the aspect’s note card, and check it off when that invocation is used.
-- If you succeed with style: You get two free invocations on the aspect, which you can let an ally use, if you wish.
+The defining quality of enemies is that they can be attacked and taken out. By contrast, the defining quality of obstacles is that they cannot. Obstacles make scenes demonstrably more difficult on the PCs, but the PCs cannot simply fight them. Obstacles must be circumvented, endured, or rendered irrelevant.
 
----
+While most obstacles are features of the environment, some might be characters that can’t be taken out using conventional methods. The dragon might be a boss, but it might just as easily be a hazard obstacle. The animate statue keeping you from getting to the evil wizard might be a threat, but it could also be a block or a distraction. It all depends on the adversary’s function in the scene, and how PCs must deal with it.
 
-**ACTIONS & OUTCOMES: THE 30-SECOND VERSION**
+In general, obstacles don’t appear in every scene. They serve to accent enemies in the scene, to make them more threatening or memorable, but overuse of obstacles can be frustrating to the PCs, particularly those focused on combat. You can use them to give less combative PCs something to do during a fight, though.
 
-**Create an Advantage when creating or discovering aspects:**
+There are three types of obstacles: hazards, blocks, and distractions.
 
-- **Fail:** Don’t create or discover, or you do but your opponent (not you) gets a free invocation.
-- **Tie:** Get a boost if creating new, or treat as success if looking for existing.
-- **Succeed:** Create or discover the aspect, get a free invocation on it.
-- **Succeed with Style:** Create or discover the aspect, get two free invocations on it.
+### Hazards
 
-**Create an Advantage on an aspect you already know about:**
+If an obstacle can attack the PCs, it’s a hazard. Fire jets, rolling boulders, or a sniper too far away to be dealt with directly—they’re all hazards. Every hazard has a name, a skill rating, and a Weapon rating of 1 to 4.
 
-- **Fail:** No additional benefit.
-- **Tie**: Generate one free invocation on the aspect.
-- **Succeed:** Generate one free invocation on the aspect.
-- **Succeed with Style:** Generate two free invocations on the aspect.
+The hazard’s name is both a skill and an aspect; that is, the name defines what the hazard can do, and its skill rating defines how good it is at doing that, but the name can also be invoked or compelled like any aspect. Generally speaking, a hazard’s skill rating should be at least as high as the PCs’ highest skill rating, if not a little bit higher.
 
-**Overcome:**
+Here are some examples:
 
-- ****Fail:**** Fail, or succeed at a serious cost.
-- ****Tie:**** Succeed at minor cost.
-- **Succeed:** You accomplish your goal.
-- **Succeed with Style:** You accomplish your goal and generate a boost.
+Great (+4) Machine-Gun Turret, Weapon:3
 
-**Attack:**
+Fantastic (+6) Whirling Spike Apparatus, Weapon:2
 
-- **Fail:** No effect.
-- ****Tie:**** Attack doesn’t harm the target, but you gain a boost.
-- **Succeed:** Attack hits and causes damage.
-- ****Succeed with Style:**** Attack hits and causes damage. May reduce damage by one to generate a boost.
+Superb (+5) Distant Sniper, Weapon:4
 
-**Defend:**
+A hazard acts in the initiative just like the PCs and their enemies do. If your rules require everyone to roll for initiative, hazards will roll with their rating.
 
-- **Fail:** You suffer the consequences of your opponent’s success.
-- **Tie:** Look at your opponent’s action to see what happens.
-- ****Succeed:**** Your opponent doesn’t get what they want.
-- **Succeed with Style:** Your opponent doesn’t get what they want, and you get a boost.
+On its turn each exchange, a hazard acts as implied by its name, and rolls with its rating. If it attacks and succeeds, add its Weapon rating to its shifts. Hazards can attack or create advantages; they can’t be attacked, and they don’t overcome obstacles.
 
----
+If a player wants to overcome or create an advantage against a hazard, they’ll face passive opposition equal to the hazard’s rating.
 
-### Overcome
+Joan is near the window, and there’s a Distant Sniper out there, a hazard with a Superb (+5) rating and Weapon:4. At the beginning of the conflict, the sniper used its Superb (+5) rating to determine its initiative. Now that it has a chance to act, it attacks Joan, rolling an Epic (+6) result! That’s a tough attack to defend against, and if Joan can’t, the sniper’s Weapon:4 will deal a lot of stress to her.
 
-You use the **overcome** action when you have to get past something that’s between you and a particular goal—picking a lock, escaping from handcuffs, leaping across a chasm, flying a spaceship through an asteroid field. Taking some action to eliminate or change an inconvenient situation aspect is usually an overcome action; we’ll talk more about that in Aspects and Fate Points. The target of your action may get a chance to use the defend action to stop you.
+#### Which Weapon Rating?
 
-- If you fail: You have a tough choice to make. You can simply fail—the door is still locked, the thug still stands between you and the exit, the enemy spaceship is still On Your Tail. Or you can succeed, but at a serious cost—maybe you drop something vital you were carrying, maybe you suffer harm. The GM helps you figure out an appropriate cost.
-- If you tie: You attain your goal, but at some minor cost. The GM could introduce a complication, or present you with a tough choice (you can rescue one of your friends, but not the other), or some other twist. See “Succeed at a Cost” in Running the Game in Fate Core for more ideas.
-- If you succeed: You accomplish what you were trying to do. The lock springs open, you duck around the thug blocking the door, you manage to lose the alien spaceship on your tail.
-- If you succeed with style: As success (above), but you also gain a boost.
+Which Weapon rating you choose depends on how lethal you want to make your hazard. A hazard with a very high skill rating and a very high Weapon rating will likely take out a PC or two. You could also make a hazard with a lower skill rating but a high Weapon rating, making for something that doesn’t hit often but hits hard when it does. Reversing that makes for a hazard that hits frequently but doesn’t do much damage—more of a nuisance than a hazard, but that might be what you want.
 
-### Attack
+#### Using Hazards
 
-Use an attack when you try to hurt someone, whether physically or mentally—swinging a sword, shooting a blaster rifle, or yelling a blistering insult with the intent to hurt your target. (We’ll talk about this in Ouch! Damage, Stress, and Consequences, but the important thing is: If someone gets hurt too badly, they’re knocked out of the scene.) The target of your attack gets a chance to use the defend action to stop you.
+Hazards, like enemies, can attack the PCs, and they’re very simple to run, so you might be tempted to use them often. This isn’t necessarily a bad instinct, but keep this in mind: hazards can’t be attacked or taken out like enemies can. This might mean that the hazard stays in play for the entire scene, continually causing the PCs stress that they can’t mitigate effectively. There are a few ways you can offset this, should you wish to.
 
-- If you fail: Your attack doesn’t connect. The target parries your sword, your shot misses, your target laughs off your insult.
-- If you tie: Your attack doesn’t connect strongly enough to cause any harm, but you gain a boost.
-- If you succeed: Your attack hits and you do damage. See _Ouch! Damage, Stress, and Consequences_.
-- If you succeed with style: You hit and do damage, plus you have the option to reduce the damage your hit causes by one and gain a boost.
+First, you could make a hazard situational. The Machine-Gun Turret will attack, but only when the PCs are in the hallway. The Lone Sniper will try to pick people off, but there’s a lot of cover that can confound her sight lines. Giving the PCs actions they can take to avoid being attacked by hazards can make for interesting, complex tactical scenes, particularly when the PCs must leave their safe spots in order to accomplish their goals. Difficult decisions can be a lot of fun.
 
-### Defend
+Second, you could let the PCs overcome a hazard. Maybe they can shut off the Machine-Gun Turret by getting to the control panel. Perhaps that Whirling Spike Apparatus will stop whirling if they jam a giant piece of metal in it. To disable a hazard, you must first take a risk, putting yourself (or someone else) in some kind of danger, and then roll an overcome action against passive opposition equal to the hazard’s rating. So, you have to run down the hallway guarded by the machine guns in order to get to the control panel you can use to shut them off, or you have to get dangerously close to the whirling spikes in order to jam the hunk of metal into the apparatus.
 
-Use defend when you’re actively trying to stop someone from doing any of the other three actions—you’re parrying a sword strike, trying to stay on your feet, blocking a doorway, and the like. Usually this action is performed onsomeone else’s turn, reacting to their attempt to attack, overcome, or create an advantage. You may also roll to oppose some non-attack actions, or to defend against an attack on someone else, if you can explain why you can. Usually it’s fine if most people at the table agree that it’s reasonable, but you can also point to an relevant situation aspect to justify it. When you do, you become the target for any bad results.
+Third, you could let the PCs turn a hazard into an enemy under the right circumstances. This requires a risk, and often requires time or an overcome roll. Maybe the PCs just really want to blow up that Machine-Gun Turret, but the turret is behind a metal shield. Hacking a console to disable the shield—a console that’s in the hallway it’s firing on—could transform the machine gun from hazard into threat, letting the PCs attack it. If a PC is willing to run right at that Distant Sniper, spending an exchange and drawing her fire, he could actually attack her in single combat, as a hitter rather than a hazard. This is similar to simply disabling a hazard, but requires the PCs to take an extra step. It can be more exciting, but it takes more time and effort on the PCs’ part.
 
-- If you fail: You’re on the receiving end of whatever your opponent’s success gives them.
-- If you tie or succeed: Things don’t work out too badly for you; look at the description of your opponent’s action to see what happens.
-- If you succeed with style: Your opponent doesn’t get what they want, plus you gain a boost.
+### Blocks
 
-  
+Where hazards exist to hurt the PCs, blocks prevent them from doing things they want to do. Blocks can cause stress, though they don’t always. The chief difference between blocks and hazards is that blocks don’t take actions, while hazards do. Blocks provide passive opposition in certain circumstances, and can threaten or cause harm if not heeded.
 
-### Getting Help
+Like hazards, blocks have a name and a skill rating, and the name is both a skill and an aspect. Unlike hazards, a block’s skill rating shouldn’t be much higher than one step above the PCs’ highest skill rating; otherwise, things can get frustrating quickly. A block can have a Weapon rating as high as 4, but it doesn’t need to have one. Here are some examples:
 
-An ally can help you perform your action. When an ally helps you, they give up their action for the exchange and describe how they’re providing the help; you get a +1 to your roll for each ally that helps this way. Usually only one or two people can help this way before they start getting in each other’s way; the GM decides how many people can help at once.
+Fair (+2) Chain Link Fence
 
-## Choose Your Approach
+Good (+3) Vat of Acid, Weapon:4
 
-As we mentioned in Who Do You Want to Be?, there are six approaches that describe how you perform actions.
+Great (+4) Animate Statue, Weapon:1
 
-- Careful: A Careful action is when you pay close attention to detail and take your time to do the job right. Lining up a long-range arrow shot. Attentively standing watch. Disarming a bank’s alarm system.
-- Clever: A Clever action requires that you think fast, solve problems, or account for complex variables. Finding the weakness in an enemy swordsman’s style. Finding the weak point in a fortress wall. Fixing a computer.
-- Flashy: A Flashy action draws attention to you; it’s full of style and panache. Delivering an inspiring speech to your army. Embarrassing your opponent in a duel. Producing a magical fireworks display.
-- Forceful: A Forceful action isn’t subtle—it’s brute strength. Wrestling a bear. Staring down a thug. Casting a big, powerful magic spell.
-- Quick: A Quick action requires that you move quickly and with dexterity. Dodging an arrow. Getting in the first punch. Disarming a bomb as it ticks 3… 2… 1…
-- Sneaky: A Sneaky action is done with an emphasis on misdirection, stealth, or deceit. Talking your way out of getting arrested. Picking a pocket. Feinting in a sword fight.
+Blocks only come into play under specific circumstances. A Vat of Acid only matters when someone tries to cross it or gets thrown into it. A Chain Link Fence only affects someone who tries to get past it. The Animate Statue only prevents entry into a specific room.
 
-Each character has each approach rated with a bonus from +0 to +3. Add the bonus to your dice roll to determine how well your PC performs the action you described.
+Blocks don’t attack and don’t have a turn in the initiative order. Instead, whenever a block would interfere with someone’s action, they’ll have to roll against the block’s rating as passive opposition. If the block can’t cause harm, like if it’s a Chain Link Fence, it simply prevents the PC from taking the action they wanted to. If it can cause harm—like if it’s a Vat of Acid—and the PC fails to overcome the block, the PC takes a hit as if the block attacked the PC, and the PC failed to defend by the same margin by which it failed to overcome the block.
 
-So your first instinct is probably to pick the action that gives you the greatest bonus, right? But it doesn’t work like that. You have to base your choice of approach on the description of your action, and you can’t describe an action that doesn’t make any sense. Would you Forcefully creep through a dark room, hiding from the guards? No, that’s being Sneaky. Would you Quickly push that big rock out of the way of the wagon? No, that’s being Forceful. Circumstances constrain what approach you can use, so sometimes you have to go with an approach that might not play directly to your strengths.
+Also, characters can try to force someone into a block as an attack. If you do this, you’ll roll to attack as normal, but add a Weapon rating equal to half the block’s Weapon rating (rounded down, minimum 1). So, anyone trying to cross the Vat of Acid would need to beat Good (+3) opposition. If someone tried to force you into the acid, they’d attack you with Physique and, if they succeeded, add Weapon:2.
 
-## Roll the Dice, Add Your Bonus
+Finally, some blocks can be used as cover or as armor. This is situational—for some blocks, it simply won’t make sense. You can’t hide behind a Vat of Acid, and a Chain Link Fence won’t stop a bullet. But that Chain Link Fence is effective protection against a baseball bat, probably preventing the attack altogether. And if the evil wizard is hiding behind the Animate Statue, it might soak up some damage.
 
-Time to take up dice and roll. Take the bonus associated with the approach you’ve chosen and add it to the result on the dice. If you have a stunt that applies, add that too. That’s your total. Compare it to what your opponent (usually the GM) has.
+When someone’s using a block as cover, decide whether it mitigates or negates the attack. If it negates it, the attack simply isn’t possible. If it mitigates it, the defender gets an Armor rating equal to half the block’s skill rating (rounded down, minimum 1). So, if the evil wizard used the Animate Statue as cover, he’d get Armor:2.
 
-## Decide Whether to Modify the Roll
+#### Using Blocks
 
-Finally, decide whether you want to alter your roll by invoking aspects—we’ll talk about this a lot inAspects and Fate Points.
+Blocks make it harder for PCs to take certain actions, so they can be frustrating if you overuse them. But they can also force the PCs to think creatively, or even to figure out how to use the blocks to their advantage.
 
-# Challenges, Contests, and Conflicts
+Use blocks sparingly; in many cases, you’ll want to use a threat or two instead. That said, sometimes a block is exactly what you want, and they’re pretty simple to use. If your players are getting frustrated with a particular block, you can give them the option to disable it somehow.
 
-We’ve talked about the four actions (create an advantage, overcome, attack, and defend) and the four outcomes (fail, tie, succeed, and succeed with style). But in what framework do those happen?
+To disable a block, removing it from the scene, you must take a risk, putting yourself (or someone else) in danger, and make an overcome roll. The overcome roll is against passive opposition rated two steps higher than the block’s rating.
 
-Usually, when you want to do something straightforward—swim across a raging river, hack someone’s cell phone—all you need to do is make one overcome action against a difficulty level that the GM sets. You look at your outcome and go from there.
+Hailey wants to remove the threat of falling into the Good (+3) Vat of Acid, so she decides to try to drop the vat’s lid down on it.
 
-But sometimes things are a little more complex.
+“You’re going to have scramble over the vat to get to the lid,” says the GM. “Give me a Superb (+5) Athletics roll. If you fail, you’re going to fall in.”
 
-## Challenges
+Josh is facing down a Great (+4) Animate Statue, an enemy he can’t seem to damage but that has no problem attacking him. He needs to get rid of it. He knows that etching a rune in the statue’s forehead might disable it, but to do that he needs to get pretty close.
 
-A challenge is a series of overcome and create an advantage actions that you use to resolve an especially complicated situation. Each overcome action deals with one task or part of the situation, and you take the individual results together to figure out how the situation resolves.
+“Okay,” says the GM. “Give me a Fantastic (+6) Fight roll to get close enough to etch the rune without getting clobbered.”
 
-To set up a challenge, decide what individual tasks or goals make up the situation, and treat each one as a separate overcome roll.
+### Distractions
 
-Depending on the situation, one character may be required to make several rolls, or multiple characters may be able to participate. GMs, you aren’t obligated to announce all the stages in the challenge ahead of time—adjust the steps as the challenge unfolds to keep things exciting.
+Where hazards attack the PCs directly and blocks prevent them from taking certain actions, distractions force the PCs to figure out their priorities. Of the obstacles, distractions are often the least mechanically defined. They also don’t necessarily make the scene mechanically harder. Rather, they present the PCs with difficult decisions.
 
----
+Here are the distraction’s parts:
 
-The PCs are the crew of a ship caught in a storm. They decide to press on and try to get to their destination despite the weather, and the GM suggests this sounds like a challenge. Steps in resolving this challenge could be calming panicky passengers, repairing damaged rigging, and keeping the ship on the right heading.
+- A distraction’s name is a brief, punchy representation of what it is. It can be an aspect, if you need or want it to be.
+- A distraction’s choice is a simple question that codifies the decision it gives to the PCs.
+- A distraction’s repercussion is what happens to the PCs if they don’t deal with the distraction. Some distractions might have multiple repercussions.
+- A distraction’s opposition is its passive opposition against PCs rolling to deal with it. Not every distraction needs to provide opposition.
 
----
+Here are some examples:
 
-## Contests
+##### Sinister Ritual
 
-When two or more characters are competing against one another for the same goal, but not directly trying to hurt each other, you have a contest. Examples include a car chase, a public debate, or an archery tournament.
+Choice: Do you deal with the enemies attacking you, or do you stop the ritual?
 
-A contest proceeds in a series of exchanges. In an exchange, every participant takes one overcome action to determine how well they do in that leg of the contest. Compare your result to everyone else’s.
+Repercussion: The cultists complete the ritual and summon the vile demon.
 
-If you got the highest result, you win the exchange—you score a victory (which you can represent with a tally or check mark on scratch paper) and describe how you take the lead. If you succeed with style, you mark two victories.
+##### Bus Full of Civilians
 
-If there’s a tie, no one gets a victory, and an unexpected twist occurs. This could mean several things, depending on the situation—the terrain or environment shifts somehow, the parameters of the contest change, or an unanticipated variable shows up and affects all the participants. The GM creates a new situation aspect reflecting this change and puts it into play.
+Opposition: Good (+3)
 
-The first participant to achieve three victories wins the contest.
+Choice: Will the bus plunge off the bridge?
 
-## Conflicts
+Repercussion (leave them): All of the civilians on the bus die.
 
-Conflicts are used to resolve situations where characters are trying to harm one another. It could be physical harm (a sword fight, a wizard’s duel, a battle with laser blasters), but it could also be mental harm (a shouting match, a tough interrogation, a magical psychic assault).
+Repercussion (save them): The villain gets away!
 
----
+##### The Glittering Gem
 
-**CONFLICTS: THE 30-SECOND VERSION**
+Choice: Will you take the gem from the pedestal?
 
-1. 1. Set the scene.
-2. 2. Determine turn order.
-3. 3. Start the first exchange.
+Repercussion (leave the gem): You don’t get the gem, which is incredibly valuable.
 
-- On your turn, take an action.
+Repercussion (take the gem): You activate the traps in the temple.
 
-- On other people’s turns, defend against or respond to their actions as necessary.
-- At the end of everyone’s turn, start a new exchange or end the conflict.
+#### Using Distractions
 
----
+Distractions are a great way to put more pressure on a scene. If you’re afraid the PCs will deal handily with a fight you’ve got in store, adding a distraction or two can force them to decide whether it’s more important to trounce the bad guys or deal with the distractions.
 
-### Setting the Scene
+Dealing with a distraction should always have a clear benefit or, failing that, not dealing with a distraction should always have a clear consequence. That said, you don’t have to let them know about any negative outcomes of dealing with the distraction.
 
-Establish what’s going on, where everyone is, and what the environment is like. Who is the opposition? The GM should write a couple of situation aspects on sticky notes or index cards and place them on the table. Players can suggest situation aspects, too.
+## Constraints
 
-The GM also establishes zones, loosely defined areas that tell you where characters are. You determine zones based on the scene and the following guidelines:
+Constraints aren’t so much a type of adversary as they are a way to modify other adversaries. They make it more difficult or complex to deal with enemies or obstacles. You can use constraints to create urgency, to make particular adversaries more threatening, or to force the PCs to deal with an adversary in a way they otherwise wouldn’t.
 
-Generally, you can interact with other characters in the same zone—or in nearby zones if you can justify acting at a distance (for example, if you have a ranged weapon or magic spell).
+You don’t have to use constraints at all, but they can add texture to an encounter or nuance to a villain. Note that adding constraints to an adversary can make that adversary a lot more difficult to deal with. There’s advice on this in each constraint entry.
 
-You can move one zone for free. An action is required to move if there’s an obstacle along the way, such as someone trying to stop you, or if you want to move two or more zones. It sometimes helps to sketch a quick map to illustrate zones.
+There are three types of constraints: countdowns, limitations, and resistances.
 
----
+### Countdowns
 
-Thugs are attacking the characters in a house. The living room is one zone, the kitchen another, the front porch another, and the yard a fourth. Anyone in the same zone can easily throw punches at each other. From the living room, you can throw things at people in the kitchen or move into the kitchen as a free action, unless the doorway is blocked. To get from the living room to the front porch or yard requires an action.
+A countdown adds urgency to an adversary: deal with it now or things will get worse. Whether you’re talking about a ticking bomb, a ritual near completion, a bus teetering on the edge of a suspension bridge, or a soldier with a radio who’s about to call in reinforcements, countdowns force the PCs to act quickly or face a worse outcome.
 
----
+Countdowns have three components: a countdown track, one or more triggers, and an outcome.
 
-### Determine Turn Order
+The countdown track looks a lot like a stress track: it’s a row of boxes that you mark from left to right. Every time you check off a box, the countdown gets closer to being over.
 
-Your turn order in a conflict is based on your approaches. In a physical conflict, compare your Quick approach to the other participants’—the one with the fastest reflexes goes first. In a mental conflict, compare your Careful approach—attention to detail will warn you of danger. Whoever has the highest approach gets to go first, and then everyone else goes in descending order. Break ties in whatever manner makes sense, with the GM having the last word.
+A trigger is an event that marks a box on the countdown track. It can be as simple as “a minute/hour/day/exchange elapses” or as specific as “the evil villain takes a consequence or gets taken out.”
 
-GMs, it’s simplest if you pick your most advantageous NPC to determine your place in the turn order, and let all your NPCs go at that time. But if you have a good reason to determine turn order individually for all your NPCs, go right ahead.
+When you mark the last box, the countdown ends and the outcome happens, whatever it is.
 
-### Exchanges
+You can give your countdown more than one trigger if you want; perhaps the countdown proceeds at a predictable pace until something happens that accelerates it. You could also give a different trigger to each box on the countdown track, if you want a specific series of events to set off the outcome.
 
-Next, each character takes a turn in order. On their turn, a character can take one of the four actions. Resolve the action to determine the outcome. The conflict is over when only one side has characters still in the fight.
+You can find some examples of countdowns attached to enemies and obstacles starting on
 
-# Ouch! Damage, Stress, and Consequences
+##### Ticking Time Bomb
 
-When you’re hit by an attack, the severity of the hit is the difference between the attack roll and your defense roll; we measure that in shifts. For instance, if your opponent gets +5 on their attack and you get a +3 on your defense, the attack deals a two shift hit (5 – 3 = 2).
+Obstacle
 
-Then, one of two things happens:
+Opposition: Good (+3)
 
-- You suffer stress and/or consequences, but you stay in the fight.
-- You get taken out, which means you’re out of the action for a while.
+Countdown 4
 
----
+Trigger: An exchange elapses.
 
-**STRESS & CONSEQUENCES: THE 30-SECOND VERSION**
+Trigger: Someone tries to disarm the bomb, but fails by 2 or more shifts.
 
-- Each character starts with three stress boxes.
-- Severity of hit (in shifts)  
-    = Attack Roll – Defense Roll
-- When you take a hit, you need to account for how that hit damages you. One way to absorb the damage is to take stress; you can check one stress box to handle some or all of a single hit. You can absorb a number of shifts equal to the number of the box you check: one for Box 1, two for Box 2, three for Box 3.
-- You may also take one or more consequences to deal with the hit, by marking off one or more consequence slots and writing a new aspect for each one. Mild consequence = 2 shifts; moderate = 4 shifts; severe = 6 shifts.
-- If you can’t (or decide not to) handle the entire hit, you’re taken out. Your opponent decides what happens to you.
-- Giving in before your opponent’s roll allows you to control how you exit the scene. You also get one or more fate points for doing this!
-- Stress and mild consequences vanish at the end of the scene, provided you get a chance to rest. Other consequences take longer.
+Outcome: The bomb explodes. (Depending on the needs and tone of your game, the explosion might kill everyone in the building, cause automatic stress to everyone in its zone, create a temporal anomaly, or have any number of other effects.)
 
----
+##### Forward Scout
 
-##   
-What Is Stress?
+Aspects
 
-If you get hit and don’t want to be taken out, you can choose to take stress.
+Loyal Agent of the Empire;
 
-Stress represents you getting tired or annoyed, taking a superficial wound, or some other condition that goes away quickly.
+Better Part of Valor
 
-Your character sheet has a stress track, a row of three boxes. When you take a hit and check a stress box, the box absorbs a number of shifts equal to its number: one shift for Box 1, two for Box 2, or three for Box 3.
+Skills
 
-You can only check one stress box for any single hit, but you can check a stress box and take one or more consequences at the same time. You can’t check a stress box that already has a check mark in it!
+Good (+3): Athletics
 
-## What Are Consequences?
+Fair (+2): Shoot, Sneak
 
-Consequences are new aspects that you take to reflect being seriously hurt in some way. Your character sheet has three slots where you can write consequences. Each one is labeled with a number: 2 (mild consequence), 4 (moderate consequence), or 6 (severe consequence). This represents the number of shifts of the hit the consequence absorbs. You can mark off as many of these as you like to handle a single hit, but only if that slot was blank to start with. If you already have a moderate consequence written down, you can’t take another one until you do something to make the first one go away!
+Stress
 
-A major downside of consequences is that each consequence is a new aspect that your opponents can invoke against you. The more you take, the more vulnerable you are. And just like situation aspects, the character that creates it (in this case, the character that hit you) gets one free invocation on that consequence. They can choose to let one of their allies use the free invocation.
+Physical [1][2]
 
----
+Mental [1][2]
 
-Let’s say that you get hit really hard and take a 4-shift hit. You check Box 2 on your stress track, which leaves you with 2 shifts to deal with. If you can’t, you’re taken out, so it’s time for a consequence. You can choose to write a new aspect in the consequence slot labeled 2—say, Sprained Ankle. Those final 2 shifts are taken care of and you can keep fighting!
+Stunts
 
----
+Scout Armor: The scout has Armor:1 against small-arms fire and melee weapons.
 
-If you’re unable to absorb all of a hit’s shifts—by checking a stress box, taking consequences, or both—you’re taken out.
+Consequences
 
-## What Happens When I Get Taken Out?
+Mild:
 
-If you get taken out, you can no longer act in the scene. Whoever takes you out narrates what happens to you. It should make sense based on how you got taken out—maybe you run from the room in shame, or maybe you get knocked unconscious.
+Countdown 5
 
-## Giving In
+Trigger (first box): The scout is attacked.
 
-If things look grim for you, you can give in (or concede the fight)—but you have to say that’s what you’re going to do before your opponent rolls their dice.
+Trigger (remaining boxes): One minute elapses.
 
-This is different than being taken out, because you get a say in what happens to you. Your opponent gets some major concession from you—talk about what makes sense in your situation—but it beats getting taken out and having no say at all.
+Outcome: Reinforcements arrive.
 
-Additionally, you get one fate point for conceding, and one fate point for each consequence you took in this conflict. This is your chance to say, “You win this round, but I’ll get you next time!” and get a tall stack of fate points to back it up.
+##### Baron von Darkness
 
-## Getting Better—Recovering from Stress and Consequences
+Aspects
 
-At the end of each scene, clear all of your stress boxes. Recovery from a consequence is a bit more complicated; you need to explain how you recover from it—whether that’s an ER visit, taking a walk to calm down, or whatever makes sense with the consequence. You also need to wait an appropriate length of time.
+Dark Lord of Crime; “My intellect is unparalleled!”; Fearsome Death Ray; Wanted in Sixteen Countries; “I’ll rule this city one day.”
 
-- Mild consequence: Clear it at the end of the scene, provided you get a chance to rest.
-- Moderate consequence: Clear it at the end of the next session, provided it makes sense within the story.
-- Severe consequence: Clear it at the end of the _scenario_, provided it makes sense within the story.
+Skills
 
----
+Superb (+5): Contacts
 
-**RENAMING MODERATE AND SEVERE CONSEQUENCES**
+Great (+4): Deceit, Will
 
-Moderate and severe consequences stick around for a while. Therefore, at some point you may want to change the name of the aspect to better fit what’s going on in the story. For instance, after you get some medical help, Painful Broken Leg might make more sense if you change it to Hobbling on Crutches.
+Good (+3): Provoke, Rapport, Shoot
 
-# Aspects and Fate Points  
+Fair (+2): Crafts, Fight, Lore, Physique
 
-An aspect is a word or phrase that describes something special about a person, place, thing, situation, or group. Almost anything you can think of can have aspects. A person might be the Greatest Swordswoman on the Cloud Sea. A room might be On Fire after you knock over an oil lamp. After a time-travel encounter with a dinosaur, you might be Terrified. Aspects let you change the story in ways that go along with your character’s tendencies, skills, or problems.
+Average (+1): Everything else
 
-You spend fate points—which you keep track of with pennies or glass beads or poker chips or some other tokens—to unlock the power of aspects and make them help you. You earn fate points by letting a character aspect be compelled against you to complicate the situation or make your life harder. Be sure to keep track of the fate points you have left at the end of the session—if you have more than your refresh, you start the next session with the fate points you ended this session with.
+Stress
 
----
+Physical [1][2][3]
 
-You earned a lot of fate points during your game session, ending the day with five fate points. Your refresh is 2, so you’ll start with five fate points the next time you play. But another player ends the same session with just one fate point. His refresh is 3, so he’ll begin the next session with 3 fate points, not just the one he had left over.
+Mental [1][2][3][4]
 
----
+Consequences
 
-## What Kinds of Aspects Are There?
+Mild:
 
-There’s an endless variety of aspects, but no matter what they’re called they all work pretty much the same way. The main difference is how long they stick around before going away.
+Moderate:
 
-Character Aspects: These aspects are on your character sheet, such as your high concept and trouble. They describe personality traits, important details about your past, relationships you have with others, important items or titles you possess, problems you’re dealing with or goals you’re working toward, or reputations and obligations you carry. These aspects only change under very unusual circumstances; most never will.
+Severe:
 
----
+Stunts
 
-Examples: Captain of the Skyship Nimbus; On the Run From the Knights of the Circle;Attention to Detail; I Must Protect My Brother
+Contingency Plan: Whenever Baron von Darkness takes a consequence, you can pay a fate point to remove him from the scene (in a puff of smoke), replacing him with two threats.
 
----
+Countdown 3
 
-  
+Trigger (first box): The pathetic PCs fail to stop me from robbing the First National Bank.
 
-Situation Aspects: These aspects describe the surroundings that the action is taking place in. This includes aspects you create or discover using the create an advantage action. A situation aspect usually vanishes at the end of the scene it was part of, or when someone takes some action that would change or get rid of it. Essentially, they last only as long as the situational element they represent lasts.
+Trigger (second box): Those fools don’t prevent the assassination of Mayor Roberts.
 
----
+Trigger (third box): Those meddlesome heroes don’t stop me at my secret undersea base.
 
-Examples: On Fire; Bright Sunlight; Crowd of Angry People; Knocked to the Ground
+Outcome: My glorious mind-control device allows me to secretly control the city from beneath the waves!
 
----
+#### Using Countdowns
 
-To get rid of a situation aspect, you can attempt an overcome action to eliminate it, provided you can think of a way your character could accomplish it—dump a bucket of water on the Raging Fire, use evasive maneuvers to escape the enemy fighter that’s On Your Tail. An opponent may use a Defend action to try to preserve the aspect, if they can describe how they do it.
+Countdowns are all about urgency. They force the PCs to deal with particular threats, or to escape them before things get worse. Use them sparingly; sometimes you want the PCs to be able to deal with threats at their own pace, so they can highlight their competence. But when you want to really put the screws to them, countdowns can help.
 
-Consequences: These aspects represent injuries or other lasting trauma that happen when you get hit by attacks. They go away slowly, as described in Ouch! Damage, Stress, and Consequences.
+Countdowns are also useful for threatening PCs who are hard to threaten. If your PCs are incredibly efficient in every fight, give them a fight with a countdown or two that threatens to make their lives incredibly difficult. Or, better yet, give them two countdowns that are difficult to deal with simultaneously. Force them to choose.
 
----
+You can also use countdowns to add verisimilitude to encounters, as with the forward scout. The scout's countdown might represent a flre gun or a radio that the scout uses to call his team for backup. Showing the PCs that their enemies also have people they can rely upon can make the world feel a bit more real.
 
-Examples: Sprained Ankle; Fear of Spiders; Concussion; Debilitating Self-Doubt
+You don’t have to confine a countdown to a single scene. You could attach a countdown to your main villain, as with Baron von Darkness, that represents their master plan and its stages. Doing this adds both structure and urgency to your adventure or campaign, impressing upon the PCs that if they don't act, the villain will go ahead and realize his plans.
 
----
+One word of caution: tracking many countdowns at once can be difficult, particularly if they all have different triggers. If your scene has three or four countdowns that all trigger at different times, you might find yourself forgetting to check off some of their boxes.
 
-Boosts: A boost is a temporary aspect that you get to use once (see “What Do You Do With Aspects?”next), then it vanishes. Unused boosts vanish when the scene they were created in is over or when the advantage they represent no longer exists. These represent very brief and fleeting advantages you get in conflicts with others.
+### Limitations
 
----
+Limitations are fictional elements that alter how PCs must deal with a particular threat. Maybe they can’t just kill the werewolf that’s been terrorizing a small Pennsylvania town, because he’s the son of one of the PCs and doesn’t know what he’s doing when he’s a werewolf. Maybe the mob boss is protected from on high by powerful politicians, and the direct approach is untenable. Maybe the reactor that’s in meltdown is nearly impossible to repair because it vaporizes any organic material that comes near.
 
-Examples: In My Sights; Distracted; Unstable Footing; Rock in His Boot
+When you create a limitation, give it either an aspect or a fact. A fact is a true thing: the reactor vaporizes organic material when it comes near. If you want to make a limitation more concrete and mechanical, use an aspect instead. Aspects are always true, just like facts, but you can invoke and compel them.
 
----
+But be wary of giving something too many aspects. For most adversaries, you can just add the aspect and be fine. For adversaries that already have five aspects or are really complex, you may want to replace an existing aspect with the limitation aspect.
 
-**PVP**  
+You can also give a limitation a Weapon rating. For example, if the PCs are battling on the edge of a pool filled with carnivorous fish, you might impose a limitation of Filled with Piranha with Weapon:3. There’s no roll involved with getting attacked by the piranha; instead, entering the pool of water acts as a special sort of compel. In this case, you’d offer the player a fate point, and if they accept it—piranha, damn your luck!—they’d take stress equal to the Weapon rating (in this case, 3). In this way, you can create situation aspects that have hard mechanical consequences attached to their compels.
 
-The only time that fate point might not go to the GM is when you’re in conflict with another player. If you are, and you invoke one of that player’s character aspects to help you out against them, they will get the fate point instead of the GM once the scene is over.
+#### Using Limitations
 
----
+Limitations don’t outright forbid actions; they simply discourage them. There’s nothing saying that the PC can’t kill her werewolf son to stop the threat to the town, but she’s unlikely to because she cares deeply about him, and because he doesn’t actually realize what he’s doing.
 
-## What Do You Do With Aspects?
+When you add a limitation to an adversary, you’re doing two things: First, you’re creating an interesting wrinkle that the players have to deal with. Limitations are best when you reveal them unexpectedly; they work well as surprise twists. Second, you’re making that adversary more important to the story. A limitation forces the players to deal with a threat in a way other than the most straightforward method. This means the players will likely have to spend more time dealing with the threat, making it more important in the fiction. They might spend a few extra exchanges taking out a particular bad guy, ensuring they remember that bad guy more. Or they might spend the entire adventure figuring out how to deal with something. Either way works.
 
-There are three big things you can do with aspects: invoke aspects, compel aspects, and use aspects to establish facts.
+Try not to use more than one or two limitations in an adventure. If too many issues need to be dealt with in atypical ways, you’ll risk frustrating players with characters built for handling regular tasks. If you’ve got an engineer character, but every machine the PCs encounter is biomechanical and requires knowledge of advanced xenobiology knowledge to handle, the engineer is going to feel pretty useless. If only one such machine exists, though, the engineer gets to keep doing his thing, and that one machine becomes a focal point of the adventure.
 
-### Invoking Aspects
+### Resistances
 
-You invoke an aspect to give yourself a bonus or make things a bit harder for your opponent. You can invoke any aspect that you a) know about, and b) can explain how you use it to your advantage—including aspects on other characters or on the situation. Normally, invoking an aspect costs you a fate point—hand one of your fate points to the GM. To invoke an aspect, you need to describe how that aspect helps you in your current situation.
+Resistances are similar to limitations, except that they do effectively forbid a particular course of action. The dragon is immune to the weapons of mortals, so you can’t fight it in physical combat. The alien does not understand Earthly communication, so you cannot reason with it. The wall’s surface is unnaturally smooth, so you cannot climb it. Where limitations encourage the PCs to deal with an adversary in a new way, resistances force such an approach. There is, however, always a chink in the armor, embodied in the resistance’s two parts: its lock and key.
 
----
+The resistance’s lock is an aspect that states exactly what the adversary is immune to. Aspects are always true, so you don’t have to spend fate points to make the lock affect the story. If the PCs attack the dragon with their swords, the fact that it’s Immune to Mortal Weaponry means they have no chance of hurting it.
 
-- I attack the zombie with my sword. I know zombies are Sluggish, so that should help me.
-- I really want to scare this guy. I’ve heard he’s Scared of Mice, so I’ll release a mouse in his bedroom.
-- Now that the guard’s Distracted, I should be able to sneak right by him.
-- This spell needs to be really powerful—I’m an Archwizard of the Ancient Order, and powerful spells are my bread and butter.
+The key is the one thing that can bypass the lock, allowing the PCs to deal with the adversary in the way they want to. The key can be an aspect, an extra, a character, another adversary, or just a fictional element. It varies by adversary and by resistance.
 
----
+Here are some examples:
 
-  
+##### The Dragon
 
-What does invoking the aspect get you? Choose one of the following effects:
+Lock: Immune to Mortal Weaponry
 
-- Add a +2 bonus to your total. This costs a fate point.
-- Reroll the dice. This option is best if you rolled really lousy (usually a −3 or −4 showing on the dice). This costs a fate point.
-- Confront an opponent with the aspect. You use this option when your opponent is trying something and you think an existing aspect would make it harder for them. For instance, an alien thug wants to draw his blaster pistol, but he’s Buried in Debris; you spend a fate point to invoke that aspect, and now your opponent’s level of difficulty is increased by +2.
-- Help an ally with the aspect. Use this option when a friend could use some help and you think an existing aspect would make it easier for them. You spend a fate point to invoke the aspect, and now your friend gets a +2 on their roll.
+Key: The Sword of Avelah, created by an immortal race long ago, can harm the dragon.
 
-Important: You can only invoke any aspect once on a given dice roll; you can’t spend a stack of fate points on one aspect and get a huge bonus from it. However, you can invoke several different aspects on the same roll.
+##### The Alien
 
-If you’re invoking an aspect to add a bonus or reroll your dice, wait until after you’ve rolled to do it. No sense spending a fate point if you don’t need to!
+Lock: Doesn’t Understand Earthly Communication
 
-Free invocations: Sometimes you can invoke an aspect for free, without paying a fate point. If you create or discover an aspect through the create an advantage action, the first invocation on it (by you or an ally) is free (if you succeeded with style, you get two freebies). If you cause a consequence through an attack, you or an ally can invoke it once for free. A **boost** is a special kind of aspect that grants one free invocation, then it vanishes.
+Key: Emily Jace, the only survivor from a deep-space expedition, is the only human known to have learned the alien language.
 
-### Compelling Aspects
+##### The Wall
 
-If you’re in a situation where having or being around a certain aspect means your character’s life is more dramatic or complicated, anyone can compel the aspect. You can even compel it on yourself—that’s called a self-compel. Compels are the most common way for players to earn more fate points.
+Lock: Unnaturally Smooth, Can’t Be Climbed
 
-There are two types of compels.
+Key: If you can get a device that’ll vibrate at the right harmonic frequency, you can walk right through the wall.
 
-Decision compels: This sort of compel suggests the answer to a decision your character has to make. If your character is Princess of Alaria, for example, you may need to stay to lead the defense of the Royal Alarian Castle rather than fleeing to safety. Or if you have a Defiant Streak a Mile Wide, maybe you can’t help but mouth off to the Dean of Discipline when he questions you.
+#### Using Resistances
 
-Event compels: Other times a compel reflects something happening that makes life more complicated for you. If you have Strange Luck, of course that spell you’re working on in class accidentally turns the dour Potions Master’s hair orange. If you Owe Don Valdeon a Favor, then Don Valdeon shows up and demands that you perform a service for him just when it’s least convenient.
+One danger of using a resistance is that it is, effectively, a roadblock. A limitation encourages the players to think creatively, while a resistance forces them to find another way, or to find the one thing that lets them address the problem directly. This means two things:
 
-In any case, when an aspect is compelled against you, the person compelling it offers you a fate point and suggests that the aspect has a certain effect—that you’ll make a certain decision or that a particular event will occur. You can discuss it back and forth, proposing tweaks or changes to the suggested compel. After a moment or two, you need to decide whether to accept the compel. If you agree, you take the fate point and your character makes the suggested decision or the event happens. If you refuse, you must pay a fate point from your own supply. Yes, this means that if you don’t have any fate points, you can’t refuse a compel!
+First, never have more than one resistance in play at a time, unless you have a very good reason. Resistances have the potential to frustrate players even more than limitations do, so don’t overuse them.
 
----
+Second, unless the players decide to give up on addressing the adversary, they’ll likely need to go on an adventure, or at least a series of scenes, to get the key to the adversary’s lock.
 
-**How Many Fate Points Does the GM Get?**
+Resistances can be good adventure hooks. A dragon threatening the village is an easy way to get the PCs to buy in, but if what you actually want them to deal with is over on the other side of the world, sending them off on an adventure there to get the key to the dragon’s lock can be a sneaky way to do it, and can add some urgency to boot.
 
-As GM, you don’t need to track fate points for each NPC, but that doesn’t mean you get an unlimited number. Start each scene with a pool of one fate point per PC that’s in the scene. Spend fate points from this pool to invoke aspects (and consequences) against the PCs. When it’s empty, you can’t invoke aspects against them.
+# Using Environments
 
-How can you increase the size of your pool? When a player compels one of an NPC’s aspects, add the fate point to your pool. If that compel ends the scene, or when an NPC gives in, instead add those fate points to your pool at the start of the next scene.
+In Fate, the environment can often play as big a role as the pack of werewolves or trio of gunmen you’re fighting. The enemies in a scene are the most obvious, active opposition to your goals, but a conflict in a dark warehouse is different from a conflict on the median of a busy highway, and both are very different from a tense negotiation in the White House’s Situation Room.
 
-Fate points you award for compels do NOT come from this pool. You never have to worry about running out of fate points to award for compels.
+## Spicing Up Zones
 
----
+Many new Fate GMs—and even some experienced ones—have trouble using zones in a way that makes the environment come alive. Here are a few easy tricks you can use to give zones both mechanical and narrative importance and to make your players sit up and take notice of their environment.
 
-### Establishing Facts
+### Make Each Zone Count
 
-The final thing that aspects can do is establish facts in the game. You don’t have to spend any fate points, roll dice, or anything to make this happen—just by virtue of having the aspect Ruddy Duck’s Pilot, you’ve established that your character is a pilot and that you fly a plane named the Ruddy Duck. Having the aspect Mortal Enemy: The Red Ninjas establishes that the setting has an organization called the Red Ninjas and that they’re after you for some reason. If you take the aspect Sorcerer of the Mysterious Circle, you not only establish that there’s a group of sorcerers called the Mysterious Circle, but that magic exists in the setting and that you can perform it.
+When you’re setting up a conflict, it’s tempting to think of the physical space and divide up every bit of it into zones. If you’re planning a fight in a darkened warehouse, it might seem obvious to make three or four zones on the first floor, another few on the upper floor, a zone or two to represent offices, and a couple of zones to represent streets and alleys outside, and leave it at that. That will divide the space up logically, but you’ll find many zones won’t get used, leaving the warehouse to feel a lot like the park the PCs fought in during the last session, just with slightly different window dressing.
 
-When you establish facts of the setting this way, make sure you do it in cooperation with other players. If most people want to play in a setting without magic, you shouldn’t unilaterally bring magic into it through an aspect. Make sure that the facts you establish through your aspects make the game fun for everyone.
+Instead, consider something like this:
 
-  
+- One zone for the general floor space in the middle of the warehouse. This zone has lots of Crates for cover.
+- A zone for the area near some Industrial Equipment. If it gets switched on, the equipment becomes a block: Great (+4) Mashing Gears with Weapon:2.
+- A zone near the windows, where the snipers surrounding the warehouse can see PCs. The snipers are a hazard: Superb (+5) Snipers with Weapon:3.
+- A zone up on the Precarious Catwalks. The fall off these catwalks is a limitation with Weapon:2.
 
-## Composing Good Aspects
+And that’s all you need. If people go outside, or into an office, that’s fine; you can improvise a zone that doesn’t have much special about it, or you can apply the effects of another zone to it—for example, the snipers would likely have a clear line of sight to anyone outside. The trick is to come up with three to five zones, each with narrative importance. If you can’t think of something interesting about a particular zone, don’t bother including it or even mentioning it in your description. It’s not a place where the story’s likely to go.
 
-  
+### Tying Game Elements to Zones
 
-When you need to think of a good aspect (we’re mainly talking about character and situation aspects here), think about two things:
+The previous example illustrates how to do this, but it’s important to realize that you’ve been doing it all along, simply by putting enemies in zones. The gang leader is over here, by the tables full of guns. His henchmen are spaced around the room, guarding the exits. So on and so forth. Now all you have to do is take that kind of thinking and apply it to all the other stuff you can put in a scene. Make sure that there’s an aspect, an obstacle, or a constraint associated with each zone. Also make sure there’s a reason to interact with or avoid each zone, that something interesting can happen in each one.
 
-- How the aspect might help you—when you’d invoke it.
-- How it might hurt you—when it would be compelled against you.
+### Offer Free Environmental Invokes
 
-For example:
+If you distribute aspects around your zones, you might give the players some free invokes on these aspects, encouraging them to interact with their environment. Here are a few ways to do it:
 
----
+- Give the PCs, collectively, one free invoke on an environmental aspect in each zone. After using this free invoke, they can continue to invoke environmental aspects in that zone by spending fate points or advantages.
+- Give each PC two free invokes on environmental aspects only.
+- Give each PC one free invoke on each environmental aspect, after which they must invoke it by spending fate points or advantages.
 
-I’ll Get You, von Stendahl!
+Option one makes the PCs compete for the free invokes, which can create a sense of urgency. The PCs will rush to use those invokes, so the environment will get a lot of attention early in the conflict. By encouraging this kind of play early, you’ll help the players to continue interacting with the environment throughout the fight.
 
-- Invoke this when acting against von Stendahl to improve your chances.
-- Get a fate point when your dislike for von Stendahl makes you do something foolish to try to get him.
+Option two gives the PCs much more flexibility: they get to choose which elements of the environment they interact with. This method doesn’t really add any urgency, though, and it effectively gives each PC two more fate points to play with, which can skew their power to the high side.
 
-Hair Trigger Nerves
+Option three is the most generous, will make for a significantly easier fight, and is best for groups that just aren’t in the habit of paying attention to their environment. Once the PCs get used to interacting with their environment, consider scaling back to one of the other options.
 
-- Invoke this when being extra vigilant and careful would help you.
-- Get a fate point when this causes you to be jumpy and be distracted by threats that aren’t really there.
+## Types of Zones
 
----
+It’s easy to think of zones as discrete physical spaces, but they don’t have to be. They can be fluid, movable, or even conceptual in nature. A zone is, at its core, a mechanical way to represent fictional positioning. As long as you’re accomplishing that, you can bend the nature of a zone in any number of directions.
 
-Obviously, your trouble aspect is supposed to cause problems—and thereby make your character’s life more interesting and get you fate points—so it’s okay if that one’s a little more one-dimensional, but other character and situation aspects should be double-edged.
+### Relative Zones
 
-# Stunts  
+You might define zones relative to another zone or to each other, rather than tying them to specific places. This works well in something like a chase scene, where the characters are moving throughout the city constantly, never staying in one physical space for very long. In a case like this, you might have the following zones:
 
-Stunts are tricks, maneuvers, or techniques your character has that change how an approach works for your character. Generally this means you get a bonus in certain situations, but sometimes it gives you some other ability or characteristic. A stunt can also reflect specialized, high-quality, or exotic equipment that your character has access to that gives them a frequent edge over other characters.
+Near your quarry
 
-There’s no definitive list of stunts that you pick from; much like aspects, everyone composes their own stunts. There are two basic templates to guide you in composing your stunts, so you do have something to work from.
+Within sight of your quarry
 
-The first type of stunt gives you a +2 bonus when you use a certain approach in a certain situation. Use this template:
+Out of sight of your quarry
 
-Because I [describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesome], I get a +2 when I [pick one: Carefully, Cleverly, Flashily, Forcefully, Quickly, Sneakily][pick one: attack, defend, create advantages, overcome] when [describe a circumstance].
+Above your quarry
 
-For example:
+Below your quarry
 
----
+Falling behind
 
-- Because I am a Smooth Talker, I get a +2 when I Sneakily create advantages when I’m in conversation with someone.
-- Because I am a Lover of Puzzles, I get a +2 when I Cleverly overcome obstacles when I am presented with a puzzle, riddle, or similar conundrum.
-- Because I am a World-Class Duelist, I get a +2 when I Flashily attack when engaged in a one-on-one swordfight.
-- Because I have a Big Kite Shield, I get a +2 when I Forcefully defend when I use my shield in close combat.
+Moving from zone to zone might require rolls, with attacks representing trying to catch up with your quarry and stress representing becoming exhausted and being left behind.
 
----
+#### Occupying Multiple Zones at Once
 
-Sometimes, if the circumstance is especially restrictive, you can apply the stunt to both the create an advantage action and the overcome action.
+It might seem a little counterintuitive, but why couldn’t you occupy more than one zone at the same time? In the chase scene mentioned earlier, you might be running on the rooftops while your quarry is in the streets below. This might mean you’re both above your quarry and within sight of your quarry, gaining whatever benefits and disadvantages come with each zone.
 
-The second type of stunt lets you make something true, do something cool, or otherwise ignore the usual rules in some way. Use this template:
+### Mobile Zones
 
-Because I [describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesome], once per game session I can [describe something cool you can do].
+You might have an environment made up primarily of static zones that represent physical spaces, but have one or two zones that can move around. Perhaps there’s a crane moving around wildly, or you’re navigating an arctic cavern while huddled around a handheld heater that radiates warmth—both the crane and heater could be mobile zones. Most importantly, you’ll want to keep track of where the mobile zone is relative to the other zones. The easiest way to do this is to let the mobile zone occupy another zone at any given time, allowing people to occupy multiple zones at once.
 
-For example:
+### Conceptual Zones
 
----
+Zones don’t have to represent physical space; some might represent conceptual states of being. In a darkened warehouse, you might have a zone that represents being in the shadows. Because the warehouse is dark, this zone can exist pretty much anywhere, provided you’re sticking to pools of shadow and not calling attention to yourself. This trick can be an easy way to keep track of who’s hidden and who’s not, or who’s in the emperor’s good graces and who’s not.
 
-- Because I am Well Connected, once per game session I can find a helpful ally in just the right place.
-- Because I am Quick on the Draw, once per game session I can choose to go first in a physical conflict.
-- Because I can Run Circles Around a Leopard, once per game session I can show up anywhere I want to, provided I could run there, no matter where I started.
+Conceptual zones work well during social conflicts, where physical positioning is less important. If your PCs are infiltrating a high-society party to steal some valuable jewelry, you might have zones that represent blending in with the party guests, pretending to be wait staff, out of sight of the general populace, or under scrutiny.
 
----
+## Keeping Track
 
-These templates exist to give you an idea of how stunts should be constructed, but don’t feel constrained to follow them exactly if you have a good idea. If you’d like to read more about the construction of stunts, see Skills and Stunts in Fate Core.
-
-# Getting Better at Doing Stuff: Character Advancement
-
-People change. Your skills sharpen as you practice them. Your life experiences accumulate and shape your personality. Fate Accelerated Edition reflects that with character advancement, which allows you to change your aspects, add or change stunts, and raise your approach bonuses. You do this when your character reaches a milestone.
-
-## Milestones
-
-Stories in TV shows, comic books, movies, and even video games usually continue from episode to episode, season to season. It took Frodo three big books to take the Ring to the fiery mountain. It took Aang three seasons to defeat the Fire Lord. You get the idea. FAE can tell those kinds of stories; you play many game sessions in a row using the same characters—this is often called a campaign—and the story builds on itself. But within these long stories, there are shorter story arcs, like single episodes of a TV show or single issues of a comic, where shorter stories are told and wrapped up. FAE can do that too, even within a longer campaign.
-
-In FAE, we call those wrap-ups milestones—whether they’re small ones for short stories, or really big ones at the end of many sessions of play. FAE recognizes three types of milestones, and each one allows you to change your character in certain ways.
-
-### Minor Milestones
-
-A minor milestone usually occurs at the end of a session of play, or when one piece of a story has been resolved. Rather than making your character more powerful, this kind of milestone is more about changing your character, about adjusting in response to whatever’s going on in the story if you need to. Sometimes it won’t really make sense to take advantage of a minor milestone, but you always have the opportunity in case you need to.
-
-After a minor milestone, you can choose to do one (and only one) of the following:
-
-- Switch the ratings of any two approaches.
-- Rename one aspect that isn’t your high concept.
-- Exchange one stunt for a different stunt.
-- Choose a new stunt (and adjust your refresh, if you already have three stunts).
-
-Also, if you have a moderate consequence, check to see if it’s been around for two sessions. If so, you can clear it.
-
-### Significant Milestones
-
-  
-
-A significant milestone usually occurs at the end of a scenario or the conclusion of a big plot event (or, when in doubt, at the end of every two or three sessions). Unlike minor milestones, which are primarily about change, significant milestones are about learning new things—dealing with problems and challenges has made your character generally more capable at what they do.
-
-In addition to the benefit of a minor milestone, you also gain both of the following:
-
-- If you have a severe consequence that’s been around for at least two sessions, you can clear it.
-- Raise the bonus of one approach by one.
-
----
-
-**RAISING APPROACH BONUSES**
-
-When you raise the bonus of an approach, there’s only one rule you need to remember: you can’t raise an approach bonus above Superb (+5).
-
----
-
-### Major Milestones
-
-Major milestones should only occur when something happens in the campaign that shakes it up a lot—the end of a big story arc, the final defeat of a main NPC villain, or any other large-scale change that reverberates around your game world.
-
-These milestones are about gaining more power. The challenges of yesterday simply aren’t sufficient to threaten these characters anymore, and the threats of tomorrow will need to be more adept, organized, and determined to stand against them.
-
-Achieving a major milestone confers the benefits of a significant milestone and a minor milestone. In addition, you may do all of the following:
-
-- Take an additional point of refresh, which you may immediately use to purchase a stunt if you wish.
-- Rename your character’s high concept (optional).
-- # Being the GM
-    
-    The GM has many responsibilities, such as presenting the conflict to the players, controlling NPCs, and helping everyone apply the rules to the situation in the game.
-    
-    Let’s talk about the GM’s jobs.
-    
-    ## Help Build Campaigns
-    
-    A campaign is a series of games you play with the same characters, where the story builds on what happened in earlier sessions. All the players should collaborate with the GM to plan how the campaign will work. Usually this is a conversation among all of you to decide what sort of heroes you want to play, what sort of world you live in, and what sorts of bad guys you’ll have. Talk about how serious you want the game to be and how long you want it to last.
-    
-    ---
-    
-    - Cat-people sky pirates in flying ships, always on the run from the Royal Navy trying to catch them.
-    - Magic-wielding desert townsfolk stand against the invading soldiers of the evil Steel Empire.
-    - Students at a boarding school for magical youth solve mysteries and uncover secrets of their ancient school.
-    
-    ---
-    
-    **LEARNING HOW TO BE A GM**
-    
-    Being a GM and running games can seem intimidating and difficult at first. It’s a skill that takes some practice to master, so don’t worry—you’ll get better the more you do it. If you’d like to read more about the art of GMing Fate, there are several chapters in the Fate Core rules that you should check out: Running the Game, Scenes, Sessions, and Scenarios, and The Long Game are particularly helpful. Fate Core is available for free at _www.evilhat.com_.
-    
-    ---
-    
-      
-    
-    ## Build Scenarios and Run Game Sessions
-    
-    A scenario is one short story arc, the sort of thing you might see wrapped up in one or two episodes of an adventure television show, even if it’s a smaller part of a bigger story. Usually you can wrap up a scenario in one to three game sessions, assuming you play for three or four hours at a time. But what is a scenario, and how do you build one?
-    
-    ### Scenarios
-    
-    A scenario needs two things: A bad guy with a goal, and a reason the PCs can’t ignore it.
-    
-    Bad guy with a goal: You’ve probably figured this out already. The campaign’s main opposition, or one of his allies, is probably your bad guy.
-    
-    Something the PCs can’t ignore: Now you have to give the PCs a reason to care. Make sure the bad guy’s goal is up in the PCs’ faces, where they need to do something about it or bad things will happen to them, or to people or things they value.
-    
-    ### Running Game Sessions
-    
-    Now that your bad guy is doing something the PCs will pay attention to, it’s time to start them off. Sometimes the best way to do that, especially for the first session of a new story arc, is to put them right in the action. Once the PCs know why they should care about what’s going on, you just get out of the way and let them take care of it.
-    
-    That said, there are a bunch of tasks the GM needs to perform to run the session:
-    
-    - Run scenes: A session is made up of individual scenes. Decide where the scene begins, who’s there, and what’s going on. Decide when all the interesting things have played out and the scene’s over.
-    - Adjudicate the rules: When some question comes up about how to apply the rules, you get final say.
-    - Set difficulties: You decide how difficult tasks should be.
-    - Play the NPCs: Each player controls their own character, but you control all the rest, including the bad guys.
-    - Keep things moving: If the players don’t know what to do next, it’s your job to give them a nudge. Never let things get too bogged down in indecision or because they don’t have enough information—do something to shake things up.
-    - Make sure everyone has a chance to be awesome: Your goal isn’t to defeat the players, but to challenge them. Make sure every PC gets a chance to be the star once in a while, from the big bad warrior to the little sneaky thief.
-    
-      
-    
-    ## Setting Difficulty Levels
-    
-      
-    
-    When another character is opposing a PC, their rolls provide the opposition in a conflict, contest, or challenge. But if there’s no active opposition, you have to decide how hard the task is.
-    
-    Low difficulties are best when you want to give the PCs a chance to show off and be awesome.Difficulties near their approach ratings are best when you want to provide tension but not overwhelm them. High difficulties are best when you want to emphasize how dire or unusual the circumstances are and make them pull out all the stops.
-    
-    ### Rules of Thumb:
-    
-    - If the task isn’t very tough at all, give it a Mediocre (+0)—or just tell the player they succeed without a roll.
-    - If you can think of at least one reason why the task is tough, pick Fair (+2).
-    - If the task is extremely difficult, pick Great (+4).
-    - If the task is impossibly difficult, go as high as you think makes sense. The PC will need to drop some fate points and get lots of help to succeed, but that’s fine.
-    
-    ---
-    
-    **OPTIONAL RULE: APPROACH-RELATED TARGET NUMBERS**
-    
-    Sometimes being Careful makes things a lot easier; sometimes it just takes too long. The GM may wish to adjust the target number up or down by 1 or 2 depending on whether you choose a fitting or a problematic approach. This makes things a bit more complex, but for some groups it’s worth it.
-    
-    ---
-    
-    ## Bad Guys
-    
-    When you make a bad guy, you can stat them out exactly like the PCs, with approaches, aspects, stress, and consequences. You should do this for important or recurring bad guys who are intended to give the PCs some real difficulties, but you shouldn’t need more than one or two of these in a scenario.
-    
-    Mooks: Other bad guys are mooks—unnamed thugs or monsters or goons that are there to make the PCs’ day a little more difficult, but they’re designed to be more or less easily swept aside, especially by powerful PCs. Here’s how you create their stats:
-    
-    1. Make a list of what this mook is skilled at. They get a +2 to all rolls dealing with these things.
-    2. Make a list of what this mook is bad at. They get a −2 to all rolls dealing with these things.
-    3. Everything else gets a +0 when rolled.
-    4. Give the mook an aspect or two to reinforce what they’re good and bad at, or if they have a particular strength or vulnerability. It’s okay if a mook’s aspects are really simple.
-    5. Mooks have zero, one, or two boxes in their stress track, depending on how tough you imagine them to be.
-    6. Mooks can’t take consequences. If they run out of stress boxes (or don’t have any), the next hit takes them down.
-    
-      
-    
-    ---
-    
-    **CYCLOPS HOUSE BULLY**
-    
-    Cyclops House Bully, Cowardly Without Backup
-    
-    Skilled (+2) at: Frightening other students, weaseling out of trouble, breaking things
-    
-    Bad (-2) at: Planning, studying
-    
-    Stress: None (first hit takes them out)
-    
-    ---
-    
-    **STEEL ASSASSIN**
-    
-    Steel Assassin, The Night Is Ours
-    
-    Skilled (+2) at: Sneaking, ambushing
-    
-    Bad (-2) at: Standing up to determined opposition
-    
-    Stress: O
-    
-    ---
-    
-    **SKY SHARK**
-    
-    I’m a Shark, Vulnerable Belly
-    
-    Skilled (+2) at: Flying, biting
-    
-    Bad (-2) at: Anything that isn’t flying or biting
-    
-    Stress: OO
-    
-    ---
-    
-      
-    
-    Groups of Mooks: If you have a lot of low-level bad guys facing the PCs, you can make your job easier by treating them as a group—or maybe a few groups. Instead of tracking a dozen bad guys, you track three groups of four bad guys each. Each of these groups acts like a single character and has a set of stats just like a single mook would: 
-    
-    1. Choose a couple of things they’re skilled at. You might designate “ganging up” as one of the things the group is good at.
-    2. Choose a couple of things they’re not so good at.
-    3. Give them an aspect. 
-    4. Give them one stress box for every two individuals in the group. 
-    
-    ---
-    
-    GANG OF THUGS
-    
-    Axe Handles & Crowbars
-    
-    Skilled (+2) at: Ganging up, scaring innocent people
-    
-    Bad (-2) at: Thinking ahead, fighting when outnumbered
-    
-    Stress: **O** **O** (4 thugs)
-    
-    ---
-    
-    Fate Core has a way of handling this, called mobs (see the “Creating the Opposition” section of theRunning the Game chapter in Fate Core). Feel free to use that option if you prefer. Note that it may lead to very strong mobs, unless you start with extremely weak mooks—if you want to give your PCs a serious challenge, that could be one way to do it.
-    
-    # Example Characters
-    
-    Here are four sample characters that you can use as-is or use as inspiration for your own characters.
-    
-    ## Reth of the Andrali Resistance
-    
-    Reth is 14 years of age. He has dark brown skin and dark hair that he wears in thick dreadlocks. He wears light, loose-fitting clothing and sandals, and he’s a skilled martial artist. He’s the most powerful Suncaller to be born in generations; he can magically call forth the power of fire. Originally from a town in the vast Andral Desert, he and his friends took a stand against the invading Steel Empire and have been living on the run since.
-    
-      
-    
-    ---
-    
-    RETH
-    
-    High Concept:  
-    Suncaller of the Andral Desert
-    
-    Trouble: Steel Assassins Want Me Dead
-    
-    Other Aspects: My Kung Fu Is The Strongest; Crush On Avasa; I Can Learn from Serio’s Experience
-    
-    APPROACHES
-    
-    Careful: Fair (+2)
-    
-    Clever: Average (+1)
-    
-    Flashy: Mediocre (+0)
-    
-    Forceful: Good (+3)
-    
-    Quick: Fair (+2)
-    
-    Sneaky: Average (+1)
-    
-    STUNTS
-    
-    Stance of the Defiant Sun: Because I have perfected the Stance of the Defiant Sun, I gain a +2 to Forcefully defend in hand-to-hand combat. (May take two more stunts without reducing refresh!)
-    
-    STRESS **O** **O** **O**
-    
-    CONSEQUENCES
-    
-    Mild (2):
-    
-    Moderate (4):
-    
-    Severe (6):
-    
-    REFRESH: 3
-    
-    ## Voltaire
-    
-    Voltaire is captain of the Cirrus Skimmer, a skyship that roams a vast sea of clouds. She’s a cat person, her body a blend of human and feline features. She wears an ostentatious assortment of piratey clothes including a long brown jacket, knee-high boots, a feathered cap, and a basket-hilted cutlass. Being a cat person, she does have the tendency to nod off at odd moments…
-    
-      
-    
-    ---
-    
-    VOLTAIRE
-    
-    High Concept:  
-    Feline Captain of Cirrus Skimmer
-    
-    Trouble: *Yawn*
-    
-    Other Aspects: That? Oh, That’s a Decoy; Martin Is a Big Cheat; Sanchez Is the Best First Mate a Ship Could Have
-    
-    APPROACHES:
-    
-    Careful: Average (+1)
-    
-    Clever: Average (+1)
-    
-    Flashy: Good (+3)
-    
-    Forceful: Mediocre (+0)
-    
-    Quick: Fair (+2)
-    
-    Sneaky: Fair (+2)
-    
-    STUNTS
-    
-    Swashbuckling Swordswoman: Because I am a Swashbuckling Swordswoman, I gain a +2 to Flashy attacks when crossing blades with a single opponent. (May take two more stunts without reducing refresh!)
-    
-    STRESS **O** **O** **O**
-    
-    CONSEQUENCES
-    
-    Mild (2):
-    
-    Moderate (4):
-    
-    Severe (6):
-    
-    REFRESH: 3
-    
-    ## Abigail Zhao
-    
-    Abigail is a student at the School of Sorcery, and a member of Hippogriff House. She has light skin and long black hair with a pink streak. She pushes her luck with her school uniform, adding jewelry, studded belts, and dyed designs to the regulation blouse, trousers, and tie. She’s especially adept at enchantments. While she loves showing up those goons in Cyclops House, she does have a tendency to act before thinking.
-    
-      
-    
-    ---
-    
-    **ABIGAIL ZHAO**
-    
-    High Concept: Enchantment Specialist of Hippogriff House
-    
-    Trouble: Cast Now, Ask Questions Later
-    
-    Other Aspects: I Hate Those Guys in  
-    Cyclops House; Sarah Has My Back;  
-    Dexter Fitzwilliam Is Going Down
-    
-    APPROACHES
-    
-    Careful: Mediocre (+0)
-    
-    Clever: Fair (+2)
-    
-    Flashy: Average (+1)
-    
-    Forceful: Fair (+2)
-    
-    Quick: Average (+1)
-    
-    Sneaky: Good (+3)
-    
-    STUNTS
-    
-    Teacher’s Favorite: Because I am a Teacher’s Favorite, once per session I may declare that a helpful teacher arrives in the scene. (May take two more stunts without reducing refresh!)
-    
-    STRESS **O** **O** **O**
-    
-    CONSEQUENCES
-    
-    Mild (2):
-    
-    Moderate (4):
-    
-    Severe (6):
-    
-    REFRESH: 3
-    
-    ## Bethesda Flushing, PhD
-    
-    Dr. Flushing is a fellow at the Institute for Gravitical and Electro-Mechanical Advancement (IGEMA), and is one of IGEMA’s lead test engineers and field agents. IGEMA is frequently in conflict with agents of various international organizations who seek to steal their technology, take over the world, or both. Gustaf von Stendahl, leader of a shadowy spy agency of uncertain affiliation, is frequently a thorn in her side. Dr. Flushing has bright red hair and is never without several gadgets, including her helicopter pack.
-    
-      
-    
-    ---
-    
-    BETHESDA FLUSHING
-    
-    High Concept: Chief Field Agent of IGEMA
-    
-    Trouble: I’ll Get You, von Stendahl!
-    
-    Other Aspects: My Inventions Almost Always Work. Almost.; My Grad Students Come Through, Just Not How I Expect Them To; I Trust Dr. Alemieda’s Genius
-    
-    APPROACHES
-    
-    Careful: Fair (+2)
-    
-    Clever: Good (+3)
-    
-    Flashy: Average (+1)
-    
-    Forceful: Fair (+2)
-    
-    Quick: Average (+1)
-    
-    Sneaky: Mediocre (+0)
-    
-    STUNTS
-    
-    Experimental Helo Pack: When I use my Experimental Helo Pack, I gain a +2 bonus to Quickly create an advantage or overcome an obstacle if flying would be both possible and helpful.
-    
-    Gadgeteer: Because I am a Gadgeteer, once per session I may declare that I have an especially useful device that lets me eliminate one situation aspect. (May take one more stunt without reducing refresh!)
-    
-    STRESS **O** **O** **O**
-    
-    CONSEQUENCES
-    
-    Mild (2):
-    
-    Moderate (4):
-    
-    Severe (6):
-    
-    REFRESH: 3
+Given all this, what’s the best way to keep track of all these zones? Write them down! Index cards are great for this, but you could easily use a dry-erase board or battle map. Write the zones down and arrange them in relative positions that make fictional sense. If they have special effects, write those down in the spaces you designate for the zones. Then, players can track their characters with tokens of some sort: dice, colored beads, figurines, or anything else you have on hand.

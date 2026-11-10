@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-01T23:31:22.585-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T13:33:40.445-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Most of this game's rules apply to everyone, but if you're the GM, there's a few additional ones you need to know about that cover your additional responsibilities.
@@ -69,7 +69,7 @@ The [[Rules/2 Character Creation#Advancement\|2 Character Creation#Advancement]]
 
 # Story Details
 The [[Rules/1 Core Rules#Declaring a Story Detail\|1 Core Rules#Declaring a Story Detail]] section of Core Rules outlines the guidance for when to allow the use of that option and when to veto it. Below, you'll find a more detailed extended example that didn't fit into what was supposed to be the go-to mid-session lookup document.
- > [!callout|bg-red c-plain no-icon ]+ EXAMPLE: PRINCE NAVIN OF BHOGURA
+ > [!example|bg-c-red]+ EXAMPLE: PRINCE NAVIN OF BHOGURA
 > Let's say an NPC merchant tells the players about their home, the far-away city-state of Bhogura, which is currently ruled by the tyrannical Prince Navin. Here are some details they could declare, and some that should be vetoed.
 > 
 > These details would all be allowed, since they don't contradict any established information, don't solve major problems, don't alter a major campaign element, and wouldn't break the campaign's premise:

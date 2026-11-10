@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-21T08:31:59.000-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/7-general-gm-guidance/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T13:33:39.545-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Welcome to the GM guide, make yourself at home! Grab some cocoa, pick your favorite chair, and get comfy.
@@ -99,7 +99,7 @@ Knowing when to commit to the bit and when to pivot is one of the harder parts o
 > [!note|s-t]+ Player Authorship Mechanics
 > If your game has a mechanic to allow players to inject details into the fiction that exist outside their character's actions, like Fate, Blades in the Dark, Fabula Ultima, the 2d20 system, and many others do, then respect those rules. The ones outlined in this game's [[Rules/1 Core Rules#Declaring a Story Detail\|1 Core Rules#Declaring a Story Detail]] option are about as permissive as I've seen in any game that still has a GM at all, but I don't know and can't account for every system on the market. Regardless, if the players are empowered to author parts of the world, then treat the things they author as established truth, just like you do for your own facts. 
 
-> [!callout|bg-c-red no-icon ]+ EXAMPLE: HOW TRUE IS TRUE?
+> [!example|bg-c-red]+ EXAMPLE: HOW TRUE IS TRUE?
 >The more established truth flows from a fact in your prep, the closer that fact itself comes to being fully established.
 >
 > Let's say that your prep notes contain the following facts:
@@ -142,7 +142,7 @@ A problem can be an active threat or a passive obstacle. This is where the major
 
 #TODO These options are deeply intertwined - within any steady state there are problems to be dealt with and opportunities to pursue; within any opportunity, there are problems that must be overcome and steady states that can be engaged and disrupted, within any problem, there are opportunities to apply leverage or find workarounds and steady states #FIX that are either causing, threatened by, or already being disrupted by the problem. Each one can exist at all levels of play, from moment-to-moment decision making through a single iteration of the loop to campaign-level situations and goals.
 
-> [!callout|bg-red c-plain no-icon ]+ EXAMPLE: THE MASQUERADE
+> [!example|bg-c-red]+ EXAMPLE: THE MASQUERADE
 > #TODO Example of how a masquerade ball is at once a steady state, opportunity, and problem, with multiple nested states and problems inside it. 
 
 I'll talk more about how and why to chain problems, opportunities, and steady states together on the fly  in ways that create strong narrative momentum when we get to [[Rules/7 General GM Guidance#What Follows the Result\|#What Follows the Result]] and [[Rules/7 General GM Guidance#The Golden Path\|#The Golden Path]] later in this chapter.
@@ -263,7 +263,7 @@ The boundary between "What Explains The Result" and "What Follows The Result" is
 ## Integration
 Now that you know what's changed at the end of the loop, it's time to put it all together and start the next cycle. It's important to re-center the narration on the key facts influencing the next decision, especially in complex or chaotic situations. If the change is subtle or the situation is relatively stable, it should be fairly easy for everyone to keep track of the scene state, so you don't need to belabor things that aren't obvious factors in the next decision. However, if there's a lot of moving parts in the scene, then it's best to quickly re-establish the current state of all those parts for any decision where they're relevant. 
 
-> [!callout|bg-red c-plain no-icon]+ EXAMPLE LOOP: NOMU RETURNS
+> [!example|bg-c-red]+ EXAMPLE LOOP: NOMU RETURNS
 > 1. Nomu is close to their assassination target, whose back is turned. The target is a skilled fighter, but off guard at the moment. 
 > 2. Nomu wants to kill the target...
 > 3. ...by sneaking up from behind and taking them out before they realize anything's wrong.
@@ -276,7 +276,7 @@ Now that you know what's changed at the end of the loop, it's time to put it all
 > 
 > 1. "Nomu, your target is now aware of you and fighting back. He's a big guy and he knows how to handle himself; even unarmed, if he lands a hit on you or grabs you, it could be bad. What do you do?"
 
-> [!callout|bg-red c-plain no-icon ]+ EXAMPLE: THE MUSEUM JOB
+> [!example|bg-c-red]+ EXAMPLE: THE MUSEUM JOB
 > 1.  The darkened museum looms over a thief as they stand before its staff entrance.
 > 2. The thief wants to get into the building...
 > 3. ...by picking the lock on the staff entrance door.
@@ -289,7 +289,7 @@ Now that you know what's changed at the end of the loop, it's time to put it all
 >    
 > 1. "There's no sign of the night watchman, yet, as you find yourself in a narrow hallway that immediately hits a T-intersection. Both sides lead into maze-like corridors dotted with office doors, but based on what you learned when you were casing this place, the right passage probably includes a door somewhere that leads to the Kirchner and Mucha exhibits in the public gallery. You don't know where the left goes. There's no sign of the night guards yet. What do you do?"
 
-> [!callout|bg-red c-plain no-icon ]+ EXAMPLE LOOP: IMPROVISED COMPLICATION
+> [!example|bg-c-red]+ EXAMPLE LOOP: IMPROVISED COMPLICATION
 > 1. A cyberpunk criminal team is in a narrow, winding alley wiith a kidnapped exec slung over one of their heavy's shoulders, the team's currently-bleeding-out face over the other, and corpo security in hot pursuit.
 > 2. The team wants to escape security...
 > 3. ...by running for their lives out of the alley and back to the van they parked nearby.
