@@ -1,5 +1,5 @@
 /*Document Style*/
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Space+Grotesk:wght@300..700&display=swap');;
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Russo+One&display=swap');
 
 /* ===========================================================
@@ -8,8 +8,8 @@
 
 /* CROSSBONE */
 :root {
-    --font-family-header: "Russo One";
-    --font-family-body: "Quantico";
+    --font-family-header: "Rubik";
+    --font-family-body: "Montserrat";
 
     --font-size-h1: 18pt;
     --font-size-h2: 15pt;
@@ -86,6 +86,7 @@ h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
     font-size: var(--font-size-h3) !important;
       font-family: var(--font-family-header) !important;
     text-transform: uppercase;
+    letter-spacing: 0.5px;
   };
 h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
     text-transform: uppercase;
