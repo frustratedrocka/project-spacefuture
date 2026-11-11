@@ -16,7 +16,7 @@
 > |Previous|Next|
 > |:---|---:|
 > |[[Session Notes/Episode 02\|Episode 02]]|[[Session Notes/Episode 04\|Episode 04]] |
-> |The Saboteur|\- |
+> |The Saboteur|Puree|
 >
 >## Present
 >> [!cards|4 collapse]
@@ -261,6 +261,6 @@ Off we rocket to save the colony, end of session
 >[[Session Notes/Scenarios/Into The Blender\|Into The Blender]]
 >
 >**Next**
->[[Session Notes/Episode 04\|Episode 04]] \- 
+>[[Session Notes/Episode 04\|Episode 04]] \- Puree
 
  

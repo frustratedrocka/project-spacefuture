@@ -39,7 +39,7 @@ A successful, impossible decapitation strike against the [[Database/Things/Fishb
 > | ![Admin/Attachments/Cossack_Custom_SQ.webp\|sban cover](/img/user/Admin/Attachments/Cossack_Custom_SQ.webp)   | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|Cossack]]**            |
 > | ![Admin/Attachments/DagDoll_SQ.webp\|sban cover](/img/user/Admin/Attachments/DagDoll_SQ.webp)          | **[[Database/Mobile Suits/ELS-00 Elegant Sky\|Elegant Sky]]**          |
 > | ![Admin/Attachments/GB4_Makhairos.webp\|sban cover](/img/user/Admin/Attachments/GB4_Makhairos.webp)       | **[[Database/Mobile Suits/EW-14 Gundam Makhairos\|Gundam Makhairos]]** |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/MEU-1H Seeker CQC\|Hyper Seeker]]**          |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|sban cover](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/MEU-1H Hyper Seeker CQC\|Hyper Seeker]]**    |
 > | ![Admin/Attachments/Theseus_SQ.webp\|sban cover](/img/user/Admin/Attachments/Theseus_SQ.webp)          | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                     |
 > | ![Admin/Attachments/RebelGruntSuit_SQ.webp\|sban cover](/img/user/Admin/Attachments/RebelGruntSuit_SQ.webp)   | **[[Database/Mobile Suits/AP-92 Rejunot\|Rejunot]]**                   |
 > 

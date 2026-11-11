@@ -37,12 +37,12 @@ The current mission is simple: Intercept excess food shipments and redirect them
 { .block-language-dataview}
 
 > [!cards|dataview collapse 4 img-tiny] PC MECHS
->  | Portrait                                                                  | Model                                                                       |
-> | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-> | ![Admin/Attachments/Cossack_Custom_SQ.webp\|Cossack_Custom_SQ.webp](/img/user/Admin/Attachments/Cossack_Custom_SQ.webp)     | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]** |
-> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                   | **[[Database/Mobile Suits/ELS-00 Elegant Sky\|ELS-00 Elegant Sky]]**     |
-> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                   | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                       |
-> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/MEU-1H Seeker CQC\|MEU-1H Seeker CQC]]**       |
+>  | Portrait                                                                  | Model                                                                             |
+> | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/Cossack_Custom_SQ.webp\|Cossack_Custom_SQ.webp](/img/user/Admin/Attachments/Cossack_Custom_SQ.webp)     | **[[Database/Mobile Suits/TF-8C Hoplite Custom\|TF-8C Hoplite Custom]]**       |
+> | ![Admin/Attachments/DagDoll_SQ.webp\|DagDoll_SQ.webp](/img/user/Admin/Attachments/DagDoll_SQ.webp)                   | **[[Database/Mobile Suits/ELS-00 Elegant Sky\|ELS-00 Elegant Sky]]**           |
+> | ![Admin/Attachments/Theseus_SQ.webp\|Theseus_SQ.webp](/img/user/Admin/Attachments/Theseus_SQ.webp)                   | **[[Database/Mobile Suits/Kerbstomp\|Kerbstomp]]**                             |
+> | ![Admin/Attachments/Hyper_Seeker_CQC_SQ.webp\|Hyper_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/Hyper_Seeker_CQC_SQ.webp) | **[[Database/Mobile Suits/MEU-1H Hyper Seeker CQC\|MEU-1H Hyper Seeker CQC]]** |
 > 
 { .block-language-dataview}
 
