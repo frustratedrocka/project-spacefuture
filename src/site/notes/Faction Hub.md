@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-15T03:05:22.717-04:00","dg-note-properties":{"tags":["tracker","index"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-11T05:16:45.018-05:00","dg-note-properties":{"tags":["tracker","index"]}}
 ---
 
 # Factions
@@ -144,6 +144,11 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/jovian-consortium/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+# 510
+
+</div>
 
 
 
@@ -429,6 +434,7 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 > | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 > | ![Admin/Attachments/Challenger_SQ.webp\|Challenger_SQ.webp](/img/user/Admin/Attachments/Challenger_SQ.webp)           | **[[Database/Mobile Suits/KUD-20 Telomane\|KUD-20 Telomane]]**             |
 > | ![Admin/Attachments/GB4_Seeker_SQ.webp\|GB4_Seeker_SQ.webp](/img/user/Admin/Attachments/GB4_Seeker_SQ.webp)           | **[[Database/Mobile Suits/MGU-20 Seeker\|MGU-20 Seeker]]**                 |
+> | ![Admin/Attachments/GB4_Seeker_CQC_SQ.webp\|GB4_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/GB4_Seeker_CQC_SQ.webp)   | **[[Database/Mobile Suits/MGU-23 Seeker CQC\|MGU-23 Seeker CQC]]**         |
 > | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp)                 | **[[Database/Mobile Suits/TF-8 Hoplite\|TF-8 Hoplite]]**                   |
 > | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/TF-8S Hoplite Striker\|TF-8S Hoplite Striker]]** |
 > 

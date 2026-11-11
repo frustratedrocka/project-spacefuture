@@ -16,6 +16,7 @@
 > | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 > | ![Admin/Attachments/Challenger_SQ.webp\|Challenger_SQ.webp](/img/user/Admin/Attachments/Challenger_SQ.webp)           | **[[Database/Mobile Suits/KUD-20 Telomane\|KUD-20 Telomane]]**             |
 > | ![Admin/Attachments/GB4_Seeker_SQ.webp\|GB4_Seeker_SQ.webp](/img/user/Admin/Attachments/GB4_Seeker_SQ.webp)           | **[[Database/Mobile Suits/MGU-20 Seeker\|MGU-20 Seeker]]**                 |
+> | ![Admin/Attachments/GB4_Seeker_CQC_SQ.webp\|GB4_Seeker_CQC_SQ.webp](/img/user/Admin/Attachments/GB4_Seeker_CQC_SQ.webp)   | **[[Database/Mobile Suits/MGU-23 Seeker CQC\|MGU-23 Seeker CQC]]**         |
 > | ![Admin/Attachments/Hoplite_SQ.webp\|Hoplite_SQ.webp](/img/user/Admin/Attachments/Hoplite_SQ.webp)                 | **[[Database/Mobile Suits/TF-8 Hoplite\|TF-8 Hoplite]]**                   |
 > | ![Admin/Attachments/Hoplite_Striker_SQ.webp\|Hoplite_Striker_SQ.webp](/img/user/Admin/Attachments/Hoplite_Striker_SQ.webp) | **[[Database/Mobile Suits/TF-8S Hoplite Striker\|TF-8S Hoplite Striker]]** |
 > 
