@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T15:00:29.230-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T18:52:18.956-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Most of this game's rules apply to everyone, but if you're the GM, there's a few additional ones you need to know about that cover your additional responsibilities.
@@ -41,22 +41,36 @@ This method also allows for representing a group of NPCs as a single mechanical 
 If a throwaway NPC turns out to be more relevant to the ongoing fiction than you expected, or if you find that you liked what you came up with and want to *make them* more relevant, take a minute to upgrade them to a Minor NPC as appropriate. If they become especially important down the line, consider upgrading them again to Major.
 
 ### Grunts
-#TODO from [[Rules/Fate SRD/Adversary Toolkit (UNEDITED SRD)\|Adversary Toolkit (UNEDITED SRD)]]
-Throwaway NPC + mech = grunt. These poor unglamorous rank-and-file troops are the backbone of most mech conflicts. You'll be using a lot of them over the course of your campaign. Depending on the desired tone of your game, you may want these to die in droves, or still require even a hardened ace to take them seriously. 
+Throwaway NPC + mech = grunt. These poor unglamorous rank-and-file troops are the backbone of most mech conflicts. You'll be using a lot of them over the course of your campaign. Depending on the desired tone of your game, you may want these to die in droves, or still require even a hardened ace to take them seriously. To make grunt mechs tougher, give them more Armor. 
+
+As a good default, if you want a grunt to be able to take more than a single hit, give them armor equal to their primary skill. So a Good (2) grunt whose best skill is Fight rolls 4 dice when they Fight and has 2 Armor. Grunts do not get consequence slots; if they take more harm than they can absorb, they're simply taken out.
 
 ## Minor NPCs
 NPCs who aren't expected to be major recurring characters, but are worth enough attention to have a name and some amount of actual definition. The process of statting out minor NPCs is similar to [[Rules/2 Character Creation#Lightning Round Character Discovery\|Lightning Round Character Creation]], in that you start with only a few critical pieces of information (one aspect, best skill, best approach) and fill in more of the NPC's details as you discover who they are through play, but with two key differences:
 
 1. Lightning Round for players sets their initial best skill and approach at 3, while for NPCs, that number can be higher or lower as best reflects their role and the needs of the fiction.
-2. Minor NPCs get up to 4 strain boxes (if they get any at all; 0 boxes is a valid option), with no consequence slots. If they take more harm than they can absorb, they're simply taken out. Minor NPCs aren't meant to stick around - but if they somehow do, it's worth considering whether to promote them to Major.
+2. Minor NPCs get up to 6 strain boxes (if they get any at all; 0 boxes is a valid option), with no consequence slots. If they take more harm than they can absorb, they're simply taken out. Minor NPCs aren't meant to stick around - but if they somehow do, it's worth considering whether to promote them to Major.
 
 ### Specialists
-When a minor NPC needs a combat stunt in a hurry, choose **ONE** of the following. These are generally too broad for PCs, but they're more acceptable as templates for minor NPCs because they aren't expected to be around for long. If a minor NPC makes it through multiple conflicts and gets promoted, consider rewriting 
-- **UNSTOPPABLE** +1 when you attack Quickly, Boldly, or Forcefully with your best skill
-- **IMMOVABLE** +1 when you defend Quickly, Forcefully, or Boldly with your best skill
-- **AOE** Once per session, you can attack everyone in a zone with your best skill
+NPC pilots who aren't important enough to count as aces, but are skilled enough to distinguish themselves on the battlefield. 
+
+As with grunts, a good rule of thumb is to assign specialists base strain and/or armor equal to their best skill or approach, whichever is higher. If you want them to be more durable, you can add ranks in Persevere or defensive stunts like Immovable below.
+
+When a specialist needs a combat stunt in a hurry, use these stunt templates to give them a tactical shape. These are generally too broad for PCs, but they're more acceptable for quick NPCs because they aren't expected to be around for long. If a minor NPC makes it through multiple conflicts and gets promoted, consider rewriting their stunts to be more specific to how that character fights.
+
+- **UNSTOPPABLE** When you attack with your best skill and succeed, increase your harm dealt by 1. 
+- **IMMOVABLE** When you defend with your best skill and fail. decrease your harm dealt by 1, to a minimum of 0. 
+- **FLEXIBLE** Twice per session, you may use your best skill in place of any other skilll
+- **INDISCRIMINATE** Once per session, you can attack everyone in a zone with your best skill.
+
+Specialist pilots come in two subtypes: **HITTERS** and **THREATS**.
+
+**THREATS** exist to draw the PCs' attention and soak up punishment. Their goal is to divide the PCs' focus by getting in the PCs faces and #TODO 
+#TODO hitter stunts
+
+**HITTERS** #TODO
 - **SNIPER** +1 when you Shoot Cleverly, Subtly, or Carefully and invoke an aspect representing careful aim
-- **AMBUSHER** +1 when you Fight Cleverly, Subtly, or Carefully and invoke an aspect representing stealth or subterfuge
+- **BUSHWHACKER** +1 when you Fight Cleverly, Subtly, or Carefully and invoke an aspect representing stealth or subterfuge
 
 ## Major NPCs 
 NPCs who become especially important to the story, typically by showing up repeatedly or being at the center of something critical to the PC's goals, should be statted out just like a PC. Sometimes, they should have *better* stats than your PCs - if someone's meant to be a boss-level threat or some other kind of major obstacle, give them higher skill and approach ranks, more stunts, and whatever else it takes to make them appropriately dangerous. 
@@ -68,7 +82,13 @@ Examples: "*The Ultimate Opponent We Must Overcome,*" "*Determined To Bring Us T
 A word of caution: friendly NPCs should never outshine the PCs. This isn't to say they can't be stronger, smarter, more influential or otherwise more important *in the world*, but they should never be more important *to the story* that emerges at the table - don't let them take over situations and solve the PCs' problems for them. Your players are at your table, at least in part, because they want to be the ones to solve those problems and make those choices; letting an NPC do it for them cheats them out of that fun. Remember, the PCs are the stars of the show and the people the game is actually about; an NPC, no matter how big a deal they are, is ultimately part of the supporting cast.
 
 ### Aces
-#TODO from [[Rules/Fate SRD/Adversary Toolkit (UNEDITED SRD)\|Adversary Toolkit (UNEDITED SRD)]]
+#TODO from [[Rules/Fate SRD/Adversary Toolkit (UNEDITED SRD)\|Adversary Toolkit (UNEDITED SRD)]] and Fabula Ultima's villain rules
+
+Aces get **TWO ACTIONS PER ROUND** in conflicts, as long as those actions use **DIFFERENT APPROACHES**. 
+
+- **REINFORCEMENTS** Once per session, you can draw on your contacts to bring in reinforcements: either one Specialist with their best skill equal to your Network, or a number of Good (2) grunts equal to your Network. When you use this stunt, you can spend one fate point to gain +2 to Network, to a maximum of Great (4), for the purpose of bringing in these reinforcements.
+- **ESCAPE PLAN** Once per campaign, if you would get taken out, you can spend a fate point to concede instead.
+- **MOOK SHIELD** Whenever you are attacked, you can spend a fate point to divert the attack to nearby grunts. 
 
 
 ## Weird "NPCs"
