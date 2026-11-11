@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/kud-20-telomane/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-10T15:39:51.162-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Telomane"],"Portrait":"[[Admin/Attachments/Challenger_SQ.webp]]","MECH_Concept":"Hot-Rodded Pit Fighter","MECH_Trouble":null,"MECH_Gear":["Dual Katanas","`REDACTED`"],"MECH_Stunts":["`REDACTED`"],"Faction":["[[Database/Factions/Independent]]","`REDACTED`"],"DEV_From":"`REDACTED`","cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/kud-20-telomane/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-10T23:36:43.251-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Telomane"],"Portrait":"[[Admin/Attachments/Challenger_SQ.webp]]","MECH_Concept":"Hot-Rodded Pit Fighter","MECH_Trouble":null,"MECH_Gear":["Dual Katanas","`REDACTED`"],"MECH_Stunts":["**ENHANCED BOOSTERS** +1 when you Move Quickly to launch yourself out of the way of incoming attacks, +2 if this involves crashing into or through something valuable or difficult to replace."],"Faction":["[[Database/Factions/Independent]]","%% %%"],"DEV_From":"`REDACTED`","cl":102}}
 ---
 
 # 
@@ -13,7 +13,7 @@
 > 
 >
 >> [!blank|flex embed clean n-th] VITALS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a data-tooltip-position="top" aria-label="Database/Factions/Independent.md" data-href="Database/Factions/Independent" href="Database/Factions/Independent.md" class="internal-link" target="_blank" rel="noopener nofollow">Independent</a><br><code>REDACTED</code></span></td></tr><tr><td><span><strong>DEVELOPED FROM</strong><br><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a data-tooltip-position="top" aria-label="Database/Factions/Independent.md" data-href="Database/Factions/Independent" href="Database/Factions/Independent.md" class="internal-link" target="_blank" rel="noopener nofollow">Independent</a></span></td></tr><tr><td><span><strong>KNOWN PILOTS</strong><br><a data-tooltip-position="top" aria-label="Database/People/Carlo Estashee.md" data-href="Database/People/Carlo Estashee" href="Database/People/Carlo Estashee.md" class="internal-link" target="_blank" rel="noopener nofollow">Carlo Estashee</a></span></td></tr><tr><td><span><strong>DEVELOPED FROM</strong><br><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Hot-Rodded Pit Fighter</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -22,7 +22,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Dual Katanas</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH STUNTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>ENHANCED BOOSTERS</strong> +1 when you Move Quickly to launch yourself out of the way of incoming attacks, +2 if this involves crashing into or through something valuable or difficult to replace.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Notes
 
