@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["tracker","gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T23:18:54.176-05:00","dg-note-properties":{"tags":["tracker","gardenEntry"],"SESH_Next":"[[Session Notes/Episode 05]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["tracker","gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T23:19:54.036-05:00","dg-note-properties":{"tags":["tracker","gardenEntry"],"SESH_Next":"[[Session Notes/Episode 05]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 >[!infobox|wm-sm wikipedia]
@@ -33,7 +33,7 @@
 ## Where Are You
 The primary approach lane to [[Database/Places/Colonies/Hygiea\|Hygiea]]
 
-**[Hygiea]** - []. Control: , []
+**[[Database/Places/Colonies/Hygiea\|Hygiea]]** - Remote Industrial Colony Throwing In With Rebels. Control: [[Database/Factions/Rebels\|Rebels]], Safe Harbor
 
 ## What Are You Doing
 Defending the colony against an incoming raid by the mercenary company [[Database/Things/Blender's Edge\|Blender's Edge]], in exchange for their help repairing the [[Database/Things/Fishbone\|Fishbone]].
@@ -49,7 +49,7 @@ Defending the colony against an incoming raid by the mercenary company [[Databas
 | [[Session Notes/Episode 03\|03]] | [[Database/Things/Blender's Edge\|Blender's Edge]] attacks while [[Player Characters/Menodora Thaliana\|Mena]]'s first tournament fight is still underway; [[Promoter\|Promoter]] OKs a postponement while both fighters "please go save our asses"                                                  |
 | [[Session Notes/Episode 04\|04]] | [[Database/Things/Blender's Edge\|Blender's Edge]] attack on [[Database/Places/Colonies/Hygiea\|Hygiea]] defeated. [[Database/People/Beaujolais Rigg\|Beaujolais Rigg]] driven back, 2 pilots ejected before explosion, 1 [[Database/Mobile Suits/TF-8 Hoplite\|TF-8 Hoplite]] disabled, 1 KIA                                                                                 |
 | [[Session Notes/Episode 04\|04]] | [[Database/Things/Blender's Edge\|Blender's Edge]] defeated before [[Database/People/Carlo Estashee\|Carlo Estashee]] and the [[Database/Mobile Suits/KUD-20 Telomane\|KUD-20 Telomane]] could breach [[Database/Places/Colonies/Hygiea\|Hygiea]] proper, but not before activation in the port::: #THE_FUSE                                                                     |
-| [[Session Notes/Episode 04\|04]] | [[Database/People/Carlo Estashee\|Carlo Estashee]] pins [[Player Characters/Vergen Koni\|Verg]] to                                                                                                                                                                                         |
+| [[Session Notes/Episode 04\|04]] | [[Database/People/Carlo Estashee\|Carlo Estashee]] pins [[Player Characters/Vergen Koni\|Verg]] in the [[Database/Mobile Suits/MEU-1H Hyper Seeker CQC\|Hyper Seeker]] to the side of an elevator shaft; Verg retaliates by grappling the [[Database/Mobile Suits/KUD-20 Telomane\|Telomane]] and turning it into a 20 meter piñata    |
 | [[Session Notes/Episode 04\|04]] | [[Player Characters/Lane Gable\|Lane]] and [[Player Characters/Vergen Koni\|Verg]] to [[Player Characters/August Grier\|Auggie]] after heavy damage: "Don't be afraid to run and sit this one out, you've taken a lot of damage." Auggie: "I don't run from fights. Never have, never will."   |
 
 { .block-language-dataview}
