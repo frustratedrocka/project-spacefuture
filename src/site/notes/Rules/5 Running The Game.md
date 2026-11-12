@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T18:52:18.000-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/5-running-the-game/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T18:52:18.956-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 Most of this game's rules apply to everyone, but if you're the GM, there's a few additional ones you need to know about that cover your additional responsibilities.

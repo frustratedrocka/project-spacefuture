@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/normal-suit/","tags":["lore"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-26T04:36:27.000-04:00","dg-note-properties":{"tags":["lore"]}}
+{"dg-publish":true,"permalink":"/database/glossary/normal-suit/","tags":["lore"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-26T04:36:27.830-04:00","dg-note-properties":{"tags":["lore"]}}
 ---
 
 A standard human-scale space suit, for when you need protection from hard vacuum but don't feel like getting into [[Database/Glossary/Mobile Suit\|a 20-meter-tall engine of destruction]].

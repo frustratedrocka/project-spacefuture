@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/glossary/lift-grip/","tags":["lore"],"noteIcon":"","updated":"2026-10-25T12:11:08.927-04:00","dg-note-properties":{"tags":["lore"]}}
+{"dg-publish":true,"permalink":"/database/glossary/lift-grip/","tags":["lore"],"noteIcon":"","updated":"2026-10-26T09:38:57.067-04:00","dg-note-properties":{"tags":["lore"]}}
 ---
 
 Standard equipment for anyone and everyone on a [[Database/Glossary/Ship\|Ship]], military or civilian. Hallways are rotationally symmetrical and include a pair of linear rails on all walls / floors / ceilings. Lower-right wall is always forward, upper-right is always backwards, so you can easily figure out which rail goes which way relative to whichever "up" currently applies to you while floating.  
