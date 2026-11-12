@@ -147,7 +147,9 @@ p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
 body th, .markdown-rendered .table-view-table > thead > tr > th {
   font-family: var(--font-family-header) !important;
   font-size: var(--font-size-body);
+  font-weight: var(--font-weight-header);
   text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
   background-color: var(--page-bg-color-dark) !important;
   color: var(--font-color-h3) !important;
   border-bottom-style: solid !important; 
@@ -175,6 +177,10 @@ body {
 /* Infoboxes */
 .callout[data-callout~="infobox"] {
     background-color: var(--page-bg-color-light) !important;
+}
+
+.callout[data-callout~=infobox] h1 {
+  font-size: 15pt !important;
 }
 
 /* Wikipedia-style infoboxes stay on the normal page background. */
