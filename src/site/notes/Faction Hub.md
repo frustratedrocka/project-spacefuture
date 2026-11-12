@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-11T05:16:45.000-05:00","dg-note-properties":{"tags":["tracker","index"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-11T05:16:45.018-05:00","dg-note-properties":{"tags":["tracker","index"]}}
 ---
 
 # Factions

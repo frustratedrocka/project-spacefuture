@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-27T22:11:29.000-04:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":"[[Session Notes/Scenarios/Into The Blender]]","aliases":["Mission 01"]}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/rats-in-the-cellar/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-27T22:11:29.286-04:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":"[[Session Notes/Scenarios/Pregame Setup]]","SCEN_Next":"[[Session Notes/Scenarios/Into The Blender]]","aliases":["Mission 01"]}}
 ---
 
 ## Summary

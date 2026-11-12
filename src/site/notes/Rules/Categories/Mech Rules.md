@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/categories/mech-rules/","tags":["rules","category"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:47:32.000-04:00","dg-note-properties":{"tags":["rules","category"]}}
+{"dg-publish":true,"permalink":"/rules/categories/mech-rules/","tags":["rules","category"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-06-27T10:47:32.606-04:00","dg-note-properties":{"tags":["rules","category"]}}
 ---
 
 # [[Rules/1 Core Rules\|1 Core Rules]]
