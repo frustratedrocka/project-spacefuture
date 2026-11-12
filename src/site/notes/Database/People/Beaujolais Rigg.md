@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/beaujolais-rigg/","tags":["npc","character","entity","pilot","minor"],"noteIcon":"","updated":"2026-11-10T23:35:29.825-05:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: ","4 Dsbl ::: ","6 Doom ::: "],"MECH_Gear":["Twin Missile Launchers","Aberoa Assault Shotgun"],"tags":["npc","character","entity","pilot","minor"],"aliases":["Rigg"],"Perf_Notes":["Frustratingly easygoing"],"Portrait":"[[Admin/Attachments/Belfangan_Clouseau.webp]]","Faction":["[[Database/Factions/Independent]]"],"Rank":null,"Origin":null,"Assoc":["[[Database/Things/Blender's Edge]]"],"Concept":"Mercenary Leader","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["`REDACTED`"],"Stunts":["**UNSTOPPABLE** +1 when you attack Quickly, Boldly, or Forcefully with your best skill","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":["[[Database/Mobile Suits/TF-8S Hoplite Striker|Hoplite Striker]]"],"MECH_Secret":false,"Armor":4,"MECH_Relationship":"How I Earn A Living","Skills":["Acquire 2","Fight 0","Interface 0","Know 1","Lead 2","Move 1","Network 1","Notice 1","Operate 0","Persevere 2","Shoot 3","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 1","Boldly 2","Forcefully 3","Cleverly 2","Subtly 1","Carefully 1"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
+{"dg-publish":true,"permalink":"/database/people/beaujolais-rigg/","tags":["npc","character","entity","pilot","minor"],"noteIcon":"","updated":"2026-11-12T13:03:23.047-05:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":0,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: ","2 Dmg ::: Backpack thrusters misfiring","4 Dsbl ::: Cockpit caved in; front monitor shattered","6 Doom ::: "],"MECH_Gear":["~~Twin Missile Launchers~~","Aberoa Assault Shotgun"],"tags":["npc","character","entity","pilot","minor"],"aliases":["Rigg"],"Perf_Notes":["Frustratingly easygoing"],"Portrait":"[[Admin/Attachments/Belfangan_Clouseau.webp]]","Faction":["[[Database/Factions/Independent]]"],"Rank":null,"Origin":null,"Assoc":["[[Database/Things/Blender's Edge]]"],"Concept":"Mercenary Leader","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["`REDACTED`"],"Stunts":["**UNSTOPPABLE** +1 when you attack Quickly, Boldly, or Forcefully with your best skill","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":["[[Database/Mobile Suits/TF-8S Hoplite Striker|Hoplite Striker]]"],"MECH_Secret":false,"Armor":4,"MECH_Relationship":"How I Earn A Living","Skills":["Acquire 2","Fight 0","Interface 0","Know 1","Lead 2","Move 1","Network 1","Notice 1","Operate 0","Persevere 2","Shoot 3","Sway 0","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 1","Boldly 2","Forcefully 3","Cleverly 2","Subtly 1","Carefully 1"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
 ---
 
 # 
@@ -32,8 +32,10 @@
 >> | **ARMOR**|`REDACTED`|
 > 
 >> [!blank|clean embed tbl-u-1] BREAKDOWN
->>  | Harm | Breakdown |
->> | ---- | --------- |
+>>  | Harm   | Breakdown                                 |
+>> | ------ | ----------------------------------------- |
+>> | 2 Dmg  | Backpack thrusters misfiring              |
+>> | 4 Dsbl | Cockpit caved in; front monitor shattered |
 >> 
 { .block-language-dataview}
 
@@ -48,7 +50,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Heavy Assault Line Mech</span></td></tr><tr><td><span>Lacks Fine Control</span></td></tr><tr><td><span>How I Earn A Living</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] GEAR ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Twin Missile Launchers</span></td></tr><tr><td><span>Aberoa Assault Shotgun</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><del>Twin Missile Launchers</del></span></td></tr><tr><td><span>Aberoa Assault Shotgun</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 >[!blank|static wfull] FORCE LINE BREAK WHERE NO MECH
 

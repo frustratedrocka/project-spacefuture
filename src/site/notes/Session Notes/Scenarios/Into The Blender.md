@@ -17,7 +17,7 @@ The [[Database/Things/Fishbone\|Fishbone]] limps to the industrial colony of [[D
 >  | Portrait                                                                              | Character                                                   |
 > | ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 > | ![Admin/Attachments/Saul_Tigh.webp\|sban cover](/img/user/Admin/Attachments/Saul_Tigh.webp)                                     | **[[Database/People/Artel Ward\|Artel Ward]]**           |
-> | \-                                                                                    | **[[Database/People/Beaujolais Rigg\|Beaujolais Rigg]]** |
+> | ![Admin/Attachments/Belfangan_Clouseau.webp\|sban cover](/img/user/Admin/Attachments/Belfangan_Clouseau.webp)                            | **[[Database/People/Beaujolais Rigg\|Beaujolais Rigg]]** |
 > | ![Admin/Attachments/Carl_Matsubara_SQ.webp\|sban cover](/img/user/Admin/Attachments/Carl_Matsubara_SQ.webp)                             | **[[Database/People/Carlo Estashee\|Carlo Estashee]]**   |
 > | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                              | **[[Database/People/Fibria Wobik\|Fibria Wobik]]**       |
 > | ![Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp\|sban cover](/img/user/Admin/Attachments/naomi-nagata-the-expanse-character-1682599804.webp) | **[[Database/People/Gen Bashaba\|Gen Bashaba]]**         |
