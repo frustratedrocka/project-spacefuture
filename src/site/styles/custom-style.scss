@@ -88,21 +88,24 @@ body {
     letter-spacing: 0.5px;
     color: var(--font-color-h1) !important;
     font-size: var(--font-size-h1) !important;
-
+    text-transform: uppercase !important;
   };
 h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
     letter-spacing: 0.5px;
     color: var(--font-color-h2) !important;
     font-size: var(--font-size-h2) !important;
+    text-transform: uppercase !important;
   };
 h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
     color: var(--font-color-h3) !important;
     font-size: var(--font-size-h3) !important;
     letter-spacing: 0.5px;
+    text-transform: uppercase !important;
   };
 h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
     color: var(--font-color-h1) !important;
     font-size: var(--font-size-body) !important;
+    text-transform: uppercase !important;
   };
 p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
     font-size: var(--font-size-body);
