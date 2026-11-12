@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/8-zero-sum-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T14:43:47.244-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/8-zero-sum-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T14:43:47.000-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 

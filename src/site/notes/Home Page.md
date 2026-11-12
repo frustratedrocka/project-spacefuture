@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["tracker","gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T23:19:54.036-05:00","dg-note-properties":{"tags":["tracker","gardenEntry"],"SESH_Next":"[[Session Notes/Episode 05]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["tracker","gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T23:19:54.000-05:00","dg-note-properties":{"tags":["tracker","gardenEntry"],"SESH_Next":"[[Session Notes/Episode 05]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 >[!infobox|wm-sm wikipedia]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emergent-century-timeline/","tags":["lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-26T09:38:05.383-04:00","dg-note-properties":{"tags":["lore"]}}
+{"dg-publish":true,"permalink":"/emergent-century-timeline/","tags":["lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-26T09:38:05.000-04:00","dg-note-properties":{"tags":["lore"]}}
 ---
 
 

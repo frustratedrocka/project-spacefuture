@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-23-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-11T05:16:02.711-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker CQC"],"Portrait":"[[Admin/Attachments/GB4_Seeker_CQC_SQ.webp]]","MECH_Concept":"Martian Ground War Era Fast-Attack Suit","MECH_Trouble":"Weak Armor","MECH_Gear":["Bastard Sword","Composite Pile Shield"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Independent]]"],"DEV_From":["[[Database/Mobile Suits/MGU-20 Seeker]]"],"cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-23-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-11T05:16:02.000-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker CQC"],"Portrait":"[[Admin/Attachments/GB4_Seeker_CQC_SQ.webp]]","MECH_Concept":"Martian Ground War Era Fast-Attack Suit","MECH_Trouble":"Weak Armor","MECH_Gear":["Bastard Sword","Composite Pile Shield"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Independent]]"],"DEV_From":["[[Database/Mobile Suits/MGU-20 Seeker]]"],"cl":102}}
 ---
 
 # 

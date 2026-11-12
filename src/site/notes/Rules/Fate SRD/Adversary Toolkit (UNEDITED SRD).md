@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/fate-srd/adversary-toolkit-unedited-srd/","tags":["rules","SRD"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T14:04:12.611-05:00","dg-note-properties":{"tags":["rules","SRD"]}}
+{"dg-publish":true,"permalink":"/rules/fate-srd/adversary-toolkit-unedited-srd/","tags":["rules","SRD"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-10T14:04:12.000-05:00","dg-note-properties":{"tags":["rules","SRD"]}}
 ---
 
 # Fate Adversary Toolkit SRD

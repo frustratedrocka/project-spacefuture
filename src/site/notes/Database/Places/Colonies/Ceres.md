@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-15T16:01:36.358-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"Home / Headquarters","Faction_Presence":null,"Portrait":"[[Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp]]","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null],"cl":102}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-15T16:01:36.000-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"Home / Headquarters","Faction_Presence":null,"Portrait":"[[Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp]]","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null],"cl":102}}
 ---
 
 # 

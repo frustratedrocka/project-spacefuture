@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/hygiea/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-27T22:11:56.387-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Safe Harbor","Faction_Presence":["[[Database/Factions/Apsis]]","[[Database/Factions/Republic Of Mars|ROM]]"],"Portrait":null,"Concept":"Remote Industrial Colony Throwing In With Rebels","Trouble":"Frequent [[Mercenary]] Raids","Aspects":["`REDACTED`","Typical Colony Population, Less-Than-Typical Space","With You, But Still Needs [[Apsis]] Shipments"],"cl":102}}
+{"dg-publish":true,"permalink":"/database/places/colonies/hygiea/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-27T22:11:56.000-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Safe Harbor","Faction_Presence":["[[Database/Factions/Apsis]]","[[Database/Factions/Republic Of Mars|ROM]]"],"Portrait":null,"Concept":"Remote Industrial Colony Throwing In With Rebels","Trouble":"Frequent [[Mercenary]] Raids","Aspects":["`REDACTED`","Typical Colony Population, Less-Than-Typical Space","With You, But Still Needs [[Apsis]] Shipments"],"cl":102}}
 ---
 
 # 
