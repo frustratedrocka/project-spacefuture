@@ -78,7 +78,7 @@
 .markdown-rendered :is(h1, h2, h3, h4, h5, h6) a {
     font-family: inherit !important;
     font-size: inherit !important;
-    font-weight: var(--font-weight-header) !important;
+    font-weight: inherit !important;
     letter-spacing: inherit !important;
     text-transform: uppercase !important;
 }
@@ -87,6 +87,7 @@ body {
   h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1{
     font-family: var(--font-family-header) !important;
     letter-spacing: 0.5px !important;
+    font-weight: var(--font-weight-header) !important;
     text-transform: uppercase !important;
     color: var(--font-color-h1) !important;
     font-size: var(--font-size-h1) !important;
@@ -94,6 +95,7 @@ body {
 h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
     font-family: var(--font-family-header)!important;
     letter-spacing: 0.5px !important;
+    font-weight: var(--font-weight-header) !important;
     text-transform: uppercase !important;
     color: var(--font-color-h2) !important;
     font-size: var(--font-size-h2) !important;
@@ -101,6 +103,7 @@ h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
 h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
     font-family: var(--font-family-header);
     letter-spacing: 0.5px;
+    font-weight: var(--font-weight-header) !important;
     text-transform: uppercase !important;
     color: var(--font-color-h3) !important;
     font-size: var(--font-size-h3) !important;
@@ -108,6 +111,7 @@ h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
 h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
     font-family: var(--font-family-header) !important;
     letter-spacing: 0.5px !important;
+    font-weight: var(--font-weight-header) !important;
     text-transform: uppercase !important;
     color: var(--font-color-h1) !important;
   };
