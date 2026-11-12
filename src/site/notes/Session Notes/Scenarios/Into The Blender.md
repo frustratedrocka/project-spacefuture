@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/scenarios/into-the-blender/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-11T05:15:29.009-05:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":[["Rats In The Cellar"]],"SCEN_Next":null}}
+{"dg-publish":true,"permalink":"/session-notes/scenarios/into-the-blender/","tags":["index","mission","tracker"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-11T05:15:29.000-05:00","dg-note-properties":{"tags":["index","mission","tracker"],"SCEN_Prev":[["Rats In The Cellar"]],"SCEN_Next":null}}
 ---
 
 ## Summary
