@@ -152,6 +152,8 @@ body th, .markdown-rendered .table-view-table > thead > tr > th {
   border-bottom-style: solid !important; 
   border-bottom-width: var(--th-border-size) !important;
   border-bottom-color: var(--font-color-h3) !important;
+  padding-left: 4px !important;
+  padding-right: 4px !important;
 }
 
 table td {
