@@ -9,24 +9,28 @@
 /* CROSSBONE */
 :root {
     --font-family-header: "Rubik";
-    --font-family-body: "Montserrat";
+    --font-family-body: "Space Grotesk";
 
     --font-size-h1: 18pt;
     --font-size-h2: 15pt;
     --font-size-h3: 12pt;
     --font-size-body: 11pt;
+    --font-weight-body: 400;
 
     --font-color-h1: #c94033;
     --font-color-h2: #f8982f;
     --font-color-h3: #f2c049;
     --font-color-body: #e1e2e3;
     --font-color-link: #749cff;
+    --font-weight-header: 700;
 
     --page-bg-color-default: #161620;
     --page-bg-color-dark: #0d0d13;
     --page-bg-color-light: #303046;
 
     --th-border-size: 0px;
+    --content-width: 800px;
+    --content-margin: 90vw;
 }
 
 /* MONOKAI --UNUSED
@@ -66,32 +70,38 @@
 /* ================================
    TEXT, COLOR, & THEME ADJUSTMENTS
    ================================ */
+.content{
+  max-width:800px;
+  margin-left: max(var(--dg-filetree-min-width) + var(--dg-filetree-gap),min((90vw - var(--dg-content-max-width))/2,100vw - var(--dg-content-max-width) - var(--dg-sidebar-max-width) - var(--dg-sidebar-gap) - 20px))
+}
+
+.markdown-rendered :is(h1, h2, h3, h4, h5, h6) a {
+    font-family: var(--font-family-header) !important;
+    font-size: inherit !important;
+    font-weight: var(--font-weight-header) !important;
+    letter-spacing: inherit !important;
+    text-transform: uppercase !important;
+}
 
 body {
   h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1{
-    text-transform: uppercase;
     letter-spacing: 0.5px;
-      color: var(--font-color-h1) !important;
-      font-family: var(--font-family-header) !important;
+    color: var(--font-color-h1) !important;
+    font-size: var(--font-size-h1) !important;
+
   };
 h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
-    text-transform: uppercase;    
     letter-spacing: 0.5px;
     color: var(--font-color-h2) !important;
     font-size: var(--font-size-h2) !important;
-      font-family: var(--font-family-header) !important;
   };
 h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
     color: var(--font-color-h3) !important;
     font-size: var(--font-size-h3) !important;
-      font-family: var(--font-family-header) !important;
-    text-transform: uppercase;
     letter-spacing: 0.5px;
   };
 h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
-    text-transform: uppercase;
-      color: var(--font-color-h1) !important;
-      font-family: var(--font-family-header) !important;
+    color: var(--font-color-h1) !important;
     font-size: var(--font-size-body) !important;
   };
 p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {

@@ -1,0 +1,1481 @@
+/*Document Style*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Space+Grotesk:wght@300..700&display=swap');;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Russo+One&display=swap');
+
+/* ===========================================================
+   HUMAN-FUCKUPABLE THEME / STYLE / GRAPHIC SETTINGS
+   =========================================================== */
+
+/* CROSSBONE */
+:root {
+    --font-family-header: "Rubik";
+    --font-family-body: "Space Grotesk";
+
+    --font-size-h1: 18pt;
+    --font-size-h2: 15pt;
+    --font-size-h3: 12pt;
+    --font-size-body: 11pt;
+
+    --font-color-h1: #c94033;
+    --font-color-h2: #f8982f;
+    --font-color-h3: #f2c049;
+    --font-color-body: #e1e2e3;
+    --font-color-link: #749cff;
+
+    --page-bg-color-default: #161620;
+    --page-bg-color-dark: #0d0d13;
+    --page-bg-color-light: #303046;
+
+    --th-border-size: 0px;
+}
+
+/* MONOKAI --UNUSED
+:root {
+    --font-family-header: "Russo One";
+    --font-family-body: "Quantico";
+
+    --font-size-h1: 18pt;
+    --font-size-h2: 15pt;
+    --font-size-h3: 12pt;
+    --font-size-body: 11pt;
+
+    --font-color-body: #e2e3e4;
+    --font-color-h1: #ff6188;
+    --font-color-h2: #ffd966;
+    --font-color-h3: #fc9a4f;
+    --font-color-link: #78dde8;
+
+    --page-bg-color-default: #2c292e;
+    --page-bg-color-dark: #1a181b;
+    --page-bg-color-light: #1d1c21;
+}
+---*/
+/*
+
+ ███████████ █████   █████ ██████████ ██████   ██████ ██████████
+░█░░░███░░░█░░███   ░░███ ░░███░░░░░█░░██████ ██████ ░░███░░░░░█
+░   ░███  ░  ░███    ░███  ░███  █ ░  ░███░█████░███  ░███  █ ░ 
+    ░███     ░███████████  ░██████    ░███░░███ ░███  ░██████   
+    ░███     ░███░░░░░███  ░███░░█    ░███ ░░░  ░███  ░███░░█   
+    ░███     ░███    ░███  ░███ ░   █ ░███      ░███  ░███ ░   █
+    █████    █████   █████ ██████████ █████     █████ ██████████
+   ░░░░░    ░░░░░   ░░░░░ ░░░░░░░░░░ ░░░░░     ░░░░░ ░░░░░░░░░░ 
+                                                                                                                           
+                                                                */
+
+/* ================================
+   TEXT, COLOR, & THEME ADJUSTMENTS
+   ================================ */
+
+body {
+  h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1{
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+      color: var(--font-color-h1) !important;
+      font-family: var(--font-family-header) !important;
+  };
+h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
+    text-transform: uppercase;    
+    letter-spacing: 0.5px;
+    color: var(--font-color-h2) !important;
+    font-size: var(--font-size-h2) !important;
+      font-family: var(--font-family-header) !important;
+  };
+h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
+    color: var(--font-color-h3) !important;
+    font-size: var(--font-size-h3) !important;
+      font-family: var(--font-family-header) !important;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  };
+h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
+    text-transform: uppercase;
+      color: var(--font-color-h1) !important;
+      font-family: var(--font-family-header) !important;
+    font-size: var(--font-size-body) !important;
+  };
+p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
+    font-size: var(--font-size-body);
+    font-family: var(--font-family-body) !important;
+    color: var(--font-color-body) !important;
+  };
+.callout-title-inner{
+      font-family: var(--font-family-header);
+      text-transform:uppercase;
+    color: var(--font-color-body) !important;
+  };
+.internal-link:not(.is-unresolved), .external-link, .filename, .toc-active{
+    color: var(--font-color-link) !important;
+  };
+  .obsidian-bases-single-view-name, .obsidian-base-table, .obsidian-base-table-wrapper, .obsidian-base-table.tbody, .obsidian-base-empty, .obsidian-bases-result-count, .obsidian-bases-toolbar, .obsidian-base-table td {
+  font-size: var(--font-size-body) !important;
+  };
+.markdown-embed {
+  background-color:var(--page-bg-color-default);
+    }
+}
+.filename, .foldername {
+  font-family:var(--font-family-body) !important;
+}
+
+.markdown-rendered table {
+    margin-block-start: 0 !important;
+    margin-top: 0 !important;
+}
+
+body th, .markdown-rendered .table-view-table > thead > tr > th {
+  font-family: var(--font-family-header) !important;
+  font-size: var(--font-size-body);
+  text-transform: uppercase !important;
+  background-color: var(--page-bg-color-dark) !important;
+  color: var(--font-color-h3) !important;
+  border-bottom-style: solid !important; 
+  border-bottom-width: var(--th-border-size) !important;
+  border-bottom-color: var(--font-color-h3) !important;
+}
+
+table td {
+  font-size: var(--font-size-body) !important;
+}
+
+/*Custom Colors*/
+canvas, .filetree-sidebar, .filetree-wrapper{
+  background-color: var(--page-bg-color-dark)
+}
+
+.search-button{
+  background-color: var(--page-bg-color-default)
+}
+
+body {
+  background-color: var(--page-bg-color-default)
+}
+
+/* Infoboxes */
+.callout[data-callout~="infobox"] {
+    background-color: var(--page-bg-color-light) !important;
+}
+
+/* Wikipedia-style infoboxes stay on the normal page background. */
+.callout[data-callout~="infobox"][data-callout-metadata~="wikipedia"] {
+    background-color: var(--page-bg-color-default) !important;
+}
+
+/*Logo Adjust*/
+	
+.site-logo {
+	height: 70px !important;
+	width: 210px !important;
+	object-fit: cover !important;
+	object-position: 50% 40% !important;
+}
+
+/* Skills / Rank / Approaches table alignment */
+
+.callout[data-callout-metadata~="skills-table"] table.dataview :is(th, td):nth-child(1),
+.callout[data-callout-metadata~="skills-table"] + table.dataview :is(th, td):nth-child(1) {
+    text-align: right !important;
+}
+
+.callout[data-callout-metadata~="skills-table"] table.dataview :is(th, td):nth-child(2),
+.callout[data-callout-metadata~="skills-table"] + table.dataview :is(th, td):nth-child(2) {
+    text-align: center !important;
+}
+
+.callout[data-callout-metadata~="skills-table"] table.dataview :is(th, td):nth-child(3),
+.callout[data-callout-metadata~="skills-table"] + table.dataview :is(th, td):nth-child(3) {
+    text-align: left !important;
+}
+
+/*
+                                                            
+                                                            
+                                                            
+   ▒████▒   ░████░   ███  ███  ██████▒     ▒██▒    ████████ 
+  ▓██████   ██████   ███  ███  ███████▒    ▓██▓    ████████ 
+ ▒██▒  ░█  ▒██  ██▒  ███▒▒███  ██   ▒██    ████       ██    
+ ██▓       ██▒  ▒██  ███▓▓███  ██    ██    ████       ██    
+ ██░       ██    ██  ██▓██▓██  ██   ▒██   ▒█▓▓█▒      ██    
+ ██        ██    ██  ██▒██▒██  ███████▒   ▓█▒▒█▓      ██    
+ ██        ██    ██  ██░██░██  ██████▒    ██  ██      ██    
+ ██░       ██    ██  ██ ██ ██  ██         ██████      ██    
+ ██▓       ██▒  ▒██  ██    ██  ██        ░██████░     ██    
+ ▒██▒  ░█  ▒██  ██▒  ██    ██  ██        ▒██  ██▒     ██    
+  ▓██████   ██████   ██    ██  ██        ███  ███     ██    
+   ▒████▒   ░████░   ██    ██  ██        ██▒  ▒██     ██    
+                                                            
+                                                            
+                                                            
+                                                                                                                                 
+*/
+
+/* ================================================================
+   ITS-style Dataview card grids on Digital Garden
+   ================================================================ */
+
+// .callout[data-callout="cards"] {
+//   background: transparent;
+//   border: 0;
+//   padding: 0;
+// }
+
+// .callout[data-callout="cards"] > .callout-title {
+//   display: none;
+// }
+
+// .callout[data-callout="cards"] .callout-content {
+//   padding: 0;
+// }
+
+// /* Dataview has already been compiled into an ordinary Markdown table
+//    by the time Digital Garden renders the page. */
+// .callout[data-callout="cards"] table {
+//   display: block;
+//   width: 100%;
+//   margin: 0;
+// }
+
+// .callout[data-callout="cards"] thead {
+//   display: none;
+// }
+
+// .callout[data-callout="cards"] tbody {
+//   display: grid;
+//   grid-template-columns: repeat(auto-fill, 160px);
+//   gap: 0.8rem;
+//   width: 100%;
+//   justify-content: start;
+// }
+
+// .callout[data-callout="cards"] tr {
+//   display: flex;
+//   flex-direction: column;
+//   overflow: hidden;
+
+//   border: 1px solid var(--background-modifier-border);
+//   border-radius: 8px;
+
+//   background: var(--background-secondary);
+// }
+
+// .callout[data-callout="cards"] td {
+//   display: block;
+//   width: auto;
+//   padding: 0.4rem 0.6rem;
+//   border: 0;
+//   text-align: center;
+// }
+
+// /* Portrait/image cell */
+// .callout[data-callout="cards"] td:first-child {
+//   padding: 0;
+// }
+
+// .callout[data-callout="cards"] td:first-child img {
+//   display: block;
+//   width: 100%;
+//   max-width: none;
+
+//   aspect-ratio: 1.6 / 1;
+//   object-fit: cover;
+//   object-position: center;
+  
+
+//   margin: 0;
+// }
+
+// /* Name underneath portrait */
+// .callout[data-callout="cards"] td:last-child {
+//   padding: 0.55rem;
+//   font-weight: 600;
+// }
+
+/* =========================================================
+   CUSTOM SIZE TOKENS
+   Match local Obsidian snippet behavior
+   ========================================================= */
+
+img[alt~="ht-sm"] {
+    height: 150px !important;
+    max-height: none !important;
+}
+
+img[alt~="wt-sm"] {
+    width: 25% !important;
+    max-width: 25% !important;
+}
+
+/* =========================================================
+   DG / ITS LAYOUT COMPATIBILITY
+   ========================================================= */
+
+/* Nested layout items must be allowed to shrink with their grid track. */
+.callout:is(
+    [data-callout*="column"],
+    [data-callout~="cards"]
+)
+> .callout-content
+> .callout {
+    min-width: 0 !important;
+}
+
+
+// /* DG inserts a whitespace-only paragraph before nested Columns items.
+//    Don't let that consume column 1. */
+// .callout[data-callout*="column"]
+// > .callout-content
+// > p:first-child:not(:has(*)):has(+ .callout) {
+//     display: none !important;
+// }
+
+/* DG may insert an empty paragraph before Columns content. */
+.callout[data-callout*="column"]
+> .callout-content
+> p:first-child:not(:has(*)):has(+ :is(blockquote, .callout)) {
+    display: none !important;
+}
+
+
+/* DG may insert an empty paragraph after Columns content. */
+.callout[data-callout*="column"]
+> .callout-content
+> :is(blockquote, .callout)
++ p:last-child:not(:has(*)) {
+    display: none !important;
+}
+
+/* DG inserts a whitespace-only paragraph before ordinary Cards items.
+   Don't let that consume the first grid cell. */
+.callout[data-callout~="cards"]:not([data-callout-metadata~="dataview"])
+> .callout-content
+> p:first-child:not(:has(*)):has(+ p > *) {
+    display: none !important;
+}
+
+/* DG compiles Dataview tables immediately after their containing callout. */
+.callout[data-callout-metadata~="n-th"]
++ table.dataview.table-view-table
+> thead {
+    display: none !important;
+}
+
+/* ================================================================
+   DG → ITS DATAVIEW CARDS ADAPTER
+
+   Digital Garden renders Dataview TABLE results as ordinary tables.
+   Restore the table structure ITS expects for [!cards|dataview].
+   ================================================================ */
+
+
+/* ITS expects the Dataview table itself to become the card container. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content table {
+    display: grid;
+    margin-block-start: 0;
+}
+
+
+/* Native Dataview Cards hide the table header. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content table thead {
+    display: none;
+}
+
+
+/* Each table body becomes the card grid.
+   Column count and gap come from ITS's existing Cards variables. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content table tbody {
+    display: grid;
+    grid-template-columns:
+        repeat(
+            var(--callout-cards-columns),
+            minmax(0, 1fr)
+        );
+    grid-gap: calc(var(--callout-cards-gap) * 2);
+}
+
+
+/* Strip normal table appearance from rows/cells. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content table :is(td, tr) {
+    min-width: 0;
+    border: 0;
+    background: transparent;
+    padding: 0;
+}
+
+
+/* Each row is one card. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content table tbody > tr {
+    display: grid;
+    align-content: flex-start;
+    margin: 0;
+    padding: 10px;
+
+    border: 2px solid
+        var(--outline, var(--background-modifier-box-shadow));
+
+    box-shadow:
+        var(--shadow-ml, var(--input-shadow));
+
+    background-color: #0d0d13;
+}
+
+
+/* Bridge ITS's existing Notion variables onto DG's plain table rows. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"][data-callout-metadata~="notion"]
+> .callout-content table tbody > tr {
+    padding: 0;
+    border: 0;
+    border-radius: var(--callout-cards-notion-radius);
+    box-shadow: var(--callout-cards-notion-shadow);
+}
+
+
+/* DG wraps optimized Dataview images in <picture>.
+   Prevent its <source>/whitespace content from creating an empty line. */
+.callout[data-callout~="cards"][data-callout-metadata~="dataview"]
+> .callout-content
+table td > picture {
+    display: block;
+    line-height: 0;
+}
+
+/* Respect ITS txt-c metadata on published callouts. */
+.callout[data-callout-metadata~="txt-c"]
+> .callout-content {
+    text-align: center !important;
+}
+
+/* DG table/card cells may carry their own alignment. */
+.callout[data-callout-metadata~="txt-c"]
+> .callout-content
+:is(td, th) {
+    text-align: center !important;
+}
+
+/* Hide empty, redundant inline tag anchors */
+a.tag[href^="#"]:empty {
+    display: none !important;
+}
+
+/*                                              
+                                                        
+███████ █████  █▒  ▒█ ██████ █      █████  ██   █ ██████
+   █      █    ██  ██ █      █        █    ██░  █ █     
+   █      █    ██░░██ █      █        █    █▒▓  █ █     
+   █      █    █▒▓▓▒█ █      █        █    █ █  █ █     
+   █      █    █ ██ █ ██████ █        █    █ ▓▓ █ ██████
+   █      █    █ █▓ █ █      █        █    █  █ █ █     
+   █      █    █    █ █      █        █    █  ▓▒█ █     
+   █      █    █    █ █      █        █    █  ░██ █     
+   █    █████  █    █ ██████ ██████ █████  █   ██ ██████
+                                                        
+                                                        
+*/
+
+/* =========================================================
+   FANCY A STORY-STYLE TIMELINE
+   ========================================================= */
+
+/* DG inserts a whitespace-only paragraph before timeline entries. */
+.callout[data-callout="timeline"]
+> .callout-content
+> p:first-child:not(:has(*)):has(+ .callout) {
+    display: none !important;
+}
+
+
+/* ---------------------------------------------------------
+   NESTED TIMELINE TITLES
+
+   FAS normally makes these 0.8em and right-aligns them.
+   Make all direct timeline-entry titles readable and centered,
+   regardless of the nested callout type.
+   --------------------------------------------------------- */
+
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout {
+    --callout-title-size: var(--font-size-body);
+}
+
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout
+> .callout-title {
+    justify-content: center !important;
+    text-align: center !important;
+}
+
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout
+> .callout-title-inner {
+    flex: 1;
+    width: 100%;
+    font-size: var(--font-size-body) !important;
+    text-align: center !important;
+}
+
+
+/* ---------------------------------------------------------
+   VERTICAL TIMELINE LAYOUT
+   --------------------------------------------------------- */
+
+.callout[data-callout="timeline"] {
+    --timeline-gap: 20px;
+    --timeline-line-width: 2px;
+    --timeline-node-size: 10px;
+    --timeline-line-color: var(--page-bg-color-light);
+}
+
+
+/* Two-column timeline container. */
+.callout[data-callout="timeline"]
+> .callout-content {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    column-gap: calc(var(--timeline-gap) * 2);
+    align-items: center;
+    position: relative;
+}
+
+
+/* Central timeline line. */
+.callout[data-callout="timeline"]
+> .callout-content::after {
+    content: "";
+    position: absolute;
+    z-index: 0;
+
+    top: 0;
+    bottom: 0;
+    left: 50%;
+
+    width: var(--timeline-line-width);
+    transform: translateX(-50%);
+
+    background-color: var(--timeline-line-color);
+}
+
+
+/* Every actual event occupies two grid rows.
+   This is what creates the alternating/staggered FAS layout. */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout {
+    position: relative;
+    z-index: 1;
+
+    grid-row: span 2;
+
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+
+/*
+ * Stagger the second ACTUAL CALLOUT.
+ *
+ * "of .callout" is deliberate:
+ * DG's phantom <p> does not participate in this count.
+ */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout:nth-child(2 of .callout) {
+    grid-row: 2 / 4;
+}
+
+
+/* Actual callouts 1, 3, 5... go left. */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout:nth-child(odd of .callout) {
+    grid-column: 1;
+}
+
+
+/* Actual callouts 2, 4, 6... go right. */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout:nth-child(even of .callout) {
+    grid-column: 2;
+}
+
+
+/* ---------------------------------------------------------
+   CONNECTORS + NODES
+   --------------------------------------------------------- */
+
+/* Horizontal connector from each card toward the center line. */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout::before {
+    content: "";
+    position: absolute;
+
+    top: 50%;
+
+    width: var(--timeline-gap);
+    height: var(--timeline-line-width);
+
+    background-color: var(--timeline-line-color);
+}
+
+
+/* Timeline node. */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout::after {
+    content: "";
+    position: absolute;
+
+    top: calc(50% - var(--timeline-node-size) / 2);
+
+    width: var(--timeline-node-size);
+    height: var(--timeline-node-size);
+
+    box-sizing: border-box;
+    border-radius: 50%;
+
+    background-color: var(--page-bg-color-default);
+    border: var(--timeline-line-width) solid var(--timeline-line-color);
+}
+
+
+/* Left-side connectors. */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout:nth-child(odd of .callout)::before {
+    right: calc(-1 * var(--timeline-gap));
+}
+
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout:nth-child(odd of .callout)::after {
+    right: calc(
+        -1 * var(--timeline-gap)
+        - var(--timeline-node-size) / 2
+        - var(--timeline-line-width) / 2
+    );
+}
+
+
+/* Right-side connectors. */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout:nth-child(even of .callout)::before {
+    left: calc(-1 * var(--timeline-gap));
+}
+
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout:nth-child(even of .callout)::after {
+    left: calc(
+        -1 * var(--timeline-gap)
+        - var(--timeline-node-size) / 2
+        - var(--timeline-line-width) / 2
+    );
+}
+
+
+/* =========================================================
+   TIMELINE - PADDING AND CONNECTOR CORRECTIONS
+   ========================================================= */
+
+.callout[data-callout="timeline"] {
+    --timeline-gap: 24px;
+    --timeline-line-color: var(--text-muted);
+}
+
+/* Outer timeline padding and vertical spacing */
+.callout[data-callout="timeline"]
+> .callout-content {
+    padding: 18px 12px 24px !important;
+    row-gap: 12px;
+}
+
+/* Allow connectors and nodes to extend outside cards */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout {
+    overflow: visible !important;
+}
+
+/* Padding inside individual event cards */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout
+> .callout-content {
+    padding: 12px 16px !important;
+}
+
+/* Horizontal connectors */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout::before {
+    display: block;
+    z-index: 2;
+    background-color: var(--timeline-line-color);
+    pointer-events: none;
+}
+
+/* Circular nodes */
+.callout[data-callout="timeline"]
+> .callout-content
+> .callout::after {
+    display: block;
+    z-index: 3;
+    background-color: var(--background-primary);
+    border-color: var(--timeline-line-color);
+    pointer-events: none;
+}
+
+
+/* =========================================================
+            uuuuuuuuuuuuuuuuuuuu
+          u" uuuuuuuuuuuuuuuuuu "u
+        u" u$$$$$$$$$$$$$$$$$$$$u "u
+      u" u$$$$$$$$$$$$$$$$$$$$$$$$u "u
+    u" u$$$$$$$$$$$$$$$$$$$$$$$$$$$$u "u
+  u" u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$u "u
+u" u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$u "u
+$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $
+$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $
+$ $$$" ... "$...  ...$" ... "$$$  ... "$$$ $
+$ $$$u `"$$$$$$$  $$$  $$$$$  $$  $$$  $$$ $
+$ $$$$$$uu "$$$$  $$$  $$$$$  $$  """ u$$$ $
+$ $$$""$$$  $$$$  $$$u "$$$" u$$  $$$$$$$$ $
+$ $$$$....,$$$$$..$$$$$....,$$$$..$$$$$$$$ $
+$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $
+"u "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" u"
+  "u "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" u"
+    "u "$$$$$$$$$$$$$$$$$$$$$$$$$$$$" u"
+      "u "$$$$$$$$$$$$$$$$$$$$$$$$" u"
+        "u "$$$$$$$$$$$$$$$$$$$$" u"
+          "u """""""""""""""""" u"
+            """"""""""""""""""""
+============================================================ */
+
+/*Image Adjustments*/
+
+body {
+  --image-border-color: var(--background-modifier-border);
+  --image-border-width: 1px;
+  --image-border-padding: 8px;
+  --image-border-background: var(--td);
+}
+
+/*----Image Positions/Adjustments----*/
+body {
+  --micro: 70px;
+  --tiny: 100px;
+  --small: 200px;
+  --small-med: 300px;
+  --med-small: 400px;
+  --medium: 500px;
+  --med-tall: 600px;
+  --tall: 700px;
+}
+
+.popover.hover-popover {
+  --micro: 70px;
+  --tiny: 100px;
+  --small: 150px;
+  --small-med: 200px;
+  --med-small: 250px;
+  --medium: 300px;
+  --med-tall: 450px;
+  --tall: 500px;
+}
+
+/*----Mobile----*/
+@media (max-width: 500px) {
+  .theme-dark, .theme-light {
+    /*Mobile Sizes*/
+    --radius: 0px;
+    --micro: 70px;
+    --tiny: 100px;
+    --small: 150px;
+    --small-med: 200px;
+    --med-small: 250px;
+    --medium: 300px;
+    --med-tall: 450px;
+    --tall: 500px;
+  }
+}
+/*-Image Sizing-*/
+/*Fit image within bounds WITHOUT stretching*/
+img:is([alt*=cover], [alt*=cvr]),
+.image-embed:is([src*="#cover"], [src*="#cvr"]),
+span.image-embed:is([src*="#cover"], [src*="#cvr"]) img {
+  object-fit: cover;
+}
+
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative]):is([alt*=wmicro],
+[alt*=wtiny],
+[alt*=wsmall],
+[alt*=ws-med],
+[alt*=wm-sm],
+[alt*=wmed],
+[alt*=wm-tl],
+[alt*=wtall],
+[alt*=wfull]) {
+  width: var(--image-adj-size-w);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative]):is([alt*=hmicro],
+[alt*=htiny],
+[alt*=hsmall],
+[alt*=hs-med],
+[alt*=hm-sm],
+[alt*=hmed],
+[alt*=hm-tl],
+[alt*=htall],
+[alt*=hfull]) {
+  height: var(--image-adj-size-h);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hmicro] {
+  --image-adj-size-h: var(--micro);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=htiny] {
+  --image-adj-size-h: var(--tiny);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hsmall] {
+  --image-adj-size-h: var(--small);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hs-med] {
+  --image-adj-size-h: var(--small-med);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hm-sm] {
+  --image-adj-size-h: var(--med-small);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hmed] {
+  --image-adj-size-h: var(--medium);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hm-tl] {
+  --image-adj-size-h: var(--med-tall);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=htall] {
+  --image-adj-size-h: var(--tall);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hfull] {
+  --image-adj-size-h: 100%;
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wmicro] {
+  --image-adj-size-w: var(--micro);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wtiny] {
+  --image-adj-size-w: var(--tiny);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wsmall] {
+  --image-adj-size-w: var(--small);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=ws-med] {
+  --image-adj-size-w: var(--small-med);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wm-sm] {
+  --image-adj-size-w: var(--med-small);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wmed] {
+  --image-adj-size-w: var(--medium);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wm-tl] {
+  --image-adj-size-w: var(--med-tall);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wtall] {
+  --image-adj-size-w: var(--tall);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wfull] {
+  --image-adj-size-w: 100%;
+}
+
+.image-embed[alt][alt*=relative],
+div:not(.image-embed) > img[alt][alt*=relative] {
+  --micro: 10%;
+  --tiny: 20%;
+  --small: 30%;
+  --small-med: 40%;
+  --med-small: 50%;
+  --medium: 60%;
+  --med-tall: 70%;
+  --tall: 85%;
+}
+.image-embed[alt][alt*=relative][alt*=wmicro],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=wmicro] {
+  width: var(--micro);
+}
+.image-embed[alt][alt*=relative][alt*=wtiny],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=wtiny] {
+  width: var(--tiny);
+}
+.image-embed[alt][alt*=relative][alt*=wsmall],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=wsmall] {
+  width: var(--small);
+}
+.image-embed[alt][alt*=relative][alt*=ws-med],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=ws-med] {
+  width: var(--small-med);
+}
+.image-embed[alt][alt*=relative][alt*=wm-sm],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=wm-sm] {
+  width: var(--med-small);
+}
+.image-embed[alt][alt*=relative][alt*=wmed],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=wmed] {
+  width: var(--medium);
+}
+.image-embed[alt][alt*=relative][alt*=wm-tl],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=wm-tl] {
+  width: var(--med-tall);
+}
+.image-embed[alt][alt*=relative][alt*=wtall],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=wtall] {
+  width: var(--tall);
+}
+.image-embed[alt][alt*=relative][alt*=hmicro],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=hmicro] {
+  width: var(--micro);
+}
+.image-embed[alt][alt*=relative][alt*=htiny],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=htiny] {
+  width: var(--tiny);
+}
+.image-embed[alt][alt*=relative][alt*=hsmall],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=hsmall] {
+  width: var(--small);
+}
+.image-embed[alt][alt*=relative][alt*=hs-med],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=hs-med] {
+  width: var(--small-med);
+}
+.image-embed[alt][alt*=relative][alt*=hm-sm],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=hm-sm] {
+  width: var(--med-small);
+}
+.image-embed[alt][alt*=relative][alt*=hmed],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=hmed] {
+  width: var(--medium);
+}
+.image-embed[alt][alt*=relative][alt*=hm-tl],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=hm-tl] {
+  width: var(--med-tall);
+}
+.image-embed[alt][alt*=relative][alt*=htall],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=htall] {
+  width: var(--tall);
+}
+.image-embed[alt][alt*=relative][alt*=hfull],
+div:not(.image-embed) > img[alt][alt*=relative][alt*=hfull] {
+  width: 100%;
+}
+
+.image-embed[alt][alt*=relative],
+div:not(.image-embed) > img[alt][alt*=relative] {
+  display: block;
+  margin: auto;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+/*Height*/
+/*Image Locations*/
+/*Center Image*/
+.img-adj-center.img-adj-center img,
+img:is(
+    [alt~=ctr],
+    [alt~=center],
+    [alt^="ctr|"],
+    [alt^="center|"]
+) {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-adj-center.img-adj-center .is-live-preview img {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/*Left & Right*/
+.markdown-rendered img:is([alt~=left], [alt^="left|"], [alt~=locl]), [alt^="locr|"], .markdown-rendered img:is([src*="#left"], [src*="#locl"]), .markdown-rendered .image-embed:is([alt~=left], [alt~=locl]), .markdown-rendered .image-embed:is([src*="#left"], [src*="#locl"]) {
+  float: left;
+  margin-right: 2%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  float: inline-start;
+}
+.markdown-rendered img:is([alt~=right], [alt^="right|"], [alt~=locr]), [alt^="locr|"], .markdown-rendered img:is([src*="#right"], [src*="#locr"]), .markdown-rendered .image-embed:is([alt~=right], [alt~=locr]), .markdown-rendered .image-embed:is([src*="#right"], [src*="#locr"]) {
+  float: right;
+  margin-left: 2%;
+  margin-bottom: 0px;
+  float: inline-end;
+}
+
+/*--Image Position--*/
+img[alt*="p+"], .image-embed[src*="#p+"] img {
+  object-fit: cover;
+}
+
+/*Inner Image*/
+img[alt*="p+c"], .image-embed[src*="#p+c"] img {
+  object-position: center;
+}
+
+img[alt*="p+t"], .image-embed[src*="#p+t"] img {
+  object-position: top;
+}
+
+img[alt*="p+b"], .image-embed[src*="#p+b"] img {
+  object-position: bottom;
+}
+
+img[alt*="p+l"], .image-embed[src*="#p+l"] img {
+  object-position: left;
+}
+
+img[alt*="p+r"], .image-embed[src*="#p+r"] img {
+  object-position: right;
+}
+
+img[alt*="p+cl"], .image-embed[src*="#p+cl"] img {
+  object-position: 15%;
+}
+
+img[alt*="p+ccl"], .image-embed[src*="#p+ccl"] img {
+  object-position: 25%;
+}
+
+img[alt*="p+cr"], .image-embed[src*="#p+cr"] img {
+  object-position: 60%;
+}
+
+img[alt*="p+ccr"], .image-embed[src*="#p+ccr"] img {
+  object-position: 75%;
+}
+
+img[alt*="p+tc"], .image-embed[src*="#p+tc"] img {
+  object-position: 50% 10%;
+}
+
+img[alt*="p+tcc"], .image-embed[src*="#p+tcc"] img {
+  object-position: 50% 20%;
+}
+
+img[alt*="p+cct"], .image-embed[src*="#p+cct"] img {
+  object-position: 50% 30%;
+}
+
+img[alt*="p+ct"], .image-embed[src*="#p+ct"] img {
+  object-position: 50% 40%;
+}
+
+img[alt*="p+cb"], .image-embed[src*="#p+cb"] img {
+  object-position: 50% 60%;
+}
+
+img[alt*="p+ccb"], .image-embed[src*="#p+ccb"] img {
+  object-position: 50% 70%;
+}
+
+img[alt*="p+bc"], .image-embed[src*="#p+bc"] img {
+  object-position: 50% 80%;
+}
+
+img[alt*="p+bcc"], .image-embed[src*="#p+bcc"] img {
+  object-position: 50% 90%;
+}
+
+/*Invert Colors*/
+.theme-dark img[alt*=invertb], .theme-dark .image-embed[src*="#invertb"] {
+  filter: invert(1) hue-rotate(180deg);
+}
+.theme-dark img[alt*=invertbc],
+.theme-dark .image-embed[src*="#invertbc"] {
+  filter: invert(1) hue-rotate(180deg) contrast(1.5);
+}
+
+.theme-light img[alt*=invertw], .theme-light .image-embed[src*="#invertw"] {
+  filter: invert(1) hue-rotate(180deg);
+}
+.theme-light img[alt*=invertwc], .theme-light .image-embed[src*="#invertwc"] {
+  filter: invert(1) hue-rotate(180deg) contrast(1.45);
+}
+
+img:is([alt*=flip-x],
+[alt*=flip-horizontal]) {
+  transform: scale(-1, 1);
+}
+img:is([alt*=flip-y],
+[alt*=flip-vertical]) {
+  transform: scale(1, -1);
+}
+img:is([alt*=flip-xy],
+[alt*=flip-vertical-horizontal]) {
+  transform: scale(-1, -1);
+}
+
+/*Fit image within bounds WITHOUT stretching*/
+img[alt*=cover],
+img:is([alt*=cover], [alt*=cvr]),
+.image-embed:is([src*="#cover"], [src*="#cvr"]),
+span.image-embed:is([src*="#cover"], [src*="#cvr"]) img {
+  object-fit: cover;
+}
+
+/*Fix Float Issues*/
+:is(img, .image-embed)[alt*=clear],
+.image-embed[src*="#clear"] {
+  clear: both;
+}
+
+img[alt*=unclr],
+.image-embed[src*="#unclr"] {
+  clear: none !important;
+}
+
+img:is([alt~=lp], [alt~=live-preview]):is([alt*=right], [alt*=locr]),
+.image-embed:is([alt~=lp], [alt~=live-preview]):is([alt*=right], [alt*=locr]) {
+  float: right !important;
+}
+img:is([alt~=lp], [alt~=live-preview]):is([alt*=left], [alt*=locl]),
+.image-embed:is([alt~=lp], [alt~=live-preview]):is([alt*=left], [alt*=locl]) {
+  float: left !important;
+}
+
+.clear-hr {
+  --hr-width: 100%;
+}
+
+.clear-headings :is(h1, h2, h3, h4, h5, h6),
+.clear-heading-1 h1,
+.clear-heading-2 h2,
+.clear-heading-3 h3,
+.clear-heading-4 h4,
+.clear-heading-5 h5,
+.clear-heading-6 h6 {
+  clear: both;
+}
+
+/*Banners*/
+img[alt*=banner]:not([width]),
+.image-embed[alt*=banner]:not([width]) img {
+  display: block;
+  object-fit: cover;
+  width: 100%;
+  margin-bottom: 0px;
+  clear: both;
+}
+
+img[alt~=banner],
+.image-embed[alt~=banner] img,
+.image-embed[src*="#banner"] {
+  height: var(--small);
+}
+
+img[alt~="banner+small"],
+.image-embed[alt~="banner+small"] img,
+.image-embed[src*="#banner+small"] {
+  height: var(--tiny);
+}
+
+img[alt~="banner+tall"],
+.image-embed[alt~="banner+tall"] img,
+.image-embed[src*="#banner+tall"] {
+  height: var(--medium);
+}
+
+:is(img, .internal-embed)[alt*=sban],
+:is(img, .internal-embed)[alt~=sban],
+.internal-embed[src*="#sban"] img {
+  object-fit: cover;
+  width: 100%;
+}
+
+/*Portait*/
+img[alt*=portrait],
+.image-embed[alt*=portrait] img {
+  object-fit: cover;
+}
+
+.image-embed[src~="#portrait"] {
+  height: var(--small-med);
+  width: 40%;
+}
+
+.image-embed[src~="#portrait+small"] {
+  height: var(--small);
+  width: 25%;
+}
+
+.image-embed[src~="#portrait+tall"] {
+  height: 500px;
+  width: 50%;
+}
+
+img:is([alt~=portrait],
+[alt*="portrait+"]),
+.image-embed:is([alt~=portrait],
+[alt*="portrait+"]) img {
+  --img-adj-portrait-size: var(--med-small);
+  height: var(--img-adj-portrait-size);
+  width: calc(var(--img-adj-portrait-size) / 1.7);
+}
+
+img[alt~="portrait+small"],
+.image-embed[alt~="portrait+small"] img {
+  --img-adj-portrait-size: var(--small-med);
+}
+
+img[alt~="portrait+tall"],
+.image-embed[alt~="portrait+tall"] img {
+  --img-adj-portrait-size: var(--medium);
+}
+
+/*Profile*/
+img[alt*=profile],
+.image-embed[alt*=profile] img {
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+img[alt~=profile],
+.image-embed[alt~=profile] img,
+.image-embed[src*="#profile"] {
+  height: var(--tiny);
+  width: var(--tiny);
+}
+
+img[alt~="profile+medium"],
+.image-embed[alt~="profile+medium"] img,
+.image-embed[src*="#profile+medium"] {
+  height: var(--small);
+  width: var(--small);
+}
+
+img[alt~="profile+tall"],
+.image-embed[alt~="profile+tall"] img,
+.image-embed[src*="#profile+tall"] {
+  height: var(--medium);
+  width: var(--medium);
+}
+
+img[alt~=sprf] {
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+/*Image Shapes*/
+img[alt][alt*=circle] {
+  border-radius: 50%;
+}
+
+img[alt~=square],
+.image-embed[alt~=square] img {
+  border-radius: 0;
+}
+
+img[alt~=border],
+.internal-embed[alt~=border] img {
+  border: var(--image-border-width) solid var(--image-border-color);
+  padding: var(--image-border-padding);
+  background: var(--image-border-background);
+}
+
+.image-captions .image-embed::after,
+.image-embed[src*="#cap"]::after {
+  content: attr(alt);
+  color: var(--inactive, var(--faint-text));
+  display: block;
+  text-align: center;
+}
+
+.image-embed[src*="#cap"] {
+  display: inline-block;
+}
+.image-embed[src*="#cap"] img {
+  float: unset !important;
+  object-fit: cover;
+}
+.image-embed[src*="#cap"][src*="#hmicro"] img {
+  height: var(--micro);
+}
+.image-embed[src*="#cap"][src*="#htiny"] img {
+  height: var(--tiny);
+}
+.image-embed[src*="#cap"][src*="#hsmall"] img {
+  height: var(--small);
+}
+.image-embed[src*="#cap"][src*="#hs-med"] img {
+  height: var(--small-med);
+}
+.image-embed[src*="#cap"][src*="#hm-sm"] img {
+  height: var(--med-small);
+}
+.image-embed[src*="#cap"][src*="#hmed"] img {
+  height: var(--medium);
+}
+.image-embed[src*="#cap"][src*="#hm-tl"] img {
+  height: var(--med-tall);
+}
+.image-embed[src*="#cap"][src*="#htall"] img {
+  height: var(--tall);
+}
+.image-embed[src*="#cap"][src*="#hfull"] img {
+  height: 100%;
+}
+.image-embed[src*="#cap"][src*="#wmicro"], .image-embed[src*="#cap"][src*="#wmicro"] img {
+  width: var(--micro);
+}
+.image-embed[src*="#cap"][src*="#wtiny"], .image-embed[src*="#cap"][src*="#wtiny"] img {
+  width: var(--tiny);
+}
+.image-embed[src*="#cap"][src*="#wsmall"], .image-embed[src*="#cap"][src*="#wsmall"] img {
+  width: var(--small);
+}
+.image-embed[src*="#cap"][src*="#ws-med"], .image-embed[src*="#cap"][src*="#ws-med"] img {
+  width: var(--small-med);
+}
+.image-embed[src*="#cap"][src*="#wm-sm"], .image-embed[src*="#cap"][src*="#wm-sm"] img {
+  width: var(--med-small);
+}
+.image-embed[src*="#cap"][src*="#wmed"], .image-embed[src*="#cap"][src*="#wmed"] img {
+  width: var(--medium);
+}
+.image-embed[src*="#cap"][src*="#wm-tl"], .image-embed[src*="#cap"][src*="#wm-tl"] img {
+  width: var(--med-tall);
+}
+.image-embed[src*="#cap"][src*="#wtall"], .image-embed[src*="#cap"][src*="#wtall"] img {
+  width: var(--tall);
+}
+.image-embed[src*="#cap"][src*="#wfull"], .image-embed[src*="#cap"][src*="#wfull"] img {
+  width: 100%;
+}
+
+.mobile-image-viewer img[alt][alt][alt] {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+/*@settings
+name: Image Adjustments
+id: image-adjustments
+settings:
+    - 
+        id: info-text-SlRvb-img-adj
+        type: info-text
+        title: Image Adjustments by SlRvb
+        description: "[Image Adjustments Snippet How-To Guide](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments)"
+        markdown: true
+    -
+        title: List Overlap Fix
+        description: Fix list bullets overlapping with images
+        id: img-adj-list
+        type: class-toggle
+        default: true
+    -
+        title: Clear Images
+        description: Push image under/over headings or horizontal lines
+        id: img-adj-clears
+        type: heading
+        level: 1
+        collapsed: true
+    -
+        title: Horizontal Lines
+        description: Push image under/over any horizontal lines
+        id: clear-hr
+        type: class-toggle
+    -
+        title: Headings
+        description: Push image under/over all headings 1-6
+        id: clear-headings
+        type: class-toggle
+    -
+        title: Heading Specific
+        description: Push image under/over some headings and not others
+        id: img-adj-clears-headings
+        type: heading
+        level: 2
+        collapsed: true
+    -
+        title: Header 1
+        id: clear-heading-1
+        type: class-toggle
+    -
+        title: Header 2
+        id: clear-heading-2
+        type: class-toggle
+    -
+        title: Header 3
+        id: clear-heading-3
+        type: class-toggle
+    -
+        title: Header 4
+        id: clear-heading-4
+        type: class-toggle
+    -
+        title: Header 5
+        id: clear-heading-5
+        type: class-toggle
+    -
+        title: Header 6
+        id: clear-heading-6
+        type: class-toggle
+*/
+/*Theme fixes*/
+.img-adj-list :is(ul, ol) {
+  display: flow-root;
+}
+
+/*Folder Style (BROKEN)*/
+.nav-folder-title[data-path="Folder Name"] .nav-folder-title-content::before {
+	--folder-icon: "\icon-code-here";
+	--folder-font: "font icon pack name";
+	/*--folder-vertical-alignment: -2px; */ 
+	/* Optional, helps with aligning icons vertically */
+}
+.nav-folder-title[data-path="Folder Name"],
+.nav-folder-title[data-path="Folder Name"] + .nav-folder-children {
+	--folder-icon: "\icon-code-here";
+	--folder-font: "font icon pack name";
+	
+	/*HSL Values Only: ###, ##%, ##% */
+	--folder-accent-color: 216, 7%, 10%; 
+	--folder-accent-color-lite: 216, 7%, 30%;
+}
+
+/*----Folder Styling (ALSO BROKEN)----*/
+.theme-light {
+    --folder-accent-color: 216, 0%, 0%; 
+    --folder-accent-color-lite: 220, 7%, 50%;
+}
+.theme-dark {
+	--folder-accent-color: 249, 62%, 75%;
+	--folder-accent-color-lite: 249, 62%, 75%;
+}
+.nav-folder-children,
+.nav-files-container > div > .nav-folder,
+.nav-folder-title {
+    --explorer-root-background: hsla(var(--folder-accent-color), 0.2);
+    --explorer-root-folder-color: hsl(var(--folder-accent-color-lite));
+    
+    --explorer-root-folder-background: hsl(var(--folder-accent-color));
+    --explorer-root-folder-open-background: hsl(var(--folder-accent-color));
+    --explorer-folder-open-background: hsla(var(--folder-accent-color), 0.4);
+    --nav-indentation-guide-color: hsl(var(--folder-accent-color-lite));
+	
+    --explorer-folder-icon-color: hsl(var(--folder-accent-color-lite));
+    --folder-icon-open-color: var(--explorer-folder-icon-color);
+    --folder-icon-color: var(--explorer-root-folder-color);
+    --file-icon-color: hsla(var(--folder-accent-color-lite), .35);
+}
+
+.nav-folder-title .nav-folder-title-content::before {
+	display: inline-block;
+    margin-right: 4px;
+    vertical-align: var(--folder-vertical-align);
+}
