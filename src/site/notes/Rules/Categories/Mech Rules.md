@@ -126,7 +126,17 @@ Unless there is a relevant aspect in play somewhere in your game that would prev
 As with normal consequences, breakdown slots can be filled in any order as long as all harm taken is ultimately allocated and pushed through.
 
 ### Losing Your Mech
-If you concede or take an [[Rules/Categories/Mech Rules#Extreme Consequences\|extreme consequence]] while your mech is Doomed and you're inside it, the mech is **DESTROYED** unless you or an ally in a position to intervene sacrifice a point of Refresh and describe how it survives the engagement through extreme luck or effort (as with buying stunts, you can never drop your refresh below 1). If your mech is destroyed, you acquire a new one at your next breakthrough, or earlier if the fiction offers an opportunity to do so (e.g. stealing one from an enemy base). Work with your GM to design a new mech that's appropriate for the state of the fiction and the resources available to your character. A replacement mech at breakthrough should never cost you resources outside the fiction layer; the game is premised on you being a mech pilot, and even though you spend a lot of time out of your mech, you should never be without access to one for an extended period.
+If you concede or take an [[Rules/Categories/Mech Rules#Extreme Consequences\|extreme consequence]] while all of these are true: 
+1. Your mech has a Doomed breakdown
+2. You're inside your mech
+3. An attack against your mech has been declared
+4. That attack's dice have not yet been rolled
+
+then your mech is **DESTROYED**. 
+
+You or an ally in a position to intervene sacrifice a point of Refresh and describe how it survives the engagement through extreme luck or effort (as with buying stunts, you can never drop your refresh below 1). 
+
+If your mech is destroyed, you acquire a new one at your next breakthrough, or earlier if the fiction offers an opportunity to do so (e.g. stealing one from an enemy base). Work with your GM to design a new mech that's appropriate for the state of the fiction and the resources available to your character. A replacement mech at breakthrough should never cost you resources outside the fiction layer; the game is premised on you being a mech pilot, and even though you spend a lot of time out of your mech, you should never be without access to one for an extended period.
 
 If your mech is ever taken out while you're in it, it is destroyed, and whoever took you out gets to decide what happens to you just like when you're taken out on foot. See [[Rules/2 Character Creation#Replacing Your Mech\|2 Character Creation#Replacing Your Mech]] for what to do if you survive.
 
