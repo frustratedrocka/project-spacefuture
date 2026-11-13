@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-15T16:01:36.358-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"Home / Headquarters","Faction_Presence":null,"Portrait":"[[Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp]]","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null],"cl":102}}
+{"dg-publish":true,"permalink":"/database/places/colonies/ceres/","tags":["location","entity"],"noteIcon":"","updated":"2026-11-13T13:09:35.293-05:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Dwarf Planet]]","Faction":["[[Database/Factions/Apsis]]"],"Control":"Home / Headquarters","Faction_Presence":null,"Portrait":"[[Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp]]","Concept":"Nerve Center of the Sol System","Trouble":"As Awful As It Is Indispensable","Aspects":[null],"cl":103}}
 ---
 
 # 
 
-> [!INFOBOX] Ceres
+> [!INFOBOX|embed clean] Ceres
 > # Ceres
 > ![Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp\|Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp](/img/user/Admin/Attachments/Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).webp)
 >
@@ -38,7 +38,7 @@ Unless and until there is a plan to account for any root-level interruption of t
 ## Data
 
 > [!blank|embed clean] ASSOCIATED
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Concept</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Origin</span></th><th class="table-view-th"><span>Assoc</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Database/People/The Man Upstairs.md" data-href="Database/People/The Man Upstairs" aria-label="Database/People/The Man Upstairs.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">The Man Upstairs</a></span></td><td><span>Expert Shipping Magnate</span></td><td><span><a class="internal-link" href="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" aria-label="Database/Factions/Apsis.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Apsis</a></span></td><td><span><a class="internal-link" href="Database/Places/Colonies/Ceres.md" data-href="Database/Places/Colonies/Ceres" aria-label="Database/Places/Colonies/Ceres.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Ceres</a></span></td><td><span><a class="internal-link" href="Database/Places/Jupiter Sphere/Jupiter.md" data-href="Database/Places/Jupiter Sphere/Jupiter" aria-label="Database/Places/Jupiter Sphere/Jupiter.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Jupiter</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] APPEARANCES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Episode</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -47,4 +47,4 @@ Unless and until there is a plan to account for any root-level interruption of t
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] CHANGELOG
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Episode</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

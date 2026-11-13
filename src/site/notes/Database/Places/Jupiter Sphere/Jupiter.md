@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location","entity"],"dgShowToc":true,"noteIcon":"","updated":"2026-10-15T16:01:29.661-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Control":"Home / Headquarters","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Jupiter_OPAL_2024-1.webp]]","Concept":"Industrial Center Of Sol","Trouble":"Distance Necessitates Deliberation","Aspects":["Ruler Of The Heavens, In Fact And In Name","Wholly Owned & Incorporated"],"cl":102}}
+{"dg-publish":true,"permalink":"/database/places/jupiter-sphere/jupiter/","tags":["location","entity"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-13T13:06:21.110-05:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Jovian Consortium]]"],"Control":"Home / Headquarters","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Jupiter_OPAL_2024-1.webp]]","Concept":"Industrial Center Of Sol","Trouble":"Distance Necessitates Deliberation","Aspects":["Ruler Of The Heavens, In Fact And In Name","Wholly Owned & Incorporated"],"cl":103}}
 ---
 
 # 
 
-> [!INFOBOX] Jupiter
+> [!INFOBOX|embed clean] Jupiter
 > # Jupiter
 > ![Admin/Attachments/Jupiter_OPAL_2024-1.webp\|Jupiter_OPAL_2024-1.webp](/img/user/Admin/Attachments/Jupiter_OPAL_2024-1.webp)
 >
@@ -23,7 +23,7 @@
 
  
 # Description
-
+Mining platforms are enormous scoops in upper atmosphere. 
 
 `REDACTED`
 

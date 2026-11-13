@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars-sphere/mars/","tags":["location","entity"],"noteIcon":"","updated":"2026-10-15T16:01:27.445-04:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp]]","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"],"cl":102}}
+{"dg-publish":true,"permalink":"/database/places/mars-sphere/mars/","tags":["location","entity"],"noteIcon":"","updated":"2026-11-13T13:07:06.981-05:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp]]","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"],"cl":103}}
 ---
 
 # 
 
-> [!INFOBOX] Mars
+> [!INFOBOX|embed clean] Mars
 > # Mars
 > ![Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp\|Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp](/img/user/Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp)
 >
@@ -27,6 +27,12 @@
 The new breadbasket now that [[Database/Places/Earth\|Earth]] is gone. *Officially* [[Database/History/The Ground War\|The Ground War]] ended in a stalemate and settled truce; unofficially, the terms strongly favored Jupiter.
 
 Mars as a political entity consists largely of farmers and farmer interests, with the [[Database/Factions/Republic Of Mars\|Republic Of Mars]] as the current form of its governing body.
+
+## Cydonia
+
+## Olympus
+
+## Marineris
 
 `REDACTED`
 
