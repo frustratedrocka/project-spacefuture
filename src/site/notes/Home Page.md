@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["tracker","gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-13T12:56:34.096-05:00","dg-note-properties":{"tags":["tracker","gardenEntry"],"SESH_Next":"[[Session Notes/Episode 05]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["tracker","gardenEntry"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-14T05:30:11.045-05:00","dg-note-properties":{"tags":["tracker","gardenEntry"],"SESH_Next":"[[Session Notes/Episode 05]]","PCs_Current":["[[Player Characters/August Grier|Auggie]]","[[Player Characters/Lane Gable|Lane]]","[[Player Characters/Menodora Thaliana|Mena]]","[[Player Characters/Vergen Koni|Verg]]"]}}
 ---
 
 >[!infobox|wm-sm wikipedia embed clean]
@@ -31,12 +31,10 @@
 *[[Session Notes/Scenarios/Into The Blender\|Into The Blender]] Part 3*
 
 ## Where Are You
-The primary approach lane to [[Database/Places/Colonies/Hygiea\|Hygiea]]
-
 **[[Database/Places/Colonies/Hygiea\|Hygiea]]** - Remote Industrial Colony Throwing In With Rebels. Control: [[Database/Factions/Rebels\|Rebels]], Safe Harbor
 
 ## What Are You Doing
-Defending the colony against an incoming raid by the mercenary company [[Database/Things/Blender's Edge\|Blender's Edge]], in exchange for their help repairing the [[Database/Things/Fishbone\|Fishbone]].
+Dealing with the fallout of the successful colony defense
 
 # Previously On Zero Sum
 
