@@ -13,16 +13,16 @@
 > 
 >
 >> [!blank|flex embed clean n-th] VITALS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a class="internal-link" href="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars" aria-label="Database/Factions/Republic Of Mars.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Republic Of Mars</a><br><a class="internal-link" href="Database/Factions/Independent.md" data-href="Database/Factions/Independent" aria-label="Database/Factions/Independent.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Independent</a></span></td></tr><tr><td><span><strong>DEVELOPED INTO</strong><br><a class="internal-link" href="Database/Mobile Suits/MGU-23 Seeker CQC.md" data-href="Database/Mobile Suits/MGU-23 Seeker CQC" aria-label="Database/Mobile Suits/MGU-23 Seeker CQC.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">MGU-23 Seeker CQC</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td></tr><tr><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Martian Ground War Grunt Suit</span></td></tr><tr><td><span>Weak Armor</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Martian Ground War Grunt Suit</span></td></tr><tr><td><span>Weak Armor</span></td></tr></tbody></table>
 
 > [!blank|flex embed clean] KNOWN ARMAMENTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Bolt Thrower</span></td></tr><tr><td><span>Shield</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH STUNTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>JUMP JETS</strong> Once per conflict, if an obstruction between zones would normally require an Overcome roll to traverse, you may automatically tie and take harm equal to the opposition.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>JUMP JETS</strong> Once per conflict, if an obstruction between zones would normally require an Overcome roll to traverse, you may automatically tie and take harm equal to the opposition.</span></td></tr></tbody></table>
 
 # Notes
 

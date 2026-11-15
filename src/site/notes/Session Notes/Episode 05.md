@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/episode-05/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-13T13:13:31.372-05:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-11-24","SESH_Name":null,"SESH_Next":"[[Episode 06]]","SESH_Prev":"[[Session Notes/Episode 04]]","Scenario":"[[Session Notes/Scenarios/Into The Blender]]","Scenario_Index":3,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":[null],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":["[[Entity]] Public ::: Private ::: 00YY-MM-DD"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
+{"dg-publish":true,"permalink":"/session-notes/episode-05/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-13T13:33:49.760-05:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-11-24","SESH_Name":null,"SESH_Next":"[[Episode 06]]","SESH_Prev":"[[Session Notes/Episode 04]]","Scenario":"[[Session Notes/Scenarios/Into The Blender]]","Scenario_Index":3,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":["[[Entity]] Public ::: Private ::: 00YY-MM-DD"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
 ---
 
 
@@ -63,11 +63,23 @@
 
 # 
 
-> [!note|bg-c-purple]+ Housekeeping
+> [!info|bg-c-purple]- Housekeeping
 > 
 
 > [!cite|bg-c-purple]+ Previously On *Zero Sum*...
-> [[]]
+> !r!
+> 
+> The defense of Hygiea was a near-complete success.
+> 
+> [[Database/Things/Blender's Edge\|Blender's Edge]] and its leader, [[Database/People/Beaujolais Rigg\|Beaujolais Rigg]], were successfully driven off, with no casualties among your friendlies, and two ejected mercenaries taken prisoner. And even  when it turned out that the external operation was a diversion meant to let [[Database/People/Carlo Estashee\|Carlo Estashee]] launch an attack from inside the colony, you were able to race back in time, take out his [[Database/Mobile Suits/KUD-20 Telomane\|KUD-20 Telomane]], and capture him just before he made it out of the freight elevator and into the colony's industrial area proper. 
+> 
+> However. Just because the defense was successful doesn't mean it was unproblematic. Your flight was notably down one member, since [[Player Characters/Menodora Thaliana\|Menodora Thaliana]]
+> 
+> [[Database/People/Gen Bashaba\|Bashaba]] is *furious* with [[Player Characters/Menodora Thaliana\|Mena]], and also not thrilled with [[Player Characters/August Grier\|Auggie]]'s disregard for his own life.
+> 
+> Mena: three days in the brig. Just long enough for the tournament to wrap up without you. 
+> 
+> !/r!
 
 #  
 
