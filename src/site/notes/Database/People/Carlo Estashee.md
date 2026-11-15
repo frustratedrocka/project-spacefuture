@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/people/carlo-estashee/","tags":["npc","character","entity","pilot","minor"],"noteIcon":"","updated":"2026-11-13T22:45:38.241-05:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: Spark Shower","2 Dmg ::: ","4 Dsbl ::: Legs Unresponsive","6 Doom ::: Cockpit Boiling"],"MECH_Gear":["Dual Katanas","`REDACTED`"],"tags":["npc","character","entity","pilot","minor"],"aliases":[null],"Perf_Notes":["SMUG. Poor sportsman."],"Portrait":"[[Admin/Attachments/Carl_Matsubara_SQ.webp]]","Faction":["[[Database/Factions/Independent]]"],"Rank":null,"Origin":null,"Assoc":["[[Database/Things/Blender's Edge]]"],"Concept":"Dirty-Fighting Asshole","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["[[Blender's Edge]] Infiltrator"],"Stunts":["**BUSHWHACKER** +1 when you Fight Cleverly, Subtly, or Carefully and invoke an aspect representing stealth or subterfuge","**STUNT** Description","**STUNT** Description"],"Strain":4,"MECH_Model":["[[Database/Mobile Suits/KUD-20 Telomane]]"],"MECH_Secret":false,"Armor":4,"MECH_Relationship":"Eager To Break It In","Skills":["Acquire 0","Fight 3","Interface 0","Know 1","Lead 0","Move 2","Network 0","Notice 2","Operate 0","Persevere 1","Shoot 1","Sway 2","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 1","Boldly 1","Forcefully 2","Cleverly 3","Subtly 2","Carefully 1"],"Stats_On":false,"Skills_On":false,"Stunts_On":false,"cl":111}}
+{"dg-publish":true,"permalink":"/database/people/carlo-estashee/","tags":["npc","character","entity","pilot","minor"],"noteIcon":"","updated":"2026-11-15T15:34:20.941-05:00","dg-note-properties":{"Strain_LIVE":0,"Armor_LIVE":4,"Consequences":["2 Mild ::: ","2 Mild ::: Locked until Persevere 5","4 Mod ::: ","6 Svr ::: "],"Breakdown":["2 Dnt ::: Spark Shower","2 Dmg ::: ","4 Dsbl ::: Legs Unresponsive","6 Doom ::: Cockpit Boiling"],"MECH_Gear":["Dual Katanas","Hip Cannons"],"tags":["npc","character","entity","pilot","minor"],"aliases":[null],"Perf_Notes":["SMUG. Poor sportsman."],"Portrait":"[[Admin/Attachments/Carl_Matsubara_SQ.webp]]","Faction":["[[Database/Factions/Independent]]"],"Rank":null,"Origin":null,"Assoc":["[[Database/Things/Blender's Edge]]"],"Concept":"Dirty-Fighting Asshole","Relationship":"Relationship","Loyalty":"`REDACTED`","Aspects":["[[Blender's Edge]] Infiltrator"],"Stunts":["**BUSHWHACKER** +1 when you Fight Cleverly, Subtly, or Carefully and invoke an aspect representing stealth or subterfuge"],"Strain":4,"MECH_Model":["[[Database/Mobile Suits/KUD-20 Telomane]]"],"MECH_Secret":false,"Armor":4,"MECH_Relationship":"Eager To Break It In","Skills":["Acquire 0","Fight 3","Interface 0","Know 1","Lead 0","Move 2","Network 0","Notice 2","Operate 0","Persevere 1","Shoot 1","Sway 2","Tend 0","Tinker 0","Understand 0"],"Approaches":["Quickly 1","Boldly 1","Forcefully 2","Cleverly 3","Subtly 2","Carefully 1"],"Stats_On":true,"Skills_On":true,"Stunts_On":true,"cl":111}}
 ---
 
 # 
@@ -51,11 +51,11 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Destroyed Hot-Rodded Pit Fighter</span></td></tr><tr><td><span>Untested Prototype</span></td></tr><tr><td><span>Eager To Break It In</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] GEAR ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Dual Katanas</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Dual Katanas</span></td></tr><tr><td><span>Hip Cannons</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 >[!blank|static wfull] FORCE LINE BREAK WHERE NO MECH
 
-  !r!
+   
 
 > [!blank|flex embed clean skills-table] SKILLS & APPROACHES
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span>Fight</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Cleverly</span></td></tr><tr><td><span>Move, Notice, Sway</span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Forcefully, Subtly</span></td></tr><tr><td><span>Know, Persevere, Shoot</span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span>Boldly, Carefully, Quickly</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -63,7 +63,7 @@
    
 
 > [!blank|flex embed clean] STUNTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>BUSHWHACKER</strong> +1 when you Fight Cleverly, Subtly, or Carefully and invoke an aspect representing stealth or subterfuge</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr><tr><td><span><strong>STUNT</strong> Description</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>BUSHWHACKER</strong> +1 when you Fight Cleverly, Subtly, or Carefully and invoke an aspect representing stealth or subterfuge</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
  
 
@@ -72,7 +72,7 @@
 
  
 
-!/r!
+ 
 
 > [!blank|static wfull] ==🟢EDIT BELOW==
 
