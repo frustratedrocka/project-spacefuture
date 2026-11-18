@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T13:20:12.073-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Jovian Consortium]]","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian","Jovians"],"cl":103}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T14:01:15.656-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Jovian Consortium]]","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"aliases":["Insiders","Jovian","Jovians"],"cl":104}}
 ---
 
 # 
@@ -21,6 +21,11 @@
 >|**FELLOWSHIP**|2|
 >|**FORCE**|6|
 >|**FRATERNITY**|8|
+>
+>## Subfactions
+> - [[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye Heavy Industries]]
+>
+{ .block-language-dataview}
 
 
 
