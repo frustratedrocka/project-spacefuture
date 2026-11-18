@@ -16,7 +16,6 @@ The [[Database/Things/Fishbone\|Fishbone]] limps to the industrial colony of [[D
 >[!cards|dataview collapse 4 img-tiny] NPCs
 >  | Portrait                                                                              | Character                                                   |
 > | ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-> | \-                                                                                    | **[[Database/Factions/Blender's Edge\|Blender's Edge]]** |
 > | ![Admin/Attachments/Saul_Tigh.webp\|sban cover](/img/user/Admin/Attachments/Saul_Tigh.webp)                                     | **[[Database/People/Artel Ward\|Artel Ward]]**           |
 > | ![Admin/Attachments/Belfangan_Clouseau.webp\|sban cover](/img/user/Admin/Attachments/Belfangan_Clouseau.webp)                            | **[[Database/People/Beaujolais Rigg\|Beaujolais Rigg]]** |
 > | ![Admin/Attachments/Carl_Matsubara_SQ.webp\|sban cover](/img/user/Admin/Attachments/Carl_Matsubara_SQ.webp)                             | **[[Database/People/Carlo Estashee\|Carlo Estashee]]**   |
