@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T13:20:37.870-05:00","dg-note-properties":{"tags":["faction"],"Portrait":null,"Faction":"[[Database/Factions/Apsis]]","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Oppressors"],"cl":103}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T14:06:32.725-05:00","dg-note-properties":{"tags":["faction"],"Portrait":null,"Faction":"[[Database/Factions/Apsis]]","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Oppressors"],"cl":104}}
 ---
 
 # 
@@ -21,6 +21,12 @@
 >|**FELLOWSHIP**|2|
 >|**FORCE**|8|
 >|**FRATERNITY**|6|
+>
+>
+> 
+{ .block-language-dataview}
+
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/things/storm-s-eye-heavy-industries/","tags":["faction"],"noteIcon":"","updated":"2026-11-18T13:58:48.215-05:00","dg-note-properties":{"tags":["faction"],"Faction":[["Jovian Consortium"]],"Beliefs":["Sell To Everyone - Even You","`REDACTED`","One Hand On The Tiller"],"Paragon":[["The CEO"]],"Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":[null],"cl":103}}
+{"dg-publish":true,"permalink":"/database/things/storm-s-eye-heavy-industries/","tags":["faction"],"noteIcon":"","updated":"2026-11-18T14:07:05.586-05:00","dg-note-properties":{"tags":["faction"],"Faction":[["Jovian Consortium"]],"Beliefs":["Sell To Everyone - Even You","`REDACTED`","One Hand On The Tiller"],"Paragon":[["The CEO"]],"Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":[null],"cl":104}}
 ---
 
 # 
@@ -21,6 +21,12 @@
 >|**FELLOWSHIP**|2|
 >|**FORCE**|2|
 >|**FRATERNITY**|2|
+>
+>
+> 
+{ .block-language-dataview}
+
+
 
 
 

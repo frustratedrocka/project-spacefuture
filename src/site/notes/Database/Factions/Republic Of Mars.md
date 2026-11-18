@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-11-11T05:50:53.948-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Republic Of Mars]]","Portrait":"[[Admin/Attachments/RFGuerillaPropPoster1.webp]]","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian","Martians"]}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-11-18T14:09:02.234-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Republic Of Mars]]","Portrait":"[[Admin/Attachments/RFGuerillaPropPoster1.webp]]","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian","Martians"],"cl":104}}
 ---
+
+# 
 
 
 >[!infobox|embed ws-med]
@@ -11,7 +13,7 @@
 >>|||
 >>|--|--|
 >>|**PARAGON**|`=link(this.Paragon)`|
->>|**BELIEFS**|"We Deserve Self-Determination,"<br>"Delay Is Complicity"|
+>>|**BELIEFS**|"We Deserve Self-Determination"<br>"Delay Is Complicity"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -19,6 +21,12 @@
 >|**FELLOWSHIP**|8|
 >|**FORCE**|6|
 >|**FRATERNITY**|2|
+>
+>
+> 
+{ .block-language-dataview}
+
+
 
 *Officially*, [[Database/History/The Ground War\|The Ground War]] ended with no winner, and the [[Database/Places/Colonies/Ceres\|Ceres]] accords established [[Database/Factions/Apsis\|Apsis]] as an unaligned, neutral administration.
 
@@ -37,7 +45,7 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 >[!blank|static wfull]
 
 > [!blank|flex embed clean] CHARACTERS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Database/People/Gen Bashaba.md" data-href="Database/People/Gen Bashaba" aria-label="Database/People/Gen Bashaba.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Gen Bashaba</a></span></td><td><span>Fledgling <a class="internal-link" href="Fishbone" data-href="Database/Things/Fishbone" target="_blank" rel="noopener nofollow">Fishbone</a> shipmaster rising to the occasion - Relationship - <code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] LOCATIONS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Concept</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Database/Places/Colonies/Arjuna.md" data-href="Database/Places/Colonies/Arjuna" aria-label="Database/Places/Colonies/Arjuna.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Arjuna</a></span></td><td><span>-</span></td><td><span><a class="internal-link" href="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" aria-label="Database/Factions/Rebels.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span>Contested</span></td><td><span><a class="internal-link" href="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars" aria-label="Database/Factions/Republic Of Mars.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">ROM</a></span></td></tr><tr><td><span><a class="internal-link" href="Database/Places/Earth.md" data-href="Database/Places/Earth" aria-label="Database/Places/Earth.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Earth</a></span></td><td><span>Humanity's Cradle Turned Life Support</span></td><td><span><a class="internal-link" href="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" aria-label="Database/Factions/Apsis.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Apsis</a></span></td><td><span>No Man's Land</span></td><td><span><a class="internal-link" href="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars" aria-label="Database/Factions/Republic Of Mars.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span></td></tr><tr><td><span><a class="internal-link" href="Database/Places/Colonies/Hygiea.md" data-href="Database/Places/Colonies/Hygiea" aria-label="Database/Places/Colonies/Hygiea.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Hygiea</a></span></td><td><span>Remote Industrial Colony Throwing In With Rebels</span></td><td><span><a class="internal-link" href="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" aria-label="Database/Factions/Rebels.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span>Safe Harbor</span></td><td><span><a class="internal-link" href="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars" aria-label="Database/Factions/Republic Of Mars.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">ROM</a></span></td></tr><tr><td><span><a class="internal-link" href="Database/Places/Mars Sphere/Mars.md" data-href="Database/Places/Mars Sphere/Mars" aria-label="Database/Places/Mars Sphere/Mars.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Mars</a></span></td><td><span>Unofficially Lost The Ground War</span></td><td><span><a class="internal-link" href="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars" aria-label="Database/Factions/Republic Of Mars.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span></td><td><span>Semi-Occupied Territory</span></td><td><span><a class="internal-link" href="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" aria-label="Database/Factions/Apsis.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Apsis</a></span></td></tr><tr><td><span><a class="internal-link" href="Database/Places/Colonies/Theseus.md" data-href="Database/Places/Colonies/Theseus" aria-label="Database/Places/Colonies/Theseus.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Theseus</a></span></td><td><span>Terrified Into Silence</span></td><td><span><a class="internal-link" href="Database/Factions/Independent.md" data-href="Database/Factions/Independent" aria-label="Database/Factions/Independent.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Independent</a></span></td><td><span>Under The Radar</span></td><td><span><a class="internal-link" href="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars" aria-label="Database/Factions/Republic Of Mars.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

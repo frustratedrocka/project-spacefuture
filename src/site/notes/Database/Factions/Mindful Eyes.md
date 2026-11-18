@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-27T03:23:25.238-04:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Mindful Eyes]]","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"]}}
+{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T14:12:51.497-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Mindful Eyes]]","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"],"cl":104}}
 ---
+
+# 
 
 
 >[!infobox|embed ws-med]
@@ -11,7 +13,7 @@
 >>|||
 >>|--|--|
 >>|**PARAGON**|[[Database/People/The Mother And The Father\|The Mother And The Father]]|
->>|**BELIEFS**|"Don't Let Your Gift Be Abused,"<br>"Survival Through Secrecy"|
+>>|**BELIEFS**|"Don't Let Your Gift Be Abused"<br>"Survival Through Secrecy"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -19,6 +21,12 @@
 >|**FELLOWSHIP**|8|
 >|**FORCE**|2|
 >|**FRATERNITY**|4|
+>
+>
+> 
+{ .block-language-dataview}
+
+
 
 [[Database/History/The Hive Mind\|Hive mind]] refugees that came together due to war, betrayal, and abuse of their gift. They find comfort and community between themselves with two defacto leaders that are more symbolic than literal. 
 
@@ -33,6 +41,8 @@ Fraternity: With wars and conflicts, some still have connections with some of th
 Force: Not the forefront, but not slacked. If ever needed, they rely on small, elite strike teams. Unfortunately, their low numbers mean they need to be very deliberate about when and where to deploy, and they can't answer every threat without giving ground elsewhere.
 
 The Eyes are still processing the idea that the Moondrop and the Ground War all stemmed from an attempt to wipe _them, specifically_, off the face of the solar system; it's one of the biggest things they collectively don't know how to feel about. Being part of the Hive Mind does not mean you don't get to have your own emotions and point of view on things, just that you also have access to everyone else's. This comes mostly in the form of vague emotional connotations and flashes, especially since there's far fewer of them now than there were at the peak of the fungal spread and the connection has weakened proportionately to their numbers.
+
+
 
 
 

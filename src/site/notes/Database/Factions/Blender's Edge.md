@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/blender-s-edge/","tags":["faction"],"noteIcon":"","updated":"2026-11-18T13:44:42.719-05:00","dg-note-properties":{"tags":["faction"],"Faction":[["Independent"]],"Beliefs":["Everyone's Got A Price; Ours Are Posted"],"Paragon":[["Beaujolais Rigg"]],"Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":[null],"cl":103}}
+{"dg-publish":true,"permalink":"/database/factions/blender-s-edge/","tags":["faction"],"noteIcon":"","updated":"2026-11-18T14:08:25.505-05:00","dg-note-properties":{"tags":["faction"],"Faction":[["Independent"]],"Beliefs":["Everyone's Got A Price; Ours Are Posted"],"Paragon":[["Beaujolais Rigg"]],"Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":[null],"cl":104}}
 ---
 
 # 
@@ -21,6 +21,12 @@
 >|**FELLOWSHIP**|2|
 >|**FORCE**|2|
 >|**FRATERNITY**|2|
+>
+>
+> 
+{ .block-language-dataview}
+
+
 
 
 

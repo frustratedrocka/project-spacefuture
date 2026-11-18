@@ -28,6 +28,12 @@
 >|**FELLOWSHIP**|8|
 >|**FORCE**|4|
 >|**FRATERNITY**|2|
+>
+> 
+> 
+{ .block-language-dataview}
+
+
 
 
 
@@ -115,6 +121,12 @@ The current mission is simple: Intercept excess food shipments and redirect them
 >|**FELLOWSHIP**|2|
 >|**FORCE**|8|
 >|**FRATERNITY**|6|
+>
+>
+> 
+{ .block-language-dataview}
+
+
 
 
 
@@ -230,6 +242,8 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 
 
 
+# 
+
 
 >[!infobox|embed ws-med]
 ># Republic Of Mars
@@ -239,7 +253,7 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 >>|||
 >>|--|--|
 >>|**PARAGON**|`=link(this.Paragon)`|
->>|**BELIEFS**|"We Deserve Self-Determination,"<br>"Delay Is Complicity"|
+>>|**BELIEFS**|"We Deserve Self-Determination"<br>"Delay Is Complicity"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -247,6 +261,12 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 >|**FELLOWSHIP**|8|
 >|**FORCE**|6|
 >|**FRATERNITY**|2|
+>
+>
+> 
+{ .block-language-dataview}
+
+
 
 *Officially*, [[Database/History/The Ground War\|The Ground War]] ended with no winner, and the [[Database/Places/Colonies/Ceres\|Ceres]] accords established [[Database/Factions/Apsis\|Apsis]] as an unaligned, neutral administration.
 
@@ -287,6 +307,8 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 
 
 
+# 
+
 
 >[!infobox|embed ws-med]
 ># Armada Ejecta
@@ -296,7 +318,7 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 >>|||
 >>|--|--|
 >>|**PARAGON**|[[Database/People/The Pirate King\|The Pirate King]]|
->>|**BELIEFS**|"Take Back What's Ours,"<br>"Loyalty Among Thieves"|
+>>|**BELIEFS**|"Take Back What's Ours"<br>"Loyalty Among Thieves"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -304,6 +326,12 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 >|**FELLOWSHIP**|8|
 >|**FORCE**|6|
 >|**FRATERNITY**|4|
+>
+> 
+> 
+{ .block-language-dataview}
+
+
 
 Space pirates. Also refugees, displaced survivors of [[Database/Places/Earth\|Earth]] and Luna, exiles with chips on their shoulder. Formed into a loose collective `REDACTED`, largely on [[Database/People/The Pirate King\|The Pirate King]]'s initiative.
 
@@ -336,6 +364,8 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 
 
 
+# 
+
 
 >[!infobox|embed ws-med]
 ># Mindful Eyes
@@ -345,7 +375,7 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 >>|||
 >>|--|--|
 >>|**PARAGON**|[[Database/People/The Mother And The Father\|The Mother And The Father]]|
->>|**BELIEFS**|"Don't Let Your Gift Be Abused,"<br>"Survival Through Secrecy"|
+>>|**BELIEFS**|"Don't Let Your Gift Be Abused"<br>"Survival Through Secrecy"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -353,6 +383,12 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 >|**FELLOWSHIP**|8|
 >|**FORCE**|2|
 >|**FRATERNITY**|4|
+>
+>
+> 
+{ .block-language-dataview}
+
+
 
 [[Database/History/The Hive Mind\|Hive mind]] refugees that came together due to war, betrayal, and abuse of their gift. They find comfort and community between themselves with two defacto leaders that are more symbolic than literal. 
 
@@ -367,6 +403,8 @@ Fraternity: With wars and conflicts, some still have connections with some of th
 Force: Not the forefront, but not slacked. If ever needed, they rely on small, elite strike teams. Unfortunately, their low numbers mean they need to be very deliberate about when and where to deploy, and they can't answer every threat without giving ground elsewhere.
 
 The Eyes are still processing the idea that the Moondrop and the Ground War all stemmed from an attempt to wipe _them, specifically_, off the face of the solar system; it's one of the biggest things they collectively don't know how to feel about. Being part of the Hive Mind does not mean you don't get to have your own emotions and point of view on things, just that you also have access to everyone else's. This comes mostly in the form of vague emotional connotations and flashes, especially since there's far fewer of them now than there were at the peak of the fungal spread and the connection has weakened proportionately to their numbers.
+
+
 
 
 
@@ -394,6 +432,8 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 
 
 
+# 
+
 
 >[!infobox|embed ws-med]
 ># Hive Cult
@@ -403,7 +443,7 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 >>|||
 >>|--|--|
 >>|**PARAGON**|[[Database/People/The Queen\|The Queen]]|
->>|**BELIEFS**|"The Queen's Word Is Law,"<br>"Their Gift Is Our Destiny,"<br>"Never Turn A Blind Eye"|
+>>|**BELIEFS**|"The Queen's Word Is Law"<br>"Their Gift Is Our Destiny"<br>"Never Turn A Blind Eye"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -411,6 +451,11 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 >|**FELLOWSHIP**|6|
 >|**FORCE**|4|
 >|**FRATERNITY**|2|
+>
+>
+> 
+{ .block-language-dataview}
+
 
 
 Hive Cultists
@@ -420,6 +465,7 @@ They decide they want in on [[Database/History/The Hive Mind\|The Hive Mind]] ev
 Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could do better if only they were given a chance. If they find a member, *take them*. "Never Turn A Blind Eye" includes being ever-vigilant and never missing an opportunity.
 
 `REDACTED`
+
 
 >[!blank|static wfull]
 

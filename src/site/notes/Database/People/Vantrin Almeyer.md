@@ -11,7 +11,7 @@
 > 
 >
 >>[!blank|clean embed n-th] VITALS
->>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a class="internal-link" href="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" aria-label="Database/Factions/Apsis.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Apsis</a></span></td></tr><tr><td><span><strong>ORIGIN</strong></span></td><td><span><code>REDACTED</code></span></td></tr><tr><td><span><strong>ASSOC.</strong></span></td><td><span><a class="internal-link" href="Database/Things/Brynhildr.md" data-href="Database/Things/Brynhildr" aria-label="Database/Things/Brynhildr.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Brynhildr</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 >  
 >> [!blank|clean embed tbl-u-1] CONSEQUENCES
 >>  | Harm | Consequence |
