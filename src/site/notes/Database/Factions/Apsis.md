@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-27T03:18:23.141-04:00","dg-note-properties":{"tags":["faction"],"Portrait":null,"Faction":"[[Database/Factions/Apsis]]","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Oppressors"],"cl":102}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T13:20:37.870-05:00","dg-note-properties":{"tags":["faction"],"Portrait":null,"Faction":"[[Database/Factions/Apsis]]","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"aliases":["Oppressors"],"cl":103}}
 ---
+
+# 
 
 
 >[!infobox|embed ws-med]
@@ -11,7 +13,7 @@
 >>|||
 >>|--|--|
 >>|**PARAGON**|[[Database/People/The Man Upstairs\|The Man Upstairs]]|
->>|**BELIEFS**|"We Are The Line Between The System And Starvation,"<br>"Our Ends Justify Any Means"|
+>>|**BELIEFS**|"We Are The Line Between The System And Starvation"<br>"Our Ends Justify Any Means"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -19,6 +21,8 @@
 >|**FELLOWSHIP**|2|
 >|**FORCE**|8|
 >|**FRATERNITY**|6|
+
+
 
 Originally a shipping company run by [[Database/People/The Man Upstairs\|The Man Upstairs]], Apsis was empowered by the Ceres Accords that ended [[Database/History/The Ground War\|The Ground War]] as an ostensibly neutral body to oversee food distribution throughout the solar system.
 
@@ -35,6 +39,8 @@ A major wrinkle in any attempt to permanently deal with Apsis is that they are, 
 Apsis maintains liaison offices on major colonies which provide it with the accurate and up-to-date information it needs to effectively do its job. These personnel are primarily bureaucrats: inspectors and negotiators who keep colony officials honest and ensure the calories continue to flow. 
 
 `REDACTED`
+
+
 
 >[!blank|static wfull]
 

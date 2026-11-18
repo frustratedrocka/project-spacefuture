@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["mech","entity"],"noteIcon":"","updated":"2026-10-27T16:01:58.114-04:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Rejunot"],"Portrait":"[[Admin/Attachments/RebelGruntSuit_SQ.webp]]","MECH_Concept":"Modernized Rebel Grunt Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]"],"DEV_From":null,"cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-18T13:25:49.731-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Rejunot"],"Portrait":"[[Admin/Attachments/RebelGruntSuit_SQ.webp]]","MECH_Concept":"Modernized Rebel Grunt Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]","[[Database/Things/Storm's Eye Heavy Industries]]"],"DEV_From":null,"cl":102}}
 ---
 
 # 
@@ -13,7 +13,7 @@
 > 
 >
 >> [!blank|flex embed clean n-th] VITALS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a class="internal-link" href="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" aria-label="Database/Factions/Rebels.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Fields</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTIONS</strong><br><a class="internal-link" href="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" aria-label="Database/Factions/Rebels.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Rebels</a><br><a class="internal-link" href="Database/Things/Storm's Eye Heavy Industries.md" data-href="Database/Things/Storm's Eye Heavy Industries" aria-label="Database/Things/Storm's Eye Heavy Industries.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Storm's Eye Heavy Industries</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Modernized Rebel Grunt Suit</span></td></tr><tr><td><span>Rushed Into Production</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

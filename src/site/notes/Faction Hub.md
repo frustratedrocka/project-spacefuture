@@ -9,6 +9,9 @@
 
 
 
+# 
+
+
 >[!infobox|embed ws-med]
 ># Rebels
 >![Admin/Attachments/RebelInsignia.webp\|RebelInsignia.webp](/img/user/Admin/Attachments/RebelInsignia.webp)
@@ -26,9 +29,14 @@
 >|**FORCE**|4|
 >|**FRATERNITY**|2|
 
+
+
 The [[Database/Factions/Rebels\|Rebels]] are a motley assortment of defectors, pirates, deniable government support, ideologues, and anyone else willing and able to take drastic measures to correct Apsis's lethal overreach. They officially formed as a direct response to [[Database/Factions/Apsis\|Apsis]] attempting to make an example of multiple dissenting colonies - [[Database/Places/Colonies/Kelly\|Kelly]], [[Database/Places/Colonies/Geb\|Geb]], [[Database/Places/Colonies/Arjuna\|Arjuna]] - by cutting their food allotments below starvation levels. 
 
 The current mission is simple: Intercept excess food shipments and redirect them from the Jupiter sphere towards the places where they're most needed. That said, the questions of who gets to define "excess" and what counts as "most needed" are matters of significant internal debate.
+
+
+
 
 
 >[!blank|wfull]
@@ -88,6 +96,8 @@ The current mission is simple: Intercept excess food shipments and redirect them
 
 
 
+# 
+
 
 >[!infobox|embed ws-med]
 ># Apsis
@@ -97,7 +107,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 >>|||
 >>|--|--|
 >>|**PARAGON**|[[Database/People/The Man Upstairs\|The Man Upstairs]]|
->>|**BELIEFS**|"We Are The Line Between The System And Starvation,"<br>"Our Ends Justify Any Means"|
+>>|**BELIEFS**|"We Are The Line Between The System And Starvation"<br>"Our Ends Justify Any Means"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -105,6 +115,8 @@ The current mission is simple: Intercept excess food shipments and redirect them
 >|**FELLOWSHIP**|2|
 >|**FORCE**|8|
 >|**FRATERNITY**|6|
+
+
 
 Originally a shipping company run by [[Database/People/The Man Upstairs\|The Man Upstairs]], Apsis was empowered by the Ceres Accords that ended [[Database/History/The Ground War\|The Ground War]] as an ostensibly neutral body to oversee food distribution throughout the solar system.
 
@@ -121,6 +133,8 @@ A major wrinkle in any attempt to permanently deal with Apsis is that they are, 
 Apsis maintains liaison offices on major colonies which provide it with the accurate and up-to-date information it needs to effectively do its job. These personnel are primarily bureaucrats: inspectors and negotiators who keep colony officials honest and ensure the calories continue to flow. 
 
 `REDACTED`
+
+
 
 >[!blank|static wfull]
 
@@ -152,6 +166,8 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 
 
 
+# 
+
 
 >[!infobox|embed ws-med]
 ># Jovian Consortium
@@ -161,7 +177,7 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 >>|||
 >>|--|--|
 >>|**PARAGON**|[[Database/People/The CEO\|The CEO]]|
->>|**BELIEFS**|"Obedience Through Power,"<br>"Trust The (Long) Process"|
+>>|**BELIEFS**|"Obedience Through Power"<br>"Trust The (Long) Process"|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -169,6 +185,8 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 >|**FELLOWSHIP**|2|
 >|**FORCE**|6|
 >|**FRATERNITY**|8|
+
+
 
 The corporate council that forms the effective governing body of the [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] sphere. Whether they hold the leash of [[Database/Factions/Apsis\|Apsis]] or the other way around is becoming a murkier question every day. The Consortium believes that since it produces the [[Helium-3\|Helium-3]] that the rest of the solar system runs on, it's somewhat entitled to throw its weight around. This is largely what led to the unstable stalemate that ended the Ground War: Jupiter needs food (which currently only the [[Database/Factions/Republic Of Mars\|Republic Of Mars]] and a few dedicated colonies in [[Database/Glossary/The Belt\|The Belt]] can grow enough of to export) and soil (which also needs Mars and/or the Belt as staging areas for extraction), but eventually enough of the latter will allow them self-sufficiency for the former. Mars and the Belt, on the other hand, will never stop needing Jovian fuel. 
 
@@ -180,10 +198,12 @@ With that attitude as a baseline, it came as something of a shock to outside obs
 
 Jovian culture firmly believes that nothing worth doing happens quickly. Which, considering that it takes each [[Database/Places/Charun\|Charun]] ferry a month and change to travel from [[Database/Glossary/The Belt\|The Belt]] to [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]] and another month for it to get back, and 43 minutes for a message sent at the speed of light to travel the distance to Sol and another 43 minutes for the response to come in, is understandable. `REDACTED`
 
+
+
 >[!blank|static wfull]
 
 > [!blank|flex embed clean] CHARACTERS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Database/People/Artel Ward.md" data-href="Database/People/Artel Ward" aria-label="Database/People/Artel Ward.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Artel Ward</a></span></td><td><span>Grizzled <a class="internal-link" href="Fishbone" data-href="Database/Things/Fishbone" target="_blank" rel="noopener nofollow">Fishbone</a> XO - Relationship - <code>REDACTED</code></span></td></tr><tr><td><span><a class="internal-link" href="Database/People/The CEO.md" data-href="Database/People/The CEO" aria-label="Database/People/The CEO.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">The CEO</a></span></td><td><span>CEO of <a class="internal-link" href="Storm's Eye Heavy Industries" data-href="Database/Things/Storm's Eye Heavy Industries" target="_blank" rel="noopener nofollow">Storm's Eye Heavy Industries</a> - Relationship - When You Think Jovians, You Think CEO</span></td></tr><tr><td><span><a class="internal-link" href="Database/Things/Storm's Eye Heavy Industries.md" data-href="Database/Things/Storm's Eye Heavy Industries" aria-label="Database/Things/Storm's Eye Heavy Industries.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Storm's Eye Heavy Industries</a></span></td><td><span>Key Mobile Suit Manufacturer - Sells To Everyone, Including You - <code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Database/People/Artel Ward.md" data-href="Database/People/Artel Ward" aria-label="Database/People/Artel Ward.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Artel Ward</a></span></td><td><span>Grizzled <a class="internal-link" href="Fishbone" data-href="Database/Things/Fishbone" target="_blank" rel="noopener nofollow">Fishbone</a> XO - Relationship - <code>REDACTED</code></span></td></tr><tr><td><span><a class="internal-link" href="Database/People/The CEO.md" data-href="Database/People/The CEO" aria-label="Database/People/The CEO.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">The CEO</a></span></td><td><span>CEO of <a class="internal-link" href="Storm's Eye Heavy Industries" data-href="Database/Things/Storm's Eye Heavy Industries" target="_blank" rel="noopener nofollow">Storm's Eye Heavy Industries</a> - Relationship - When You Think Jovians, You Think CEO</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] LOCATIONS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Concept</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Database/Places/Charun.md" data-href="Database/Places/Charun" aria-label="Database/Places/Charun.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Charun</a></span></td><td><span>Enormous Belt-Jupiter Cyclers</span></td><td><span><a class="internal-link" href="Database/Factions/Independent.md" data-href="Database/Factions/Independent" aria-label="Database/Factions/Independent.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Independent</a></span></td><td><span>Semi-Extraterritorial</span></td><td><span><a class="internal-link" href="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium" aria-label="Database/Factions/Jovian Consortium.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td><span><a class="internal-link" href="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone" aria-label="Database/Things/Fishbone.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Fishbone</a></span></td><td><span>Rebel Destroyer, Closest Thing To Home</span></td><td><span><a class="internal-link" href="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" aria-label="Database/Factions/Rebels.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span>Courtesy Of the Consortium</span></td><td><span><a class="internal-link" href="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium" aria-label="Database/Factions/Jovian Consortium.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td><span><a class="internal-link" href="Database/Places/Colonies/Geb.md" data-href="Database/Places/Colonies/Geb" aria-label="Database/Places/Colonies/Geb.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Geb</a></span></td><td><span>-</span></td><td><span><a class="internal-link" href="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" aria-label="Database/Factions/Rebels.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Rebels</a></span></td><td><span>Contested</span></td><td><span><a class="internal-link" href="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium" aria-label="Database/Factions/Jovian Consortium.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td><span><a class="internal-link" href="Database/Places/Jupiter Sphere/Jupiter.md" data-href="Database/Places/Jupiter Sphere/Jupiter" aria-label="Database/Places/Jupiter Sphere/Jupiter.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Jupiter</a></span></td><td><span>Industrial Center Of Sol</span></td><td><span><a class="internal-link" href="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium" aria-label="Database/Factions/Jovian Consortium.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td><td><span>Home / Headquarters</span></td><td><span><a class="internal-link" href="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" aria-label="Database/Factions/Apsis.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Apsis</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -424,7 +444,7 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 >[!blank|static wfull]
 
 > [!blank|flex embed clean] CHARACTERS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Database/People/Beaujolais Rigg.md" data-href="Database/People/Beaujolais Rigg" aria-label="Database/People/Beaujolais Rigg.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Beaujolais Rigg</a></span></td><td><span>Mercenary Leader - Relationship - <code>REDACTED</code></span></td></tr><tr><td><span><a class="internal-link" href="Database/People/Carlo Estashee.md" data-href="Database/People/Carlo Estashee" aria-label="Database/People/Carlo Estashee.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Carlo Estashee</a></span></td><td><span>Dirty-Fighting Asshole - Relationship - <code>REDACTED</code></span></td></tr><tr><td><span><a class="internal-link" href="Database/People/Fibria Wobik.md" data-href="Database/People/Fibria Wobik" aria-label="Database/People/Fibria Wobik.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Fibria Wobik</a></span></td><td><span>Runs Al-Saachez Home For Orphaned &amp; Abandoned Children - Grateful for <a class="internal-link" href="Lane Gable" data-href="Player Characters/Lane Gable" aria-label="Lane Gable" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Lane</a>'s aid - <code>REDACTED</code></span></td></tr><tr><td><span><a class="internal-link" href="Database/Things/Blender's Edge.md" data-href="Database/Things/Blender's Edge" aria-label="Database/Things/Blender's Edge.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Blender's Edge</a></span></td><td><span>Deep-Belt Mercenary Company - <a class="internal-link" href="August Grier" data-href="Player Characters/August Grier" aria-label="August Grier" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Auggie</a> &amp; Co. Fucked Them Up - Everyone's Got A Price; Ours Are Posted</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Database/People/Beaujolais Rigg.md" data-href="Database/People/Beaujolais Rigg" aria-label="Database/People/Beaujolais Rigg.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Beaujolais Rigg</a></span></td><td><span>Mercenary Leader - <a class="internal-link" href="August Grier" data-href="Player Characters/August Grier" aria-label="August Grier" data-tooltip-position="top" target="_blank" rel="noopener nofollow">August</a>'s Old Crew Wrecked Mine - <code>REDACTED</code></span></td></tr><tr><td><span><a class="internal-link" href="Database/People/Carlo Estashee.md" data-href="Database/People/Carlo Estashee" aria-label="Database/People/Carlo Estashee.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Carlo Estashee</a></span></td><td><span>Dirty-Fighting Asshole - Relationship - <code>REDACTED</code></span></td></tr><tr><td><span><a class="internal-link" href="Database/People/Fibria Wobik.md" data-href="Database/People/Fibria Wobik" aria-label="Database/People/Fibria Wobik.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Fibria Wobik</a></span></td><td><span>Runs Al-Saachez Home For Orphaned &amp; Abandoned Children - Grateful for <a class="internal-link" href="Lane Gable" data-href="Player Characters/Lane Gable" aria-label="Lane Gable" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Lane</a>'s aid - <code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] LOCATIONS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Concept</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Database/Places/Charun.md" data-href="Database/Places/Charun" aria-label="Database/Places/Charun.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Charun</a></span></td><td><span>Enormous Belt-Jupiter Cyclers</span></td><td><span><a class="internal-link" href="Database/Factions/Independent.md" data-href="Database/Factions/Independent" aria-label="Database/Factions/Independent.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Independent</a></span></td><td><span>Semi-Extraterritorial</span></td><td><span><a class="internal-link" href="Database/Factions/Jovian Consortium.md" data-href="Database/Factions/Jovian Consortium" aria-label="Database/Factions/Jovian Consortium.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Jovian Consortium</a></span></td></tr><tr><td><span><a class="internal-link" href="Database/Places/Colonies/Theseus.md" data-href="Database/Places/Colonies/Theseus" aria-label="Database/Places/Colonies/Theseus.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Theseus</a></span></td><td><span>Terrified Into Silence</span></td><td><span><a class="internal-link" href="Database/Factions/Independent.md" data-href="Database/Factions/Independent" aria-label="Database/Factions/Independent.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Independent</a></span></td><td><span>Under The Radar</span></td><td><span><a class="internal-link" href="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis" aria-label="Database/Factions/Apsis.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Apsis</a><br><a class="internal-link" href="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars" aria-label="Database/Factions/Republic Of Mars.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Republic Of Mars</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
