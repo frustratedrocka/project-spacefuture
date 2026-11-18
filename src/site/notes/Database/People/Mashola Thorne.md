@@ -11,7 +11,7 @@
 > 
 >
 >>[!blank|clean embed n-th] VITALS
->>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a class="internal-link" href="Database/Factions/Rebels.md" data-href="Database/Factions/Rebels" aria-label="Database/Factions/Rebels.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Rebels</a></span></td></tr><tr><td><span><strong>ORIGIN</strong></span></td><td><span><code>REDACTED</code></span></td></tr><tr><td><span><strong>ASSOC.</strong></span></td><td><span><a class="internal-link" href="Database/Things/Fishbone.md" data-href="Database/Things/Fishbone" aria-label="Database/Things/Fishbone.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Fishbone</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 >  
 >> [!blank|clean embed tbl-u-1] CONSEQUENCES
 >>  | Harm | Consequence |
@@ -40,12 +40,12 @@
 !/mech!
 
 > [!blank|flex embed clean] ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Fishbone" data-href="Database/Things/Fishbone" target="_blank" rel="noopener nofollow">Fishbone</a> Sensor Tech</span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> 
 
 !mech!
 
 > [!blank|flex embed clean] MECH ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> 
 
 > [!blank|flex embed clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Equipment</span></td></tr><tr><td><span>Equipment</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -55,7 +55,7 @@
 !/mech! !r!
 
 > [!blank|flex embed clean skills-table] SKILLS & APPROACHES
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span>Notice</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Quickly</span></td></tr><tr><td><span>Interface, Tinker</span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Cleverly</span></td></tr><tr><td><span></span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span>Notice</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Quickly</span></td></tr><tr><td><span>Interface, Tinker</span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Cleverly</span></td></tr><tr><td><span></span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span></span></td></tr></tbody></table>
 
    
 
@@ -65,7 +65,7 @@
 !mech!
 
 > [!blank|embed clean] MECH STUNTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !/mech!
 
@@ -89,4 +89,4 @@ They/Them
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] CHANGELOG
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Episode</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
