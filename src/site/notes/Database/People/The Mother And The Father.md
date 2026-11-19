@@ -11,7 +11,7 @@
 > 
 >
 >>[!blank|clean embed n-th] VITALS
->>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a class="internal-link" href="Database/Factions/Mindful Eyes.md" data-href="Database/Factions/Mindful Eyes" aria-label="Database/Factions/Mindful Eyes.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Mindful Eyes</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a class="internal-link" href="Database/Factions/Mindful Eyes.md" data-href="Database/Factions/Mindful Eyes" aria-label="Database/Factions/Mindful Eyes.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Mindful Eyes</a></span></td></tr><tr><td><span><strong>STRAIN</strong></span></td><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 >  
 >> [!blank|clean embed tbl-u-1] CONSEQUENCES
 >>  | Harm | Consequence |

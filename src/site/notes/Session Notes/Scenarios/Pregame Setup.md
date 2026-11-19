@@ -15,13 +15,13 @@ A *very* extended session zero, handling worldbuilding, character creation, and 
 
 ## NPCs
 >[!cards|dataview collapse 5 img-tiny] NPCs
->  | Portrait                                                       | Character                                                                       |
-> | -------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-> | ![Admin/Attachments/Athena_AppleseedExM_SQ.webp\|sban cover](/img/user/Admin/Attachments/Athena_AppleseedExM_SQ.webp) | **[[Database/People/The CEO\|The CEO]]**                                     |
-> | ![Admin/Attachments/Onassis.webp\|sban cover](/img/user/Admin/Attachments/Onassis.webp)                | **[[Database/People/The Man Upstairs\|The Man Upstairs]]**                   |
-> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)       | **[[Database/People/The Mother And The Father\|The Mother And The Father]]** |
-> | ![Admin/Attachments/Harlock.webp\|sban cover](/img/user/Admin/Attachments/Harlock.webp)                | **[[Database/People/The Pirate King\|The Pirate King]]**                     |
-> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)       | **[[Database/People/The Queen\|The Queen]]**                                 |
+>  | Portrait                                                                       | Character                                                                       |
+> | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+> | ![Admin/Attachments/Garbo_MataHari_ClarenceSinclairBull_SQ.webp\|sban cover](/img/user/Admin/Attachments/Garbo_MataHari_ClarenceSinclairBull_SQ.webp) | **[[Database/People/The CEO\|The CEO]]**                                     |
+> | ![Admin/Attachments/Onassis.webp\|sban cover](/img/user/Admin/Attachments/Onassis.webp)                                | **[[Database/People/The Man Upstairs\|The Man Upstairs]]**                   |
+> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                       | **[[Database/People/The Mother And The Father\|The Mother And The Father]]** |
+> | ![Admin/Attachments/Harlock.webp\|sban cover](/img/user/Admin/Attachments/Harlock.webp)                                | **[[Database/People/The Pirate King\|The Pirate King]]**                     |
+> | ![Admin/Attachments/GenericFeddie_SQ.webp\|sban cover](/img/user/Admin/Attachments/GenericFeddie_SQ.webp)                       | **[[Database/People/The Queen\|The Queen]]**                                 |
 > 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/episode-05/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-18T14:36:58.994-05:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-11-24","SESH_Name":null,"SESH_Next":"[[Episode 06]]","SESH_Prev":"[[Session Notes/Episode 04]]","Scenario":"[[Session Notes/Scenarios/Into The Blender]]","Scenario_Index":3,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":["[[Entity]] Public ::: Private ::: 00YY-MM-DD"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
+{"dg-publish":true,"permalink":"/session-notes/episode-05/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-19T10:40:02.670-05:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-11-24","SESH_Name":null,"SESH_Next":"[[Episode 06]]","SESH_Prev":"[[Session Notes/Episode 04]]","Scenario":"[[Session Notes/Scenarios/Into The Blender]]","Scenario_Index":3,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":["[[Entity]] Public ::: Private ::: 00YY-MM-DD"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
 ---
 
 
@@ -81,9 +81,9 @@
 > 
 > He doesn't know where they got the [[Telomane\|Telomane]]. He doesn't know who hired them, or what they want with the component. He doesn't know what the component is for, beyond the description Blender's Edge passed to him that it's some kind of large internal gimbal. 
 > 
-> The Seeker CQC pilot appears to be a local 
+> The Seeker CQC pilot appears to be an incredibly ill-advised local who Carlo convinced to help 
 > 
-> The tournament is canceled. Shore leave is not, since the [[Database/Things/Fishbone\|Fishbone]]'s repairs are still not done.
+> Due to the enormously increased scrutiny from the colony's administration, the tournament is cancelled.
 > 
 > !/r!
 

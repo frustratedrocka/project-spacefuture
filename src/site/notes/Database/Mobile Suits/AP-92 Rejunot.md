@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-18T13:25:49.731-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Rejunot"],"Portrait":"[[Admin/Attachments/RebelGruntSuit_SQ.webp]]","MECH_Concept":"Modernized Rebel Grunt Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Storm's Eye Heavy Industries]]"],"DEV_From":null,"cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-19T11:35:11.439-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Rejunot"],"Portrait":"[[Admin/Attachments/RebelGruntSuit_SQ.webp]]","MECH_Concept":"Modernized Rebel Grunt Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":["**PANORAMIC COCKPIT** +1 when you Notice "],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Storm's Eye Heavy Industries]]"],"DEV_From":null,"cl":102}}
 ---
 
 # 
@@ -22,7 +22,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Rejunot Carbine</span></td></tr><tr><td><span>Beam Saber</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH STUNTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>PANORAMIC COCKPIT</strong> +1 when you Notice </span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 # Notes
 

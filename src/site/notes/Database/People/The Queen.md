@@ -11,7 +11,7 @@
 > 
 >
 >>[!blank|clean embed n-th] VITALS
->>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a class="internal-link" href="Database/Factions/Hive Cult.md" data-href="Database/Factions/Hive Cult" aria-label="Database/Factions/Hive Cult.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Hive Cult</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a class="internal-link" href="Database/Factions/Hive Cult.md" data-href="Database/Factions/Hive Cult" aria-label="Database/Factions/Hive Cult.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Hive Cult</a></span></td></tr><tr><td><span><strong>STRAIN</strong></span></td><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 >  
 >> [!blank|clean embed tbl-u-1] CONSEQUENCES
 >>  | Harm | Consequence |
@@ -45,7 +45,7 @@
 !h!
 
 > [!blank|flex embed clean] MECH ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Nucleus of the Cult</span></td></tr><tr><td><span>Ponderous</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span>Nucleus of the Cult</span></td></tr><tr><td><span>Ponderous</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
