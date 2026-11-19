@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/storm-s-eye-heavy-industries/","tags":["faction"],"noteIcon":"","updated":"2026-11-18T22:33:47.310-05:00","dg-note-properties":{"tags":["faction"],"Faction":[["Jovian Consortium"]],"Beliefs":["Sell To Everyone - Even You","`REDACTED`","One Hand On The Tiller"],"Paragon":[["The CEO"]],"Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"Scale":3,"aliases":[null],"cl":108}}
+{"dg-publish":true,"permalink":"/database/factions/storm-s-eye-heavy-industries/","tags":["faction"],"noteIcon":"","updated":"2026-11-19T09:33:10.518-05:00","dg-note-properties":{"tags":["faction"],"Faction":[["Jovian Consortium"]],"Beliefs":["Sell To Everyone - Even You","`REDACTED`","One Hand On The Tiller"],"Paragon":[["The CEO"]],"Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"Scale":3,"aliases":[null],"cl":108}}
 ---
 
 # 
@@ -7,7 +7,7 @@
 
 >[!infobox|embed ws-med]
 ># Storm's Eye Heavy Industries
->`=choice(this.portrait != null, embed(this.Portrait), "")`
+>
 >
 >>[!blank|clean n-th]
 >>|||
@@ -31,7 +31,7 @@
 
 
 
-Based on [[Database/Places/Jupiter Sphere/Ganymede\|Ganymede]]. The first large-scale manufacturer of mobile suits. Originally based on [[Database/Places/Jupiter Sphere/Ganymede\|Ganymede]], with a second production facility in [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]]'s mid-outer orbit.
+The first large-scale manufacturer of mobile suits. Originally based on [[Database/Places/Jupiter Sphere/Ganymede\|Ganymede]], with a second production facility in [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]]'s mid-outer orbit.
 
 
 

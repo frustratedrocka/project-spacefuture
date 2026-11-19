@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/blender-s-edge/","tags":["faction"],"noteIcon":"","updated":"2026-11-18T22:32:29.457-05:00","dg-note-properties":{"tags":["faction"],"Faction":[["Independent"]],"Beliefs":["Everyone's Got A Price; Ours Are Posted"],"Paragon":[["Beaujolais Rigg"]],"Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"Scale":1,"aliases":[null],"cl":108}}
+{"dg-publish":true,"permalink":"/database/factions/blender-s-edge/","tags":["faction"],"noteIcon":"","updated":"2026-11-19T09:33:16.753-05:00","dg-note-properties":{"tags":["faction"],"Faction":[["Independent"]],"Beliefs":["Everyone's Got A Price; Ours Are Posted"],"Paragon":[["Beaujolais Rigg"]],"Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"Scale":1,"aliases":[null],"cl":108}}
 ---
 
 # 
@@ -7,7 +7,7 @@
 
 >[!infobox|embed ws-med]
 ># Blender's Edge
->`=choice(this.portrait != null, embed(this.Portrait), "")`
+>
 >
 >>[!blank|clean n-th]
 >>|||

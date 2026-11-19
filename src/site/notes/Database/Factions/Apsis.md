@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T22:31:32.526-05:00","dg-note-properties":{"tags":["faction"],"Portrait":null,"Faction":"[[Database/Factions/Apsis]]","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"Scale":5,"aliases":["Oppressors"],"cl":108}}
+{"dg-publish":true,"permalink":"/database/factions/apsis/","tags":["faction"],"noteIcon":"","updated":"2026-11-19T09:31:53.490-05:00","dg-note-properties":{"tags":["faction"],"Portrait":null,"Faction":"[[Database/Factions/Apsis]]","Beliefs":["We Are The Line Between The System And Starvation","Our Ends Justify Any Means"],"Paragon":"[[Database/People/The Man Upstairs]]","Fealty":4,"Fellowship":2,"Force":8,"Fraternity":6,"Scale":5,"aliases":["Oppressors"],"cl":108}}
 ---
 
 # 
@@ -7,7 +7,7 @@
 
 >[!infobox|embed ws-med]
 ># Apsis
->`=choice(this.portrait != null, embed(this.Portrait), "")`
+>
 >
 >>[!blank|clean n-th]
 >>|||

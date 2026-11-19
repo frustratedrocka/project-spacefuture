@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T22:32:20.216-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Jovian Consortium]]","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"Scale":5,"aliases":["Insiders","Jovian","Jovians"],"cl":108}}
+{"dg-publish":true,"permalink":"/database/factions/jovian-consortium/","tags":["faction"],"noteIcon":"","updated":"2026-11-19T09:32:17.116-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Jovian Consortium]]","Beliefs":["Obedience Through Power","Trust The (Long) Process"],"Paragon":"[[Database/People/The CEO]]","Fealty":4,"Fellowship":2,"Force":6,"Fraternity":8,"Scale":5,"aliases":["Insiders","Jovian","Jovians"],"cl":108}}
 ---
 
 # 
@@ -7,7 +7,7 @@
 
 >[!infobox|embed ws-med]
 ># Jovian Consortium
->`=choice(this.portrait != null, embed(this.Portrait), "")`
+>
 >
 >>[!blank|clean n-th]
 >>|||

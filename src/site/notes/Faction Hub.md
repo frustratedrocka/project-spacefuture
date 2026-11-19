@@ -96,7 +96,7 @@ The current mission is simple: Intercept excess food shipments and redirect them
 
 >[!infobox|embed ws-med]
 ># Apsis
->`=choice(this.portrait != null, embed(this.Portrait), "")`
+>
 >
 >>[!blank|clean n-th]
 >>|||
@@ -173,7 +173,7 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 
 >[!infobox|embed ws-med]
 ># Jovian Consortium
->`=choice(this.portrait != null, embed(this.Portrait), "")`
+>
 >
 >>[!blank|clean n-th]
 >>|||
@@ -362,7 +362,7 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 
 >[!infobox|embed ws-med]
 ># Mindful Eyes
->`=choice(this.portrait != null, embed(this.Portrait), "")`
+>
 >
 >>[!blank|clean n-th]
 >>|||
@@ -431,7 +431,7 @@ The Eyes are still processing the idea that the Moondrop and the Ground War all 
 
 >[!infobox|embed ws-med]
 ># Hive Cult
->`=choice(this.portrait != null, embed(this.Portrait), "")`
+>
 >
 >>[!blank|clean n-th]
 >>|||
