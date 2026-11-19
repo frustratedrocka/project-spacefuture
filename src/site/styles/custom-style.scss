@@ -131,9 +131,13 @@ body {
   .markdown-embed {
     background-color:var(--page-bg-color-default);
   };
+
+  /* 
   ::after {
     display:none
-  };
+  }; 
+  */
+  
 }
 
 .filename, .foldername {
