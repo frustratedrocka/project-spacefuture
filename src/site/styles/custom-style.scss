@@ -29,8 +29,12 @@
     --page-bg-color-light: #303046;
 
     --th-border-size: 0px;
+
+    /* === OVERRIDES === */
+
     body {
         --dg-content-max-width: 800px;
+        --callout-margin: 0px;
     }
 }
 
