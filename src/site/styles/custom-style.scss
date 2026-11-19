@@ -89,7 +89,7 @@ body {
     color: var(--font-color-h1) !important;
     font-size: var(--font-size-h1) !important;
   };
-h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
+  h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
     font-family: var(--font-family-header)!important;
     letter-spacing: 0.5px !important;
     font-weight: var(--font-weight-header) !important;
@@ -97,41 +97,45 @@ h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2{
     color: var(--font-color-h2) !important;
     font-size: var(--font-size-h2) !important;
   };
-h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
-    font-family: var(--font-family-header);
-    letter-spacing: 0.5px;
+  h3, .markdown-rendered h3, .HyperMD-header-3, .HyperMD-list-line .cm-header-3{
+    font-family: var(--font-family-header) !important;
+    letter-spacing: 0.5px !important;
     font-weight: var(--font-weight-header) !important;
     text-transform: uppercase !important;
     color: var(--font-color-h3) !important;
     font-size: var(--font-size-h3) !important;
   };
-h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
+  h4, .markdown-rendered h4, .HyperMD-header-4, .HyperMD-list-line .cm-header-4{
     font-family: var(--font-family-header) !important;
     letter-spacing: 0.5px !important;
     font-weight: var(--font-weight-header) !important;
     text-transform: uppercase !important;
     color: var(--font-color-h1) !important;
   };
-p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
+  p, li, table, .markdown-rendered p, .HyperMD-paragraph, .cm-paragraph {
     font-size: var(--font-size-body)!important;
     font-family: var(--font-family-body) !important;
     color: var(--font-color-body) !important;
   };
-.callout-title-inner{
+  .callout-title-inner{
       font-family: var(--font-family-header) !important;
       text-transform:uppercase !important;
     color: var(--font-color-body) !important;
   };
-.internal-link:not(.is-unresolved), .external-link, .filename, .toc-active{
+  .internal-link:not(.is-unresolved), .external-link, .filename, .toc-active{
     color: var(--font-color-link) !important;
   };
   .obsidian-bases-single-view-name, .obsidian-base-table, .obsidian-base-table-wrapper, .obsidian-base-table.tbody, .obsidian-base-empty, .obsidian-bases-result-count, .obsidian-bases-toolbar, .obsidian-base-table td {
   font-size: var(--font-size-body) !important;
   };
-.markdown-embed {
-  background-color:var(--page-bg-color-default);
-    }
+  .markdown-embed {
+    background-color:var(--page-bg-color-default);
+  };
+  ::after {
+    display:none
+  };
 }
+
 .filename, .foldername {
   font-family:var(--font-family-body) !important;
 }
