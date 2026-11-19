@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-18T13:25:49.731-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Rejunot"],"Portrait":"[[Admin/Attachments/RebelGruntSuit_SQ.webp]]","MECH_Concept":"Modernized Rebel Grunt Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]","[[Database/Things/Storm's Eye Heavy Industries]]"],"DEV_From":null,"cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/ap-92-rejunot/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-18T13:25:49.731-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Rejunot"],"Portrait":"[[Admin/Attachments/RebelGruntSuit_SQ.webp]]","MECH_Concept":"Modernized Rebel Grunt Suit","MECH_Trouble":"Rushed Into Production","MECH_Gear":["Rejunot Carbine","Beam Saber"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Rebels]]","[[Database/Factions/Storm's Eye Heavy Industries]]"],"DEV_From":null,"cl":102}}
 ---
 
 # 
@@ -16,17 +16,17 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH ASPECTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Modernized Rebel Grunt Suit</span></td></tr><tr><td><span>Rushed Into Production</span></td></tr></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Modernized Rebel Grunt Suit</span></td></tr><tr><td><span>Rushed Into Production</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] KNOWN ARMAMENTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Rejunot Carbine</span></td></tr><tr><td><span>Beam Saber</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH STUNTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table>
 
 # Notes
 
-Meet the AP-92 Rejunot, a fresh-off-the-line production MS being made for the [[Database/Factions/Rebels\|Rebels]] by ~~[[Database/Things/Storm's Eye Heavy Industries\|Storm's Eye]]~~ nobody in particular, gosh I wonder where do they get all those wonderful toys? 
+Meet the AP-92 Rejunot, a fresh-off-the-line production MS being made for the [[Database/Factions/Rebels\|Rebels]] by ~~[[Database/Factions/Storm's Eye Heavy Industries\|Storm's Eye]]~~ nobody in particular, gosh I wonder where do they get all those wonderful toys? 
 
 The good: Very high performance for a production model, plenty of bells and whistles and QoL features. The bad: Rushed into production; the first units only got into rebel hands a few months ago. There may still be some kinks to work out.
 

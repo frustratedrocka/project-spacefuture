@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-11-18T14:09:02.234-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Republic Of Mars]]","Portrait":"[[Admin/Attachments/RFGuerillaPropPoster1.webp]]","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"aliases":["ROM","Martian","Martians"],"cl":104}}
+{"dg-publish":true,"permalink":"/database/factions/republic-of-mars/","tags":["faction"],"noteIcon":"","updated":"2026-11-18T22:32:51.125-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Republic Of Mars]]","Portrait":"[[Admin/Attachments/RFGuerillaPropPoster1.webp]]","Beliefs":["We Deserve Self-Determination","Delay Is Complicity"],"Paragon":null,"Fealty":4,"Fellowship":8,"Force":6,"Fraternity":2,"Scale":4,"aliases":["ROM","Martian","Martians"],"cl":108}}
 ---
 
 # 
@@ -13,7 +13,8 @@
 >>|||
 >>|--|--|
 >>|**PARAGON**|`=link(this.Paragon)`|
->>|**BELIEFS**|"We Deserve Self-Determination"<br>"Delay Is Complicity"|
+>>|**BELIEFS**|"We Deserve Self-Determination",<br>"Delay Is Complicity"|
+>>|**SCALE**|4|
 >
 >|SKILL|RANK|
 >|--|:--:|

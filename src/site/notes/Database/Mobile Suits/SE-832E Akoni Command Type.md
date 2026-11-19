@@ -22,7 +22,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Gatling Cannon</span></td></tr><tr><td><span>Akoni Bazooka</span></td></tr><tr><td><span>Underslung SMG</span></td></tr><tr><td><span>Heat Tanto</span></td></tr><tr><td><span>Beam Saber</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH STUNTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td></tr><tr><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>30 SECONDS TO DISPERSE</strong> +1 when you Lead Forcefully to intimidate a group into complying with your demands, +2 if you intend to meet noncompliance with violence against people not in mobile suits.</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table>
 
 # Notes
 

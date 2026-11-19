@@ -32,10 +32,10 @@ Kerbstomp is originally a ground-war era Gundam, recovered and maintained by a s
 ## Data
 
 > [!blank|embed clean] APPEARANCES
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td><td>1</td><td>September 01, 2026</td></tr><tr><td><span></span></td><td><span></span></td><td>1</td><td>September 29, 2026</td></tr><tr><td><span></span></td><td><span></span></td><td>1</td><td>October 27, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> 
 
 > [!blank|embed clean] EVENTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] CHANGELOG
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Episode</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

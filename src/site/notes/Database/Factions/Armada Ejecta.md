@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-18T14:08:47.467-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Armada Ejecta]]","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"aliases":["Survivors","Space Pirates"],"Portrait":"[[Admin/Attachments/CV_Recolor.webp]]","cl":104}}
+{"dg-publish":true,"permalink":"/database/factions/armada-ejecta/","tags":["faction"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-18T22:32:59.931-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Armada Ejecta]]","Beliefs":["Take Back What's Ours","Loyalty Among Thieves"],"Paragon":"[[Database/People/The Pirate King]]","Fealty":2,"Fellowship":8,"Force":6,"Fraternity":4,"Scale":4,"aliases":["Survivors","Space Pirates"],"Portrait":"[[Admin/Attachments/CV_Recolor.webp]]","cl":108}}
 ---
 
 # 
@@ -13,7 +13,8 @@
 >>|||
 >>|--|--|
 >>|**PARAGON**|[[Database/People/The Pirate King\|The Pirate King]]|
->>|**BELIEFS**|"Take Back What's Ours"<br>"Loyalty Among Thieves"|
+>>|**BELIEFS**|"Take Back What's Ours",<br>"Loyalty Among Thieves"|
+>>|**SCALE**|4|
 >
 >|SKILL|RANK|
 >|--|:--:|

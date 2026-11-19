@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/blender-s-edge/","tags":["faction"],"noteIcon":"","updated":"2026-11-18T14:08:25.505-05:00","dg-note-properties":{"tags":["faction"],"Faction":[["Independent"]],"Beliefs":["Everyone's Got A Price; Ours Are Posted"],"Paragon":[["Beaujolais Rigg"]],"Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"aliases":[null],"cl":104}}
+{"dg-publish":true,"permalink":"/database/factions/blender-s-edge/","tags":["faction"],"noteIcon":"","updated":"2026-11-18T22:32:29.457-05:00","dg-note-properties":{"tags":["faction"],"Faction":[["Independent"]],"Beliefs":["Everyone's Got A Price; Ours Are Posted"],"Paragon":[["Beaujolais Rigg"]],"Fealty":2,"Fellowship":2,"Force":2,"Fraternity":2,"Scale":1,"aliases":[null],"cl":108}}
 ---
 
 # 
@@ -7,13 +7,14 @@
 
 >[!infobox|embed ws-med]
 ># Blender's Edge
->`=embed(this.Portrait)`
+>`=choice(this.portrait != null, embed(this.Portrait), "")`
 >
 >>[!blank|clean n-th]
 >>|||
 >>|--|--|
 >>|**PARAGON**|[[Database/People/Beaujolais Rigg\|Beaujolais Rigg]]|
 >>|**BELIEFS**|"Everyone's Got A Price; Ours Are Posted"|
+>>|**SCALE**|1|
 >
 >|SKILL|RANK|
 >|--|:--:|
@@ -37,7 +38,7 @@ A mercenary company active primarily in the deep [[Database/Glossary/The Belt\|b
 >[!blank|static wfull]
 
 > [!blank|flex embed clean] CHARACTERS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Database/People/Beaujolais Rigg.md" data-href="Database/People/Beaujolais Rigg" aria-label="Database/People/Beaujolais Rigg.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Beaujolais Rigg</a></span></td><td><span><a class="internal-link" href="Blender's Edge" data-href="Database/Factions/Blender's Edge" target="_blank" rel="noopener nofollow">Blender's Edge</a> Mercenary Leader - <a class="internal-link" href="August Grier" data-href="Player Characters/August Grier" aria-label="August Grier" data-tooltip-position="top" target="_blank" rel="noopener nofollow">August</a>'s Old Crew Wrecked Mine - <code>REDACTED</code></span></td></tr><tr><td><span><a class="internal-link" href="Database/People/Carlo Estashee.md" data-href="Database/People/Carlo Estashee" aria-label="Database/People/Carlo Estashee.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Carlo Estashee</a></span></td><td><span>Dirty-Fighting Asshole - Relationship - <code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Character</span></th><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Database/People/Beaujolais Rigg.md" data-href="Database/People/Beaujolais Rigg" aria-label="Database/People/Beaujolais Rigg.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Beaujolais Rigg</a></span></td><td><span><a class="internal-link" href="Blender's Edge" data-href="Database/Factions/Blender's Edge" target="_blank" rel="noopener nofollow">Blender's Edge</a> Mercenary Leader - <a class="internal-link" href="August Grier" data-href="Player Characters/August Grier" aria-label="August Grier" data-tooltip-position="top" target="_blank" rel="noopener nofollow">August</a>'s Old Crew Wrecked Mine - <code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] LOCATIONS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Location</span></th><th class="table-view-th"><span>Concept</span></th><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Control</span></th><th class="table-view-th"><span>Presence</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

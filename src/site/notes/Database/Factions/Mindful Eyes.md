@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T14:12:51.497-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Mindful Eyes]]","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"aliases":["Hive"],"cl":104}}
+{"dg-publish":true,"permalink":"/database/factions/mindful-eyes/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T22:33:52.477-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Mindful Eyes]]","Beliefs":["Don't Let Your Gift Be Abused","Survival Through Secrecy"],"Paragon":"[[Database/People/The Mother And The Father]]","Fealty":6,"Fellowship":8,"Force":2,"Fraternity":4,"Scale":3,"aliases":["Hive"],"cl":108}}
 ---
 
 # 
@@ -7,13 +7,14 @@
 
 >[!infobox|embed ws-med]
 ># Mindful Eyes
->`=embed(this.Portrait)`
+>`=choice(this.portrait != null, embed(this.Portrait), "")`
 >
 >>[!blank|clean n-th]
 >>|||
 >>|--|--|
 >>|**PARAGON**|[[Database/People/The Mother And The Father\|The Mother And The Father]]|
->>|**BELIEFS**|"Don't Let Your Gift Be Abused"<br>"Survival Through Secrecy"|
+>>|**BELIEFS**|"Don't Let Your Gift Be Abused",<br>"Survival Through Secrecy"|
+>>|**SCALE**|3|
 >
 >|SKILL|RANK|
 >|--|:--:|

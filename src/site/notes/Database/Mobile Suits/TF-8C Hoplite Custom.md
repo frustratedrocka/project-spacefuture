@@ -22,7 +22,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Machinegun</span></td></tr><tr><td><span>Missile Launcher</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH STUNTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>HAMMER AND ANVIL</strong> +1 when you Shoot a target already engaged in combat with an ally.</span></td></tr><tr><td><span><strong>DEAD MECH WALKING</strong> When you would be taken out, you may take one final turn before the character who took you out declares what happened to you.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>HAMMER AND ANVIL</strong> +1 when you Shoot a target already engaged in combat with an ally.</span></td></tr><tr><td><span><strong>DEAD MECH WALKING</strong> When you would be taken out, you may take one final turn before the character who took you out declares what happened to you.</span></td></tr></tbody></table>
 
 # Notes
 
@@ -35,4 +35,4 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|embed clean] CHANGELOG
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Episode</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

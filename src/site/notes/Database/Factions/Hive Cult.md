@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T14:11:57.535-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Hive Cult]]","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[Database/People/The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"aliases":["Cult"],"cl":104}}
+{"dg-publish":true,"permalink":"/database/factions/hive-cult/","tags":["faction"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-18T22:33:27.855-05:00","dg-note-properties":{"tags":["faction"],"Faction":"[[Database/Factions/Hive Cult]]","Beliefs":["The Queen's Word Is Law","Their Gift Is Our Destiny","Never Turn A Blind Eye"],"Paragon":"[[Database/People/The Queen]]","Fealty":8,"Fellowship":6,"Force":4,"Fraternity":2,"Scale":"`REDACTED`","aliases":["Cult"],"cl":108}}
 ---
 
 # 
@@ -7,13 +7,14 @@
 
 >[!infobox|embed ws-med]
 ># Hive Cult
->`=embed(this.Portrait)`
+>`=choice(this.portrait != null, embed(this.Portrait), "")`
 >
 >>[!blank|clean n-th]
 >>|||
 >>|--|--|
 >>|**PARAGON**|[[Database/People/The Queen\|The Queen]]|
->>|**BELIEFS**|"The Queen's Word Is Law"<br>"Their Gift Is Our Destiny"<br>"Never Turn A Blind Eye"|
+>>|**BELIEFS**|"The Queen's Word Is Law",<br>"Their Gift Is Our Destiny",<br>"Never Turn A Blind Eye"|
+>>|**SCALE**|!r! 2 !/r!|
 >
 >|SKILL|RANK|
 >|--|:--:|
