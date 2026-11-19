@@ -11,7 +11,7 @@
 > 
 >
 >>[!blank|clean embed n-th] VITALS
->>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+>>  <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>"<strong>" + field + "</strong>"</span></th><th class="table-view-th"><span>join(rows.EntryGate, "<br>")</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FACTION</strong></span></td><td><span><a class="internal-link" href="Database/Factions/Hive Cult.md" data-href="Database/Factions/Hive Cult" aria-label="Database/Factions/Hive Cult.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Hive Cult</a></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 >  
 >> [!blank|clean embed tbl-u-1] CONSEQUENCES
 >>  | Harm | Consequence |
@@ -40,12 +40,12 @@
 !/h!
 
 > [!blank|flex embed clean] ASPECTS
-> 
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span>Relationship</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !h!
 
 > [!blank|flex embed clean] MECH ASPECTS
-> 
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Nucleus of the Cult</span></td></tr><tr><td><span>Ponderous</span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] GEAR ASPECTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Gear Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
@@ -55,7 +55,7 @@
 !/h! !r!
 
 > [!blank|flex embed clean skills-table] SKILLS & APPROACHES
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>3</strong> (Great)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>2</strong> (Good)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span></span></td></tr></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>3</strong> (Great)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>2</strong> (Good)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
    
 
@@ -65,7 +65,7 @@
 !h!
 
 > [!blank|embed clean] MECH STUNTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td></tr><tr><td><span></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>FUNNEL CAGE</strong> When you Operate Forcefully to create an advantage by using your funnels to limit your opponent's mobility, gain an additional free invoke if you succeed, or turn a tie into a full success.</span></td></tr><tr><td><span><strong>PINNED BUTTERFLY</strong> +1 when you Shoot to try and finish off a target that your funnels and/or cultists have pinned down, +2 if you might hit a cultist in the shot's path.</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 !/h!
 
@@ -86,7 +86,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Episode</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Session Notes/World Jam.md" data-href="Session Notes/World Jam" aria-label="Session Notes/World Jam.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">World Jam</a> - A Century Emerges</span></td><td><span><a class="internal-link" href="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td><span>0</span></td><td>August 04, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] EVENTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] CHANGELOG
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Episode</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

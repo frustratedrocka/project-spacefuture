@@ -60,7 +60,7 @@
 !/r!  
 
 > [!blank|flex embed clean] STUNTS
-> 
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Stunts</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr><tr><td><span><code>REDACTED</code></span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
  
 
@@ -95,10 +95,10 @@
 ## Data
 
 > [!blank|flex embed clean] APPEARANCES
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td><td><span></span></td><td>August 04, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Episode</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Part</span></th><th class="table-view-th"><span>Date</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a class="internal-link" href="Session Notes/World Jam.md" data-href="Session Notes/World Jam" aria-label="Session Notes/World Jam.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">World Jam</a> - A Century Emerges</span></td><td><span><a class="internal-link" href="Session Notes/Scenarios/Pregame Setup.md" data-href="Session Notes/Scenarios/Pregame Setup" aria-label="Session Notes/Scenarios/Pregame Setup.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Pregame Setup</a></span></td><td><span>0</span></td><td>August 04, 2026</td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] EVENTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>EP</span></th><th class="table-view-th"><span>Scenario</span></th><th class="table-view-th"><span>Impact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] CHANGELOG
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Episode</span></th><th class="table-view-th"><span>Change</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
