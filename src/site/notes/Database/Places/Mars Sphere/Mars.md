@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/mars-sphere/mars/","tags":["location","entity"],"noteIcon":"","updated":"2026-11-13T13:07:06.981-05:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp]]","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"],"cl":103}}
+{"dg-publish":true,"permalink":"/database/places/mars-sphere/mars/","tags":["location","entity"],"noteIcon":"","updated":"2026-11-22T11:21:34.255-05:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Locations Hub|Planet]]","Faction":["[[Database/Factions/Republic Of Mars]]"],"Control":"Semi-Occupied Territory","Faction_Presence":["[[Database/Factions/Apsis]]"],"Portrait":"[[Admin/Attachments/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.webp]]","Concept":"Unofficially Lost The Ground War","Trouble":"Political Powder Keg","Aspects":["`REDACTED`"],"cl":104}}
 ---
 
 # 

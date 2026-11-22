@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-22T07:45:14.453-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/2-character-creation/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-22T11:26:33.028-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Pilot Creation
@@ -120,8 +120,6 @@ There is no set equipment list, so you're free to outfit your mech with whatever
 
 ### Gear Types
 
-G
-
 **MELEE** gear can be used only when the attacker is within the same zone as the defender. If an attack using a melee weapon succeeds and inflicts harm on the defender, it inflicts 1 additional harm. Examples: Beam Saber, Heat Axe, Pile Bunker, Meteor Hammer. 
 
 **RANGED** gear has an ideal range, typically **1**, representing the number of zones away from the defender in which the attacker is most effective. An attack using a ranged weapon at its ideal range is handled as described in [[Rules/1 Core Rules#Attack\|1 Core Rules#Attack]] with no additional modifiers. An attack using a ranged weapon 1 zone closer or farther than its ideal range gives +1 hit to the opposing defense. Ranged attacks cannot be made more than 1 zone outside the weapon's ideal range. Examples: Dual Pistols (0), Shotgun (0), Machine Gun (1), Beam Rifle (1), Twin Buster Rifle (2), Linear Sniper Rifle (2). 
@@ -136,7 +134,7 @@ The GM may offer a special type of compel to **DESTROY** a piece of gear. This c
 
 Special rules apply if gear is destroyed as part of your mech suffers a breakdown other than Dented. This can occur either before you write the breakdown aspect ("I'll offer a fate point if this knocks off your *Enhanced Sensor Array*") or after ("You said your arm got damaged; have a fate point if that also took out your *Shoulder Cannon*"). In this circumstance, the compel can be refused for free, without requiring a fate point. 
 
-> [!NOTE] Incentive Structures
+> [!note] Incentive Structures
 > By the logic set out in [[Rules/1 Core Rules#Compelling an Aspect\|1 Core Rules#Compelling an Aspect]], gear destruction *should* count as an Event compel and require a fate point to refuse. It gets a special carveout here because it would otherwise create a warped incentive structure around writing Breakdowns. If the players learn "I need to be careful what I write, because otherwise I might get charged a fate point to not lose more function than I intended," then writing Breakdown becomes a potentially adversarial exercise in defensive fiction-lawyering. Making refusal free preserves the intended effect: the compel turns up the pressure, or emerges as a natural extension of what just happened, but doesn't punish the player for insufficiently specific paranoia. 
 
  If the fiction allows for gear change as described above, then you may replace the destroyed gear aspect at the first opportunity. Otherwise, unless you've established the gear aspect as something irreplaceable like a bleeding-edge prototype, you'll get it back when the breakdown clears at the next Breakthrough. See [[Rules/4 Challenges, Conflicts, & Contests#Harm and Mechs\|4 Challenges, Conflicts, & Contests#Harm and Mechs]] for the full rules on suffering and clearing breakdown.
