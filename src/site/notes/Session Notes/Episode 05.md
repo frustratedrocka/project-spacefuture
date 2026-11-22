@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/episode-05/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-19T10:40:02.670-05:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-11-24","SESH_Name":null,"SESH_Next":"[[Episode 06]]","SESH_Prev":"[[Session Notes/Episode 04]]","Scenario":"[[Session Notes/Scenarios/Into The Blender]]","Scenario_Index":3,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":[null],"Impact":["[[Entity]] Public ::: Private ::: 00YY-MM-DD"],"Changelog":["[[Entity]] ::: Old ::: New"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
+{"dg-publish":true,"permalink":"/session-notes/episode-05/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-22T08:21:57.820-05:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-11-24","SESH_Name":"Sabotage","SESH_Next":"[[Episode 06]]","SESH_Prev":"[[Session Notes/Episode 04]]","Scenario":"[[Session Notes/Scenarios/Into The Blender]]","Scenario_Index":3,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":["[[Database/Mobile Suits/AP-92 Rejunot]]","[[Database/Mobile Suits/SE-832 Akoni]]"],"Impact":["[[August Grier]] assigned an [[AP-92 Rejunot]] while the [[TF-8C Hoplite Custom|Cossack]] is undergoing repairs ::: Private ::: 00YY-MM-DD"],"Changelog":["[[August Grier]] ::: Mobile Suit: [[TF-8C Hoplite Custom]] ::: Mobile Suit: [[AP-92 Rejunot]]"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
 ---
 
 
@@ -63,8 +63,14 @@
 
 # 
 
-> [!info|bg-c-purple]- Housekeeping
+> [!info|bg-c-purple]+ Housekeeping
+> **TENTATIVE** rules change to [[Rules/2 Character Creation#Gear Aspects\|2 Character Creation#Gear Aspects]]:
 > 
+> **MELEE** gear can be used only when the attacker is within the same zone as the defender. If an attack using a melee weapon succeeds and inflicts harm on the defender, it inflicts 1 additional harm. Examples: Beam Saber, Heat Axe, Pile Bunker, Meteor Hammer. 
+> 
+> **RANGED** gear has an ideal range, typically **1**, representing the number of zones away from the defender in which the attacker is most effective. An attack using a ranged weapon at its ideal range is handled as described in [[Rules/1 Core Rules#Attack\|1 Core Rules#Attack]] with no additional modifiers. An attack using a ranged weapon 1 zone closer or farther than its ideal range gives +1 hit to the opposing defense. Ranged attacks cannot be made more than 1 zone outside the weapon's ideal range. Examples: Dual Pistols (0), Shotgun (0), Machine Gun (1), Beam Rifle (1), Twin Buster Rifle (2), Anti-Ship Sniper Rifle (2). 
+> 
+> **DEFENSIVE** gear provides a single free invoke per scene when it is relevant to a Defend action. Examples: Shield, Chobham Armor, Anti-Beam Coating, Dummy Balloon Launcher.
 
 > [!cite|bg-c-purple]+ Previously On *Zero Sum*...
 > !r!

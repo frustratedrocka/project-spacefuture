@@ -170,34 +170,6 @@ This last aspect is completely up to you. Fill it in with anything else you thin
 
 When creating your **MECH ASPECTS**, you'll start with a high concept and a trouble, just like your pilot. For your third mech aspect, describe your **RELATIONSHIP** to your mech. Is it your loyal companion? An extension of your body? A replaceable tool like any other? An armored coffin? All of the above, or something else entirely? Think about how you feel about this machine and what makes it *yours* - or what it means to you if it's *not* yours. This Relationship aspect is the only one that may be freely rewritten at a [[Rules/Categories/Aspects#Milestone\|#Milestone]]; your mech's high concept and trouble both require a [[Rules/Categories/Aspects#Breakthrough\|#Breakthrough]] to rewrite.
 
-### Gear Aspects
->[!aside|s-t]+ EQUIPMENT PACKAGES
->Your session 0 should include discussion of the desired power level of the mechs in your game. Even within the source material, there can be a vast capability gulf between mechs in the same story - some mechs just pack a shield and a sniper rifle, while others have missile pods bolted to every available flat surface and a set of triple remote-controlled flying dual-gatling drones that are also shields. 
->
-> Neither of those are problematic equipment aspects by themselves, but they cannot coexist as PC mech loadouts at the same time without causing serious problems for everyone at the table. Make sure you all agree on the scope of options that a single gear aspect should be able to open for PC mechs, and try to keep your gear consistent with that baseline. 
-> 
-> NPC mechs, naturally, are not subject to these restrictions, and their gear can be as weak or as overpowered as the fiction demands.
-
-Mechs have two gear aspects, representing the equipment loadout you carry into battle. These aspects shape the tactical options available to you and define how your mech actually fights. They can be invoked or compelled like any other aspect, but they also have a few special rules.
-
-Mech equipment is proportionate to the mech using it, meaning it is enormous, intricate, and requires some lead time for the hangar crew to change out. This means that your gear aspects are not automatically available to rewrite as part of a [[Rules/Categories/Aspects#Milestone\|#Milestone]]. Instead, they may be freely changed when any of the following conditions apply:
-
-- You are about to deploy in a battle for which you had time to prepare (so if you're dealing with a surprise attack or other scenario that requires emergency rapid response, you'll have to make the best of what you're already equipped with).
-- A session begins or ends while you are in a position that would reasonably allow access to the facilities and time needed to reequip your mech (meaning you're not currently in your mech, you're not under immediate time pressure, and you're not in a situation or location that naturally prevents access to replacement gear like the middle of an empty desert). You may, if you like, specify a standard loadout that your mech is automatically reset to at this time unless you give instructions to override it.
-
-Unless you use a stunt to get an additional, more mechanically detailed permanent capability built into your mech's design (e.g. a transformation, prototype defense technology, advanced neural link, or other complex feature), these aspects are assumed to be the *only* equipment your mech deploys with above whatever baseline your table agrees on in session 0.
-
-The GM may offer a special type of compel to **DESTROY** a piece of gear when your mech suffers a breakdown other than Dented. This can occur either before you write the breakdown aspect ("I'll offer a fate point if this knocks off your *Enhanced Sensor Array*") or after ("You said your arm got damaged; have a fate point if that also took out your *Shoulder Cannon*"). This type of compel can be refused for free, without requiring a fate point. 
-
-> [!NOTE] Incentive Structures
-> By the logic set out in [[Rules/1 Core Rules#Compelling an Aspect\|1 Core Rules#Compelling an Aspect]], gear destruction *should* count as an Event compel and require a fate point to refuse. It gets a special carveout here because it would otherwise create a warped incentive structure around writing Breakdowns. If the players learn "I need to be careful what I write, because otherwise I might get charged a fate point to not lose more function than I intended," then writing Breakdown becomes a potentially adversarial exercise in defensive fiction-lawyering. Making refusal free preserves the intended effect: the compel turns up the pressure, or emerges as a natural extension of what just happened, but doesn't punish the player for insufficiently specific paranoia. 
-
- If the fiction allows for gear change as described above, then you may replace the destroyed gear aspect at the first opportunity. Otherwise, unless you've established the gear aspect as something irreplaceable like a bleeding-edge prototype, you'll get it back when the breakdown clears at the next Breakthrough. See [[Rules/4 Challenges, Conflicts, & Contests#Harm and Mechs\|4 Challenges, Conflicts, & Contests#Harm and Mechs]] for the full rules on suffering and clearing breakdown.
-
-There is no set equipment list, so you're free to outfit your mech with whatever gear you can dream up, but you must still work with the GM and other players to make sure you're all on the same page about what a gear aspect can actually do. The group has to agree on how many ways a single gear aspect can solve problems and what kinds of problems each aspect can answer. For example, "Guided Missile Rack" isn't a meaningfully different gear aspect from "Chest Compartment Clustered Micro-Missile Pods" - both solve problems by blowing them up at range. But "specialized sub-missile array" could include heat-seekers, bunker busters, chaff pods, and all manner of other tricks - suddenly, the scope of what the aspect can do has widened enormously. 
-
-**EXAMPLES** Beam Saber, Heat Axe, Shoulder Shield, Twin Head-Mounted Vulcans, Mega Bazooka Launcher, Enhanced Booster Binder, Atmospheric Re-Entry Balloon, Psi-Controlled Drone Swarm, Anti-Sensor Stealth Suite
-
 
 </div></div>
 

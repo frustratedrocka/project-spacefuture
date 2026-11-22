@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-10-23T19:57:04.112-04:00","dg-note-properties":{"tags":["rules","chapter"]}}
+{"dg-publish":true,"permalink":"/rules/1-core-rules/","tags":["rules","chapter"],"dgShowInlineTitle":true,"dgShowToc":true,"noteIcon":"","updated":"2026-11-22T07:18:07.540-05:00","dg-note-properties":{"tags":["rules","chapter"]}}
 ---
 
 # Taking Action
@@ -135,8 +135,8 @@ Most of the time, your target will actively oppose your attack. Passive oppositi
 
 **FAILURE:** You don't cause any harm to your target, and there may be an additional cost.
 **TIE:** You don't cause any harm, but you gain a [[Rules/Categories/Aspects#Boosts\|boost]].
-**SUCCESS:** Inflict [[Rules/4 Challenges, Conflicts, & Contests#Taking Harm\|harm]] on your target equal to the number of hits above the opposition. The target must use **STRAIN** to push through the harm or take **CONSEQUENCES**; if that's not possible, your target is **TAKEN OUT** of the conflict.
-**SUCCESS WITH STYLE:** As normal success, but you may also reduce the value of your hit by one to gain a boost.
+**SUCCESS:** Inflict [[Rules/4 Challenges, Conflicts, & Contests#Taking Harm\|harm]] on your target equal to the number of hits above the opposition. The target must use **STRAIN** to push through the harm or suffer **CONSEQUENCES**; if that's not possible, your target is **TAKEN OUT** of the conflict.
+**SUCCESS WITH STYLE:** As normal success, but you may also reduce the amount of harm inflicted by one to gain a boost.
 
 For more about harm, consequences, and getting taken out, see [[Rules/4 Challenges, Conflicts, & Contests#Taking Harm\|4 Challenges, Conflicts, & Contests#Taking Harm]]. 
 

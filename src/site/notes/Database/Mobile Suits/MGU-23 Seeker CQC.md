@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-23-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-11T05:16:02.711-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker CQC"],"Portrait":"[[Admin/Attachments/GB4_Seeker_CQC_SQ.webp]]","MECH_Concept":"Martian Ground War Era Fast-Attack Suit","MECH_Trouble":"Weak Armor","MECH_Gear":["Bastard Sword","Composite Pile Shield"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Independent]]"],"DEV_From":["[[Database/Mobile Suits/MGU-20 Seeker]]"],"cl":102}}
+{"dg-publish":true,"permalink":"/database/mobile-suits/mgu-23-seeker-cqc/","tags":["mech","entity"],"noteIcon":"","updated":"2026-11-22T07:51:41.974-05:00","dg-note-properties":{"tags":["mech","entity"],"aliases":["Seeker CQC"],"Portrait":"[[Admin/Attachments/GB4_Seeker_CQC_SQ.webp]]","MECH_Concept":"Martian Ground War Era Fast-Attack Suit","MECH_Trouble":"Weak Armor","MECH_Gear":["Bastard Sword (M)","Composite Pile Shield (D)"],"MECH_Stunts":[null],"Faction":["[[Database/Factions/Republic Of Mars]]","[[Database/Factions/Independent]]"],"DEV_From":["[[Database/Mobile Suits/MGU-20 Seeker]]"],"cl":102}}
 ---
 
 # 
@@ -19,7 +19,7 @@
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Aspects</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Martian Ground War Era Fast-Attack Suit</span></td></tr><tr><td><span>Weak Armor</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] KNOWN ARMAMENTS
-> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Bastard Sword</span></td></tr><tr><td><span>Composite Pile Shield</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Known Armaments</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Bastard Sword (M)</span></td></tr><tr><td><span>Composite Pile Shield (D)</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
 > [!blank|flex embed clean] MECH STUNTS
 > <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Mech Stunts</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>

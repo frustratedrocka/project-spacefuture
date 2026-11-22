@@ -29,7 +29,7 @@ Your mech uses the same skills and approaches as everything else you do, but it 
 
 When creating your **MECH ASPECTS**, you'll start with a high concept and a trouble, just like your pilot. For your third mech aspect, describe your **RELATIONSHIP** to your mech. Is it your loyal companion? An extension of your body? A replaceable tool like any other? An armored coffin? All of the above, or something else entirely? Think about how you feel about this machine and what makes it *yours* - or what it means to you if it's *not* yours. This Relationship aspect is the only one that may be freely rewritten at a [[Rules/Categories/Mech Rules#Milestone\|#Milestone]]; your mech's high concept and trouble both require a [[Rules/Categories/Mech Rules#Breakthrough\|#Breakthrough]] to rewrite.
 
-### Gear Aspects
+## Gear Aspects
 >[!aside|s-t]+ EQUIPMENT PACKAGES
 >Your session 0 should include discussion of the desired power level of the mechs in your game. Even within the source material, there can be a vast capability gulf between mechs in the same story - some mechs just pack a shield and a sniper rifle, while others have missile pods bolted to every available flat surface and a set of triple remote-controlled flying dual-gatling drones that are also shields. 
 >
@@ -46,16 +46,32 @@ Mech equipment is proportionate to the mech using it, meaning it is enormous, in
 
 Unless you use a stunt to get an additional, more mechanically detailed permanent capability built into your mech's design (e.g. a transformation, prototype defense technology, advanced neural link, or other complex feature), these aspects are assumed to be the *only* equipment your mech deploys with above whatever baseline your table agrees on in session 0.
 
-The GM may offer a special type of compel to **DESTROY** a piece of gear when your mech suffers a breakdown other than Dented. This can occur either before you write the breakdown aspect ("I'll offer a fate point if this knocks off your *Enhanced Sensor Array*") or after ("You said your arm got damaged; have a fate point if that also took out your *Shoulder Cannon*"). This type of compel can be refused for free, without requiring a fate point. 
+There is no set equipment list, so you're free to outfit your mech with whatever gear you can dream up, but you must still work with the GM and other players to make sure you're all on the same page about what a gear aspect can actually do. The group has to agree on how many ways a single gear aspect can solve problems and what kinds of problems each aspect can answer. For example, "Guided Missile Rack" isn't a meaningfully different gear aspect from "Chest Compartment Clustered Micro-Missile Pods" - both solve problems by blowing them up at range. But "specialized sub-missile array" could include heat-seekers, bunker busters, chaff pods, and all manner of other tricks - suddenly, the scope of what the aspect can do has widened enormously. 
+
+**EXAMPLES** Beam Saber (M), Heat Axe (M), Shoulder Shield (D), Twin Head-Mounted Vulcans (0), Mega Bazooka Launcher (2), Enhanced Booster Binder, Atmospheric Re-Entry Balloon (D), Psi-Controlled Drone Swarm (1), Anti-Sensor Stealth Suite (D)
+
+### Gear Types
+
+G
+
+**MELEE** gear can be used only when the attacker is within the same zone as the defender. If an attack using a melee weapon succeeds and inflicts harm on the defender, it inflicts 1 additional harm. Examples: Beam Saber, Heat Axe, Pile Bunker, Meteor Hammer. 
+
+**RANGED** gear has an ideal range, typically **1**, representing the number of zones away from the defender in which the attacker is most effective. An attack using a ranged weapon at its ideal range is handled as described in [[Rules/1 Core Rules#Attack\|1 Core Rules#Attack]] with no additional modifiers. An attack using a ranged weapon 1 zone closer or farther than its ideal range gives +1 hit to the opposing defense. Ranged attacks cannot be made more than 1 zone outside the weapon's ideal range. Examples: Dual Pistols (0), Shotgun (0), Machine Gun (1), Beam Rifle (1), Twin Buster Rifle (2), Linear Sniper Rifle (2). 
+
+**DEFENSIVE** gear provides a single free invoke per scene when it is relevant to a Defend action. Examples: Shield, Chobham Armor, Anti-Beam Coating, Dummy Balloon Launcher.
+
+Gear aspects not meant for combat use do not fall under any of these categories and simply use normal aspect rules.
+
+### Destroying Gear
+
+The GM may offer a special type of compel to **DESTROY** a piece of gear. This can represent a weapon running out of ammo, a piece of equipment breaking, simply being disarmed, or something else. The GM may do this at any time as long as the aspect has already been relevant at least once during the current scene.
+
+Special rules apply if gear is destroyed as part of your mech suffers a breakdown other than Dented. This can occur either before you write the breakdown aspect ("I'll offer a fate point if this knocks off your *Enhanced Sensor Array*") or after ("You said your arm got damaged; have a fate point if that also took out your *Shoulder Cannon*"). In this circumstance, the compel can be refused for free, without requiring a fate point. 
 
 > [!NOTE] Incentive Structures
 > By the logic set out in [[Rules/1 Core Rules#Compelling an Aspect\|1 Core Rules#Compelling an Aspect]], gear destruction *should* count as an Event compel and require a fate point to refuse. It gets a special carveout here because it would otherwise create a warped incentive structure around writing Breakdowns. If the players learn "I need to be careful what I write, because otherwise I might get charged a fate point to not lose more function than I intended," then writing Breakdown becomes a potentially adversarial exercise in defensive fiction-lawyering. Making refusal free preserves the intended effect: the compel turns up the pressure, or emerges as a natural extension of what just happened, but doesn't punish the player for insufficiently specific paranoia. 
 
  If the fiction allows for gear change as described above, then you may replace the destroyed gear aspect at the first opportunity. Otherwise, unless you've established the gear aspect as something irreplaceable like a bleeding-edge prototype, you'll get it back when the breakdown clears at the next Breakthrough. See [[Rules/4 Challenges, Conflicts, & Contests#Harm and Mechs\|4 Challenges, Conflicts, & Contests#Harm and Mechs]] for the full rules on suffering and clearing breakdown.
-
-There is no set equipment list, so you're free to outfit your mech with whatever gear you can dream up, but you must still work with the GM and other players to make sure you're all on the same page about what a gear aspect can actually do. The group has to agree on how many ways a single gear aspect can solve problems and what kinds of problems each aspect can answer. For example, "Guided Missile Rack" isn't a meaningfully different gear aspect from "Chest Compartment Clustered Micro-Missile Pods" - both solve problems by blowing them up at range. But "specialized sub-missile array" could include heat-seekers, bunker busters, chaff pods, and all manner of other tricks - suddenly, the scope of what the aspect can do has widened enormously. 
-
-**EXAMPLES** Beam Saber, Heat Axe, Shoulder Shield, Twin Head-Mounted Vulcans, Mega Bazooka Launcher, Enhanced Booster Binder, Atmospheric Re-Entry Balloon, Psi-Controlled Drone Swarm, Anti-Sensor Stealth Suite
 
 ## Mech Stunts
 Your mech starts with two stunts, written through the same process as your [[Rules/Categories/Mech Rules#Write Stunts\|pilot stunts]]. You may purchase additional mech stunts with refresh.
