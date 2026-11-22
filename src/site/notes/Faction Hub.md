@@ -1,11 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/faction-hub/","tags":["tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-19T10:42:17.248-05:00","dg-note-properties":{"tags":["tracker","index"]}}
+{"dg-publish":true,"permalink":"/faction-hub/","tags":["tracker","index"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-22T13:23:16.220-05:00","dg-note-properties":{"tags":["tracker","index"]}}
 ---
 
 # Factions
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/rebels/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+# no-title
+
+</div>
 
 
 
@@ -88,6 +93,11 @@ The current mission is simple: Intercept excess food shipments and redirect them
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/apsis/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+# no-title
+
+</div>
 
 
 
@@ -160,6 +170,11 @@ Apsis maintains liaison offices on major colonies which provide it with the accu
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/jovian-consortium/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+# no-title
+
+</div>
 
 
 
@@ -225,6 +240,11 @@ Jovian culture firmly believes that nothing worth doing happens quickly. Which, 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/republic-of-mars/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+# no-title
+
+</div>
 
 
 
@@ -291,6 +311,11 @@ And then there's the refugee problem. Mars was the first stop for most of those 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/armada-ejecta/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+# no-title
+
+</div>
 
 
 
@@ -349,6 +374,11 @@ The Armada is defined by shared identity and broadly accepted practices, rather 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/mindful-eyes/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+# no-title
+
+</div>
 
 
 
@@ -478,6 +508,11 @@ Don't like [[Database/Factions/Mindful Eyes\|Mindful Eyes]] - think they could d
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/database/factions/independent/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+# no-title
+
+</div>
 
 
 
