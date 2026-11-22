@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emergent-century-timeline/","tags":["lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-10-26T09:38:05.383-04:00","dg-note-properties":{"tags":["lore"]}}
+{"dg-publish":true,"permalink":"/emergent-century-timeline/","tags":["lore"],"dgShowInlineTitle":true,"noteIcon":"","updated":"2026-11-22T14:58:22.679-05:00","dg-note-properties":{"tags":["lore"]}}
 ---
 
 
@@ -11,7 +11,7 @@
 >> [!|no-icon bg-c-gray]+ EC 0073 - EC 0075 - Growing Awareness
 >> As infection spreads, [[Database/History/The Hive Mind\|The Hive Mind]] starts to realize what's happening and accrete into a single unified political entity. Fear and general human shittiness lead to quarantines, crackdowns, atrocities, exploitation, and development of [[Database/Things/Hivetech\|Hivetech]].
 
-> [!timeline|no-icon no-icon bg-c-gray ttl-c]- **[[Database/History/The Ground War\|The Ground War]]**
+> [!timeline|no-icon no-icon bg-c-gray ttl-c]- **[[Database/History/The Ground War\|THE GROUND WAR]]**
 >> [!|no-icon bg-c-gray]+ EC 0076
 >> The conflict that will become known as [[Database/History/The Ground War\|The Ground War]] begins. Open violence erupts as [[Database/Places/Earth\|Earth]], [[Database/Places/Mars Sphere/Mars\|Mars]], [[Database/Places/Jupiter Sphere/Jupiter\|Jupiter]], and[[Database/Glossary/The Belt\|The Belt]] all start fighting - initially over what to do about the Hive situation. Long-simmering resentments forced into the open fuel a spiral of destructive escalation.
 >
