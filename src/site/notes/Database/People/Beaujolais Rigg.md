@@ -57,7 +57,7 @@
   !r!
 
 > [!blank|flex embed clean skills-table] SKILLS & APPROACHES
-> 
+> <table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Skill</span></th><th class="table-view-th"><span>Rank</span></th><th class="table-view-th"><span>Approach</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span><strong>5</strong> (Superhuman)</span></td><td><span></span></td></tr><tr><td><span></span></td><td><span><strong>4</strong> (Masterful)</span></td><td><span></span></td></tr><tr><td><span>Shoot</span></td><td><span><strong>3</strong> (Great)</span></td><td><span>Forcefully</span></td></tr><tr><td><span>Acquire, Lead, Persevere</span></td><td><span><strong>2</strong> (Good)</span></td><td><span>Boldly, Cleverly</span></td></tr><tr><td><span>Know, Move, Network, Notice</span></td><td><span><strong>1</strong> (Adequate)</span></td><td><span>Carefully, Quickly, Subtly</span></td></tr></tbody></table><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>
 
    
 

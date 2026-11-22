@@ -31,7 +31,7 @@
 *[[Session Notes/Scenarios/Into The Blender\|Into The Blender]] Part 3*
 
 ## Where Are You
-**[[Database/Places/Colonies/Hygiea\|Hygiea]]** - Remote Industrial Colony Throwing In With Rebels. Control: [[Database/Factions/Rebels\|Rebels]], Safe Harbor
+**[[Database/Places/Colonies/Hygiea\|Hygiea]]** - Remote Industrial Colony Throwing In With Rebels. Control: [[Database/Factions/Rebels\|Rebels]], Safe-ish Harbor
 
 ## What Are You Doing
 Dealing with the fallout of the successful colony defense

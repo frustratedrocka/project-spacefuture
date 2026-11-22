@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/places/colonies/hygiea/","tags":["location","entity"],"noteIcon":"","updated":"2026-11-18T13:51:43.831-05:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Safe Harbor","Faction_Presence":["[[Database/Factions/Apsis]]","[[Database/Factions/Republic Of Mars|ROM]]"],"Portrait":null,"Concept":"Remote Industrial Colony Throwing In With Rebels","Trouble":"Frequent [[Mercenary]] Raids","Aspects":["Prominent On The [[Fight Pits]] Circuit","Typical Colony Population, Less-Than-Typical Space","With You, But Still Needs [[Apsis]] Shipments"],"cl":103}}
+{"dg-publish":true,"permalink":"/database/places/colonies/hygiea/","tags":["location","entity"],"noteIcon":"","updated":"2026-11-22T11:15:20.977-05:00","dg-note-properties":{"tags":["location","entity"],"aliases":null,"Type":"[[Database/Glossary/Colony]]","Faction":["[[Database/Factions/Rebels]]"],"Control":"Safe-ish Harbor","Faction_Presence":["[[Database/Factions/Apsis]]","[[Database/Factions/Republic Of Mars|ROM]]"],"Portrait":null,"Concept":"Remote Industrial Colony Throwing In With Rebels","Trouble":"Frequent [[Mercenary]] Raids","Aspects":["Prominent On The [[Fight Pits]] Circuit","Typical Colony Population, Less-Than-Typical Space","With You, But Still Needs [[Apsis]] Shipments"],"cl":103}}
 ---
 
 # 
@@ -15,7 +15,7 @@
 >> |--|--|
 >> |**BODY**|[[Database/Glossary/Colony\|Colony]]|
 >> |**FACTION**|[[Database/Factions/Rebels\|Rebels]]|
->> |**CONTROL**|Safe Harbor|
+>> |**CONTROL**|Safe-ish Harbor|
 >> |**PRESENCE**|<span><a class="internal-link" href="Database/Factions/Apsis.md" data-href="Database/Factions/Apsis.md" aria-label="Database/Factions/Apsis.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Apsis</a></span>,<br><span><a class="internal-link" href="Database/Factions/Republic Of Mars.md" data-href="Database/Factions/Republic Of Mars.md" aria-label="Database/Factions/Republic Of Mars.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">ROM</a></span><span data-tag-name="dg-ready" aria-hidden="true" style="display: none;"></span>|
 
 > [!blank|flex embed clean] ASPECTS
