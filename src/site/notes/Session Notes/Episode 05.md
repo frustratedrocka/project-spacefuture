@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/episode-05/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-22T08:21:57.820-05:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-11-24","SESH_Name":"Sabotage","SESH_Next":"[[Episode 06]]","SESH_Prev":"[[Session Notes/Episode 04]]","Scenario":"[[Session Notes/Scenarios/Into The Blender]]","Scenario_Index":3,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":["[[Database/Mobile Suits/AP-92 Rejunot]]","[[Database/Mobile Suits/SE-832 Akoni]]"],"Impact":["[[August Grier]] assigned an [[AP-92 Rejunot]] while the [[TF-8C Hoplite Custom|Cossack]] is undergoing repairs ::: Private ::: 00YY-MM-DD"],"Changelog":["[[August Grier]] ::: Mobile Suit: [[TF-8C Hoplite Custom]] ::: Mobile Suit: [[AP-92 Rejunot]]"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
+{"dg-publish":true,"permalink":"/session-notes/episode-05/","tags":["session"],"dgShowToc":true,"noteIcon":"","updated":"2026-11-24T19:29:30.139-05:00","dg-note-properties":{"tags":["session"],"SESH_Done":false,"SESH_Date":"2026-11-24","SESH_Name":"Sabotage","SESH_Next":"[[Episode 06]]","SESH_Prev":"[[Session Notes/Episode 04]]","Scenario":"[[Session Notes/Mission 03]]","Scenario_Index":3,"Logline":null,"Attending":["[[Player Characters/August Grier]]","[[Player Characters/Lane Gable]]","[[Player Characters/Menodora Thaliana]]","[[Player Characters/Vergen Koni]]"],"NPCs":["[[Database/People/Gen Bashaba]]","[[Database/People/Artel Ward]]"],"Locations":["[[Database/Places/Colonies/Hygiea]]"],"Mechs":["[[Database/Mobile Suits/AP-92 Rejunot]]","[[Database/Mobile Suits/SE-832 Akoni]]"],"Impact":["[[August Grier]] assigned an [[AP-92 Rejunot]] while the [[TF-8C Hoplite Custom|Cossack]] is undergoing repairs ::: Private ::: 00YY-MM-DD"],"Changelog":["[[August Grier]] ::: Mobile Suit: [[TF-8C Hoplite Custom]] ::: Mobile Suit: [[AP-92 Rejunot]]","[[August Grier]] ::: Carefully 2, Forcefully 1 ::: Carefully 1, Forcefully 2","[[August Grier]] ::: Fight 1, Persevere 2 ::: Fight 2, Persevere 3","[[Vergen Koni]] ::: Understand 0 ::: Understand 1","[[Lane Gable]] ::: Lead 1, Notice 2 ::: Lead 2, Notice 3"],"Stars_Wishes":["[[Ben]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish","[[`REDACTED`]] ::: Star ::: Wish"]}}
 ---
 
 
@@ -11,7 +11,7 @@
 >
 >|Scenario|Part|Date|
 >|---|:---:|---:|
->|[[Session Notes/Scenarios/Into The Blender\|Into The Blender]]|3| 11-24-26 |
+>|[[Session Notes/Mission 03\|Mission 03]]|3| 11-24-26 |
 >
 > |Previous|Next|
 > |:---|---:|
@@ -114,7 +114,7 @@
 >[[Session Notes/Episode 04\|Episode 04]] \- Puree
 >
 >**Scenario**
->[[Session Notes/Scenarios/Into The Blender\|Into The Blender]]
+>[[Session Notes/Mission 03\|Mission 03]]
 >
 >**Next**
 >[[Episode 06\|Episode 06]] \- 

@@ -28,7 +28,7 @@
 
 
 # Next: [[Session Notes/Episode 05\|Episode 05]] - Nov 24, 2026
-*[[Session Notes/Scenarios/Into The Blender\|Into The Blender]] Part 3*
+*[[Session Notes/Mission 03\|Mission 03]] Part 3*
 
 ## Where Are You
 **[[Database/Places/Colonies/Hygiea\|Hygiea]]** - Remote Industrial Colony Throwing In With Rebels. Control: [[Database/Factions/Rebels\|Rebels]], Safe-ish Harbor
@@ -38,18 +38,8 @@ Dealing with the fallout of the successful colony defense
 
 # Previously On Zero Sum
 
-| EP                                  | Impact                                                                                                                                                                                                                                                                                              |
-| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Episode 03\|03]] | [[Database/Things/Fishbone\|Fishbone]] arrives at [[Database/Places/Colonies/Hygiea\|Hygiea]] and offers aid fighting off [[Database/Factions/Blender's Edge\|Database/Factions/Blender's Edge]] mercenary company in exchange for critical ship repairs                                                                                                                                         |
-| [[Session Notes/Episode 03\|03]] | [[Database/People/Gen Bashaba\|Gen Bashaba]] and [[Database/People/Artel Ward\|Artel Ward]] offer [[Player Characters/Lane Gable\|Lane]] a brevet promotion to squad leader; he declines on "Everyone Dies Around Me" grounds.                                                                                                                                                 |
-| [[Session Notes/Episode 03\|03]] | [[Player Characters/Lane Gable\|Lane Gable]] smuggles food supply to [[Database/Places/Colonies/Hygiea\|Hygiea]] orphanage run by [[Database/People/Fibria Wobik\|Fibria Wobik]]                                                                                                                                                                                                                 |
-| [[Session Notes/Episode 03\|03]] | [[Player Characters/Menodora Thaliana\|Mena]], informed by [[Player Characters/August Grier\|Auggie]], enters a local [[Database/Glossary/Fight Pits\|Fight Pits]] tournament. Unknown suit [[Database/Mobile Suits/KUD-20 Telomane\|KUD-20 Telomane]] used by known dirty fighter [[Database/People/Carlo Estashee\|Carlo Estashee]] is also registered and generating some buzz.                                                           |
-| [[Session Notes/Episode 03\|03]] | [[Database/Factions/Blender's Edge\|Database/Factions/Blender's Edge]] attacks while [[Player Characters/Menodora Thaliana\|Mena]]'s first tournament fight is still underway; [[Promoter\|Promoter]] OKs a postponement while both fighters "please go save our asses"                                                                                           |
-| [[Session Notes/Episode 04\|04]] | [[Database/Factions/Blender's Edge\|Database/Factions/Blender's Edge]] attack on [[Database/Places/Colonies/Hygiea\|Hygiea]] defeated. [[Database/People/Beaujolais Rigg\|Beaujolais Rigg]]'s [[Database/Mobile Suits/TF-8S Hoplite Striker\|TF-8S Hoplite Striker]] driven back, 2 [[Database/Mobile Suits/MGU-20 Seeker\|MGU-20 Seeker]] pilots ejected before explosion, 1 [[Database/Mobile Suits/TF-8 Hoplite\|TF-8 Hoplite]] disabled, 1 Hoplite pilot KIA. [[Database/People/Carlo Estashee\|Carlo Estashee]] captured, [[Database/Mobile Suits/KUD-20 Telomane\|KUD-20 Telomane]] destroyed. |
-| [[Session Notes/Episode 04\|04]] | [[Player Characters/Lane Gable\|Lane]] and [[Player Characters/Vergen Koni\|Verg]] to [[Player Characters/August Grier\|Auggie]] after heavy damage: "Don't be afraid to run and sit this one out, you've taken a lot of damage." Auggie: "I don't run from fights. Never have, never will."                                                              |
-| [[Session Notes/Episode 04\|04]] | [[Player Characters/August Grier\|August]] nearly caves in the cockpit of [[Database/People/Beaujolais Rigg\|Beaujolais Rigg]]'s [[Database/Mobile Suits/TF-8S Hoplite Striker\|Hoplite Striker]]                                                                                                                                                                            |
-| [[Session Notes/Episode 04\|04]] | [[Database/People/Carlo Estashee\|Carlo Estashee]] pins [[Player Characters/Vergen Koni\|Verg]] in the [[Database/Mobile Suits/MEU-1H Hyper Seeker CQC\|Hyper Seeker]] to the side of an elevator shaft; Verg retaliates by grappling the [[Database/Mobile Suits/KUD-20 Telomane\|Telomane]] and turning it into a 20 meter piñata                                                               |
-| [[Session Notes/Episode 04\|04]] | [[Player Characters/Lane Gable\|Lane Gable]] destroys the [[Database/Mobile Suits/KUD-20 Telomane\|KUD-20 Telomane]] by using [[Database/Mobile Suits/ELS-00 Elegant Sky\|Elegant Sky]]'s EW suite to shut off its legs and its cockpit climate control; the latter melts its control wiring                                                                                                   |
+| EP | Impact |
+| -- | ------ |
 
 { .block-language-dataview}
 

@@ -39,6 +39,8 @@ When creating your **MECH ASPECTS**, you'll start with a high concept and a trou
 
 Mechs have two gear aspects, representing the equipment loadout you carry into battle. These aspects shape the tactical options available to you and define how your mech actually fights. They can be invoked or compelled like any other aspect, but they also have a few special rules.
 
+A gear aspect provides a single free invoke per scene in a case where it's relevant. Once that free invoke is used, the aspect remains an aspect that can be invoked or compelled like any other 
+
 Mech equipment is proportionate to the mech using it, meaning it is enormous, intricate, and requires some lead time for the hangar crew to change out. This means that your gear aspects are not automatically available to rewrite as part of a [[Rules/Categories/Mech Rules#Milestone\|#Milestone]]. Instead, they may be freely changed when any of the following conditions apply:
 
 - You are about to deploy in a battle for which you had time to prepare (so if you're dealing with a surprise attack or other scenario that requires emergency rapid response, you'll have to make the best of what you're already equipped with).
@@ -48,17 +50,7 @@ Unless you use a stunt to get an additional, more mechanically detailed permanen
 
 There is no set equipment list, so you're free to outfit your mech with whatever gear you can dream up, but you must still work with the GM and other players to make sure you're all on the same page about what a gear aspect can actually do. The group has to agree on how many ways a single gear aspect can solve problems and what kinds of problems each aspect can answer. For example, "Guided Missile Rack" isn't a meaningfully different gear aspect from "Chest Compartment Clustered Micro-Missile Pods" - both solve problems by blowing them up at range. But "specialized sub-missile array" could include heat-seekers, bunker busters, chaff pods, and all manner of other tricks - suddenly, the scope of what the aspect can do has widened enormously. 
 
-**EXAMPLES** Beam Saber (M), Heat Axe (M), Shoulder Shield (D), Twin Head-Mounted Vulcans (0), Mega Bazooka Launcher (2), Enhanced Booster Binder, Atmospheric Re-Entry Balloon (D), Psi-Controlled Drone Swarm (1), Anti-Sensor Stealth Suite (D)
-
-### Gear Types
-
-**MELEE** gear can be used only when the attacker is within the same zone as the defender. If an attack using a melee weapon succeeds and inflicts harm on the defender, it inflicts 1 additional harm. Examples: Beam Saber, Heat Axe, Pile Bunker, Meteor Hammer. 
-
-**RANGED** gear has an ideal range, typically **1**, representing the number of zones away from the defender in which the attacker is most effective. An attack using a ranged weapon at its ideal range is handled as described in [[Rules/1 Core Rules#Attack\|1 Core Rules#Attack]] with no additional modifiers. An attack using a ranged weapon 1 zone closer or farther than its ideal range gives +1 hit to the opposing defense. Ranged attacks cannot be made more than 1 zone outside the weapon's ideal range. Examples: Dual Pistols (0), Shotgun (0), Machine Gun (1), Beam Rifle (1), Twin Buster Rifle (2), Linear Sniper Rifle (2). 
-
-**DEFENSIVE** gear provides a single free invoke per scene when it is relevant to a Defend action. Examples: Shield, Chobham Armor, Anti-Beam Coating, Dummy Balloon Launcher.
-
-Gear aspects not meant for combat use do not fall under any of these categories and simply use normal aspect rules.
+**EXAMPLES** Beam Saber, Heat Axe, Shoulder Shield, Twin Head-Mounted Vulcans, Mega Bazooka Launcher, Enhanced Booster Binder, Atmospheric Re-Entry Balloon, Psi-Controlled Drone Swarm, Anti-Sensor Stealth Suite
 
 ### Destroying Gear
 
